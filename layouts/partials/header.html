@@ -1,0 +1,37 @@
+{{ if ne .Params.header.navigation "fancy" }}
+{{ partial "navigation.html" . }}
+{{ end }}
+
+{{ if or (eq .Params.header.layout "hero") (eq .Params.header.layout "header") }}
+<header class="flex flex-column cover w-100 bg-left vh-75-l bg-center-l {{ with .Params.header.class }}{{ . }}{{ end }}"
+  {{ with .Params.header.image }}style="background-image: url({{ . }})"{{ end }}>
+
+  {{ if eq .Params.header.navigation "fancy" }}
+  {{ partial "navigation.html" . }}
+  {{ end }}
+
+  {{ if eq .Params.header.layout "hero" }}
+  <div class="flex flex-auto flex-column justify-center">
+    <div class="flex flex-column items-start items-center-l mw9 mw7-m center w-100 pv5 pv0-l pa3 ph4-ns">
+      <h1 class="f3 f2-ns f1-l fw6 lh-title white mv0">{{ .Params.title }}</h1>
+      {{ with .Params.subtitle }}
+      <h2 class="f4 f3-ns f2-l fw4 lh-title white mt3 mb3">{{ . }}</h2>
+      {{ end }}
+      {{ with .Params.paragraph }}
+      <p class="f5 f4-l fw3 lh-copy white-90 mt3 mb3">{{ . }}</p>
+      {{ end }}
+      <a class="f5 f4-ns lh-copy {{ .Params.header.cta.class }}"
+        href="{{ .Site.BaseURL }}{{ .Params.header.cta.url }}">{{ .Params.header.cta.text }}
+      </a>
+    </div>
+  </div>
+  {{ end }}
+</header>
+{{ end }}
+
+{{ if .Params.header.caption }}
+<span class="flex flex-row justify-center f6 fw3 silver pv2 ph3">
+  {{ .Site.Params.text.caption }}&colon;&nbsp;
+  {{ .Params.header.caption | markdownify }}
+</span>
+{{ end }}

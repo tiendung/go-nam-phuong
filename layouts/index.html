@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+
+<body class="black-80">
+
+{{ partial "header.html" . }}
+
+<main class="flex flex-column items-center">
+  <article class="mw7 w-100 ph3 ph4-ns">
+    <div class="mw7 w-100 f5 f4-ns fw3 lh-copy mb0">
+      {{ partial "offers_cta.html" . }}
+      {{ partial "buy_services.html" . }}
+    </div>
+  </article>
+</main>
+
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
+
+{{ partial "footer.html" . }}
+
+</body>
+</html>
