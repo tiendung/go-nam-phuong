@@ -1,0 +1,20 @@
+{{ define "main" }}
+
+<section class="flex flex-column mw7 center ph3 ph4-ns f5 f4-ns fw3 lh-copy mb0">
+  <h1 class="f5 fw4 lh-title mb0 pb2 bb b--light-gray">All Posts</h1>
+  <!-- Ranges through content/post/*.md -->
+  {{ range .Pages }} 
+  <a class="link black-80 hover-silver" href="{{ .Permalink }}">
+    <article class="f5 lh-copy fw3 pb4 bb b--light-gray">
+      <h3 class="f3 fw6 lh-title mb0">{{ .Title | safeHTML }}</h3>
+      <p class="f5 fw3 lh-copy mv2">{{ .Summary | safeHTML }}</p>
+      <div class="f6 fw3 silver mt0">
+        <time>{{ .Date.Format "January 2, 2006" }}</time>
+        <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>
+      </div>
+    </article>
+  </a>
+  {{ end }}
+</section>
+
+{{ end }}

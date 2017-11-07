@@ -13,13 +13,14 @@ menu:
       URL: "/offers/"
     - Name: Blog
       Weight: 3
-      URL: "/blog/"
+      URL: "/posts/"
     - Name: Contact
       Weight: 4
       URL: "mailto:namphuong.cf@gmail.com"
 
 params:
   author: Nam Phương
-  defaultKeywords:
+  default_keywords:
     - health
-  defaultDescription: Coach Nam Phương
+  default_description: Tôi là Nam Phương - Health Coach, Trainer, Nhà hoạt động xã hội.
+    Một 9x lạc quan với quyết tâm giúp bạn trở nên khoẻ mạnh và hạnh phúc.

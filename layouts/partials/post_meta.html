@@ -1,0 +1,28 @@
+{{ if isset .Site.Data.authors .Params.author }}
+{{ $author := index .Site.Data.authors .Params.author }}
+
+<div class="flex w-100 mt4 lh-copy bb b--light-gray pb1 mb3">
+  <div class="pt1 pt0-ns">
+    <a href="{{ $author.url }}" target="_blank">
+      <img src="{{ $author.picture }}" alt="{{ $author.name }}" class="w2 h2 w3-ns h3-ns br-100">
+    </a>
+  </div>
+
+  <div class="flex flex-column w-90 w-80-ns pl2 pl3-ns">
+    <div class="flex items-center">
+      <a class="f5 fw4 lh-title black-80 hover-black-80 link mr2" href="{{ $author.url }}" target="_blank">{{ $author.name }}</a>
+      <a class="f6 fw4 lh-copy link nested-author-cta ba br-pill ph2" href="{{ $author.cta_url }}" target="_blank">{{ $author.cta }}</a>
+    </div>
+
+    <div class="f6 fw3 lh-copy silver">{{ $author.post_meta_bio }}</div>
+
+    <div class="f6 fw3 lh-copy silver">
+      <span><time>{{ .PublishDate.Format "January 2, 2006" }}</time></span>
+
+      <span class="ttl"> &middot;
+      {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}
+      </span>
+    </div>
+  </div>
+</div>
+{{ end }}

@@ -8,11 +8,13 @@
   <meta name="googlebot" content="index,follow,snippet,archive">
 
   <!-- Site Author -->
-  <meta name="author" content="{{ .Site.Author.name }}">
+  <meta name="author" content="{{ .Site.Params.author }}">
 
   <!-- Stylesheet -->
   <link href="/main.css" rel="stylesheet">
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="/favicon.png">
+
+  {{ partial "meta_tags.html" . }}
 </head>

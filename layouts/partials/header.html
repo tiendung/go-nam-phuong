@@ -31,7 +31,7 @@
 
 {{ if .Params.header.caption }}
 <span class="flex flex-row justify-center f6 fw3 silver pv2 ph3">
-  {{ .Site.Params.text.caption }}&colon;&nbsp;
+  {{ .Site.Data.settings.ui_text.caption }}&colon;&nbsp;
   {{ .Params.header.caption | markdownify }}
 </span>
 {{ end }}
