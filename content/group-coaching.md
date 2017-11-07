@@ -1,6 +1,5 @@
 ---
 title: Khai vấn theo nhóm
-permalink: "/group-coaching/"
 type: static
 subtitle: Tiết kiệm chi phí. Gia tăng niềm vui
 paragraph:
