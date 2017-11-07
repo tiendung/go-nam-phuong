@@ -20,9 +20,9 @@
       {{ with .Params.paragraph }}
       <p class="f5 f4-l fw3 lh-copy white-90 mt3 mb3">{{ . }}</p>
       {{ end }}
-      <a class="f5 f4-ns lh-copy {{ .Params.header.cta.class }}"
-        href="{{ .Site.BaseURL }}{{ .Params.header.cta.url }}">{{ .Params.header.cta.text }}
-      </a>
+      {{ with .Params.header.cta }}
+      <a class="f5 f4-ns lh-copy {{ .class }}" href="{{ .url }}">{{ .text }}</a>
+      {{ end }}
     </div>
   </div>
   {{ end }}

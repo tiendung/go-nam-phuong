@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-{{ partial "head.html" . }}
-
-<body class="black-80">
-
-{{ partial "header.html" . }}
+{{ define "main" }}
 
 <main class="flex flex-column items-center">
   <article class="mw7 w-100 ph3 ph4-ns">
@@ -29,7 +23,4 @@
   }
 </script>
 
-{{ partial "footer.html" . }}
-
-</body>
-</html>
+{{ end }}
