@@ -58,7 +58,7 @@ Bạn nghĩ những người có thể hình đẹp sẽ ăn uống vô tội v�
 
 Có 2 kiểu động lực thúc đẩy hành động mạnh mẽ nhất: Sợ hãi và tình yêu. Nhưng 95% người ăn kiêng có tâm lý sợ hãi. Sợ mình sẽ chẳng bao giờ mặc vừa những bộ cánh mình ao ước khi đi ngang qua khung kính các cửa hàng thời trang. Sợ rằng một cô gái khác thon thả hơn sẽ cướp đi sự chú ý của người yêu mình. Sợ sẽ bị loại ngay trong vòng phỏng vấn tuyển dụng. Sợ cái thân hình nặng nề sẽ cản trở mình leo lên ngắm mây trên đỉnh núi….
 
-![nguoi beo tu tin](/images/2017-11-02/fat-confident.jpg)
+{{< figure src="/images/2017-11-02/fat-confident.jpg" alt="nguoi beo tu tin" >}}
 
 Nỗi sợ có thể là động lực lớn khiến ta sốt sắng nhảy lên máy tập chạy bộ, nhưng nó cũng làm ta căng thẳng và mất kiên nhẫn. Khi ở trong trạng thái nơm nớp, sốt ruột...chúng ta hay tìm đến những biện pháp cấp tốc gây hại cho sức khoẻ và không bền vững.
 

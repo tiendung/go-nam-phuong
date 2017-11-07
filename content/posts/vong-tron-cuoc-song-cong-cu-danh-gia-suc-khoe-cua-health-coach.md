@@ -60,11 +60,11 @@ In hoặc vẽ vòng tròn này ra giấy và làm theo các bước:
 
 **Bước 1:**  Đặt một dấu chấm lên trên đường kẻ của mỗi lĩnh vực để thể hiện mức độ hài lòng của bạn. Dấu chấm về  phía tâm vòng trong thể hiện sự không hài lòng và dấu chấm về phía đường biên vòng tròn thể hiện sự hài lòng. Ví dụ, nếu bạn đang rất hài lòng về cuộc sống xã hội của bạn, đặt 1 dấu chấm ngay gần rìa chu vi.
 
-![vòng tròn cuộc sống](/images/2017-11-01/circle-of-life.png)
+{{< figure src="/images/2017-11-01/circle-of-life.png" alt="vòng tròn cuộc sống" >}}
 
 **Bước 2:** Nối các dấu chấm lại với nhau để nhìn thấy Vòng tròn Cuộc sống của bạn. Ví dụ:
 
-![vòng tròn cuộc sống đã vẽ](/images/2017-11-01/circle-of-life-filled.png)
+{{< figure src="/images/2017-11-01/circle-of-life-filled.png" alt="vòng tròn cuộc sống đã vẽ" >}}
 
 **Bước 3:** Nhận diện sự mất cân bằng. Chu vi bên trong của phần được nối càng rộng, bạn càng có cuộc sống viên mãn.
 

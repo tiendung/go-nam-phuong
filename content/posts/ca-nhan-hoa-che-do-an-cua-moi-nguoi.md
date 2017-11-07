@@ -13,7 +13,7 @@ Bạn có để ý rằng, càng ngày lựa chọn của chúng ta càng đư�
 
 Tôi nhìn thấy một loạt các tựa sách dinh dưỡng và tâm lý học, trong khi bạn có thể thấy giảm giá đặc biệt cho các tựa sách của Seth Goddin. Thông qua lượng lớn các dữ liệu thu thập được từ người tiêu dùng, họ hiểu được tâm lý, sở thích, hành vi của chúng ta...chi tiết đến rùng mình!
 
-![Thoi dai ca nhan hoa](/images/2017-11-02/thoi-dai-ca-nhan-hoa.jpg)
+{{< figure src="/images/2017-11-02/thoi-dai-ca-nhan-hoa.jpg" alt="Thoi dai ca nhan hoa" >}}
 
 > Tôi tin rằng các lựa chọn cá nhân hoá sẽ là xu hướng không thể tránh được của bất kì lĩnh vực nào. Câu chuyện xảy ra tương tự trong ngành y tế với khái niệm tính sinh học cá nhân (Bio-individuality). Ý nghĩa của nó ngắn gọn như sau: Mỗi người chúng ta là một cá thể độc nhất về mặt sinh học.
 
@@ -29,7 +29,7 @@ The Personalized Nutrition Project là dự án nghiên cứu bởi các nhà ng
 >
 > --- <cite>Eran Segal nói.</cite>
 
-![Che do an dua tren cau truc sinh hoc](/images/2017-11-02/che-do-an-cau-truc-sinh-hoc.jpg)
+{{< figure src="/images/2017-11-02/che-do-an-cau-truc-sinh-hoc.jpg" alt="Che do an dua tren cau truc sinh hoc" >}}
 
 Trong 800 đối tượng được cho ăn cùng loại thức ăn, một số có đường huyết gia tăng cao khi ăn kem và chocolate, trong khi số khác có đường huyết không gia tăng hoặc chỉ ở mức trung bình. Tương tự với các thức ăn như sushi và bánh mì cốc toàn phần. Điều này là nhạp báng ngoạn mục với Chỉ số đường huyết (<a href="https://www.health.harvard.edu/healthy-eating/glycemic-index-and-glycemic-load-for-100-foods" target="_blank">Glycemic index</a>) vốn từ lâu được sử dụng để xếp hạng thực phẩm dựa trên tác động của chúng lên đường máu. Đồng thời đặt ra nghi ngờ lớn với độ tin cậy của cách tính calorie.
 
@@ -53,7 +53,7 @@ Mặc dù kết quả chưa được công bố,  Tiến sĩ Mathers nói : "Đi
 
 Bên cạnh đó, biểu hiện gen, hệ vi sinh và các yếu tố khác dùng để cá nhân hoá chế độ ăn không phải bất biến: Nó có thể thay đổi không chỉ bởi thức ăn mà còn từ các yếu tố như căng thẳng hay tiếp xúc hoá chất, <a href="http://www.nature.com/nature/journal/v505/n7484/abs/nature12820.html" target="_blank">thay đổi theo năm</a>, tháng hoặc thậm chí là tuần.
 
-![su khac biet giua cac ca the](/images/2017-11-02/su-khac-biet.jpg)
+{{< figure src="/images/2017-11-02/su-khac-biet.jpg" alt="su khac biet giua cac ca the" >}}
 
 Những công ty tư vấn chế độ ăn được cá nhân hoá cho rằng ít nhất cũng đã đủ bằng chứng để cải thiện những lời khuyên ăn uống kiểu mọi-mục-đích, và đã cho thấy thành công lớn.
 
@@ -67,7 +67,7 @@ Bạn có nhớ lần cuối đi theo một lời khuyên dinh dưỡng rất h�
 
 Cơ thể ta biết phải ăn gì. Nhưng não ta lại mắc sai lầm. Khi chúng ta bị mắc kẹt trong những “tín điều” về ăn uống, chúng ta không lắng nghe xem cơ thể mình thực sự cần gì. Hãy nhớ rằng cơ thể bạn yêu bạn. “Nó" không thể nói nhưng luôn phát tín hiệu thông qua những phản hồi hay <a href="/2017/11/03/8-nguyen-nhan-gay-them-an.html" target="_blank">cơn thèm ăn</a> cần được giải mã. Vấn đề thực sự là bạn có sẵn sàng đáp trả bằng cách lắng nghe và yêu thương cơ thể mình hay không.
 
-![nau an](/images/2017-11-02/nau-an.jpg)
+{{< figure src="/images/2017-11-02/nau-an.jpg" alt="nau an" >}}
 
 Lòng nhân từ thực sự là không chỉ hỗ trợ lựa chọn cá nhân của người khác, mà còn tôn trọng tính sinh học cá nhân của chính mình. Và đừng quên lắng nghe những tín hiệu của cơ thể nhé.
 Bạn có bao giờ mắc kẹt trong một “tín điều” không hiệu quả cho bạn  không? Hãy chia sẻ ý kiến của bạn kèm theo bài viết này, nếu bạn thấy có ích nhé!

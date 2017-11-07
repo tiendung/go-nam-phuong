@@ -8,8 +8,9 @@ categories:
 - coach
 tags:
 - health coach
-facebook_og:
-  description: “Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như vậy.
+description: “Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như vậy.
+images:
+- "/images/2017-11-02/nhaam.jpg"
 ---
 
 Tôi chưa từng ngờ rằng mình sẽ kể về bố trên bước đường nghề nghiệp.
@@ -45,7 +46,7 @@ Nhưng đôi lúc, tôi vẫn băn khoăn về nghề nghiệp mình đang làm:
 
 Rồi một ngày sau khi nghỉ việc, tôi chợt nhớ đến khoá học dinh dưỡng mình từng tham dự của một Health Coach. Ngay sau khoảnh khắc nghĩ về công việc của một Health Coach và những gì nó mang lại, tôi đã biết mình cần đi theo con đường này.  Đối với tôi, đó là một công việc mà đáp ứng đủ các điều kiện của một công việc mơ ước.
 
-![Your dream job](/images/2017-11-02/your-dream-job.jpg)
+{{< figure src="/images/2017-11-02/your-dream-job.jpg" alt="Your dream job" >}}
 
 Tôi biết mình ham mê nó: tôi đã đọc những bài viết về dinh dưỡng không mệt mỏi! Công việc của tôi còn đòi hỏi học rất nhiều những điều tôi hứng thú như tâm lý học, khoa học não bộ, kĩ năng coaching…
 
@@ -64,4 +65,4 @@ Cho đến giờ, khi ngồi gõ những dòng này, tôi chưa bao giờ tự h
 
 Tôi học hàng trăm trường phái dinh dưỡng, khái niệm sức khoẻ từ những nhà giáo dụng hàng đầu thế giới, học về thức ăn cơ thể cũng như thức ăn tinh thần. Nhưng sau cùng, người thầy lớn nhất của tôi là cơ thể mình, như một tiểu vũ trụ thuộc về một vũ trụ vĩ đại lớn lao hơn thế. Mà vũ trụ hoá ra luôn gửi đến cho tôi những tín hiệu, chỉ cần chú ý “đọc" được tôi tin mình sẽ đi đúng hướng cần đi. Tôi đã học cách lắng nghe cơ thể mình, dần dần tìm được sức khoẻ Thân - Tâm và cả gạch nối liên kết giữa hai điều đó. Tôi học được cách nhận diện được những thói quen tiêu cực trong suy nghĩ, quan sát nó thấu triệt và lấy lại từ nó quyền làm chủ chính mình. Tôi học được cách cân bằng mọi điều quan trọng với mình: sự nghiệp, các mối quan hệ, thực hành tâm linh, vận động, nấu nướng, chăm sóc vườn tược...và có được niềm giản dị mỗi ngày.
 
-![Food is medicine](/images/2017-11-02/food-is-medicine.jpg)
+{{< figure src="/images/2017-11-02/food-is-medicine.jpg" alt="Food is medicine" >}}

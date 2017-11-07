@@ -10,7 +10,19 @@
 Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
 <meta property="fb:app_id"      content="{{.Site.Data.settings.facebook.app_id }}" />
 <meta property="og:url"         content="{{ .Permalink }}" />
-<meta property="og:type"        content="{{ with .Params.facebook_og.type }}{{ . }}{{ else }}article{{ end }}" />
-<meta property="og:title"       content="{{ with .Params.facebook_og.title }}{{ . }}{{ else }}{{ .Params.title }}{{ end }}" />
-<meta property="og:description" content="{{ with .Params.facebook_og.description }}{{ . }}{{ else }}{{ .Params.subtitle }}{{ end }}" />
-<meta property="og:image"       content="{{.Site.BaseURL }}{{ with .Params.facebook_og.image }}{{ . }}{{ else }}/images/site/default-facebook-post.jpg{{ end }}" />
+<meta property="og:type" 				content="{{ if .Params.type }}{{ .Params.type }}{{ else }}website{{ end }}" />
+<meta property="og:title" 			content="{{ .Title }}" />
+<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}" />
+{{ with .Params.images }}
+	{{ range first 6 . }}
+<meta property="og:image"       content="{{ absURL . }}" />
+	{{ end }}
+{{ else }}
+	{{ with (findRE "src=\"(.+?)\"" .Content 6) }}
+		{{ range . }}
+<meta property="og:image" 			content="{{ replaceRE "src=\"(.+?)\"" "$1" . | absURL }}" />
+		{{ end }}
+	{{ else }}
+<meta property="og:image" 			content="{{ absURL "/images/site/default-facebook-post.jpg" }}" />
+	{{ end }}
+{{ end }}

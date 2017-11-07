@@ -11,5 +11,14 @@
 
 {{ partial "footer.html" . }}
 
+{{ if ne (getenv "HUGO_ENV") "production" }}
+<script>
+  console.log("HUGO_ENV: {{ getenv "HUGO_ENV" }}")
+  console.log(".Page.Description: {{ .Description }}");
+  console.log(".Page.Keywords: {{ .Keywords }}");
+  {{ $images := findRE "src=\"(.+?)\"" .Content 6 }}
+  console.log("images: {{ $images }}");
+</script>
+{{ end }}
 </body>
 </html>
