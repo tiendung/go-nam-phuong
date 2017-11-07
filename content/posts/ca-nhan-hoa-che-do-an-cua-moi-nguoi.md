@@ -65,7 +65,7 @@ Thậm chí ngay cả  <a href="http://health.gov/dietaryguidelines/2015/guideli
 
 Bạn có nhớ lần cuối đi theo một lời khuyên dinh dưỡng rất hợp lý về lý thuyết, nhiều người có kết quả nhưng đến lượt bạn lại thất bại?Tôi cũng từng nằm trong số người đầy bối rối đó.
 
-Cơ thể ta biết phải ăn gì. Nhưng não ta lại mắc sai lầm. Khi chúng ta bị mắc kẹt trong những “tín điều” về ăn uống, chúng ta không lắng nghe xem cơ thể mình thực sự cần gì. Hãy nhớ rằng cơ thể bạn yêu bạn. “Nó" không thể nói nhưng luôn phát tín hiệu thông qua những phản hồi hay <a href="/2017/11/03/8-nguyen-nhan-gay-them-an.html" target="_blank">cơn thèm ăn</a> cần được giải mã. Vấn đề thực sự là bạn có sẵn sàng đáp trả bằng cách lắng nghe và yêu thương cơ thể mình hay không.
+Cơ thể ta biết phải ăn gì. Nhưng não ta lại mắc sai lầm. Khi chúng ta bị mắc kẹt trong những “tín điều” về ăn uống, chúng ta không lắng nghe xem cơ thể mình thực sự cần gì. Hãy nhớ rằng cơ thể bạn yêu bạn. “Nó" không thể nói nhưng luôn phát tín hiệu thông qua những phản hồi hay <a href="/posts/8-nguyen-nhan-gay-them-an" target="_blank">cơn thèm ăn</a> cần được giải mã. Vấn đề thực sự là bạn có sẵn sàng đáp trả bằng cách lắng nghe và yêu thương cơ thể mình hay không.
 
 {{< figure src="/images/2017-11-02/nau-an.jpg" alt="nau an" >}}
 

@@ -36,7 +36,7 @@ Trò chuyện thân mật riêng tư trong vòng 1 giờ, gặp mặt trực ti�
 
 <h3 class="i fw3">
   2. Coach hướng dẫn bạn đánh giá tổng quan
-  <a href="/2017/11/01/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach.html" target="_blank">Vòng tròn cuộc sống</a>
+  <a href="/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach" target="_blank">Vòng tròn cuộc sống</a>
 </h3>
 
   * Khía cạnh nào của cuộc sống đang mang đến niềm vui cho bạn?

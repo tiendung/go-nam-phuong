@@ -13,7 +13,7 @@ tags:
 Liệu một cuộc sống viên mãn, hạnh phúc, khoẻ mạnh có nghe như một giấc mơ đối với bạn? Cho dù bạn đang tìm kiếm niềm vui, tiền bạc hay tình yêu, tôi có một công cụ mà bạn cần sử dụng ngay bây giờ.
 
 
-Bài tập đó tên là Vòng tròn Cuộc sống, được sử dụng bởi các Health Coach như tôi. Công cụ này được thiết kế dựa trên khái niệm về <a href="/2017/11/01/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an.html" target="_blank">Thức ăn Thân và Thức ăn Tâm.</a>
+Bài tập đó tên là Vòng tròn Cuộc sống, được sử dụng bởi các Health Coach như tôi. Công cụ này được thiết kế dựa trên khái niệm về <a href="/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an" target="_blank">Thức ăn Thân và Thức ăn Tâm.</a>
 
 Hoá ra thức ăn bạn vẫn tiêu hoá hàng ngày, được gọi là Thức ăn Thân, không phải lúc nào cũng quan trọng nhất với sức khoẻ của bạn. Một số Thức ăn Tâm có sức mạnh vượt trội hơn, trong đó 4 lĩnh vực quan trọng nhất là: Một sự nghiệp viên mãn, Những mối quan hệ có tính nuôi dưỡng, Một bộ môn vận động bạn yêu, và Phương pháp thực hành tâm linh phù hợp.
 
