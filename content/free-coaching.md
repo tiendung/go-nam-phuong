@@ -18,7 +18,10 @@ Vì ở Việt Nam còn khá mới mẻ, tôi sẵn sàng cho bạn trải nghi�
 
 Trò chuyện thân mật riêng tư trong vòng 1 giờ, gặp mặt trực tiếp hoặc online.
 
-{{< figure src="https://images.unsplash.com/1/bag-and-hands.jpg?fit=crop&w=1600&h=400&q=80" alt="Trò chuyện thân mật" caption="Trò chuyện thân mật riêng tư trong vòng 1 giờ" class="full tc" >}}
+<figure class="full tc">
+  <img src="https://images.unsplash.com/1/bag-and-hands.jpg?fit=crop&w=1600&h=400" alt="Trò chuyện thân mật" class="w-100">
+  <figcaption>Trò chuyện thân mật riêng tư trong vòng 1 giờ</figcaption>
+</figure>
 
 ## Nội dung thảo luận
 

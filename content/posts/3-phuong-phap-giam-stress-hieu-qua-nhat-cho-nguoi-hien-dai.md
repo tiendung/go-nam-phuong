@@ -84,7 +84,7 @@ Kĩ thuật hít thở này giúp cân bằng tâm trí và có thể được t
 
 Sau đây là một số cách thiền tập đơn giản, thích hợp cho con người hiện đại:
 
-{{< figure src="https://images.unsplash.com/photo-1461766705442-58d58276121a?fit=crop&w=1200&h=400" alt="ngồi thiền" class="full tc" >}}
+<figure class="full"><img class="w-100" src="https://images.unsplash.com/photo-1461766705442-58d58276121a?fit=crop&amp;w=1200&amp;h=400" alt="ngồi thiền"></figure>
 
 [Hướng dẫn thiền hơi thở bởi Osho](https://www.youtube.com/watch?v=0peVQTdI3Yg)
 

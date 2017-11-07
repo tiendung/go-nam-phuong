@@ -12,7 +12,7 @@ tags:
 
 Bạn nói: “Hả? 13 chỉ dẫn luôn á? Ai mà theo hết được!”. Nhưng bạn ơi, đừng quên ⅓ thời gian sống của bạn đang dành cho hoạt động này.
 
-{{< figure src="https://images.unsplash.com/photo-1503756755766-151cb0cd465f?fit=crop&w=1200&h=400&q=80" alt="giấc ngủ ngon" class="full tc" >}}
+<figure class="full tc"><img src="https://images.unsplash.com/photo-1503756755766-151cb0cd465f?fit=crop&amp;w=1200&amp;h=400&amp;q=80" alt="giấc ngủ ngon" class="w-100"></figure>
 
 Trong suốt giấc ngủ, cơ thể sửa chữa, hồi phục, chữa lành, bảo dưỡng và thải độc cho chính nó. Người bận rộn thường vướng phải tư duy sai lầm là coi giấc ngủ như những thì giờ lãng phí, không phục vụ cho cuộc sống. Nhưng chất lượng của giấc ngủ đóng vai trò tối quan trọng cho sinh lực bạn có khi thức. Hãy theo các chỉ dẫn sau đây, và ngủ ngon như một em bé nhé.
 
