@@ -2,31 +2,36 @@ backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
 
-media_folder: "assets/uploads"
+media_folder: "static/uploads"
 
 collections:
   - name: "post" # Used in routes, e.g. /admin/collections/blog
-    label: "Post" # Used in the UI
-    folder: "_posts" # The path to the folder where the documents are stored
+    label: "post" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    slug: "{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "subTitle", name: "subtitle", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: Categories, name: categories, widget: list}
-      - {label: Tags, name: tags, widget: list}
+      - {label: "author",     name: "author",     widget: "select", options: ["boo"], default: "boo"}
+      - {label: "title",      name: "title",      widget: "string"}
+      - {label: "subtitle",   name: "subtitle",   widget: "string"}
+      - {label: "pubdate",    name: "date",       widget: "datetime", format: "YYYY-MM-DD hh:mma"}
+      - {label: "draft",      name: "draft",      widget: "boolean", default: true}
+
+      - {label: "body",       name: "body",       widget: "markdown"}
+
+      - {label: "categories", name: "categories", widget: list}
+      - {label: "tags",       name: "tags",       widget: list}
+
+      - {label: "description",name: "description",widget: "string"}
+      - {label: "image",      name: "image",      widget: "image"}
 
   - name: "page" # Used in routes, e.g. /admin/collections/blog
-    label: "Page" # Used in the UI
-    folder: "pages" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    label: "page" # Used in the UI
+    folder: "content" # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    # slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "subTitle", name: "subtitle", widget: "string"}
-      - {label: "Paragraph", name: "paragraph", widget: "string"}
-      - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "title",      name: "title",      widget: "string"}
+      - {label: "subtitle",   name: "subtitle",   widget: "string"}
+      - {label: "paragraph",  name: "paragraph",  widget: "string"}
+      - {label: "body",       name: "body",       widget: "markdown"}

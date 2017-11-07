@@ -9,8 +9,7 @@ categories:
 tags:
 - health coach
 description: “Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như vậy.
-images:
-- "/images/2017-11-02/nhaam.jpg"
+image: "/images/2017-11-02/nhaam.jpg"
 ---
 
 Tôi chưa từng ngờ rằng mình sẽ kể về bố trên bước đường nghề nghiệp.
