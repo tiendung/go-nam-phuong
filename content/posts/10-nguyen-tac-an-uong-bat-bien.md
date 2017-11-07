@@ -73,10 +73,10 @@ Sau đây là tham khảo chi tiết hơn nếu bạn cần, nhưng hãy nhớ �
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Đậu (beans & pulses)</td>
         <td class="bn pa2 pa3-ns">Tất cả các lọai họ đậu, đậu nành lên men như natto, miso (không nhiễm GMOs)</td>
-        <td class="bn pa2 pa3-ns">Các sản phẩm từ đậu nành không được lên men, đậu hũ (đậu khuân). Cẩn thận với đậu phụng vì hay bị phun xịt nhiều nhất</td>
+        <td class="bn pa2 pa3-ns">Cẩn thận với đậu phụng vì hay bị phun xịt nhiều nhất</td>
       </tr>
       <tr class="striped--near-white">
-        <td class="bn pa2 pa3-ns">Hạt (nuts & seeds)</td>
+        <td class="bn pa2 pa3-ns">Sữa</td>
         <td class="bn pa2 pa3-ns">Sữa hạt, sữa gạo, sữa dừa, phô mai làm từ sữa thô, sữa cừu và dê, một lượng nhỏ yogurt không đường & bơ từ sữa của bò ăn cỏ (trên các sản phẩm nhập ngoại ghi nhãn grass-fed)</td>
         <td class="bn pa2 pa3-ns">Sữa bò, sữa đậu nành, kem không sữa (non-dairy creamers), sữa bột, phô mai thường (regular cheese), pho mát kem (cream cheese), phô ma cottage (cottage cheese)</td>
       </tr>
