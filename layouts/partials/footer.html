@@ -1,4 +1,4 @@
-{{ if .Params.no_newsletter_cta }}
+{{ if not .Params.no_newsletter_cta }}
 {{ partial "newsletter_cta.html" . }}
 {{ end }}
 
