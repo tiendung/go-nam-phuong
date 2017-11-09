@@ -14,7 +14,8 @@ header:
   image: https://images.unsplash.com/photo-1425141708895-60ba4a72e556?fit=crop&w=1200&h=627
   layout: hero
   navigation: fancy
-# image: https://images.unsplash.com/photo-1504609813442-a8924e83f76e?fit=crop&w=500&h=260
+cover_image: https://images.unsplash.com/photo-1504609813442-a8924e83f76e?fit=crop&w=500&h=260
+description: '"Bộ lạc" là cộng đồng những người chia sẻ chung những giá trị cơ bản với bạn, hỗ trợ bạn và ngược lại cũng nhận được hỗ trợ từ sự tham gia của bạn.'
 ---
 
 Bạn đang tìm đến ai khi cần giúp đỡ, hỗ trợ? Bạn dựa vào ai khi tìm kiếm thêm động lực? Các bạn có là thành viên của một nhóm cho mình  cả cảm hứng lẫn kỉ luật khi phấn đấu đạt mục tiêu? Các bạn có từng nghĩ đến việc tìm ra một cố vấn (mentor) để dẫn dắt mình qua các giai đoạn phát triển?

@@ -7,7 +7,7 @@ categories:
 - ăn
 tags:
 - cá nhân hoá
-image: /images/2017-11-02/su-khac-biet.jpg
+cover_image: /images/2017-11-02/su-khac-biet.jpg
 ---
 
 Bạn có để ý rằng, càng ngày lựa chọn của chúng ta càng được cá nhân hoá trên nhiều phương diện không? Các công ty công nghệ hàng đầu cùng thuật toán của họ đang cá nhân hoá lựa chọn tiêu thụ & mua sắm của chúng ta. Từ kết quả tìm kiếm Google, cách hiển thị nội dung trên Facebook Timeline cho đến cá tựa sách xuất hiện trước mắt khi vào Amazon... đều rất khác biệt giữa tôi và bạn.
@@ -60,7 +60,7 @@ Những công ty tư vấn chế độ ăn được cá nhân hoá cho rằng í
 
 Ahmed El-Sohemy, Phó giáo sư và nhà nghiên cứu sự liên quan giữa gen và dinh dưỡng tại Đại học Toronto và là đồng sáp lập của Nutrigenomix, đưa ra ví dụ về cà phê. Những chỉ dẫn hiện tại cho rằng không nên uống hơn 4-5 cốc/ngày. “Điều đó tốt cho tầm 1 nửa dân số có hệ tiêu hoá nhanh. Còn cho 1 nửa còn lại mà có khác biệt trong gen CYP1A2, chỉ cần hơn 2 cốc/ngày là đã gia tăng nguy cơ lên cơn đau tìm hay cao huyết áp.”
 
-Thậm chí ngay cả  <a href="http://health.gov/dietaryguidelines/2015/guidelines" target="_blank">Hướng dẫn Ăn uống 2015-2020 của Mỹ</a> đã công nhận rằng hầu hết mọi người không đi theo chỉ dẫn cũ , và đề xuất các mẫu ăn uống lành mạnh (“healthy eating pattern") thay vì tập trung vào các nhóm thức ăn hay chất như các hướng dẫn cũ.
+Thậm chí ngay cả <a href="http://health.gov/dietaryguidelines/2015/guidelines" target="_blank">Hướng dẫn Ăn uống 2015-2020 của Mỹ</a> đã công nhận rằng hầu hết mọi người không đi theo chỉ dẫn cũ, và đề xuất các mẫu ăn uống lành mạnh (“healthy eating pattern") thay vì tập trung vào các nhóm thức ăn hay chất như các hướng dẫn cũ.
 
 ## Kết luận
 

@@ -6,9 +6,10 @@
   <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
   {{ range .Pages }}
     <div class="grid-item w-100 w-50-ns w-50-m w-third-l pa0 pr4 mb4 box-masonry bg-white">
-      {{ if .Params.image }}
+      {{ if .Params.cover_image }}
+      <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
       <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
-        <img src="{{ .Params.image }}" class="w-100 ">
+        <img src="{{ .Params.cover_image }}" class="w-100">
       </a>
       {{ end }}
       <a class="db link black-80 hover-silver" href="{{ .Permalink }}">

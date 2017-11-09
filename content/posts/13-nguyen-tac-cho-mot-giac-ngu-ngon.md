@@ -8,7 +8,7 @@ categories:
 - healthy101
 tags:
 - ngủ
-image: https://images.unsplash.com/photo-1503756755766-151cb0cd465f?fit=crop&w=500
+cover_image: https://images.unsplash.com/photo-1503756755766-151cb0cd465f?fit=crop&w=500
 ---
 
 Bạn nói: “Hả? 13 chỉ dẫn luôn á? Ai mà theo hết được!”. Nhưng bạn ơi, đừng quên ⅓ thời gian sống của bạn đang dành cho hoạt động này.

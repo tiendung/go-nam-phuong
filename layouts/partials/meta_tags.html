@@ -13,7 +13,7 @@ Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
 <meta property="og:type" content="{{ with .Params.type }}{{ . }}{{ else }}article{{ end }}" />
 <meta property="og:title" content="{{ .Title }}" />
 <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Summary }}{{ end }}" />
-{{ with .Params.image }}
+{{ with .Params.cover_image }}
 <meta property="og:image" content="{{ absURL . }}" />
 {{ else }}
 	{{ with (findRE "src=\"(.+?)\"" .Content 6) }}{{ range . }}

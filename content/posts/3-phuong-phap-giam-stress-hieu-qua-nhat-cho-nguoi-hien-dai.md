@@ -11,7 +11,7 @@ tags:
 - thiền
 - thở
 - yoga
-image: https://images.unsplash.com/photo-1503525148566-ef5c2b9c93bd?fit=crop&w=500
+cover_image: https://images.unsplash.com/photo-1503525148566-ef5c2b9c93bd?fit=crop&w=800
 ---
 
 Stress là một phản ứng thông thường của cơ thể đối với các sự kiện đầy phấn khích như đang yêu, có công việc mới, mua nhà mới v.v... stress cũng là một cơ chế sinh tồn được tích luỹ trong cơ thể bạn như một phương tiện bảo vệ mình. Khi được kích thích, hệ thần kinh giao cảm báo hiệu cơ chế “chiến đấu hay bỏ chạy" để giúp bạn ngay lập tức hành động và tránh nguy hiểm. Điều này đã giúp tổ tiên của chúng ta trong thời kì tiền sử lẩn tránh thú dữ và các nguy hiểm thường ngày.
@@ -73,7 +73,7 @@ Tập trên giường vào buổi sáng hoặc tối. Hoặc khi ngồi trên gh
 
 Kĩ thuật hít thở này giúp cân bằng tâm trí và có thể được thực hiện trong tâm trí nếu như bạn có vấn đề với xoang mũi.
 
-* Ngón giữa và ngón áp ngón cái co chụm lại. Đặt ngón cái và ngón áp út lên mũi nhẹ nhàng. Ngồi thẳng lưng, xếp đùi thật thoải mái , và thở bụng nhẹ nhàng. Nhắm mắt lại nhẹ nhàng.
+* Ngón giữa và ngón áp ngón cái co chụm lại. Đặt ngón cái và ngón áp út lên mũi nhẹ nhàng. Ngồi thẳng lưng, xếp đùi thật thoải mái, và thở bụng nhẹ nhàng. Nhắm mắt lại nhẹ nhàng.
 
 * Sử dụng tay phải trong thế Vishnu Mudra. Hít vào qua cả hai lỗ mũi, nhẹ nhàng đóng mũi phải, thở ra qua mũi trái. Thở vào mũi trái, đổi ngón tay để đóng mũi trái và mở mũi phải, thở ra từ mũi phải. Lặp lại như thế. Dần dần để cho hơi thở ra dài hơn hơi thở vào.
 * Khi đã quen, có thể theo tỉ lệ 1:4:2 cho Hít vào:Giữ hơi:Thở ra (Ví dụ: 4 giây hít vào:16 giây giữ hơi: 8 giây thở ra). Kết thúc qua hơi thở ra phía mũi trái.
@@ -85,7 +85,7 @@ Kĩ thuật hít thở này giúp cân bằng tâm trí và có thể được t
 
 Sau đây là một số cách thiền tập đơn giản, thích hợp cho con người hiện đại:
 
-<figure class="full"><img class="w-100" src="https://images.unsplash.com/photo-1461766705442-58d58276121a?fit=crop&amp;w=1200&amp;h=400" alt="ngồi thiền"></figure>
+<figure class="full"><img class="w-100" src="https://images.unsplash.com/photo-1461766705442-58d58276121a?fit=crop&w=1200&h=400" alt="ngồi thiền"></figure>
 
 [Hướng dẫn thiền hơi thở bởi Osho](https://www.youtube.com/watch?v=0peVQTdI3Yg)
 
