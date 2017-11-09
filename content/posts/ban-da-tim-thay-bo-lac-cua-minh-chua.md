@@ -14,7 +14,7 @@ header:
   image: https://images.unsplash.com/photo-1425141708895-60ba4a72e556?fit=crop&w=1200&h=627
   layout: hero
   navigation: fancy
-  # image: https://images.unsplash.com/photo-1425141708895-60ba4a72e556?fit=crop&w=1200&h=627
+image: https://images.unsplash.com/photo-1504609813442-a8924e83f76e?fit=crop&w=500&h=260
 ---
 
 Bạn đang tìm đến ai khi cần giúp đỡ, hỗ trợ? Bạn dựa vào ai khi tìm kiếm thêm động lực? Các bạn có là thành viên của một nhóm cho mình  cả cảm hứng lẫn kỉ luật khi phấn đấu đạt mục tiêu? Các bạn có từng nghĩ đến việc tìm ra một cố vấn (mentor) để dẫn dắt mình qua các giai đoạn phát triển?

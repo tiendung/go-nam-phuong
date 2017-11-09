@@ -12,6 +12,7 @@ categories:
 tags:
 - ăn kiêng
 - giảm cân
+image: /images/2017-11-02/an-kieng.jpg
 ---
 
 Sau khi trở thành 1 Health Coach, tôi thăm dò ý kiến nhiều người về mối bận tâm cho sức khoẻ nói chung của họ. Tuy nhiên, điều khiến tôi ngỡ ngàng là 8/10 cô gái sẽ nói về mục tiêu cân nặng.

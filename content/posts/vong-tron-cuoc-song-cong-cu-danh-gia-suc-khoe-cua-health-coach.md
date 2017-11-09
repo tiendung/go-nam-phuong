@@ -8,6 +8,7 @@ categories:
 tags:
 - vòng tròn cuộc sống
 - thức ăn tâm
+image: https://images.unsplash.com/photo-1496989981497-27d69cdad83e?w=500
 ---
 
 Liệu một cuộc sống viên mãn, hạnh phúc, khoẻ mạnh có nghe như một giấc mơ đối với bạn? Cho dù bạn đang tìm kiếm niềm vui, tiền bạc hay tình yêu, tôi có một công cụ mà bạn cần sử dụng ngay bây giờ.
