@@ -1,11 +1,13 @@
 {{ define "main" }}
-<section class="full center ph3 ph4-ns bt b--light-gray">
+<section class="full center pl3 pl4-ns bt b--light-gray">
   <h1 class="f4 f3-ns fw4 lh-title mb0 pb2">All Posts</h1>
   <!-- Ranges through content/post/*.md -->
   <div class="grid w-100">
   <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
   {{ range .Pages }}
-    <div class="grid-item w-100 w-50-ns w-50-m w-third-l pa0 pr4 mb4 box-masonry bg-white">
+    <div class="grid-item w-100 w-50-ns w-50-m w-third-l
+                pr3 pr4-ns mb4
+                box-masonry bg-white">
       {{ if .Params.cover_image }}
       <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
       <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
@@ -13,8 +15,8 @@
       </a>
       {{ end }}
       <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
-        <article class="lh-copy pa2 bb bt-0 br-0 bl-0 b--light-silver b--dashed">
-          <h3 class="f4 f3-ns fw4 fw6-ns mv1">{{ .Title | safeHTML }}</h3>
+        <article class="lh-copy bb bt-0 br-0 bl-0 b--light-blue b--dashed">
+          <h3 class="f4 f3-ns fw4 fw6-ns">{{ .Title | safeHTML }}</h3>
           <p class="f5 fw3 lh-copy mv2">
             {{ with .Params.description }}{{ . | safeHTML }}{{ else }}{{  .Summary | safeHTML }}{{ end }}
           </p>
@@ -29,4 +31,19 @@
 </div>
 </section>
 {{ partial "masonry_layout.html" . }}
+<!--
+<div style="background-color:#FFFCF5;" class="absolute z-0 color x-tall"></div>
+<a href="https://interfacelovers.com/interviews/ryan-putnam" class="relative z-1 db interviewImage x-tall"
+  data-src='https://interfacelovers.com/thumbs/interviews/ryan-putnam/ryan-putnam-509x600.jpg'></a>
+
+<div style="background-color:#272c2d;" class="absolute z-0 color x-tall"></div>
+<a href="https://interfacelovers.com/interviews/ryan-putnam" class="relative z-1 db interviewImage x-tall"
+style="background-image: url('https://interfacelovers.com/thumbs/interviews/ryan-putnam/ryan-putnam-509x600.jpg';);"></a>
+
+defaultImage:"data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==",
+placeholder:null,delay:-1,combined:!1,attribute:"data-src",
+srcsetAttribute:"data-srcset",sizesAttribute:"data-sizes",
+retinaAttribute:"data-retina",loaderAttribute:"data-loader",
+imageBaseAttribute:"data-imagebase"
+ -->
 {{ end }}
