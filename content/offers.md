@@ -7,7 +7,7 @@ header:
 description: Offers
 ---
 
-<div class="tl bt b--black-10 pa4 pa5-ns bg-light-gray full" id="principles">
+<div class="tl bt b--black-10 pa4 pa5-ns bg-light-gray full">
   <div class="mw9 center">
     <!-- <h1 class="f4 fw5 tracsked">Nguyên tắc</h1> -->
     <section class="lh-copy">
@@ -40,26 +40,26 @@ description: Offers
 <main class="full center mw9 pa4 pa3-ns pa2-m pa5-l justify-center cf">
   <!-- <h1 class="f3 fw6 lh-title mb4-ns mb2 ph2-ns ph1">Gói dịch vụ</h1> -->
   <session>
-    <article class="w-third-ns w-100 mb4-ns mb2 ph2-ns ph1 fl">
+    <article class="w-third-l w-100 mb4-ns mb2 ph2-ns ph1 fl">
       <div class="aspect-ratio aspect-ratio--16x9 dim overflow-hidden">
-        <a class="db dt-ns tc aspect-ratio--object cover link white hover-white" href="/1-on-1-coaching"
+        <a class="flex items-center justify-center aspect-ratio--object cover link white hover-white" href="/1-on-1-coaching"
           style="background:url(https://images.unsplash.com/photo-1502843082787-de71ad5cc73f?auto=format&fit=crop&w=500&h=333) no-repeat center center">
-          <span class="dtc v-mid w-20 bg-black-40 bg-animate f3 f3-ns f2-l pa2">Khai vấn 1:1</span>
+          <span class="flex items-center justify-center w-100 h-100 bg-black-40 bg-animate fw4 f3 f2-ns pa2">Khai vấn 1:1</span>
         </a>
       </div>
     </article>
-    <article class="w-third-ns w-100 mb4-ns mb2 ph2-ns ph1 fl">
+    <article class="w-third-l w-100 mb4-ns mb2 ph2-ns ph1 fl">
       <div class="aspect-ratio aspect-ratio--16x9 dim overflow-hidden">
-        <a class="db dt-ns tc aspect-ratio--object cover link white hover-white" href="/group-coaching"
+        <a class="flex items-center justify-center aspect-ratio--object cover link white hover-white" href="/group-coaching"
           style="background:url(https://images.unsplash.com/photo-1496275068113-fff8c90750d1?auto=format&fit=crop&w=500&h=333) no-repeat center center">
-          <span class="dtc v-mid w-20 bg-black-40 bg-animate f3 f3-ns f2-l pa2">Theo nhóm</span></a>
+          <span class="flex items-center justify-center w-100 h-100 bg-black-40 bg-animate fw4 f3 f2-ns pa2">Theo nhóm</span></a>
       </div>
     </article>
-    <article class="w-third-ns w-100 mb4-ns mb2 ph2-ns ph1 fl">
+    <article class="w-third-l w-100 mb4-ns mb2 ph2-ns ph1 fl">
       <div class="aspect-ratio aspect-ratio--16x9 dim overflow-hidden">
-        <a class="db dt-ns tc aspect-ratio--object cover link white hover-white" href="/free-coaching"
+        <a class="flex items-center justify-center aspect-ratio--object cover link white hover-white" href="/free-coaching"
           style="background:url(https://images.unsplash.com/photo-1460518451285-97b6aa326961?auto=format&fit=crop&w=500&h=333) no-repeat center center">
-          <span class="dtc v-mid w-20 bg-black-40 bg-animate f3 f3-ns f2-l pa2">Miễn phí</span></a>
+          <span class="flex items-center justify-center w-100 h-100 bg-black-40 bg-animate fw4 f3 f2-ns pa2">Miễn phí</span></a>
       </div>
     </article>
   </session>
