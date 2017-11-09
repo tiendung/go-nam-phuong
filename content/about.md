@@ -8,7 +8,7 @@ header:
   image: https://unsplash.com/a/img/marketing/benjamin-combs-27619.jpg
   class: bg-darken-50 bg-darken-25-l
   cta:
-show_newsletter_cta: false
+no_newsletter_cta: true
 ---
 
 Tôi bắt đầu cuộc hành trình vì sức khoẻ & hạnh phúc bằng một tuổi trẻ đi thật xa, đọc thật nhiều và gặp gỡ thật vô tư. 17 tuổi, tôi đồng sáng lập “bộ lạc” Diễn đàn Tuổi trẻ Tây Nguyên, xuất phát từ mong muốn mang đến một __sân chơi tự do và sáng tạo__ cho bạn bè cùng tuổi. 18 tuổi, tôi là 1 trong 4 người nhận Học bổng Hoàng tử Andrew. Kể từ đó, tôi đã đi đến hơn 10 quốc gia và nhiều diễn đàn quốc tế. Sau khi ra trường, tôi trở thành Quản lý Quốc gia của một start-up Hàn Quốc chuyên làm nội dung Viral.
