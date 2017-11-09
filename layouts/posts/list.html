@@ -5,14 +5,14 @@
   <div class="grid w-100">
   <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
   {{ range .Pages }}
-    <div class="grid-item w-100 w-50-ns w-50-m w-third-l pa0 pr3 mb4 box-masonry bb b--light-gray">
+    <div class="grid-item w-100 w-50-ns w-50-m w-third-l pa0 pr4 mb4 box-masonry bg-white">
       {{ if .Params.image }}
-        <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
-          <img src="{{ .Params.image }}" class="w-100 ">
-        </a>
+      <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
+        <img src="{{ .Params.image }}" class="w-100 ">
+      </a>
       {{ end }}
       <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
-        <article class="lh-copy pa2">
+        <article class="lh-copy pa2 bn b--light-silver b--dashed">
           <h3 class="f4 f3-ns fw4 fw6-ns mv1">{{ .Title | safeHTML }}</h3>
           <p class="f5 fw3 lh-copy mv2">
             {{ with .Params.description }}{{ . | safeHTML }}{{ else }}{{  .Summary | safeHTML }}{{ end }}
@@ -27,79 +27,5 @@
   {{ end }}
 </div>
 </section>
-
-<style>
-  .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
-    opacity: 0.8;
-  }
-  .box-masonry:hover .box-masonry-image.with-hover-icon:after {
-    opacity: 0.7;
-  }
-  .box-masonry .box-masonry-image {
-    display: block;
-    position: relative;
-    min-height: 100px;
-  }
-  .box-masonry .box-masonry-image.with-hover-overlay:before {
-    display: block;
-    position: absolute;
-    content: " ";
-    background: #fff;
-    opacity: 0;
-    width: 100%;
-    height: 100%;
-    left: 0;
-    top: 0;
-    -webkit-transition: all 0.2s ease-out;
-    -moz-transition: all 0.2s ease-out;
-    transition: all 0.2s ease-out;
-  }
-  .box-masonry .box-masonry-image.with-hover-icon:after {
-    display: block;
-    position: absolute;
-    width: 100%;
-    left: 0;
-    top: 50%;
-    -webkit-transform: translate(0, -50%);
-    -ms-transform: translate(0, -50%);
-    transform: translate(0, -50%);
-    opacity: 0;
-    -webkit-transition: all 0.2s ease-out;
-    -moz-transition: all 0.2s ease-out;
-    transition: all 0.2s ease-out;
-    font-family: 'FontAwesome';
-    /*content: '\f105';*/
-    content: '\f08a';
-    text-align: center;
-    font-size: 50px;
-    color: #555555;
-  }
-  .box-masonry .box-masonry-image:hover {
-    text-decoration: none;
-  }
-  .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
-    opacity: 0.8;
-  }
-  .box-masonry:hover .box-masonry-image.with-hover-icon:after {
-    opacity: 0.7;
-  }
-</style>
-<script src="https://use.fontawesome.com/b6dfdcfa03.js"></script>
-<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-<script>
-  // init Masonry
-  var grid = document.querySelector('.grid');
-
-  var msnry = new Masonry( grid, {
-    itemSelector: '.grid-item',
-    columnWidth: '.grid-sizer',
-    percentPosition: true
-  });
-
-  imagesLoaded( grid ).on( 'progress', function() {
-    // layout Masonry after each image loads
-    msnry.layout();
-  });
-</script>
+{{ partial "masonry_layout.html" . }}
 {{ end }}

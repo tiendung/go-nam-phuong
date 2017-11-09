@@ -1,0 +1,82 @@
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+<script>
+  // init Masonry
+  var grid = document.querySelector('.grid');
+
+  var msnry = new Masonry( grid, {
+    itemSelector: '.grid-item',
+    columnWidth: '.grid-sizer',
+    percentPosition: true
+  });
+
+  imagesLoaded( grid ).on( 'progress', function() {
+    // layout Masonry after each image loads
+    // can call msnry.layout() again if need to re-layout grid (i.e when grid-item deleted ... )
+    msnry.layout();
+  });
+</script>
+
+
+<!--
+http://creative.ondrejsvestka.cz use FontAwesome icon to display on top of hovered image
+Following css code enable the same effect
+extracted from https://github.com/kishaningithub/hugo-creative-portfolio-theme/blob/master/static/css/style.default.css
+-->
+<script src="https://use.fontawesome.com/b6dfdcfa03.js"></script>
+<style>
+  .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
+    opacity: 0.8;
+  }
+  .box-masonry:hover .box-masonry-image.with-hover-icon:after {
+    opacity: 0.7;
+  }
+  .box-masonry .box-masonry-image {
+    display: block;
+    position: relative;
+    min-height: 100px;
+  }
+  .box-masonry .box-masonry-image.with-hover-overlay:before {
+    display: block;
+    position: absolute;
+    content: " ";
+    background: #fff;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+  }
+  .box-masonry .box-masonry-image.with-hover-icon:after {
+    display: block;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    opacity: 0;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+    font-family: 'FontAwesome';
+    /*content: '\f105';*/
+    content: '\f08a';
+    text-align: center;
+    font-size: 50px;
+    color: #555555;
+  }
+  .box-masonry .box-masonry-image:hover {
+    text-decoration: none;
+  }
+  .box-masonry:hover .box-masonry-image.with-hover-overlay:before {
+    opacity: 0.8;
+  }
+  .box-masonry:hover .box-masonry-image.with-hover-icon:after {
+    opacity: 0.7;
+  }
+</style>
