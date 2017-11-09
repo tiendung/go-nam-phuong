@@ -12,7 +12,7 @@
       </a>
       {{ end }}
       <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
-        <article class="lh-copy pa2 bn b--light-silver b--dashed">
+        <article class="lh-copy pa2 bb bt-0 br-0 bl-0 b--light-silver b--dashed">
           <h3 class="f4 f3-ns fw4 fw6-ns mv1">{{ .Title | safeHTML }}</h3>
           <p class="f5 fw3 lh-copy mv2">
             {{ with .Params.description }}{{ . | safeHTML }}{{ else }}{{  .Summary | safeHTML }}{{ end }}
