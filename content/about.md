@@ -5,7 +5,8 @@ subtitle:
 paragraph:
 header:
   layout: hero
-  image: https://unsplash.com/a/img/marketing/benjamin-combs-27619.jpg
+  # image: https://unsplash.com/a/img/marketing/benjamin-combs-27619.jpg
+  image: /images/pages/about.jpg
   class: bg-darken-50 bg-darken-25-l
   cta:
 no_newsletter_cta: true
@@ -17,9 +18,13 @@ Tôi bắt đầu cuộc hành trình vì sức khoẻ & hạnh phúc bằng m�
 
 Có lẽ khi một người trẻ không thực sự biết mình nên làm gì, cách đơn giản nhất là __để sự tò mò dẫn dắt__. Tôi đã luôn thử máy mó rất nhiều thứ mà có vẻ chả kết nối gì với nhau: Màu sắc, tâm lý học, các bộ môn nhảy, viết lách, làm phim, tâm linh, huấn luyện, báo chí, cà phê…là một vài trong số đó.
 
-{{< figure src="/images/pages/namphuong-running.gif" caption="Nam Phương năng động" class="tc" >}}
+{{< figure src="/images/pages/namphuong-running.gif" alt="Nam Phương năng động" class="tc" >}}
 
-Nhưng điều nắm giữ trí óc tôi lâu nhất tính đến bây giờ là câu hỏi: __Làm thế nào để một người tìm ra mục đích sống cho riêng mình?__ Làm thế nào để một người tìm được cách sống đời mình thật sáng tạo và hạnh phúc, kể cả khi gặp khó khăn thử thách?
+Nhưng điều nắm giữ trí óc tôi lâu nhất tính đến bây giờ là câu hỏi:
+
+__Làm thế nào để một người tìm ra mục đích sống cho riêng mình?__
+
+__Làm thế nào để một người tìm được cách sống đời mình thật sáng tạo và hạnh phúc, kể cả khi gặp khó khăn thử thách?__
 
 Sau vài năm làm việc trong môi trường đầy áp lực của các công ty khởi nghiệp, tôi kiếm được rất nhiều tiền và cùng lúc đó quên tìm kiếm câu trả lời cho riêng mình. Mãi cho đến khi bố tôi mất đột ngột năm 2015, tôi mới giật mình nhìn lại. Tôi tưởng như đã có tất cả nhưng lại không hạnh phúc.
 
