@@ -23,7 +23,7 @@ collections:
       - {label: "tags",       name: "tags",       widget: list}
 
       - {label: "description",name: "description",widget: "string"}
-      - {label: "image",      name: "image",      widget: "image"}
+      - {label: "cover_image",name: "cover_image",widget: "image"}
 
   - name: "page" # Used in routes, e.g. /admin/collections/blog
     label: "page" # Used in the UI
@@ -35,3 +35,6 @@ collections:
       - {label: "subtitle",   name: "subtitle",   widget: "string"}
       - {label: "paragraph",  name: "paragraph",  widget: "string"}
       - {label: "body",       name: "body",       widget: "markdown"}
+
+      - {label: "description",name: "description",widget: "string"}
+      - {label: "cover_image",name: "cover_image",widget: "image"}
