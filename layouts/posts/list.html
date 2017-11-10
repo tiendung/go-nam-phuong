@@ -2,7 +2,7 @@
 <section class="full center pl3 pl4-ns bt b--light-gray bg-li">
 
   <div class="flex flex-column items-center mt3">
-    <input id="search-field" onkeyup="search()" placeholder="Search keywords"
+    <input id="search-field" onkeyup="search()" placeholder="Search phrase"
     class= "f6 f5-l fw1 input-reset ba b--black-20 br0 black-80 bg-white pa2 w5"
     />
   </div>
@@ -73,7 +73,7 @@ var fuse = new Fuse(posts, options), results;
 var items = document.getElementsByClassName("grid-item");
 var searchField = document.getElementById("search-field");
 function search() {
-  var str = bodauTiengViet(searchField.value.trim());
+  var str = bodauTiengViet(searchField.value.trim()).replace(/\s+/, ' ');
   if (str.length == 0) { str = " "; }
   results = fuse.search(str);
   console.log(str, results);
