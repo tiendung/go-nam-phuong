@@ -31,7 +31,7 @@ Nhưng điều nắm giữ trí óc tôi lâu nhất tính đến bây giờ là
 
 Sau vài năm làm việc trong môi trường đầy áp lực của các công ty khởi nghiệp, tôi kiếm được rất nhiều tiền và cùng lúc đó quên tìm kiếm câu trả lời cho riêng mình. Mãi cho đến khi bố tôi mất đột ngột năm 2015, tôi mới giật mình nhìn lại. Tôi tưởng như đã có tất cả nhưng lại không hạnh phúc.
 
-Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Nutrition Health Coach
+Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Health Coach
 
 {{< figure src="/uploads/3.jpg" class="tc" >}}
 
@@ -45,13 +45,13 @@ Niềm tin này đã dẫn dắt tôi đến những thành quả tôi tự hào
 
 {{< figure src="/images/pages/namphuong-results.jpg" class="tc" >}}
 
-Để biến thành một người thực học và hữu ích, tôi chọn cách chia sẻ miễn phí các nội dung hữu ích mỗi ngày, và mong muốn học hỏi điều mới mỗi ngày từ mọi người.
+Để biến thành một người thực học và hữu ích, tôi chọn cách mỗi ngày chia sẻ miễn phí các nội dung hữu ích qua website và các kênh mạng xã hội của mình.
 
 {{< figure src="/images/pages/namphuong-support.jpg" class="tc" >}}
 
 ## Kinh doanh và phát triển cộng đồng
 
-Đúng, đây cũng là công việc kinh doanh của tôi. Tôi tự hào và thực sự biết ơn khi được sống trong một thời đại mà tinh thần doanh nhân và sức sáng tạo được cổ vũ hơn bao giờ hết.
+Khai vấn (Coaching)cũng là công việc kinh doanh của tôi. Tôi tự hào và thực sự biết ơn khi được sống trong một thời đại mà tinh thần doanh nhân và sức sáng tạo được cổ vũ hơn bao giờ hết.
 
 > Bên cạnh đó, tôi cam kết sử dụng 80% sức lực cho những nội dung miễn phí và 20% cho các công việc duy trì thu nhập. 10% trong số thu nhập của tôi sẽ được dành cho từ thiện và phúc lợi.
 
