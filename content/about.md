@@ -1,17 +1,24 @@
 ---
 title: Gặp Nam Phương
-subtitle: ' '
-paragraph: ' '
-description: ' '
+type: static
+page: _default/baseof.html
+subtitle:
+paragraph:
+description:
 cover_image: /static/uploads/2.jpg
+header:
+  layout: hero
+  image: /images/pages/about.jpg
+  class: bg-darken-50 bg-darken-25-l
+  cta:
+no_newsletter_cta: true
 ---
+
 Tôi bắt đầu cuộc hành trình vì sức khoẻ & hạnh phúc bằng một tuổi trẻ đi thật xa, đọc thật nhiều và gặp gỡ thật vô tư. 17 tuổi, tôi đồng sáng lập “bộ lạc” Diễn đàn Tuổi trẻ Tây Nguyên, xuất phát từ mong muốn mang đến một **sân chơi tự do và sáng tạo** cho bạn bè cùng tuổi. 18 tuổi, tôi là 1 trong 4 người nhận Học bổng Hoàng tử Andrew. Kể từ đó, tôi đã đi đến hơn 10 quốc gia và nhiều diễn đàn quốc tế. Sau khi ra trường, tôi trở thành Quản lý Quốc gia của một start-up Hàn Quốc chuyên làm nội dung Viral.
 
 > Nhiều người hỏi: Thế quái nào mà cuối cùng cậu lại quyết định về Đà Lạt và trở thành một Health Coach?
 
 Có lẽ khi một người trẻ không thực sự biết mình nên làm gì, cách đơn giản nhất là **để sự tò mò dẫn dắt**. Tôi đã luôn thử máy mó rất nhiều thứ mà có vẻ chả kết nối gì với nhau: Màu sắc, tâm lý học, các bộ môn nhảy, viết lách, làm phim, tâm linh, huấn luyện, báo chí, cà phê…là một vài trong số đó.
-
-{{< figure src="/images/pages/namphuong-running.gif" class="tc" >}}
 
 {{< figure src="/images/pages/namphuong-running.gif" alt="Nam Phương năng động" class="tc" >}}
 
@@ -25,7 +32,7 @@ Sau vài năm làm việc trong môi trường đầy áp lực của các công
 
 Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Nutrition Health Coach
 
-{{< figure src="/static/uploads/3.jpg" class="tc" >}}
+{{< figure src="/uploads/3.jpg" class="tc" >}}
 
 
 > Tôi tin rằng bạn phải trở thành một người **khoẻ mạnh toàn diện** để sống hạnh phúc trong thế giới này.
