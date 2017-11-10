@@ -7,7 +7,7 @@
   {{ range .Pages }}
     <div class="grid-item w-100 w-50-ns w-50-m w-third-l
                 pr3 pr4-ns mb4
-                box-masonry bg-white">
+                box-masonry bg-white" id="{{ .UniqueID }}">
       {{ if .Params.cover_image }}
       <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
       <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
@@ -30,7 +30,34 @@
   {{ end }}
 </div>
 </section>
+
 {{ partial "masonry_layout.html" . }}
+<script src="//cdnjs.cloudflare.com/ajax/libs/fuse.js/3.0.4/fuse.min.js"></script>
+<script>
+
+function bodauTiengViet(str) {
+        str = str.toLowerCase();
+        str = str.replace(/à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ/g, "a");
+        str = str.replace(/è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ/g, "e");
+        str = str.replace(/ì|í|ị|ỉ|ĩ/g, "i");
+        str = str.replace(/ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ/g, "o");
+        str = str.replace(/ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ/g, "u");
+        str = str.replace(/ỳ|ý|ỵ|ỷ|ỹ/g, "y");
+        str = str.replace(/đ/g, "d");
+        return str;
+}
+
+var posts = [
+{{ range .Pages }}
+  {
+    id: "{{ .UniqueID }}",
+    title: bodauTiengViet("{{ .Title | plainify }}"),
+    desc: bodauTiengViet("{{ with .Params.description }}{{ . | plainify }}{{ else }}{{  .Summary | plainify }}{{ end }}")
+  },
+{{ end }}
+];
+</script>
+
 <!--
 https://leap.hauntedthemes.com
 

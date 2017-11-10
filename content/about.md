@@ -5,7 +5,7 @@ page: _default/baseof.html
 subtitle: null
 paragraph: null
 description: null
-cover_image: /static/uploads/2.jpg
+cover_image: /uploads/2.jpg
 header:
   layout: hero
   image: /images/pages/about.jpg
@@ -34,8 +34,6 @@ Sau vài năm làm việc trong môi trường đầy áp lực của các công
 Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Nutrition Health Coach
 
 {{< figure src="/uploads/3.jpg" class="tc" >}}
-![wol-landing-02.jpg]({{site.baseurl}}/content/wol-landing-02.jpg)
-
 
 > Tôi tin rằng bạn phải trở thành một người **khoẻ mạnh toàn diện** để sống hạnh phúc trong thế giới này.
 
