@@ -11,12 +11,13 @@ header:
   cta:
 no_newsletter_cta: true
 ---
+Tôi bắt đầu cuộc hành trình vì sức khoẻ & hạnh phúc bằng một tuổi trẻ đi thật xa, đọc thật nhiều và gặp gỡ thật vô tư. 17 tuổi, tôi đồng sáng lập “bộ lạc” Diễn đàn Tuổi trẻ Tây Nguyên, xuất phát từ mong muốn mang đến một **sân chơi tự do và sáng tạo** cho bạn bè cùng tuổi. 18 tuổi, tôi là 1 trong 4 người nhận Học bổng Hoàng tử Andrew. Kể từ đó, tôi đã đi đến hơn 10 quốc gia và nhiều diễn đàn quốc tế. Sau khi ra trường, tôi trở thành Quản lý Quốc gia của một start-up Hàn Quốc chuyên làm nội dung Viral.
 
-Tôi bắt đầu cuộc hành trình vì sức khoẻ & hạnh phúc bằng một tuổi trẻ đi thật xa, đọc thật nhiều và gặp gỡ thật vô tư. 17 tuổi, tôi đồng sáng lập “bộ lạc” Diễn đàn Tuổi trẻ Tây Nguyên, xuất phát từ mong muốn mang đến một __sân chơi tự do và sáng tạo__ cho bạn bè cùng tuổi. 18 tuổi, tôi là 1 trong 4 người nhận Học bổng Hoàng tử Andrew. Kể từ đó, tôi đã đi đến hơn 10 quốc gia và nhiều diễn đàn quốc tế. Sau khi ra trường, tôi trở thành Quản lý Quốc gia của một start-up Hàn Quốc chuyên làm nội dung Viral.
+> Nhiều người hỏi: Thế quái nào mà cuối cùng cậu lại quyết định về Đà Lạt và trở thành một Health Coach?
 
->Nhiều người hỏi: Thế quái nào mà cuối cùng cậu lại quyết định về Đà Lạt và trở thành một Health Coach?
+Có lẽ khi một người trẻ không thực sự biết mình nên làm gì, cách đơn giản nhất là **để sự tò mò dẫn dắt**. Tôi đã luôn thử máy mó rất nhiều thứ mà có vẻ chả kết nối gì với nhau: Màu sắc, tâm lý học, các bộ môn nhảy, viết lách, làm phim, tâm linh, huấn luyện, báo chí, cà phê…là một vài trong số đó.
 
-Có lẽ khi một người trẻ không thực sự biết mình nên làm gì, cách đơn giản nhất là __để sự tò mò dẫn dắt__. Tôi đã luôn thử máy mó rất nhiều thứ mà có vẻ chả kết nối gì với nhau: Màu sắc, tâm lý học, các bộ môn nhảy, viết lách, làm phim, tâm linh, huấn luyện, báo chí, cà phê…là một vài trong số đó.
+{{< figure src="/images/pages/namphuong-running.gif" class="tc" >}}
 
 {{< figure src="/images/pages/namphuong-running.gif" alt="Nam Phương năng động" class="tc" >}}
 
@@ -28,15 +29,15 @@ __Làm thế nào để một người tìm được cách sống đời mình t
 
 Sau vài năm làm việc trong môi trường đầy áp lực của các công ty khởi nghiệp, tôi kiếm được rất nhiều tiền và cùng lúc đó quên tìm kiếm câu trả lời cho riêng mình. Mãi cho đến khi bố tôi mất đột ngột năm 2015, tôi mới giật mình nhìn lại. Tôi tưởng như đã có tất cả nhưng lại không hạnh phúc.
 
-Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, __tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm__. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Nutrition Health Coach
+Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Nutrition Health Coach
 
 {{< figure src="/images/pages/namphuong-transform.jpg" class="tc" >}}
 
->Tôi tin rằng bạn phải trở thành một người __khoẻ mạnh toàn diện__ để sống hạnh phúc trong thế giới này.
+> Tôi tin rằng bạn phải trở thành một người **khoẻ mạnh toàn diện** để sống hạnh phúc trong thế giới này.
 
 Một sức khoẻ toàn diện không chỉ phụ thuộc vào việc bạn ăn uống như thế nào, mà còn đòi hỏi sự vận động thể chất đều đặn, một công việc thoả mãn những giá trị cá nhân, những mối quan hệ tương hỗ, và sự phát triển tâm linh. Vòng tròn cuộc sống từ đó sẽ được lấp đầy.
 
-Quan trọng hơn hết, tôi tin rằng một con người khoẻ mạnh toàn diện sẽ cảm nhận được __hạnh phúc cả trong nghịch cảnh__, và bằng cách sống như vậy, người đó trở thành nguồn cảm hứng cho rất nhiều cuộc đời khác.
+Quan trọng hơn hết, tôi tin rằng một con người khoẻ mạnh toàn diện sẽ cảm nhận được **hạnh phúc cả trong nghịch cảnh**, và bằng cách sống như vậy, người đó trở thành nguồn cảm hứng cho rất nhiều cuộc đời khác.
 
 Niềm tin này đã dẫn dắt tôi đến những thành quả tôi tự hào:
 
