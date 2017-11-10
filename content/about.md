@@ -31,7 +31,7 @@ Nhưng điều nắm giữ trí óc tôi lâu nhất tính đến bây giờ là
 
 Sau vài năm làm việc trong môi trường đầy áp lực của các công ty khởi nghiệp, tôi kiếm được rất nhiều tiền và cùng lúc đó quên tìm kiếm câu trả lời cho riêng mình. Mãi cho đến khi bố tôi mất đột ngột năm 2015, tôi mới giật mình nhìn lại. Tôi tưởng như đã có tất cả nhưng lại không hạnh phúc.
 
-Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Health Coach
+Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Health Coach.
 
 {{< figure src="/uploads/3.jpg" class="tc" >}}
 
