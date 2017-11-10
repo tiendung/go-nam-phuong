@@ -2,16 +2,17 @@
 title: Gặp Nam Phương
 type: static
 page: _default/baseof.html
-subtitle:
-paragraph:
-description:
+subtitle: null
+paragraph: null
+description: null
 cover_image: /static/uploads/2.jpg
 header:
   layout: hero
   image: /images/pages/about.jpg
   class: bg-darken-50 bg-darken-25-l
-  cta:
+  cta: null
 no_newsletter_cta: true
+published: true
 ---
 
 Tôi bắt đầu cuộc hành trình vì sức khoẻ & hạnh phúc bằng một tuổi trẻ đi thật xa, đọc thật nhiều và gặp gỡ thật vô tư. 17 tuổi, tôi đồng sáng lập “bộ lạc” Diễn đàn Tuổi trẻ Tây Nguyên, xuất phát từ mong muốn mang đến một **sân chơi tự do và sáng tạo** cho bạn bè cùng tuổi. 18 tuổi, tôi là 1 trong 4 người nhận Học bổng Hoàng tử Andrew. Kể từ đó, tôi đã đi đến hơn 10 quốc gia và nhiều diễn đàn quốc tế. Sau khi ra trường, tôi trở thành Quản lý Quốc gia của một start-up Hàn Quốc chuyên làm nội dung Viral.
@@ -33,6 +34,7 @@ Sau vài năm làm việc trong môi trường đầy áp lực của các công
 Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Nutrition Health Coach
 
 {{< figure src="/uploads/3.jpg" class="tc" >}}
+![wol-landing-02.jpg]({{site.baseurl}}/content/wol-landing-02.jpg)
 
 
 > Tôi tin rằng bạn phải trở thành một người **khoẻ mạnh toàn diện** để sống hạnh phúc trong thế giới này.
