@@ -1,3 +1,4 @@
+<script src="//cdn.jsdelivr.net/npm/lodash@4.17.4/lodash.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/fuse.js/3.0.4/fuse.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.0/mark.min.js"></script>
 <script>
@@ -51,7 +52,7 @@ var fuse = new Fuse(posts, options), results;
 var items = document.getElementsByClassName("grid-item");
 var searchField = document.getElementById("search-field");
 
-function search() {
+function searching() {
   var str = viNormalize(searchField.value.trim());
   if (str.length == 0) { str = " "; }
   results = fuse.search(str);
@@ -76,4 +77,6 @@ function search() {
 
   msnry.layout();
 };
+
+var search =  _.debounce(searching, 300, { 'maxWait': 900 });
 </script>
