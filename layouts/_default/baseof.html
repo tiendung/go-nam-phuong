@@ -16,7 +16,7 @@
   console.log("HUGO_ENV: {{ getenv "HUGO_ENV" }}")
   console.log(".Page.Description: {{ .Description }}");
   console.log(".Page.Keywords: {{ .Keywords }}");
-  {{ $images := findRE "src=\"(.+?)\"" .Content 6 }}
+  {{ $images := findRE "src=\"(.+?).jpg\"" .Content 6 }}
   console.log("images: {{ $images }}");
 </script>
 {{ end }}
