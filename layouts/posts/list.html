@@ -9,33 +9,33 @@
 
   <h1 class="f4 f3-ns fw4 lh-title mb0 pb2">All Posts</h1>
   <!-- Ranges through content/post/*.md -->
-  <div class="grid w-100">
-  <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
-  {{ range .Pages }}
-    <div class="grid-item w-100 w-50-ns w-50-m w-third-l
-                pr3 pr4-ns mb4
-                box-masonry bg-white" id="{{ .UniqueID }}">
-      {{ if .Params.cover_image }}
-      <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
-      <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
-        <img src="{{ .Params.cover_image }}" class="w-100">
-      </a>
-      {{ end }}
-      <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
-        <article class="lh-copy bb bt-0 br-0 bl-0 b--light-blue b--dashed">
-          <h3 class="f4 f3-ns fw4 fw6-ns">{{ .Title | safeHTML }}</h3>
-          <p class="f5 fw3 lh-copy mv2">
-            {{ with .Params.description }}{{ . | safeHTML }}{{ else }}{{  .Summary | safeHTML }}{{ end }}
-          </p>
-          <div class="f6 fw3 gray mt0">
-            <time>{{ .Date.Format "Jan 2, 2006" }}</time>
-            <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>
-          </div>
-        </article>
-      </a>
-  </div>
-  {{ end }}
-</div>
+  <div class="grid w-100 cf">
+    <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
+    {{ range .Pages }}
+      <div class="grid-item w-100 w-50-ns w-50-m w-third-l fl
+                  pr3 pr4-ns mb4
+                  box-masonry bg-white" id="{{ .UniqueID }}">
+        {{ if .Params.cover_image }}
+        <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
+        <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
+          <img src="{{ .Params.cover_image }}" class="w-100">
+        </a>
+        {{ end }}
+        <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
+          <article class="lh-copy bb bt-0 br-0 bl-0 b--light-blue b--dashed">
+            <h3 class="f4 f3-ns fw4 fw6-ns">{{ .Title | safeHTML }}</h3>
+            <p class="f5 fw3 lh-copy mv2">
+              {{ with .Params.description }}{{ . | safeHTML }}{{ else }}{{  .Summary | safeHTML }}{{ end }}
+            </p>
+            <div class="f6 fw3 gray mt0">
+              <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+              <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>
+            </div>
+          </article>
+        </a>
+      </div><!-- grid-item -->
+    {{ end }}
+  </div><!-- grid -->
 </section>
 
 {{ partial "masonry_layout.html" . }}
