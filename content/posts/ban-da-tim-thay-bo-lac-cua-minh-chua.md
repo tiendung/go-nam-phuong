@@ -18,7 +18,7 @@ header:
   navigation: fancy
   class: bg-darken-50 bg-darken-25-l bg-center
 
-cover_image: https://images.unsplash.com/photo-1504609813442-a8924e83f76e?fit=crop&w=500
+cover_image: https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800
 description: '"Bộ lạc" là cộng đồng những người chia sẻ chung những giá trị cơ bản với bạn, hỗ trợ bạn và ngược lại cũng nhận được hỗ trợ từ sự tham gia của bạn.'
 ---
 

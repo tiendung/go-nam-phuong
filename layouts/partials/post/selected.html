@@ -1,5 +1,17 @@
-<article class="db grid-item w-100 w-50-ns fl
-            pr3 pr4-ns mb4
-            box-masonry bg-white" id="{{ .UniqueID }}">
-{{ partial "post/preview.html" . }}
-</article><!-- grid-item -->
+<article class="bt bb b--black-10 mid-gray">
+  <a class="db pv4 ph3 ph0-l no-underline black dim" href="{{ .Permalink }}">
+    <div class="flex flex-column flex-row-ns">
+      <div class="pr3-ns mb4 mb0-ns w-100 w-30-ns">
+        <img src="{{ .Params.cover_image }}" class="db">
+      </div>
+      <div class="w-100 w-70-ns pl3-ns">
+        <h2 class="mt0 lh-title">{{ .Title }}</h2>
+        <p class="lh-copy">{{  .Summary | plainify }}</p>
+        <div class="f6 fw3 gray mt0">
+          <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+          <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>
+        </div>
+      </div>
+    </div>
+  </a>
+</article>

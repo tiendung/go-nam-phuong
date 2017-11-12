@@ -8,7 +8,7 @@ categories:
 - mua sắm
 tags:
 - mua sắm
-cover_image: https://images.unsplash.com/photo-1495214783159-3503fd1b572d?fit=crop&w=500
+cover_image: https://images.unsplash.com/photo-1495214783159-3503fd1b572d?w=800
 ---
 
 <ul class="list pl0 measure center">
