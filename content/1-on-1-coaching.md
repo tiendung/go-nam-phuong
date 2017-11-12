@@ -101,4 +101,4 @@ Bạn là người được chủ động đưa ra lựa chọn của mình. Coa
   </div>
 </div>
 
-{{<- partial "buy_services.html" >}}
+{{< partial "buy_services.html" >}}

@@ -66,7 +66,7 @@ Xin đừng mong chờ sự hoàn hảo không-tì-vết, nhưng hãy mong chờ
 Nếu bạn đã đọc đến đoạn này, cảm ơn vì đã kiên nhẫn! Hy vọng đây là bước khởi đầu cho mối quan hệ lâu dài của chúng ta. Tôi rất muốn nghe chia sẻ  về những khó khăn và dự định ấp ủ của bạn, và muốn gửi cho bạn những nội dung về sức khoẻ & hạnh phúc chọn lọc nhất. Cách thuận tiện nhất để làm điều này là bạn hãy đăng kí hòm thư ở dưới.
 
 <section class="full bg-light-gray">
-{{< partial "newsletter_cta.html" >}}
+{{< partial "newsletter_form.html" >}}
 </section>
 
 Bạn cũng có thể đăng kí 1 buổi khai vấn [Lịch sử sức khoẻ miễn phí](/free-coaching). Mỗi tuần, tôi sẽ liên lạc với chỉ 2 người, và giúp họ đánh giá lại tổng quan tình hình sức khoẻ và cuộc sống. Từ đó họ có chiến lược ban đầu để tiến đến mục tiêu và nâng cao chất lượng sống.
