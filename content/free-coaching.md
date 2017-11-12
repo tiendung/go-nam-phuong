@@ -59,11 +59,11 @@ Tôi sẽ thực hiện Khai vấn miễn phí cho __chỉ 8 người / tháng__
   </h2>
   <div>
     <a class="f5 br-pill dark-blue no-underline ba grow pv2 ph3 mr3 mb2 dib hover-dark-blue"
-      href="https://drive.google.com/file/d/0B0akJ4Ogg464TWJVSnV4ZWZPSU0/view?usp=sharing">
+      href="https://drive.google.com/file/d/0B0akJ4Ogg464TWJVSnV4ZWZPSU0/view?usp=sharing" target="_blank">
       Lịch sử sức khoẻ nữ giới
     </a>
     <a class="f5 br-pill dark-blue no-underline ba grow pv2 ph3 dib hover-dark-blue"
-      href="https://drive.google.com/file/d/0B0akJ4Ogg464VGJvdFdJRlhWdms/view?usp=sharing">
+      href="https://drive.google.com/file/d/0B0akJ4Ogg464VGJvdFdJRlhWdms/view?usp=sharing" target="_blank">
       Lịch sử sức khoẻ nam giới
     </a>
   </div>
