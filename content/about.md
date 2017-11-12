@@ -27,9 +27,9 @@ Có lẽ khi một người trẻ không thực sự biết mình nên làm gì,
 
 Nhưng điều nắm giữ trí óc tôi lâu nhất tính đến bây giờ là câu hỏi:
 
-**Làm thế nào để một người tìm ra mục đích sống cho riêng mình?**
+> Làm thế nào để một người tìm ra mục đích sống cho riêng mình?
 
-**Làm thế nào để một người tìm được cách sống đời mình thật sáng tạo và hạnh phúc, kể cả khi gặp khó khăn thử thách?**
+> Làm thế nào để một người tìm được cách sống đời mình thật sáng tạo và hạnh phúc, kể cả khi gặp khó khăn thử thách?
 
 Sau vài năm làm việc trong môi trường đầy áp lực của các công ty khởi nghiệp, tôi kiếm được rất nhiều tiền và cùng lúc đó quên tìm kiếm câu trả lời cho riêng mình. Mãi cho đến khi bố tôi mất đột ngột năm 2015, tôi mới giật mình nhìn lại. Tôi tưởng như đã có tất cả nhưng lại không hạnh phúc.
 
