@@ -9,27 +9,27 @@ description: Offers
 
 <div class="tl bt b--black-10 pa4 pa5-ns bg-light-gray full">
   <div class="mw9 center">
-    <h2 class="">Hãy để coach giúp bạn!</h2>
+    <h1 class="">Hãy để coach giúp bạn!</h1>
     <section class="lh-copy">
       <div class="cf">
         <article class="fl pv2 w-100 w-third-l pr4-l">
-          <h2 class="f5 f4-ns fw6 mb0">Đạt mục tiêu Sức khoẻ</h2>
-          <p class="f6 f5-ns f3 measure lh-copy mt0">
+          <h2>Đạt mục tiêu Sức khoẻ</h2>
+          <p class="f5 f4-ns measure lh-copy mt0">
             Coach đưa ra lộ trình từng bước để bạn có thêm năng lượng,
             thêm tự tin yêu đời, tận hưởng cuộc sống lành mạnh mới.
           </p>
         </article>
         <article class="pv2 fl w-100 w-third-l ph3-l">
-          <h2 class="f5 f4-ns fw6 mb0">Cân bằng Cuộc sống</h2>
-          <p class="f6 f5-ns measure lh-copy mt0">
+          <h2 >Cân bằng Cuộc sống</h2>
+          <p class="f5 f4-ns measure lh-copy mt0">
             Coach giúp bạn hiểu rõ và tập trung cho điều mình khao khát.
             Từ đó bạn sẽ cải thiện các khía cạnh quan trọng của cuộc sống:
               Quan hệ, Sự nghiệp, Tài chính, Sáng tạo...
           </p>
         </article>
         <article class="pv2 fl w-100 w-third-l pl4-l">
-          <h2 class="f5 f4-ns fw6 mb0">Hiểu chính Mình</h2>
-          <p class="f6 f5-ns measure lh-copy mt0">
+          <h2>Hiểu chính Mình</h2>
+          <p class="f5 f4-ns measure lh-copy mt0">
             Coach giúp bạn tháo gỡ những rào cản ngầm và lắng nghe tiếng nói
             nội tâm. Bạn sẽ tận dụng được nguồn nội lực và đam mê bên trong,
             và bắt đầu sống cuộc đời mình khao khát!

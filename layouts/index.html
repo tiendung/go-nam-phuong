@@ -4,17 +4,21 @@
   <session class="w-100 mw8 mb0 cf">
     <h1 class="ml3 ml4-ns pt3">Hãy để tôi giúp bạn</h1>
       {{ range .Site.Data.homepage.helps }}
-      <article class="w-100 w-third-l mb3 mb4-ns ph3 ph4-ns fl">
-        <div class="aspect-ratio aspect-ratio--16x9 dim overflow-hidden">
-          <a class="flex items-center justify-center aspect-ratio--object cover link white hover-white"
-            href="{{ .cta.url }}" style="background:url({{ .image }}) no-repeat center center">
-            <span class="flex items-center justify-center w-100 h-100 bg-black-40 bg-animate pa2 fw3 f4 f3-ns">
-              <span class="pa3 ba border-box bw1">{{ .cta.text }}</span>
-            </span>
-          </a>
+      <article class="w-100 w-third-l mb3 ph3 fl">
+        <div class="shadow-5">
+          <div class="aspect-ratio aspect-ratio--16x9 dim overflow-hidden">
+            <a class="flex items-center justify-center aspect-ratio--object cover link white hover-white"
+              href="{{ .cta.url }}" style="background:url({{ .image }}) no-repeat center center">
+              <span class="flex items-center justify-center w-100 h-100 bg-black-40 bg-animate pa2">
+                <span class="pa3 ba bw1 tracked-mega ttu f3 f4-l fw4">{{ .cta.text }}</span>
+              </span>
+            </a>
+          </div>
+          <div class="pa2 pa3-ns">
+            <h2>{{ .title }}</h2>
+            <p class="lh-copy">{{ .subtitle | safeHTML }}<p>
+          </div>
         </div>
-        <h2>{{ .title }}</h2>
-        <p class="lh-copy">{{ .subtitle | safeHTML }}<p>
       </article>
       {{ end }}
   </session>
