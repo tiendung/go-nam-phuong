@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
+
 {{ partial "head.html" . }}
 
 <body class="black-80">
 
-{{ partial "header.html" . }}
+{{- partial "header.html" . }}
 
 {{ block "main" . }}
 {{ end }}
 
-{{ partial "footer.html" . }}
+{{- partial "footer.html" . }}
 
 {{ if ne (getenv "HUGO_ENV") "production" }}
 <script>

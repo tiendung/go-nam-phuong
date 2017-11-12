@@ -1,37 +1,37 @@
-{{ if ne .Params.header.navigation "fancy" }}
+{{- if ne .Params.header.navigation "fancy" }}
 {{ partial "navigation.html" . }}
-{{ end }}
+{{- end }}
 
-{{ if (eq .Params.header.layout "hero") | or (eq .Params.header.layout "header") }}
+{{- if (eq .Params.header.layout "hero") | or (eq .Params.header.layout "header") }}
 <header class="flex flex-column cover w-100 bg-left vh-75-l bg-center-l {{ with .Params.header.class }}{{ . }}{{ end }}"
   {{ with .Params.header.image }}style="background-image: url({{ . }})"{{ end }}>
 
-  {{ if eq .Params.header.navigation "fancy" }}
+  {{- if eq .Params.header.navigation "fancy" }}
   {{ partial "navigation.html" . }}
-  {{ end }}
+  {{- end }}
 
-  {{ if eq .Params.header.layout "hero" }}
+  {{- if eq .Params.header.layout "hero" }}
   <div class="flex flex-auto flex-column justify-center">
     <div class="flex flex-column items-start mw7 center w-100 pv5 pa3 ph4-ns">
       <h1 class="f3 f2-ns f1-l fw6 lh-title white mv0">{{ .Params.title }}</h1>
-      {{ with .Params.subtitle }}
-      <h2 class="f4 f3-ns f2-l fw4 lh-title white mt3 mb3">{{ . }}</h2>
-      {{ end }}
-      {{ with .Params.paragraph }}
-      <p class="f5 f4-l fw3 lh-copy white-90 mt3 mb3">{{ . }}</p>
-      {{ end }}
-      {{ with .Params.header.cta }}
-      <a class="f5 f4-ns lh-copy {{ .class }}" href="{{ .url }}">{{ .text }}</a>
-      {{ end }}
+      {{- with .Params.subtitle }}
+        <h2 class="f4 f3-ns f2-l fw4 lh-title white mt3 mb3">{{ . }}</h2>
+      {{- end }}
+      {{- with .Params.paragraph }}
+        <p class="f5 f4-l fw3 lh-copy white-90 mt3 mb3">{{ . }}</p>
+      {{- end }}
+      {{- with .Params.header.cta }}
+        <a class="f5 f4-ns lh-copy {{ .class }}" href="{{ .url }}">{{ .text }}</a>
+      {{- end }}
     </div>
   </div>
-  {{ end }}
+  {{- end }}
 </header>
-{{ end }}
+{{- end }}
 
-{{ if .Params.header.caption }}
+{{- if .Params.header.caption }}
 <span class="flex flex-row justify-center f6 fw3 silver pv2 ph3">
   {{ .Site.Data.settings.ui_text.caption }}&colon;&nbsp;
   {{ .Params.header.caption | markdownify }}
 </span>
-{{ end }}
+{{- end }}

@@ -1,15 +1,14 @@
 {{ define "main" }}
 
 <main class="mw8 center flex flex-column flex-row-l justify-center">
-  <article class="mw7 {{ if .Params.sidebar }}center-l{{ else }}center{{ end }} w-100 w-75-l ph3 ph4-ns">
-    <div class="f5 f4-ns fw3 lh-copy mb0">
+  <article class="mw7 {{ if .Params.sidebar }}center-l{{ else }}center{{ end }}
+                  w-100 w-75-l ph3 ph4-ns f5 f4-ns fw3 lh-copy mb0">
     {{ .Content }}
-    </div>
   </article>
 
-  {{ if .Params.sidebar }}
+  {{- if .Params.sidebar }}
    {{/* include sidebar.html */}}
-  {{ end }}
+  {{- end }}
 </main>
 
 {{ end }}

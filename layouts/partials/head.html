@@ -24,13 +24,13 @@ Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
 	<meta property="og:type" content="{{ with .Params.type }}{{ . }}{{ else }}article{{ end }}" />
 	<meta property="og:title" content="{{ .Title }}" />
 	<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Summary }}{{ end }}" />
-{{- with .Params.cover_image -}}
+{{- with .Params.cover_image }}
 	<meta property="og:image" content="{{ absURL . }}" />
 {{- else -}}
-	{{- with (findRE "src=\"(.+?).jpg\"" .Content 6) -}}{{ range . }}
-	<meta property="og:image" content="{{ replaceRE "src=\"(.+?)\"" "$1" . | absURL }}" />{{ end }}
-	{{- else -}}
-	<meta property="og:image" content="{{ absURL "/images/site/default-facebook-post.jpg" }}" />
+  {{- with (findRE "src=\"(.+?).jpg\"" .Content 6) }}{{ range . }}
+    <meta property="og:image" content="{{ replaceRE "src=\".+?\"" "$1" . | absURL }}" />{{ end }}
+	{{- else }}
+	  <meta property="og:image" content="{{ absURL "/images/site/default-facebook-post.jpg" }}" />
 	{{- end -}}
-{{- end -}}
+{{- end }}
 </head>

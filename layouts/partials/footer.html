@@ -2,17 +2,18 @@
 {{ partial "newsletter_cta.html" . }}
 {{ end }}
 
-<div class="bg-light-gray pv3">
-<footer class="flex justify-start items-baseline center w-100 ph3 ph4-ns mb2 lh-copy
-  {{ if .Params.sidebar }}mw8{{ else }}mw7{{ end }}">
-  <nav class="flex flex-row flex-wrap">
-    <span class="f7 fw3 gray mr3 ttc">
-      <a href="{{ .Site.BaseURL }}" class="f7 fw5 gray hover-dark-gray link underline-hover ttu"
-        title="{{ .Site.Title }}">{{ .Site.Title }}</a> &copy; 2017
-    </span>
-    <span class="f7 fw3 mr3">
-      Designed with <a href="https://desiredpersona.com/themes/" class="f7 fw3 gray hover-dark-gray link underline-hover mr3" target="_blank">Minimal Theme</a>
-    </span>
-  </nav>
+<footer class="bg-light-gray pv3">
+  <div class="flex justify-start items-baseline center w-100
+              ph3 ph4-ns mb2 lh-copy {{ if .Params.sidebar }}mw8{{ else }}mw7{{ end }}">
+    <nav class="flex flex-row flex-wrap">
+      <span class="f7 fw3 gray mr3 ttc">
+        <a href="{{ .Site.BaseURL }}" class="f7 fw5 gray hover-dark-gray link underline-hover ttu"
+          title="{{ .Site.Title }}">{{ .Site.Title }}
+        </a> &copy; 2017
+      </span>
+      <span class="f7 fw3 mr3">
+        Designed with <a href="https://desiredpersona.com/themes/" class="f7 fw3 gray hover-dark-gray link underline-hover mr3" target="_blank">Minimal Theme</a>
+      </span>
+    </nav>
+  </div>
 </footer>
-</div>
