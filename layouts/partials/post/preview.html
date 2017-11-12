@@ -1,0 +1,18 @@
+{{- if .Params.cover_image -}}
+<!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
+<a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
+<img src="{{ .Params.cover_image }}" class="w-100">
+</a>
+{{- end }}
+<a class="db link black-80 hover-silver" href="{{ .Permalink }}">
+<session class="lh-copy bb bt-0 br-0 bl-0 b--light-blue b--dashed">
+  <h3 class="f4 f3-ns fw4 fw6-ns">{{ .Title | safeHTML }}</h3>
+  <p class="f5 fw3 lh-copy mv2">
+    {{ with .Params.description }}{{ . | safeHTML }}{{ else }}{{  .Summary | safeHTML }}{{ end }}
+  </p>
+  <div class="f6 fw3 gray mt0">
+    <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+    <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>
+  </div>
+</session>
+</a>

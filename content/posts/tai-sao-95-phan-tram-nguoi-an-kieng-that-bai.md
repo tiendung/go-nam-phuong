@@ -7,6 +7,8 @@ header:
   image: /images/2017-11-02/an-kieng.jpg
   layout: hero
   navigation: fancy
+  class: bg-darken-50 bg-darken-25-l bg-center
+  
 categories:
 - ăn
 tags:

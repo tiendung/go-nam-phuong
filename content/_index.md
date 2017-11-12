@@ -6,10 +6,10 @@ header:
   layout: hero
   navigation: fancy
   image: /images/site/namphuong-intro.jpg
-  class: bg-darken-50 bg-darken-25-l
+  class: bg-darken-50 bg-darken-25-l bg-top
   # caption: '[Unsplash](https://unsplash.com)'
   cta:
-    text: Gặp Nam Phương
+    text: Câu chuyện của tôi
     url: "/about"
     class: btn btn-outline--light grow
 ---

@@ -6,7 +6,7 @@ paragraph:
 header:
   layout: hero
   image: https://images.unsplash.com/photo-1460518451285-97b6aa326961?auto=format&fit=crop&w=1000
-  class: bg-darken-50 bg-darken-25-l
+  class: bg-darken-50 bg-darken-25-l bg-center
   cta:
 ---
 

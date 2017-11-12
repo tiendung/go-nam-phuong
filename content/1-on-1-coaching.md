@@ -5,8 +5,8 @@ subtitle: Hỗ trợ phát triển cá nhân hiệu quả nhất
 paragraph:
 header:
   layout: hero
-  image: https://images.unsplash.com/photo-1502843082787-de71ad5cc73f?auto=format&fit=crop&w=1000
-  class: bg-darken-50 bg-darken-25-l
+  image: https://images.unsplash.com/photo-1502843082787-de71ad5cc73f?auto=format&fit=crop&w=1600
+  class: bg-darken-50 bg-darken-25-l bg-center
   cta:
 ---
 

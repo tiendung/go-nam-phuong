@@ -3,17 +3,21 @@ title: Bạn đã tìm thấy bộ lạc của mình chưa?
 subtitle:
 date: 2017-11-04
 author: boo
+
 categories:
 - live
 - community
 - tribe
 tags:
 - bộ lạc
+
 header:
   caption: '[Unsplash](https://unsplash.com)'
   image: https://images.unsplash.com/photo-1425141708895-60ba4a72e556?fit=crop&w=1200&h=627
   layout: hero
   navigation: fancy
+  class: bg-darken-50 bg-darken-25-l bg-center
+
 cover_image: https://images.unsplash.com/photo-1504609813442-a8924e83f76e?fit=crop&w=500&h=260
 description: '"Bộ lạc" là cộng đồng những người chia sẻ chung những giá trị cơ bản với bạn, hỗ trợ bạn và ngược lại cũng nhận được hỗ trợ từ sự tham gia của bạn.'
 ---

@@ -27,8 +27,6 @@ a.nested-author-cta {
   text-decoration: none;
   padding: .375rem .875rem;
   margin-top: .5rem; }
-  .btn:hover {
-    color: #fff; }
   .btn--block {
     display: block;
     width: 100%; }

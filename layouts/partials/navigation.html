@@ -1,4 +1,5 @@
-<session class="db flex-l justify-between items-center mw8 w-100 {{ if .Params.sidebar }}center-l{{ else }}center{{ end }} pt3 pb3 pl3 pr3-ns ph4-ns">
+<div class="db flex-l justify-between items-center
+                mw8 w-100 {{ if .Params.sidebar }}center-l{{ else }}center{{ end }} pt3 pb3 pl3 pr3-ns ph4-ns">
   {{- if eq .Params.header.navigation "fancy" }}
     <a class="white hover-white dim link f3 fw4 mr3" href="/" title="Home">{{ .Site.Title }}</a>
   {{- else }}
@@ -14,4 +15,4 @@
     {{- end }}
     </nav>
   </div>
-</session>
+</div>
