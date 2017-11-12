@@ -53,7 +53,7 @@ Niềm tin này đã dẫn dắt tôi đến những thành quả tôi tự hào
 
 ## Kinh doanh và phát triển cộng đồng
 
-Khai vấn (Coaching)cũng là công việc kinh doanh của tôi. Tôi tự hào và thực sự biết ơn khi được sống trong một thời đại mà tinh thần doanh nhân và sức sáng tạo được cổ vũ hơn bao giờ hết.
+Khai vấn (Coaching) cũng là công việc kinh doanh của tôi. Tôi tự hào và thực sự biết ơn khi được sống trong một thời đại mà tinh thần doanh nhân và sức sáng tạo được cổ vũ hơn bao giờ hết.
 
 > Bên cạnh đó, tôi cam kết sử dụng 80% sức lực cho những nội dung miễn phí và 20% cho các công việc duy trì thu nhập. 10% trong số thu nhập của tôi sẽ được dành cho từ thiện và phúc lợi.
 
