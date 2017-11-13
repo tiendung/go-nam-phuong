@@ -5,9 +5,9 @@
 {{ range $site.Data.homepage.selected_testimonials }}
   {{ with index $site.Data.testimonials . }}
   <article class="w-100 w-50-ns w-third-l center bg-white fl pa3">
-    <div class="br3 pa3 ma pa4-ns mv3 ba b--black-10">
+    <div class="br3 pa3 ma pa4-ns mv3 bn b--black-10 shadow-4">
       <div class="tc">
-        <img src="http://tachyons.io/img/avatar_1.jpg" class="br-100 h3 w3 dib">
+        <img src="{{ .avatar }}" class="br-100 h3 w3 dib">
         <h1 class="f4">{{ .name }}</h1>
         <hr class="mw3 bb bw1 b--black-10">
       </div>
