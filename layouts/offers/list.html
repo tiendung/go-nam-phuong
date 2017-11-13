@@ -1,11 +1,4 @@
----
-title: Các gói dịch vụ
-type: static
-page: _default/baseof.html
-header:
-  navigation:
-description: Offers
----
+{{ define "main" }}
 
 <div class="tl bt b--black-10 pa4 pa5-ns bg-light-gray full">
   <div class="mw9 center">
@@ -66,5 +59,7 @@ description: Offers
 </div>
 
 <div class="full center mw9 pa4 pa3-ns pa2-m pa5-l pt0 pt0-ns pt0-m pt0-l justify-center cf">
-  {{< partial "testimonials.html" >}}
+  {{ partial "testimonials.html" . }}
 </div>
+
+{{ end }}
