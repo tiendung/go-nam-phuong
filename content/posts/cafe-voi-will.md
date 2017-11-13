@@ -212,5 +212,3 @@ I wish you both the best and have a good life and thank you very much.
 Tôi/cháu chúc điều tốt đẹp nhất và một đời sống tốt đến cả hai. Và rất cảm ơn anh.
 
 Cảm ơn, rất vui đã gặp bạn.
-
-> Nguồn [Health Coach Nam Phương](https://www.facebook.com/notes/nam-ph%C6%B0%C6%A1ng/bilingual-nh%E1%BA%AFm-m%E1%BA%AFt-radio-3-caf%C3%A9-v%E1%BB%9Bi-will/1734991119850635/)
