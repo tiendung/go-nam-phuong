@@ -7,7 +7,7 @@
   <article class="mw7 w-100 ph3 ph4-ns">
 
     <header>
-    {{ partial "post_meta.html" . }}
+    {{ if .Params.author }}{{ partial "post_meta.html" . }}{{ end }}
     {{ partial "share_icons.html" . }}
 
     {{ if ne .Params.header.layout "hero" }}
