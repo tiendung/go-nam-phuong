@@ -1,28 +1,29 @@
 ---
 title: Bạn đã tìm thấy bộ lạc của mình chưa?
-subtitle:
-date: 2017-11-04
+subtitle: null
+date: {}
 author: boo
-
 categories:
-- live
-- community
-- tribe
+  - live
+  - community
+  - tribe
 tags:
-- bộ lạc
-
+  - bộ lạc
 header:
   caption: '[Unsplash](https://unsplash.com)'
-  image: https://images.unsplash.com/photo-1425141708895-60ba4a72e556?fit=crop&w=1200&h=627
+  image: >-
+    https://images.unsplash.com/photo-1425141708895-60ba4a72e556?fit=crop&w=1200&h=627
   layout: hero
   navigation: fancy
   class: bg-darken-50 bg-darken-25-l bg-center
-
-cover_image: https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800
-description: '"Bộ lạc" là cộng đồng những người chia sẻ chung những giá trị cơ bản với bạn, hỗ trợ bạn và ngược lại cũng nhận được hỗ trợ từ sự tham gia của bạn.'
+cover_image: 'https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800'
+description: >-
+  "Bộ lạc" là cộng đồng những người chia sẻ chung những giá trị cơ bản với bạn,
+  hỗ trợ bạn và ngược lại cũng nhận được hỗ trợ từ sự tham gia của bạn.
+published: true
 ---
 
-Bạn đang tìm đến ai khi cần giúp đỡ, hỗ trợ? Bạn dựa vào ai khi tìm kiếm thêm động lực? Các bạn có là thành viên của một nhóm cho mình  cả cảm hứng lẫn kỉ luật khi phấn đấu đạt mục tiêu? Các bạn có từng nghĩ đến việc tìm ra một cố vấn (mentor) để dẫn dắt mình qua các giai đoạn phát triển?
+Bạn đang tìm đến ai khi cần giúp đỡ, hỗ trợ? Bạn dựa vào ai khi tìm kiếm thêm động lực? Bạn có là thành viên của một nhóm cho mình cả cảm hứng lẫn kỉ luật khi phấn đấu đạt mục tiêu? Bạn có từng nghĩ đến việc tìm ra một cố vấn (mentor) để dẫn dắt mình qua các giai đoạn phát triển?
 
 Câu trả lời cho những câu hỏi trên sẽ trực tiếp dẫn bạn đến “Bộ lạc” của mình.
 
@@ -53,7 +54,7 @@ Trước hết, hãy viết ra câu trả lời cho các câu hỏi sau, cố g�
 9. Có cộng đồng nào bạn cảm thấy muốn gia nhập?
 10. Bạn hình dung những nơi các thành viên bộ lạc của bạn thường tụ tập là ở đâu? (cả online lẫn offline)
 
-{{< figure src="/images/2017-11-04/cong-dong-ttn-tai-dalat.jpg" alt="Cộng đồng sống thuận tự nhiên của mình ở Đà Lạt" caption="Cộng đồng sống thuận tự nhiên của mình ở Đà Lạt" class="tc" >}}
+{{< figure src="/images/2017-11-04/cong-dong-ttn-tai-dalat.jpg" alt="Cộng đồng sống thuận tự nhiên của mình ở Đà Lạt" caption="Cộng đồng sống thuận tự nhiên của tôi ở Đà Lạt" class="tc" >}}
 
 ## Bước 2: Mở rộng ranh giới
 
