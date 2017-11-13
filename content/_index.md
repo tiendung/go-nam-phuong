@@ -11,5 +11,5 @@ header:
   cta:
     text: Câu chuyện của tôi
     url: "/about"
-    class: btn btn-outline--light grow
+    class: ba border-box bw1 grow no-underline white hover-white pa2 tracked ttu
 ---
