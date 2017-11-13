@@ -1,14 +1,15 @@
 ---
 title: 17 tips mua sắm của người tiêu dùng thông thái
-subtitle:
-date: 2017-11-04
+subtitle: null
+date: {}
 author: boo
 categories:
-- healthy101
-- mua sắm
+  - healthy101
+  - mua sắm
 tags:
-- mua sắm
-cover_image: https://images.unsplash.com/photo-1495214783159-3503fd1b572d?w=800
+  - mua sắm
+cover_image: 'https://images.unsplash.com/photo-1495214783159-3503fd1b572d?w=800'
+published: true
 ---
 
 <ul class="list pl0 measure center">
@@ -45,7 +46,7 @@ cover_image: https://images.unsplash.com/photo-1495214783159-3503fd1b572d?w=800
   </li>
 
   <li class="lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">
-  Hãy tìm kiếm tất cả các dạng đường ghi trên nhãn. Một loại phiên bản của đường tinh luyện thường được sử dụng để dẫn dụ bạn nghĩ rằng không có quá nhiều đường trong sản phẩm. Sau đây là các tên phiên bản:
+  Hãy tìm kiếm tất cả các dạng đường ghi trên nhãn. Một loạt phiên bản của đường tinh luyện thường được sử dụng để dẫn dụ bạn nghĩ rằng không có quá nhiều đường trong sản phẩm. Sau đây là các tên phiên bản:
     <ul>
       <li><span class="underline">Tiếng Việt</span>: đường mía, đường nâu, đường củ cải, đường chà là, đường nho, đường glucose, đường sucrose,maltodextrin, dextran, dextrose, sorbitol, si-rô ngô, đường fructose, Xi-rô ngô fructose cao, đường bắp, nước trái cây, nước trái cây cô đặc, mạch nha, caramel, xi-rô carob và xi-rô lúa miến</li>
       <li><span class="underline">Tiếng Anh</span>: cane sugar, brown sugar, beet sugar, date sugar, grape sugar, glucose, sucrose, maltose, maltodextrin, dextran, dextrose, sorbitol, corn syrup, fructose, high fructose corn syrup (HFCS), corn sugar, fruit juice, fruit juice concentrate, barley malt, caramel, carob syrup and sorghum syrup.</li>
