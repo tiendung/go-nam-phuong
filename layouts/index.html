@@ -1,10 +1,10 @@
 {{ define "main" }}
 
 <main class="flex flex-column items-center fw3">
-  <session class="w-100 mw8 mb0 cf">
-    <h1 class="ml3 ml4-ns pt3">Hãy để tôi giúp bạn</h1>
+  <div class="w-100 mw8 mb0 pl3 pl4-ns mt4 cf">
+    <h1 class="">Hãy để tôi giúp bạn</h1>
       {{ range .Site.Data.homepage.helps }}
-      <article class="w-100 w-third-l mb3 ph3 fl">
+      <article class="w-100 w-third-l mb3 pr3 pr4-ns fl">
         <div class="shadow-5">
           <div class="aspect-ratio aspect-ratio--16x9 dim overflow-hidden">
             <a class="flex items-center justify-center aspect-ratio--object cover link white hover-white"
@@ -21,7 +21,7 @@
         </div>
       </article>
       {{ end }}
-  </session>
+  </div>
 
   <div class="mw8 w-100 pl3 pl4-ns mb4">
     <h1>Bài viết của Phương</h1>
