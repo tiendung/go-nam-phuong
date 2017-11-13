@@ -25,9 +25,10 @@
 
   <div class="mw8 w-100 pl3 pl4-ns mb4">
     <h1>Bài viết của Phương</h1>
-    <!-- Ranges through .Site.Data.homepage.selected_post_urls -->
-    {{ range where .Site.Pages "URL" "in" .Site.Data.homepage.selected_post_urls }}
-    {{ partial "post/selected.html" . }}
+    <!-- Ranges through .Site.Data.homepage.selected_posts -->
+    {{ $site := .Site }}
+    {{ range .Site.Data.homepage.selected_posts }}
+    {{ partial "post/selected.html" ( $site.GetPage "page" . ) }}
     {{ end }}
 
     <a href="/posts" class="f5 no-underline inline-flex items-center pa3 ba border-box grow">
