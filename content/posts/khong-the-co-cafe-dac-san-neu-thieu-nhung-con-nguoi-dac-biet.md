@@ -2,7 +2,7 @@
 author: alex
 date: '2016-12-10'
 title: Không thể có cà phê “đặc sản” nếu thiếu những con người “đặc biệt”
-cover_image: 'https://imgur.com/VsEt8Az'
+cover_image: 'https://i.imgur.com/VsEt8Az.jpg'
 published: true
 Description: >-
   Trải nghiệm tại vùng đất của cà phê Arabica Việt Nam mang đến thật nhiều câu
