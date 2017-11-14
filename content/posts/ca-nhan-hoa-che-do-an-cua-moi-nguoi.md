@@ -1,13 +1,14 @@
 ---
-title: Cá nhân hoá chế độ ăn của mỗi người, tại sao không?
+title: 'Cá nhân hoá chế độ ăn của mỗi người, tại sao không?'
 subtitle: Một xu hướng tất yếu trong ngành chăm sóc sức khoẻ
-date: 2017-11-02
+date: {}
 author: boo
 categories:
-- ăn
+  - ăn
 tags:
-- cá nhân hoá
+  - cá nhân hoá
 cover_image: /images/2017-11-02/su-khac-biet.jpg
+published: true
 ---
 
 Bạn có để ý rằng, càng ngày lựa chọn của chúng ta càng được cá nhân hoá trên nhiều phương diện không? Các công ty công nghệ hàng đầu cùng thuật toán của họ đang cá nhân hoá lựa chọn tiêu thụ & mua sắm của chúng ta. Từ kết quả tìm kiếm Google, cách hiển thị nội dung trên Facebook Timeline cho đến cá tựa sách xuất hiện trước mắt khi vào Amazon... đều rất khác biệt giữa tôi và bạn.
@@ -48,7 +49,7 @@ Nhưng đây không phải là nhóm duy nhất nhìn thấy tiềm năng hứa 
 
 Các nghiên cứu khoa học liên tục chỉ ra sự liên quan giữa ít nhất 38 gen với việc tiêu hoá dinh dưỡng - nhiều trong số đó được cho là cản trở hoặc hỗ trợ sự hấp thu hoặc tính hiệu quả khi sử dụng dinh dưỡng trong thực phẩm. Tuỳ vào cấu tạo gen, các nghiên cứu sẽ đề xuất bạn tiêu thụ nhiều hơn hay ít hơn <a href="http://ghr.nlm.nih.gov/gene/MTHFR" target="_blank">folate</a>, <a href="http://www.karger.com/Article/FullText/337310" target="_blank">choline</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/21152927" target="_blank">vitamin C</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/20409549" target="_blank">fatty acids</a>, <a href="http://jn.nutrition.org/content/142/5/853.abstract" target="_blank">starches</a> và <a href="http://www.ncbi.nlm.nih.gov/pubmed/16522833" target="_blank">caffeine</a>.
 
-Tiến sĩ Mathers nói: “Chúng tôi bắt đầu thấy được liên kết giữa thức ăn, hệ vi sinh, cấu trúc sinh học cá nhân và sức khoẻ của chúng ta. Những đường dây nghiên cứu này bắt đầu chụm một phần vì chúng ta có được công nghệ xử lý dữ liệu lớn.” Ông dẫn dắt một nghiên cứu 6 tháng tên <a href="http://www.food4me.org/" target="_blank">Food4Me</a> được tài trợ bởi liên minh châu  u. 1500 người đến từ 7 nước châu  u đã được ngẫu nhiên đưa ra những lời khuyên ăn uống có tính cá nhân hoá dựa trên dữ liệu gen di truyền, hoặc được bảo đi theo các chế độ ăn tiêu chuẩn như ăn thật nhiều trái cây và rau, thịt nạc và ngũ cốc toàn phần.
+Tiến sĩ Mathers nói: “Chúng tôi bắt đầu thấy được liên kết giữa thức ăn, hệ vi sinh, cấu trúc sinh học cá nhân và sức khoẻ của chúng ta. Những đường dây nghiên cứu này bắt đầu chụm một phần vì chúng ta có được công nghệ xử lý dữ liệu lớn.” Ông dẫn dắt một nghiên cứu 6 tháng tên <a href="http://www.food4me.org/" target="_blank">Food4Me</a> được tài trợ bởi liên minh châu  Âu. 1500 người đến từ 7 nước châu  u đã được ngẫu nhiên đưa ra những lời khuyên ăn uống có tính cá nhân hoá dựa trên dữ liệu gen di truyền, hoặc được bảo đi theo các chế độ ăn tiêu chuẩn như ăn thật nhiều trái cây và rau, thịt nạc và ngũ cốc toàn phần.
 
 Mặc dù kết quả chưa được công bố,  Tiến sĩ Mathers nói : "Điểm mấu chốt là những người trong chế độ ăn kiêng cá nhân đã có kết quả tốt hơn so với những người đi theo những lời khuyên kiểu một-kích-cỡ-cho-tất-cả, khiến chúng tôi khá tự tin rằng chế độ ăn uống cá nhân chính là con đường phía trước."
 
