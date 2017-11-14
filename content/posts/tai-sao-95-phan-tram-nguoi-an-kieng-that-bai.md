@@ -13,7 +13,7 @@ categories:
 tags:
   - ăn kiêng
   - giảm cân
-cover_image: 'https://imgur.com/Au8MKY3'
+cover_image: 'https://i.imgur.com/Au8MKY3.jpg'
 published: true
 ---
 
