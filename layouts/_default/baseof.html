@@ -5,7 +5,9 @@
 
 <body class="black-80">
 
+{{- if not .Params.no_header }}
 {{- partial "header.html" . }}
+{{ end }}
 
 {{ block "main" . }}
 {{ end }}
@@ -14,7 +16,9 @@
 {{- partial "newsletter_form.html" . }}
 {{- end }}
 
+{{- if not .Params.no_footer }}
 {{ partial "footer.html" . }}
+{{ end }}
 
 {{- if ne (getenv "HUGO_ENV") "production" }}
 <script>
