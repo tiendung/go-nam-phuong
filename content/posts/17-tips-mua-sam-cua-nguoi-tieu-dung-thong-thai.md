@@ -7,8 +7,7 @@ categories:
   - mua sắm
 tags:
   - mua sắm
-cover_image: >-
-  https://img2.brain3.photobox.com/556146895a3a7f892a7e36664e38c636510d400da9623ccb52688299030f05601304d476.jpg
+cover_image: 'https://i.imgur.com/C9x1u2p.jpg'
 published: true
 ---
 
