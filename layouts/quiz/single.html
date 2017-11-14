@@ -1,0 +1,52 @@
+{{ define "main" }}
+{{ $quiz := getJSON .Params.json_file }}
+{{ $debug := ne (getenv "HUGO_ENV") "production" }}
+
+<main class="mw7 w-100 pa3 {{ if 0 }}debug debug-grid-16{{ end }}">
+  <h1 class="lh-title">{{ .Params.title }}</h1>
+
+  {{ range $i, $q := $quiz.questions }}
+  <div class="w-100 mb4">
+    <h2 class="lh-title">{{ add $i 1 }}. {{ .text }}</h2>
+    {{ with .image }}<img class="w-100 w-60-ns" src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
+    {{ $has_image := index (0 | index .answers) "image"  }}
+    <ul class="list pl0 w-100 flex {{ if $has_image }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
+    {{ range .answers }}
+      <li class="{{ if $has_image }}w-50 w-third-ns{{ end }}">
+        <a class="db dim ba b--black-20 mr2 mb2 pa2 shadow-4 no-underline bg-light-gray" href="#">
+          {{ with .image }}<img class="w-100" src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
+          <div class="{{ if not $has_image }}f4 f3-ns pa1 pa2-ns fw3{{ else }}f5 f4-ns fw4{{ end }}">
+            {{ .text }}
+          </div>
+        </a>
+      </li>
+    {{ end }}
+    </ul>
+    <hr class="">
+  </div>
+  {{ end }}
+</main>
+
+<script src="https://unpkg.com/vue"></script>
+<script>
+</script>
+
+{{ if $debug }}
+<script>
+  var q = {{ $quiz }};
+
+  console.log("Quiz:");
+  console.log(q);
+
+  console.log("Question:");
+  console.log(q.questions[1]);
+
+  console.log("answer:");
+  console.log(q.questions[0]["answers"][0]);
+
+  console.log("Result:");
+  console.log(q.results[0]);
+</script>
+{{ end }}
+
+{{ end }}
