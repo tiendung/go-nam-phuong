@@ -55,7 +55,6 @@ Tôi sử dụng được thế mạnh của mình hàng ngày, điều mà từ
 
 Thế giới này cần nó và trả công cho nó: Nghề Health Coach đang được công nhận là giải quyết được nhiều vấn đề mà ngành y tế hiện vẫn đang bó tay (\*). “Health” - Sức khoẻ ở đây là sự cân bằng toàn diện của Thân - Tâm - Trí. Sức khoẻ ở đây không phải là một mục tiêu ám ảnh, mà là phương tiện để theo đuổi ước mơ và sống cuộc đời chúng ta mong muốn.
 
-{{< figure src="https://i.imgur.com/undefined.jpg" alt="health coach life" >}}
 
 Nhưng tất cả chỉ là lý thuyết nếu như tôi không thực sự làm được những điều mình nói. Tôi dành hẳn 1 năm nghỉ việc ở nhà mày mò nghiên cứu, thực hành, thực hành quan sát nội tâm và kết nối với tự nhiên. Tôi chấp nhận trải qua nhiều vật lộn tâm lý và sức khoẻ, có những lúc phải nằm bẹp vì quá mệt hay lặng lẽ khóc khi đối diện nỗi đau. Tôi viết Nhật ký Biết ơn, tập trung vào những điều mình nhận được ngay sau khi cho đi. Chỉ bằng cách suy nghĩ tích cực, chúng tôi thu hút những con người tích cực và những may mắn vào cuộc sống của mình.
 
@@ -68,4 +67,3 @@ Cho đến giờ, khi ngồi gõ những dòng này, tôi chưa bao giờ tự h
 
 Tôi học hàng trăm trường phái dinh dưỡng, khái niệm sức khoẻ từ những nhà giáo dụng hàng đầu thế giới, học về thức ăn cơ thể cũng như thức ăn tinh thần. Nhưng sau cùng, người thầy lớn nhất của tôi là cơ thể mình, như một tiểu vũ trụ thuộc về một vũ trụ vĩ đại lớn lao hơn thế. Mà vũ trụ hoá ra luôn gửi đến cho tôi những tín hiệu, chỉ cần chú ý “đọc" được tôi tin mình sẽ đi đúng hướng cần đi. Tôi đã học cách lắng nghe cơ thể mình, dần dần tìm được sức khoẻ Thân - Tâm và cả gạch nối liên kết giữa hai điều đó. Tôi học được cách nhận diện được những thói quen tiêu cực trong suy nghĩ, quan sát nó thấu triệt và lấy lại từ nó quyền làm chủ chính mình. Tôi học được cách cân bằng mọi điều quan trọng với mình: sự nghiệp, các mối quan hệ, thực hành tâm linh, vận động, nấu nướng, chăm sóc vườn tược...và có được niềm giản dị mỗi ngày.
 
-{{< figure src="/images/2017-11-02/food-is-medicine.jpg" alt="Food is medicine" >}}
