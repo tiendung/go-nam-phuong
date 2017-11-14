@@ -1,10 +1,11 @@
-+++
-author = "boo"
-date = "2016-04-17"
-title = "[ Đà Lạt du ký ] Một Little Forest"
-draft = false
-cover_image = "/images/2016-04-17/da-lat-indigo-home.jpg"
-+++
+---
+{
+   "author": "boo",
+   "date": "2016-04-17",
+   "title": "[ Đà Lạt du ký ] Một Little Forest",
+   "cover_image": "/images/2016-04-17/da-lat-indigo-home.jpg",
+}
+---
 
 Tôi vô tình xem Little Forest tầm 2 tháng trước. Một bộ phim giản đơn, tươi mát và thấm đẫm tinh thần Nhật Bản. Thoại tối giản, phim giống như một bộ phim tài liệu không lời với chủ đề "từ nông trại đến bàn ăn".
 

@@ -1,15 +1,18 @@
 ---
-title: Vì sao tôi trở thành 1 Health Coach?
-subtitle:
-date: 2017-11-02
-author: boo
-categories:
-- live
-- coach
-tags:
-- health coach
-description: “Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như vậy.
-cover_image: "/images/2017-11-02/nhaam.jpg"
+{
+   "author": "boo",
+   "date": "2017-11-02",
+   "title": "Vì sao tôi trở thành 1 Health Coach?",
+   "categories": [
+      "live",
+      "coach"
+   ],
+   "tags": [
+      "health coach"
+   ],
+   "cover_image": "/images/2017-11-02/nhaam.jpg",
+   "description": "“Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như vậy.",
+}
 ---
 
 Tôi chưa từng ngờ rằng mình sẽ kể về bố trên bước đường nghề nghiệp.

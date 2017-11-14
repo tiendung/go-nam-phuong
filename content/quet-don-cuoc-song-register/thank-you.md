@@ -1,3 +1,5 @@
 ---
-title: Chương trình quét dọn cuộc sống
+{
+   "title": "Chương trình quét dọn cuộc sống"
+}
 ---

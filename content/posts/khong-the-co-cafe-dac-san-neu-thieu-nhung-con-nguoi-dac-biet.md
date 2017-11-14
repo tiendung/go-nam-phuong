@@ -1,11 +1,11 @@
-+++
-author = "alex"
-date = "2016-12-10"
-title = "Không thể có cà phê “đặc sản” nếu thiếu những con người “đặc biệt”"
-draft = false
-cover_image = "/images/2016-12-10/trai-ca-phe.jpg"
-showonlyimage = false
-+++
+---
+{
+   "author": "alex",
+   "date": "2016-12-10",
+   "title": "Không thể có cà phê “đặc sản” nếu thiếu những con người “đặc biệt”",
+   "cover_image": "/images/2016-12-10/trai-ca-phe.jpg",
+}
+---
 
 Đà Lạt càng gần Noel càng lạnh hơn thường lệ. Năm giờ rưỡi sáng trời vẫn tối thui và gió lạnh không ngừng thổi qua khe cửa. Tôi vùng dậy đi tập Yoga ca sớm nhất để còn kịp vào vườn thu hoạch cà phê đang mùa chín rộ.
 

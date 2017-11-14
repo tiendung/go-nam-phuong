@@ -1,15 +1,19 @@
 ---
-title: 10 nguyên tắc ăn uống bất biến
-subtitle:
-date: 2017-11-01
-author: boo
-categories:
-- healthy101
-- ăn
-tags:
-- ăn
-- uống
-- thực phẩm
+{
+   "author": "boo",
+   "date": "2017-11-01",
+   "title": "10 nguyên tắc ăn uống bất biến",
+   "subtitle": null,
+   "categories": [
+      "healthy101",
+      "ăn"
+   ],
+   "tags": [
+      "ăn",
+      "uống",
+      "thực phẩm"
+   ],
+}
 ---
 
 Sau đây là những nguyên tắc ăn uống nên được duy trì lâu dài để có một cuộc sống khoẻ mạnh. Gọi là “bất biến" vì tôi tin chắc rằng các nguyên tắc này không chịu sự chi phối bởi các khác biệt của chúng ta như: độ tuổi, giới tính, cân nặng, thậm chí niềm tin tôn giáo.

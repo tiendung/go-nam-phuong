@@ -1,15 +1,16 @@
 ---
-title: Khai vấn theo nhóm
-type: static
-subtitle: Tiết kiệm chi phí. Gia tăng niềm vui
-paragraph:
-header:
-  layout: hero
-  image: https://images.unsplash.com/photo-1496275068113-fff8c90750d1?auto=format&fit=crop&w=1000
-  class: bg-darken-50 bg-darken-25-l bg-center
-  cta:
+{
+  title: "Khai vấn theo nhóm",
+  type: "static",
+  subtitle: "Tiết kiệm chi phí. Gia tăng niềm vui",
+  header: {
+    layout: "hero",
+    image: "https://images.unsplash.com/photo-1496275068113-fff8c90750d1?auto=format&fit=crop&w=1000",
+    class: "bg-darken-50 bg-darken-25-l bg-center",
+  }
+}
 ---
-
+  
 Bạn muốn được coach để đạt được mục tiêu sức khoẻ nhưng lại lo ngại cô đơn khi một mình phấn đấu?
 
 Bạn cần thêm động lực từ những người bạn có chung mục tiêu?

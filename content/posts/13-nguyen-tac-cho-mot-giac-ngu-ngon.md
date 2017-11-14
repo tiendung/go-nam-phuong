@@ -1,15 +1,17 @@
 ---
-title: 13 nguyên tắc cho một giấc ngủ ngon
-subtitle: null
-date: 2017-11-03
-author: boo
-categories:
-  - ngủ
-  - healthy101
-tags:
-  - ngủ
-cover_image: 'https://images.unsplash.com/photo-1503756755766-151cb0cd465f?w=800'
-published: true
+{
+   "author": "boo",
+   "date": "2017-11-03",
+   "title": "13 nguyên tắc cho một giấc ngủ ngon",
+   "categories": [
+      "ngủ",
+      "healthy101"
+   ],
+   "tags": [
+      "ngủ"
+   ],
+   "cover_image": "https://images.unsplash.com/photo-1503756755766-151cb0cd465f?w=800",
+}
 ---
 
 Bạn nói: “Hả? 13 chỉ dẫn luôn á? Ai mà theo hết được!”. Nhưng bạn ơi, đừng quên ⅓ thời gian sống của bạn đang dành cho hoạt động này.

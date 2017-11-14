@@ -1,13 +1,14 @@
 ---
-title: Khai vấn miễn phí
-type: static
-subtitle: Xây dựng lịch sử sức khoẻ
-paragraph:
-header:
-  layout: hero
-  image: https://images.unsplash.com/photo-1460518451285-97b6aa326961?auto=format&fit=crop&w=1000
-  class: bg-darken-50 bg-darken-25-l bg-center
-  cta:
+{
+  title: "Khai vấn miễn phí",
+  type: "static",
+  subtitle: "Xây dựng lịch sử sức khoẻ",
+  header: {
+    layout: "hero",
+    image: "https://images.unsplash.com/photo-1460518451285-97b6aa326961?auto=format&fit=crop&w=1000",
+    class: "bg-darken-50 bg-darken-25-l bg-center"
+  }
+}
 ---
 
 [Khai vấn 1:1](/1-on-1-coaching) là hình thức hỗ trợ phát triển cá nhân hiệu quả nhất. Đặc biệt trong lĩnh vực sức khoẻ, tính sinh học cá nhân đang dần được công nhận rộng rãi, đòi hỏi lối tiếp cận cá nhân hoá, toàn diện cho mỗi người.

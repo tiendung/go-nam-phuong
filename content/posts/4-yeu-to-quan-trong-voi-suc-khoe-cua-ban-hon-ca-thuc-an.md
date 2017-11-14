@@ -1,14 +1,18 @@
 ---
-title: Thức ăn Thân & Thức ăn Tâm
-subtitle: Những yếu tố quan trọng với sức khoẻ của bạn hơn cả thức ăn
-date: 2017-11-01
-author: boo
-categories:
-- sống
-- ăn
-tags:
-- thức ăn tâm
-cover_image: https://images.unsplash.com/photo-1492552085122-36706c238263?w=800
+{
+   "author": "boo",
+   "date": "2017-11-01",
+   "title": "Thức ăn Thân và Thức ăn Tâm",
+   "subtitle": "Những yếu tố quan trọng với sức khoẻ của bạn hơn cả thức ăn",
+   "categories": [
+      "sống",
+      "ăn"
+   ],
+   "tags": [
+      "thức ăn tâm"
+   ],
+   "cover_image": "https://images.unsplash.com/photo-1492552085122-36706c238263?w=800",
+}
 ---
 
 Là người tìm kiếm sự một sức khoẻ toàn diện với cân bằng Thân-Tâm-Trí, một Health Coach như tôi có triết lý về thức ăn rất khác biệt: Có thức ăn nuôi dưỡng Cơ thể - được gọi là thức ăn Thân, và có thức ăn nuôi dưỡng Tâm hồn - được gọi là thức ăn Tâm. Và Thức ăn Tâm chính là nguồn dinh dưỡng thực sự quan trọng mà hầu hết mọi người đang để mất cân bằng và thiếu hụt.

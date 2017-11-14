@@ -1,10 +1,11 @@
-+++
-author = "boo"
-date = "2017-05-29"
-title = "Nhắm mắt radio #3 – Café với Will Frith"
-draft = false
-cover_image = "/images/2017-05-29/nham-mat-radio-3.jpg"
-+++
+---
+{
+   "author": "boo",
+   "date": "2017-05-29",
+   "title": "Nhắm mắt radio #3 – Café với Will Frith",
+   "cover_image": "/images/2017-05-29/nham-mat-radio-3.jpg",
+}
+---
 
 Giữa năm nay, giới làm Cà phê Đặc sản (Specialty Coffee) xôn xao khi Will Frith về nước. Sau nhiều năm làm việc như  một chuyên gia quản lý chất lượng cho nhiều công ty rang xay cà phê ở Mỹ và sau này là Singapore, Will Frith trở về Việt Nam năm 2013 với một sứ mệnh riêng.
 

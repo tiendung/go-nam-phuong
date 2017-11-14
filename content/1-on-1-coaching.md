@@ -1,13 +1,14 @@
 ---
-title: Khai vấn 1:1
-type: static
-subtitle: Hỗ trợ phát triển cá nhân hiệu quả nhất
-paragraph:
-header:
-  layout: hero
-  image: https://images.unsplash.com/photo-1502843082787-de71ad5cc73f?auto=format&fit=crop&w=1600
-  class: bg-darken-50 bg-darken-25-l bg-center
-  cta:
+{
+  title: "Khai vấn 1:1",
+  type: "static",
+  subtitle: "Hỗ trợ phát triển cá nhân hiệu quả nhất",
+  header: {
+    layout: "hero",
+    image: "https://images.unsplash.com/photo-1502843082787-de71ad5cc73f?auto=format&fit=crop&w=1600",
+    class: "bg-darken-50 bg-darken-25-l bg-center"
+  }
+}
 ---
 
 Tôi nghe rất nhiều người nói rằng: “Tôi biết là mình nên ăn lành mạnh hơn, tôi biết mình nên vận động thường xuyên hơn, tôi biết mình cần suy nghĩ tích cực hơn…”. Hầu hết chúng ta biết mình cần phải làm gì nhưng lại không thể ép bản thân làm được điều đó. Vì sao?

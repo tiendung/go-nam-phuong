@@ -1,20 +1,24 @@
 ---
-title: Tại sao 95% người ăn kiêng thất bại?
-subtitle:
-date: 2017-11-02
-author: boo
-header:
-  image: /images/2017-11-02/an-kieng.jpg
-  layout: hero
-  navigation: fancy
-  class: bg-darken-50 bg-darken-25-l bg-center
-
-categories:
-- ăn
-tags:
-- ăn kiêng
-- giảm cân
-cover_image: /images/2017-11-02/an-kieng.jpg
+{
+  title: "Tại sao 95% người ăn kiêng thất bại?",
+  subtitle: null,
+  date: "2017-11-02T00:00:00.000Z",
+  author: "boo",
+  header: {
+    image: "/images/2017-11-02/an-kieng.jpg",
+    layout: "hero",
+    navigation: "fancy",
+    class: "bg-darken-50 bg-darken-25-l bg-center"
+  },
+  categories: [
+    "ăn"
+  ],
+  tags: [
+    "ăn kiêng",
+    "giảm cân"
+  ],
+  cover_image: "/images/2017-11-02/an-kieng.jpg"
+}
 ---
 
 Sau khi trở thành 1 Health Coach, tôi thăm dò ý kiến nhiều người về mối bận tâm cho sức khoẻ nói chung của họ. Tuy nhiên, điều khiến tôi ngỡ ngàng là 8 / 10 cô gái sẽ nói về mục tiêu cân nặng.
