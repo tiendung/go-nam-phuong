@@ -2,13 +2,16 @@
 {{ $quiz := getJSON .Params.json_file }}
 {{ $debug := ne (getenv "HUGO_ENV") "production" }}
 
-<main class="mw7 w-100 pa3 {{ if 0 }}debug debug-grid-16{{ end }}">
-  <h1 class="lh-title">{{ .Params.title }}</h1>
+<main class="mw8 w-100 pa3 {{ if 0 }}debug debug-grid-16{{ end }}">
+  <div class="black-70 pb3">
+    <h1 class="f-headline-l lh-title mt3">{{ .Params.title }}</h1>
+    <p class="lh-copy measure fw4 f4 f3-ns">{{ .Params.description }}</p>
+  </div>
 
   {{ range $i, $q := $quiz.questions }}
   <div class="w-100 mb4">
     <h2 class="lh-title">{{ add $i 1 }}. {{ .text }}</h2>
-    {{ with .image }}<img class="w-100 w-60-ns" src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
+    {{ with .image }}<img class="w-100 w-60-ns br4 o-80" src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
     {{ $has_image := index (0 | index .answers) "image"  }}
     <ul class="list pl0 w-100 flex {{ if $has_image }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
     {{ range .answers }}
