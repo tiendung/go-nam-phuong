@@ -8,7 +8,7 @@ categories:
   - ăn
 tags:
   - thức ăn tâm
-cover_image: 'https://imgur.com/a/djsxD'
+cover_image: 'https://i.imgur.com/E7TLYNz.jpg'
 published: true
 description: 'Nếu bạn hiểu được điều này, bạn sẽ tạo ra khác biệt thực sự trong cuộc sống!'
 ---
