@@ -15,7 +15,7 @@ header:
   layout: hero
   navigation: fancy
   class: bg-darken-50 bg-darken-25-l bg-center
-cover_image: 'https://imgur.com/16e15b59-a240-4fa2-a8e8-7f9920c769c5'
+cover_image: 'https://i.imgur.com/E6v7auj.jpg'
 description: >-
   "Bộ lạc" là cộng đồng những người chia sẻ chung những giá trị cơ bản với bạn,
   hỗ trợ bạn và ngược lại cũng nhận được hỗ trợ từ sự tham gia của bạn.
