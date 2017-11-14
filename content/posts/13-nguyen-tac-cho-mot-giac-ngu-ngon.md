@@ -7,7 +7,7 @@ categories:
   - healthy101
 tags:
   - ngủ
-cover_image: 'https://i.imgur.com/maKGl3a.png'
+cover_image: 'https://i.imgur.com/yg6PHMe.jpg'
 published: true
 Description: >-
   Ngủ chiếm đến 1/3 thời gian sống của bạn. Đã đến lúc để cải thiện chất lượng

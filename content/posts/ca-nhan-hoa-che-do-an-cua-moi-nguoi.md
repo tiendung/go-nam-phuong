@@ -1,17 +1,14 @@
 ---
-{
-   "author": "boo",
-   "date": "2017-11-02",
-   "title": "Cá nhân hoá chế độ ăn của mỗi người, tại sao không?",
-   "subtitle": "Một xu hướng tất yếu trong ngành chăm sóc sức khoẻ",
-   "categories": [
-      "ăn"
-   ],
-   "tags": [
-      "cá nhân hoá"
-   ],
-   "cover_image": "/images/2017-11-02/su-khac-biet.jpg",
-}
+author: boo
+date: '2017-11-02'
+title: 'Cá nhân hoá chế độ ăn của mỗi người, tại sao không?'
+subtitle: Một xu hướng tất yếu trong ngành chăm sóc sức khoẻ
+categories:
+  - ăn
+tags:
+  - cá nhân hoá
+cover_image: /images/2017-11-02/su-khac-biet.jpg
+published: true
 ---
 
 Bạn có để ý rằng, càng ngày lựa chọn của chúng ta càng được cá nhân hoá trên nhiều phương diện không? Các công ty công nghệ hàng đầu cùng thuật toán của họ đang cá nhân hoá lựa chọn tiêu thụ & mua sắm của chúng ta. Từ kết quả tìm kiếm Google, cách hiển thị nội dung trên Facebook Timeline cho đến cá tựa sách xuất hiện trước mắt khi vào Amazon... đều rất khác biệt giữa tôi và bạn.

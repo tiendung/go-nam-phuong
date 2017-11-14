@@ -1,18 +1,15 @@
 ---
-{
-   "author": "boo",
-   "date": "2017-11-03",
-   "title": "8 nguyên nhân gây thèm ăn",
-   "categories": [
-      "ăn"
-   ],
-   "subtitle": null,
-   "tags": [
-      "ăn",
-      "thèm ăn"
-   ],
-   "cover_image": "https://images.unsplash.com/photo-1484876586759-80555b97b22d?w=800",
-}
+author: boo
+date: '2017-11-03'
+title: 8 nguyên nhân gây thèm ăn
+categories:
+  - ăn
+subtitle: null
+tags:
+  - ăn
+  - thèm ăn
+cover_image: 'https://i.imgur.com/XPHOeHY.jpg'
+published: true
 ---
 
 Cơ thể bạn là một  máy tính sinh học. Nó biết khi nào cần đi ngủ, khi nào cần thức dậy và khi nào cần ăn. Nó giữ nhiệt đúng 37 độ C, tự sữa chữa khi bị thương, và làm nên điều kỳ diệu qua việc mang thai và sinh con. Tim bạn không bao giờ lỡ một nhịp. Phổi bạn không bao giờ lỡ một hơi. Cơ thể chính là một siêu máy tính, và nó không bao giờ nhầm lẫn.

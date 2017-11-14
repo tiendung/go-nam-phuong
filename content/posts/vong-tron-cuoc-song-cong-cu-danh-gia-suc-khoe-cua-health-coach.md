@@ -1,17 +1,15 @@
 ---
-{
-   "author": "boo",
-   "date": "2017-11-01",
-   "title": "Vòng tròn Cuộc sống: Công cụ đánh giá sức khoẻ của Health Coach",
-   "categories": [
-      "sống"
-   ],
-   "tags": [
-      "vòng tròn cuộc sống",
-      "thức ăn tâm"
-   ],
-   "cover_image": "https://images.unsplash.com/photo-1496989981497-27d69cdad83e?fit=crop\u0026w=800\u0026h=600",
-}
+author: boo
+date: '2017-11-01'
+title: 'Vòng tròn Cuộc sống: Công cụ đánh giá sức khoẻ của Health Coach'
+categories:
+  - sống
+tags:
+  - vòng tròn cuộc sống
+  - thức ăn tâm
+cover_image: >-
+  https://images.unsplash.com/photo-1496989981497-27d69cdad83e?fit=crop&w=800&h=600
+published: true
 ---
 
 Liệu một cuộc sống viên mãn, hạnh phúc, khoẻ mạnh có nghe như một giấc mơ đối với bạn? Cho dù bạn đang tìm kiếm niềm vui, tiền bạc hay tình yêu, tôi có một công cụ mà bạn cần sử dụng ngay bây giờ.
