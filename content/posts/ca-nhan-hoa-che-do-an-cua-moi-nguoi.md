@@ -7,7 +7,7 @@ categories:
   - ăn
 tags:
   - cá nhân hoá
-cover_image: /images/2017-11-02/su-khac-biet.jpg
+cover_image: 'https://i.imgur.com/8664O78.jpg'
 published: true
 ---
 

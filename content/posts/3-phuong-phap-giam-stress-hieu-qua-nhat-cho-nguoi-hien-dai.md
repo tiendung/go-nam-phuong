@@ -11,7 +11,7 @@ tags:
   - thiền
   - thở
   - yoga
-cover_image: 'https://imgur.com/4qEgMFM'
+cover_image: 'https://i.imgur.com/4qEgMFM.jpg'
 published: true
 ---
 

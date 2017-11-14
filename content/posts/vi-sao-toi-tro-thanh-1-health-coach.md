@@ -7,7 +7,7 @@ categories:
   - coach
 tags:
   - health coach
-cover_image: 'https://imgur.com/Fdvs1VB'
+cover_image: 'https://i.imgur.com/Fdvs1VB.jpg'
 description: >-
   “Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như
   vậy.

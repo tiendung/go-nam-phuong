@@ -2,7 +2,7 @@
 author: boo
 date: '2016-04-17'
 title: '[ Đà Lạt du ký ] Một Little Forest'
-cover_image: 'https://imgur.com/Oc8yrpX'
+cover_image: 'https://i.imgur.com/Oc8yrpX.jpg'
 published: true
 Description: Dấu ấn đầu tiên ở Đà Lạt của chúng tôi...
 ---

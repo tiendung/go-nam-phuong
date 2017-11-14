@@ -7,8 +7,7 @@ categories:
 tags:
   - vòng tròn cuộc sống
   - thức ăn tâm
-cover_image: >-
-  https://images.unsplash.com/photo-1496989981497-27d69cdad83e?fit=crop&w=800&h=600
+cover_image: 'https://i.imgur.com/jZgDIJO.jpg'
 published: true
 ---
 
