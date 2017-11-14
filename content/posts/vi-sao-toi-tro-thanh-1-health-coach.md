@@ -1,18 +1,17 @@
 ---
-{
-   "author": "boo",
-   "date": "2017-11-02",
-   "title": "Vì sao tôi trở thành 1 Health Coach?",
-   "categories": [
-      "live",
-      "coach"
-   ],
-   "tags": [
-      "health coach"
-   ],
-   "cover_image": "/images/2017-11-02/nhaam.jpg",
-   "description": "“Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như vậy.",
-}
+author: boo
+date: '2017-11-02'
+title: Vì sao tôi trở thành 1 Health Coach?
+categories:
+  - live
+  - coach
+tags:
+  - health coach
+cover_image: /images/2017-11-02/nhaam.jpg
+description: >-
+  “Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như
+  vậy.
+published: true
 ---
 
 Tôi chưa từng ngờ rằng mình sẽ kể về bố trên bước đường nghề nghiệp.
@@ -55,6 +54,8 @@ Tôi biết mình ham mê nó: tôi đã đọc những bài viết về dinh d�
 Tôi sử dụng được thế mạnh của mình hàng ngày, điều mà từ lâu tôi đã biết là yếu quyết cho một công việc hạnh phúc: nghiên cứu, chia sẻ, kể chuyện, sáng tạo nội dung và truyền cảm hứng.
 
 Thế giới này cần nó và trả công cho nó: Nghề Health Coach đang được công nhận là giải quyết được nhiều vấn đề mà ngành y tế hiện vẫn đang bó tay (\*). “Health” - Sức khoẻ ở đây là sự cân bằng toàn diện của Thân - Tâm - Trí. Sức khoẻ ở đây không phải là một mục tiêu ám ảnh, mà là phương tiện để theo đuổi ước mơ và sống cuộc đời chúng ta mong muốn.
+
+{{< figure src="https://i.imgur.com/undefined.jpg" alt="health coach life" >}}
 
 Nhưng tất cả chỉ là lý thuyết nếu như tôi không thực sự làm được những điều mình nói. Tôi dành hẳn 1 năm nghỉ việc ở nhà mày mò nghiên cứu, thực hành, thực hành quan sát nội tâm và kết nối với tự nhiên. Tôi chấp nhận trải qua nhiều vật lộn tâm lý và sức khoẻ, có những lúc phải nằm bẹp vì quá mệt hay lặng lẽ khóc khi đối diện nỗi đau. Tôi viết Nhật ký Biết ơn, tập trung vào những điều mình nhận được ngay sau khi cho đi. Chỉ bằng cách suy nghĩ tích cực, chúng tôi thu hút những con người tích cực và những may mắn vào cuộc sống của mình.
 
