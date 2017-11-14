@@ -7,7 +7,7 @@ categories:
   - mua sắm
 tags:
   - mua sắm
-cover_image: 'https://imgur.com/C9x1u2p'
+cover_image: 'https://i.imgur.com/C9x1u2p.jpg'
 published: true
 ---
 
