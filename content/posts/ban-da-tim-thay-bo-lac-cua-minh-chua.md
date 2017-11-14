@@ -1,26 +1,25 @@
 ---
-{
-  author: "boo",
-  title: "Bạn đã tìm thấy bộ lạc của mình chưa?",
-  date: "2017-11-04",
-  categories: [
-    "live",
-    "community",
-    "tribe"
-  ],
-  tags: [
-    "bộ lạc"
-  ],
-  header: {
-    caption: "[Unsplash](https://unsplash.com)",
-    image: "https://images.unsplash.com/photo-1425141708895-60ba4a72e556?fit=crop&w=1200&h=627",
-    layout: "hero",
-    navigation: "fancy",
-    class: "bg-darken-50 bg-darken-25-l bg-center"
-  },
-  cover_image: "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800",
-  description: "\"Bộ lạc\" là cộng đồng những người chia sẻ chung những giá trị cơ bản với bạn, hỗ trợ bạn và ngược lại cũng nhận được hỗ trợ từ sự tham gia của bạn."
-}
+author: boo
+title: Bạn đã tìm thấy bộ lạc của mình chưa?
+date: '2017-11-04'
+categories:
+  - live
+  - community
+  - tribe
+tags:
+  - bộ lạc
+header:
+  caption: '[Unsplash](https://unsplash.com)'
+  image: >-
+    https://images.unsplash.com/photo-1425141708895-60ba4a72e556?fit=crop&w=1200&h=627
+  layout: hero
+  navigation: fancy
+  class: bg-darken-50 bg-darken-25-l bg-center
+cover_image: 'https://imgur.com/a/DSehQ'
+description: >-
+  "Bộ lạc" là cộng đồng những người chia sẻ chung những giá trị cơ bản với bạn,
+  hỗ trợ bạn và ngược lại cũng nhận được hỗ trợ từ sự tham gia của bạn.
+published: true
 ---
 
 Bạn đang tìm đến ai khi cần giúp đỡ, hỗ trợ? Bạn dựa vào ai khi tìm kiếm thêm động lực? Bạn có là thành viên của một nhóm cho mình cả cảm hứng lẫn kỉ luật khi phấn đấu đạt mục tiêu? Bạn có từng nghĩ đến việc tìm ra một cố vấn (mentor) để dẫn dắt mình qua các giai đoạn phát triển?
