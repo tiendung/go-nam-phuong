@@ -1,14 +1,16 @@
 ---
 title: 'Vòng tròn Cuộc sống: Công cụ đánh giá sức khoẻ của Health Coach'
-subtitle:
+subtitle: null
 author: boo
-date: 2017-11-01
+date: {}
 categories:
-- sống
+  - sống
 tags:
-- vòng tròn cuộc sống
-- thức ăn tâm
-cover_image: https://images.unsplash.com/photo-1496989981497-27d69cdad83e?fit=crop&w=800&h=600
+  - vòng tròn cuộc sống
+  - thức ăn tâm
+cover_image: >-
+  https://images.unsplash.com/photo-1496989981497-27d69cdad83e?fit=crop&w=800&h=600
+published: true
 ---
 
 Liệu một cuộc sống viên mãn, hạnh phúc, khoẻ mạnh có nghe như một giấc mơ đối với bạn? Cho dù bạn đang tìm kiếm niềm vui, tiền bạc hay tình yêu, tôi có một công cụ mà bạn cần sử dụng ngay bây giờ.
@@ -16,7 +18,7 @@ Liệu một cuộc sống viên mãn, hạnh phúc, khoẻ mạnh có nghe như
 
 Bài tập đó tên là Vòng tròn Cuộc sống, được sử dụng bởi các Health Coach như tôi. Công cụ này được thiết kế dựa trên khái niệm về <a href="/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an" target="_blank">Thức ăn Thân và Thức ăn Tâm.</a>
 
-Hoá ra thức ăn bạn vẫn tiêu hoá hàng ngày, được gọi là Thức ăn Thân, không phải lúc nào cũng quan trọng nhất với sức khoẻ của bạn. Một số Thức ăn Tâm có sức mạnh vượt trội hơn, trong đó 4 lĩnh vực quan trọng nhất là: Một sự nghiệp viên mãn, Những mối quan hệ có tính nuôi dưỡng, Một bộ môn vận động bạn yêu, và Phương pháp thực hành tâm linh phù hợp.
+Hoá ra thức ăn bạn vẫn tiêu hoá hàng ngày, được gọi là Thức ăn Thân, không phải lúc nào cũng quan trọng nhất với sức khoẻ của bạn. Một số Thức ăn Tâm có sức mạnh vượt trội hơn, trong đó 4 lĩnh vực quan trọng nhất là: Sự nghiệp, các mối quan hệ, thói quen vận động và thực hành tâm linh phù hợp.
 
 >
 > Khi Thức ăn Tâm trở nên dồi dào, những thức ăn khác chỉ mang tính phụ trợ.
@@ -70,6 +72,8 @@ In hoặc vẽ vòng tròn này ra giấy và làm theo các bước:
 **Bước 3:** Nhận diện sự mất cân bằng. Chu vi bên trong của phần được nối càng rộng, bạn càng có cuộc sống viên mãn.
 
 Hãy lên kế hoạch hành động để mở rộng Vòng tròn cuộc sống của mình bằng cách liệt kê ra:
+
+
 - *Top 3 lĩnh vực bạn đang làm tốt nhất là gì?* Hãy chúc mừng bản thân mình vì không phải ai cũng làm được như bạn. Tại sao bạn lại làm tốt đến thế? Hãy liệt kê ra 1-3 hành động cụ thể bạn đang làm tốt trong lĩnh vực đó và tiếp tục làm nó.
 - *Top 3 lĩnh vực bạn đang mất cân bằng là gì?* Nguyên nhân cụ thể do đâu? Hãy thành thực trả lời với bản thân mình. Sau đó hãy liệt kê ra từ 1-3 hành động cụ thể bạn có thể làm để cải thiện nó.
 
