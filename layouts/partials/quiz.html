@@ -30,10 +30,10 @@
 </div>
 {{ end }}
 
-<div id="result" class="mt5" v-bind:class="{ db: !done }">
+<div id="result" class="mt5" v-bind:class="{ dn: !done }">
   <h2 class="f3 f2-ns lh-title">Kết quả:</h2>
   {{ range $quiz.results }}
-  <div id="{{ .id }}" class="shadow-2 pa3" v-bind:class="{ db: done != '{{ .id }}' }">
+  <div id="{{ .id }}" class="shadow-2 pa3" v-bind:class="{ dn: done != '{{ .id }}' }">
     <h1 class="ttu tracked lh-title">{{ .title }}</h1>
     {{ $page.Scratch.Set "result_image" (printf "https:%s" $page.Params.cover_image) }}
     {{ if .image }}
@@ -44,7 +44,7 @@
       <a class="no-underline near-white bg-animate bg-dark-blue hover-bg-blue hover-white inline-flex items-center ma2 tc br2 pa2"
         v-on:click="fb_share({ title:'Tôi được: {{ .title }}', desc:'Cho {{ $page.Params.title }} | Kết quả của bạn là gì?', image:'{{ $page.Scratch.Get "result_image" }}' }, $event)"
         title="Facebook share">
-        <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg><span class="f4 ml3 pr2">Chia sẻ cùng bạn bè</span></a>
+        <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg><span class="f4 ml3 pr2">Chia sẻ <span class="dn dib-ns">cùng bạn bè</span></span></a>
     </div>
     {{ if .text }}<p class="lh-copy measure fw4 f4 f3-ns">
       {{ .text | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>{{ end }}
