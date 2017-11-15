@@ -1,6 +1,6 @@
 ---
 author: boo
-title: Những niềm vui nhỏ củ cô bảo mẫu
+title: Những niềm vui nhỏ của cô bảo mẫu
 date: '2017-11-15'
 categories:
   - sống
