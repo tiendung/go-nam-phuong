@@ -9,8 +9,11 @@ tags:
   - niềm vui
   - julie andrews
   - bảo mẫu
-cover_image: 'https://i.imgur.com/6oTfgVk.png'
-description: 'Hai vai diễn bảo mẫu của Julie Andrews đều để lại cho chúng ta nhiều chiến thuật vui sống'
+cover_image: 'https://imgur.com/747a785d-34d7-4638-8339-ca3e817bb676'
+description: >-
+  Hai vai diễn bảo mẫu của Julie Andrews đều để lại cho chúng ta nhiều chiến
+  thuật vui sống
+published: true
 ---
 
 Julie Andrews là một huyền thoại của Hollywood, sân khấu Broadway và trong trái tim của những người yêu nhạc kịch. Hai vai diễn nổi tiếng nhất của cô tình cờ đều là bảo mẫu trong “The sound of music" và “Mary Poppins”. Nếu bạn chưa từng xem thì hãy xem ngay nhé! Đó đều là những bộ phim có âm nhạc hoàn hảo, những điệu nhảy vui nhộn, nhiều trẻ em và tiếng cười.
