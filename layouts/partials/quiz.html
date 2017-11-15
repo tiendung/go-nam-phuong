@@ -9,31 +9,35 @@
 <section id="app">
 {{ range $i, $q := $quiz.questions }}
 {{ $j := add $i 1 }}
+<!-- range through quiz's questions -->
 <div id="q{{ $j }}" class="w-100 mb4">
   <h2 class="f4 f2-ns lh-title">{{ $j }}. {{ .text }}</h2>
-  {{ $has_image := index (0 | index .answers) "image"  }}
-  {{ if and .image (or (not $has_image) (not .text)) }}<img class="w-100 w-60-ns br4 o-80" src="{{ .image.originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .image.croppedImageURL }}">{{ end }}
-  <ul class="list pl0 w-100 flex {{ if $has_image }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
+  {{ $answers_have_images := index (0 | index .answers) "image"  }}
+  {{ if and .image (or (not $answers_have_images) (not .text)) }}<img class="w-100 w-60-ns br4 o-80" src="{{ .image.originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .image.croppedImageURL }}">{{ end }}
+  <div class="full flex flex-column items-center">
+  <ul class="list mw7 w-100 pl3 pl4-ns
+    flex {{ if $answers_have_images }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
   {{ range .answers }}
-    <li class="{{ if $has_image }}w-50 w-third-ns{{ end }}">
+  <!-- range through question's answers -->
+    <li class="{{ if $answers_have_images }}w-50 w-third-ns{{ end }}">
       <a id="{{ .id }}"
-        class="db dim ba b--black-20 mr2 mb2 pa2 shadow-4 no-underline bg-light-gray"
+        class="db dim ba b--black-20 mr3 mr4-ns mb3 pa2 shadow-4 no-underline bg-light-gray"
         v-bind:class="{ 'bg-light-blue': selected_answers[{{$i}}] == '{{ .id }}' }"
         v-on:click="select_answer({{ $i }}, '{{ .id }}', $event)" href="#q{{ add $j 1 }}">
         {{ with .image }}<img class="w-100" src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
-        {{ with .text }}<div class="{{ if not $has_image }}f4 f3-ns pa1 pa2-ns fw3{{ else }}f5 f4-ns fw5 pa2{{ end }}">{{ . }}</div>{{ end }}
+        {{ with .text }}<div class="{{ if not $answers_have_images }}f4 f3-ns fw3{{ else }}f5 f4-ns fw5{{ end }}">{{ . }}</div>{{ end }}
       </a>
     </li>
   {{ end }}
-  </ul>
+  </ul></div>
   <hr class="">
 </div>
 {{ end }}
 
-<div id="result" class="mt5" v-bind:class="{ dn: !done }">
+<div id="result" class="mt5" {{ if not $debug }}v-bind:class="{ dn: !done }"{{ end }}>
   <h2 class="f3 f2-ns lh-title">Kết quả:</h2>
   {{ range $quiz.results }}
-  <div id="{{ .id }}" class="shadow-2 pa3" v-bind:class="{ dn: done != '{{ .id }}' }">
+  <div id="{{ .id }}" class="shadow-2 pa3" {{ if not $debug }}v-bind:class="{ dn: done != '{{ .id }}' }"{{ end }}>
     <h1 class="ttu tracked lh-title">{{ .title }}</h1>
     {{ $page.Scratch.Set "result_image" (printf "https:%s" $page.Params.cover_image) }}
     {{ if .image }}
@@ -48,7 +52,7 @@
     </div>
     {{ if .text }}<p class="lh-copy measure fw4 f4 f3-ns">
       {{ .text | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>{{ end }}
-    <a class="db no-underline pa3 ba border-box grow ma3 tc pa2 f3 fw5"
+    <a class="db no-underline pa3 ba border-box tc pa2 f3 fw5"
       href="{{ $page.Permalink }}" title="Re Test">Làm lại</a>
   </div>
   {{ end }}
