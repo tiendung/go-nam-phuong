@@ -28,7 +28,7 @@ Nhưng trên hết, hai cô bảo mẫu này dạy chúng ta chiến thuật  đ
 
 Khi lũ trẻ nhà ông đại tá hốt hoảng không ngủ được vì sợ sấm chớp, cô bảo mẫu ôm lấy chúng và khuyên rằng: Hãy nghĩ đến những thứ tốt đẹp, là các con sẽ không thấy buồn nữa.
 
-“Thứ gì tốt đẹp cơ?”, chúng hỏi. 
+“Thứ gì tốt đẹp cơ?”, chúng hỏi.
 
 Và đây là một vài thứ được cô bảo mẫu liệt kê:
 
@@ -50,7 +50,7 @@ Và đây là một vài thứ được cô bảo mẫu liệt kê:
 
 *Mùa đông tan biến thành mùa xuân…*
 
-Bạn hiểu chứ? Bạn chỉ cần hình dung thật rõ ràng trong tâm trí về những điều nho nhỏ: hình ảnh, âm thanh, kí ức, hay bất cứ điều gì bạn tưởng tượng được…Có thể là món bánh của mẹ, chú thỏ con bạn từng nuôi chẳng hạn. 
+Bạn hiểu chứ? Bạn chỉ cần hình dung thật rõ ràng trong tâm trí về những điều nho nhỏ: hình ảnh, âm thanh, kí ức, hay bất cứ điều gì bạn tưởng tượng được…Có thể là món bánh của mẹ, chú thỏ con bạn từng nuôi chẳng hạn.
 
 Liệt kê thật nhanh, đừng dừng lại hay nghĩ đến thực tế rằng chúng không còn ở đó nữa. Hãy đơn thuần vui vì trải nghiệm mà chúng mang lại. Để cho chúng phủ ngập tâm trí bạn và bạn sẽ hết buồn rất nhanh, thậm chí mỉm cười lúc nào không biết.
 
@@ -129,7 +129,7 @@ Hai cô bảo mẫu Maria và Mary không chỉ dạy lũ trẻ chơi đùa, cá
 
 Trong hai bộ phim đã nói trên, trái tim giá băng của những ông bố đều tan chảy trước sự nài nỉ của đứa con. Nghỉ một chút và hát, hay đi chơi công viên. Chính lũ trẻ là người kéo bố mình ra khỏi vỏ bọc nghiêm túc và bộc lộ cá tính nồng ấm thực sự.
 
-{{< figure src="https://i.imgur.com/2UNVy4D.jpg" alt="mang-lai-niem-vui-cho-nguoi-khac" caption="Lũ trẻ làm động lòng tất cả quan khách với bài hát “Chúc ngủ ngon!" "  class="tl" >}}
+{{< figure src="https://i.imgur.com/2UNVy4D.jpg" alt="mang-lai-niem-vui-cho-nguoi-khac" caption="Lũ trẻ làm động lòng tất cả quan khách với bài hát \"Chúc ngủ ngon!\""  class="tl" >}}
 
 
 Một khi đã “phá băng" của ai đấy, người đó sẽ mang lại niềm vui cho những người khác nữa. Và niềm vui cứ thế nhân lên gấp bội!
