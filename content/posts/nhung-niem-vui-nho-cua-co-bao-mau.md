@@ -1,5 +1,6 @@
 ---
 author: boo
+title: Những niềm vui nhỏ củ cô bảo mẫu
 date: '2017-11-15'
 categories:
   - sống
@@ -22,7 +23,7 @@ Nhưng trên hết, hai cô bảo mẫu này dạy chúng ta chiến thuật  đ
 
 {{< figure src="https://i.imgur.com/3rLbO0w.jpg" alt="nghi-den-dieu-minh-yeu-thich"   class="tl" >}}
 
-Khi lũ trẻ nhà ông đại tá hốt hoảng không ngủ được vì sợ sấm chớp, cô bảo mẫu ôm lấy chúng và khuyên rằng: Hãy nghĩ đến những thứ tốt đẹp. 
+Khi lũ trẻ nhà ông đại tá hốt hoảng không ngủ được vì sợ sấm chớp, cô bảo mẫu ôm lấy chúng và khuyên rằng: Hãy nghĩ đến những thứ tốt đẹp.
 
 “Thứ gì tốt đẹp cơ?”, chúng hỏi. Và đây là một vài thứ được cô bảo mẫu liệt kê:
 
@@ -36,7 +37,7 @@ Các cô gái trong bộ váy trắng với sọc xanh xa-tanh
 Những bông tuyết rơi trên mũi và lông mi của tôi
 Mùa đông tan biến thành mùa xuân…*
 
-Bạn hiểu chứ? Bạn chỉ cần hình dung thật rõ ràng trong tâm trí về những điều nho nhỏ: hình ảnh, âm thanh, kí ức, hay bất cứ điều gì bạn tưởng tượng được…Có thể là món bánh của mẹ, chú thỏ con bạn từng nuôi chẳng hạn. Liệt kê thật nhanh, đừng dừng lại hay nghĩ đến thực tế rằng chúng không còn ở đó nữa. Hãy đơn thuần vui vì trải nghiệm mà chúng mang lại. Để cho chúng phủ ngập tâm trí bạn và bạn sẽ hết buồn rất nhanh, thậm chí mỉm cười lúc nào không biết. 
+Bạn hiểu chứ? Bạn chỉ cần hình dung thật rõ ràng trong tâm trí về những điều nho nhỏ: hình ảnh, âm thanh, kí ức, hay bất cứ điều gì bạn tưởng tượng được…Có thể là món bánh của mẹ, chú thỏ con bạn từng nuôi chẳng hạn. Liệt kê thật nhanh, đừng dừng lại hay nghĩ đến thực tế rằng chúng không còn ở đó nữa. Hãy đơn thuần vui vì trải nghiệm mà chúng mang lại. Để cho chúng phủ ngập tâm trí bạn và bạn sẽ hết buồn rất nhanh, thậm chí mỉm cười lúc nào không biết.
 
 Trong một lần thực sự buồn bã, tôi đã nằm nhắm mắt lại và liệt kê ra những thứ mình yêu thích. Tôi đã làm thế cả đêm vì mất ngủ. Và sáng ra, tôi nhận ra một sự thật: 90% những điều tôi yêu thích đều gắn với thiên nhiên. Vì vậy, tôi cảm thấy biết ơn cái thực tế rằng tôi đang sống ở trên một ngọn đồi có rất nhiều cây, chim và sóc chuyền cành. Vậy thì có gì buồn đâu!
 
@@ -73,9 +74,9 @@ Ngoài ra, bạn có thể vừa nhẩm thuộc lòng vừa vui chơi như lũ t
 
 {{< figure src="https://i.imgur.com/iTM7yac.jpg" alt="niem-vui-trong-viec-hoc"   class="tl" >}}
 
-Đây đều là những cách học được hướng dẫn trong các sách chiến thuật tự học. Để không thuộc lòng 1 cách vật vã, bạn hãy gắn những từ vô nghĩa khó nhớ với những hình ảnh tươi tắn, sáng tạo. 
+Đây đều là những cách học được hướng dẫn trong các sách chiến thuật tự học. Để không thuộc lòng 1 cách vật vã, bạn hãy gắn những từ vô nghĩa khó nhớ với những hình ảnh tươi tắn, sáng tạo.
 
-> Nếu sử dụng từ ngữ khơi gợi giác quan để học về điều gì đó, tâm trí bạn sẽ nhớ chúng rất lâu. ví dụ như may quần áo (tay làm), uống trà (lưỡi nếm), nhìn thấy tia nắng (mắt thấy) chẳng hạn! 
+> Nếu sử dụng từ ngữ khơi gợi giác quan để học về điều gì đó, tâm trí bạn sẽ nhớ chúng rất lâu. ví dụ như may quần áo (tay làm), uống trà (lưỡi nếm), nhìn thấy tia nắng (mắt thấy) chẳng hạn!
 
 Còn khi vận động và vui đùa, tiềm thức của bạn sẽ xử lý những vấn đề khó nhằn nhất mà bạn chẳng hề ý thức được. Và khi quay trở lại với việc học nghiêm túc, bạn đã có được câu trả lời.
 
@@ -89,7 +90,7 @@ Chúng không hề nghĩ đến quá khứ hay tương lai khi vui chơi. Chúng
 
 {{< figure src="https://i.imgur.com/84UiJZp.jpg" alt="vui-dua-cung-lu-tre"   class="tl" >}}
 
-Và phần bạn nữa. Đã đến lúc thôi tỏ ra “người lớn" và tham gia cùng với chúng. Đứa trẻ trong bạn đang kêu gào được nô đùa đó! 
+Và phần bạn nữa. Đã đến lúc thôi tỏ ra “người lớn" và tham gia cùng với chúng. Đứa trẻ trong bạn đang kêu gào được nô đùa đó!
 
 {{< figure src="https://i.imgur.com/FfxX6gO.jpg" alt="vui-dua-cung-lu-tre"   class="tl" >}}
 
@@ -107,7 +108,3 @@ Trong hai bộ phim đã nói trên, trái tim giá băng của những ông b�
 
 
 Một khi đã “phá băng" của ai đấy, người đó sẽ mang lại niềm vui cho những người khác nữa. Và niềm vui cứ thế nhân lên gấp bội!
-
-
-
-
