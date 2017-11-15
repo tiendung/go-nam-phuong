@@ -6,7 +6,7 @@
       </div>
       <div class="w-100 w-70-ns pl3-ns">
         <h2 class="mt0 lh-title">{{ .Title }}</h2>
-        <p class="lh-copy">{{  .Summary | plainify | safeHTML }}</p>
+        <p class="lh-copy">{{ if .Params.quiz }}{{  .Params.description | plainify | safeHTML }}{{ else }}{{  .Summary | plainify | safeHTML }}{{ end }}</p>
         <div class="f6 fw3 gray mt0">
           <time>{{ .Date.Format "Jan 2, 2006" }}</time>
           <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>

@@ -6,7 +6,7 @@
 {{- end }}
 <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
   <h3 class="f4 f3-ns fw4 fw6-ns lh-title">{{ .Title | safeHTML }}</h3>
-  <p class="f5 fw3 lh-copy mv2">{{  .Summary | plainify | safeHTML }}</p>
+  <p class="f5 fw3 lh-copy mv2">{{ if .Params.quiz }}{{  .Params.description | plainify | safeHTML }}{{ else }}{{  .Summary | plainify | safeHTML }}{{ end }}</p>
   <div class="f6 fw3 gray mt0">
     <time>{{ .Date.Format "Jan 2, 2006" }}</time>
     <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>
