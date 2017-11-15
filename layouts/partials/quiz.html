@@ -13,7 +13,11 @@
 <div id="q{{ $j }}" class="w-100 mb4">
   <h2 class="f4 f2-ns lh-title">{{ $j }}. {{ .text }}</h2>
   {{ $answers_have_images := index (0 | index .answers) "image"  }}
-  {{ if and .image (or (not $answers_have_images) (not .text)) }}<img class="w-100 w-60-ns br4 o-80" src="{{ .image.originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .image.croppedImageURL }}">{{ end }}
+  {{ if and .image (or (not $answers_have_images) (not .text)) }}
+    <img class="w-100 w-60-ns br4 o-80"
+      src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+      data-src="{{ .image.originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .image.croppedImageURL }}">
+  {{ end }}
   <div class="full flex flex-column items-center">
   <ul class="list mw7 w-100 pl3 pl4-ns
     flex {{ if $answers_have_images }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
@@ -24,7 +28,8 @@
         class="db dim ba b--black-20 mr2 mr3-l mb2 mb3-l pa2 shadow-4 no-underline bg-light-gray"
         v-bind:class="{ 'bg-light-blue': selected_answers[{{$i}}] == '{{ .id }}' }"
         v-on:click="select_answer({{ $i }}, '{{ .id }}', $event)" href="#q{{ add $j 1 }}">
-        {{ with .image }}<img class="w-100" src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
+        {{ with .image }}<img class="w-100" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+          data-src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
         {{ with .text }}<div class="{{ if not $answers_have_images }}f4 f3-ns fw3{{ else }}f5 f4-l fw5{{ end }}">{{ . }}</div>{{ end }}
       </a>
     </li>
@@ -42,7 +47,8 @@
     {{ $page.Scratch.Set "result_image" (printf "https:%s" $page.Params.cover_image) }}
     {{ if .image }}
       {{ $page.Scratch.Set "result_image" (printf "https:%s%s" (.image.originalImageURL | replaceRE "(.+/)[^/]+" "$1") .image.croppedImageURL) }}
-      <img class="w-100 w-60-ns br4 o-80" src="{{ $page.Scratch.Get "result_image" }}">
+      <img class="w-100 w-60-ns br4 o-80" src="data:image/png;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs="
+        data-src="{{ $page.Scratch.Get "result_image" }}">
     {{ end }}
     <div>
       <a class="no-underline near-white bg-animate bg-dark-blue hover-bg-blue hover-white inline-flex items-center ma2 tc br2 pa2"
@@ -61,6 +67,19 @@
 
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
+
+// https://varvy.com/pagespeed/defer-images.html
+function loadDeferImages() {
+  var imgDefer = document.getElementsByTagName('img');
+  for (var i=0; i<imgDefer.length; i++) {
+    if (imgDefer[i].getAttribute('data-src')) {
+      imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+    }
+  }
+}
+window.onload = loadDeferImages;
+
+
 function scrollToResult() {
   var obj = document.getElementById("result");
   if (false && obj.scrollIntoView) obj.scrollIntoView(); else {
