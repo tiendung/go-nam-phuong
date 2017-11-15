@@ -9,7 +9,7 @@ tags:
   - niềm vui
   - julie andrews
   - bảo mẫu
-cover_image: 'https://imgur.com/747a785d-34d7-4638-8339-ca3e817bb676'
+cover_image: 'https://i.imgur.com/3spziqU.jpg'
 description: >-
   Hai vai diễn bảo mẫu của Julie Andrews đều để lại cho chúng ta nhiều chiến
   thuật vui sống
@@ -129,7 +129,7 @@ Hai cô bảo mẫu Maria và Mary không chỉ dạy lũ trẻ chơi đùa, cá
 
 Trong hai bộ phim đã nói trên, trái tim giá băng của những ông bố đều tan chảy trước sự nài nỉ của đứa con. Nghỉ một chút và hát, hay đi chơi công viên. Chính lũ trẻ là người kéo bố mình ra khỏi vỏ bọc nghiêm túc và bộc lộ cá tính nồng ấm thực sự.
 
-{{< figure src="https://i.imgur.com/2UNVy4D.jpg" alt="mang-lai-niem-vui-cho-nguoi-khac" caption="Lũ trẻ làm động lòng tất cả quan khách với bài hát “Chúc ngủ ngon!"  class="tl" >}}
+{{< figure src="https://i.imgur.com/2UNVy4D.jpg" alt="mang-lai-niem-vui-cho-nguoi-khac" caption="Lũ trẻ làm động lòng tất cả quan khách với bài hát “Chúc ngủ ngon!" "  class="tl" >}}
 
 
 Một khi đã “phá băng" của ai đấy, người đó sẽ mang lại niềm vui cho những người khác nữa. Và niềm vui cứ thế nhân lên gấp bội!
