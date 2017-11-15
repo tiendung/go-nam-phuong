@@ -49,13 +49,13 @@
     {{ if .text }}<p class="lh-copy measure fw4 f4 f3-ns">
       {{ .text | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>{{ end }}
     <a class="db no-underline pa3 ba border-box grow ma3 tc pa2 f3 fw5"
-      href="{{ $page.Permalink }}" title="Re Test">Đánh giá lại</a>
+      href="{{ $page.Permalink }}" title="Re Test">Làm lại</a>
   </div>
   {{ end }}
 </div>
 </section>
 
-<script src="https://unpkg.com/vue"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
 function scrollToResult() {
   var obj = document.getElementById("result");
