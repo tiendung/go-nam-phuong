@@ -18,7 +18,7 @@
       src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 {{ .image.coords.width }} {{ .image.coords.height }}'%2F%3E"
       data-src="{{ .image.originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .image.croppedImageURL }}">
   {{ end }}
-  <div class="full flex flex-column items-center">
+  <div class="full flex flex-column items-center pr2 pr3-ns">
   <ul class="list mw7 w-100 pl3 pl4-ns
     flex {{ if $answers_have_images }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
   {{ range .answers }}
