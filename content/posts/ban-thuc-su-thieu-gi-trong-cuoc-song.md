@@ -14,7 +14,7 @@ cover_image: >-
   //cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/e4f3a549-629d-445c-81c7-241d2d73431e_560_420.jpg
 header:
   caption: '[Unsplash](https://unsplash.com)'
-  image: 'https://images.unsplash.com/photo-1462717585237-7fafe19c5448?fit=crop&w=1600'
+  image: 'https://i.imgur.com/5LKF38z.jpg'
   layout: hero
   navigation: fancy
   class: bg-darken-50 bg-darken-25-l bg-center
