@@ -1,0 +1,113 @@
+{{ $quiz := getJSON .Params.json_file }}
+{{ $debug := ne (getenv "HUGO_ENV") "production" }}
+
+<div class="pb3">
+  <p class="lh-copy measure fw4 f4 f3-ns">{{ .Params.description }}</p>
+</div>
+
+<section id="app">
+{{ range $i, $q := $quiz.questions }}
+{{ $j := add $i 1 }}
+<div id="q{{ $j }}" class="w-100 mb4">
+  <h2 class="f4 f2-ns lh-title">{{ $j }}. {{ .text }}</h2>
+  {{ $has_image := index (0 | index .answers) "image"  }}
+  {{ if and .image (or (not $has_image) (not .text)) }}<img class="w-100 w-60-ns br4 o-80" src="{{ .image.originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .image.croppedImageURL }}">{{ end }}
+  <ul class="list pl0 w-100 flex {{ if $has_image }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
+  {{ range .answers }}
+    <li class="{{ if $has_image }}w-50 w-third-ns{{ end }}">
+      <a id="{{ .id }}"
+        class="db dim ba b--black-20 mr2 mb2 pa2 shadow-4 no-underline bg-light-gray"
+        v-bind:class="{ 'bg-light-blue': selected_answers[{{$i}}] == '{{ .id }}' }"
+        v-on:click="select_answer({{ $i }}, '{{ .id }}', $event)" href="#q{{ add $j 1 }}">
+        {{ with .image }}<img class="w-100" src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
+        {{ with .text }}<div class="{{ if not $has_image }}f4 f3-ns pa1 pa2-ns fw3{{ else }}f5 f4-ns fw5 pa2{{ end }}">{{ . }}</div>{{ end }}
+      </a>
+    </li>
+  {{ end }}
+  </ul>
+  <hr class="">
+</div>
+{{ end }}
+
+<div id="result" class="mt5" v-bind:class="{ dn: !done }">
+  <h2 class="f3 f2-ns lh-title">Kết quả:</h2>
+  {{ range $quiz.results }}
+  <div id="{{ .id }}" class="shadow-2 pa3" v-bind:class="{ dn: done != '{{ .id }}' }">
+    <h1 class="ttu tracked lh-title">{{ .title }}</h1>
+    {{ if .image }}<img class="w-100 w-60-ns br4 o-80" src="{{ .image.originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .image.croppedImageURL }}">{{ end }}
+    {{ if .text }}<p class="lh-copy measure fw4 f4 f3-ns">
+      {{ .text | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>{{ end }}
+  </div>
+  {{ end }}
+  <div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="5"></div>
+</div>
+</section>
+
+<script src="https://unpkg.com/vue"></script>
+<script>
+function scrollToResult() {
+  var obj = document.getElementById("result");
+  if (false && obj.scrollIntoView) obj.scrollIntoView(); else {
+    var curtop = 0;
+     if (obj.offsetParent) {
+       do {
+           curtop += obj.offsetTop;
+       } while (obj = obj.offsetParent);
+     }
+     // console.log('scroll', curtop);
+     window.scroll(0, curtop);
+  }
+}
+
+var t = 0, app = new Vue({
+  el: '#app',
+  data: {
+    done: false,
+    selected_answers: [{{ range $quiz.questions }}null,{{ end }}],
+    qa_scores: [ {{ range $quiz.questions }} { {{ range .answers }}"{{.id}}": {{ .results }}, {{ end }} }, {{ end }} ],
+    scores: { {{ range $quiz.results }} "{{.id}}": 0 , {{ end }} }
+  },
+  methods: {
+    select_answer: function (i, k, event) {
+      if (this.done) { event.preventDefault(); return; }
+      if (this.selected_answers[i] == null) t++; else event.preventDefault();
+      Vue.set(this.selected_answers, i, k);
+      if (t == this.selected_answers.length) {
+        event.preventDefault();
+        this.show_result();
+        window.setTimeout(function(){ scrollToResult(); }, 300);
+      }
+    },
+    show_result() {
+      if (this.done) return;
+      var i, a, r, rs;
+      for (i = 0; i < t; i++) {
+        a = this.selected_answers[i];
+        rs = this.qa_scores[i][a];
+        for (r in rs) {
+          this.scores[r] = this.scores[r] + parseInt(rs[r]);
+        }
+      }
+      a = 0;
+      for (r in this.scores) {
+        rs = this.scores[r];
+        if (rs > a) {
+          a = rs;
+          this.done = r;
+        }
+      }
+      console.log('DONE', this.done);
+    }
+  }
+})
+</script>
+
+{{ if $debug }}
+<script>
+console.log("Question:");
+console.log({{ index $quiz.questions 0 }});
+
+console.log("Result:");
+console.log({{ index $quiz.results 0 }});
+</script>
+{{ end }}

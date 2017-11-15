@@ -19,7 +19,11 @@
     </header>
 
     <div class="mw7 w-100 f5 f4-ns fw3 lh-copy mb0">
-    {{ .Content }}
+    {{ if .Params.quiz }}
+      {{ partial "quiz.html" . }}
+    {{ else }}
+      {{ .Content }}
+    {{ end }}
     </div>
 
     <div class="mw7 w-100 lh-copy">
@@ -27,8 +31,7 @@
     {{/* {{ partial "category_tag_list.html" . }} */}}
       </div>
 
-    {{ partial "share_icons.html" . }}
-
+      {{ partial "share_icons.html" . }}
       <div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="5"></div>
     </div>
 
