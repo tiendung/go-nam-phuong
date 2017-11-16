@@ -11,15 +11,14 @@ description: >-
   ở đâu, hãy làm bài trắc nghiệm này để hiểu rõ điều mình cần. Và nhận những
   giải pháp lành mạnh cho cuộc sống tươi mới hơn bạn nhé!
 cover_image: https://i.imgur.com/5LKF38z.jpg
-header:
-  caption: '[Unsplash](https://unsplash.com)'
-  image: https://images.unsplash.com/photo-1462717585237-7fafe19c5448?fit=crop&w=1600
-  layout: hero
-  navigation: fancy
-  class: bg-darken-50 bg-center
-  cta:
-    text: Đánh giá ngay!
-    url: '#q1'
-    class: ba border-box bw1 grow no-underline white hover-white pa2 mt4 tracked ttu
-published: true
+# header:
+#   caption: '[Unsplash](https://unsplash.com)'
+#   image: https://images.unsplash.com/photo-1462717585237-7fafe19c5448?fit=crop&w=1600
+#   layout: hero
+#   navigation: fancy
+#   class: bg-darken-50 bg-center
+#   cta:
+#     text: Đánh giá ngay!
+#     url: '#q1'
+#     class: ba border-box bw1 grow no-underline white hover-white pa2 mt4 tracked ttu
 ---
