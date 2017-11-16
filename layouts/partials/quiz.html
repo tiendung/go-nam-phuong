@@ -10,7 +10,7 @@
 {{ range $i, $q := $quiz.questions }}
 {{ $j := add $i 1 }}
 <!-- range through quiz's questions -->
-<div id="q{{ $j }}" class="w-100 mb4">
+<div id="q{{ $j }}" class="question w-100 mb4">
   <h2 class="f4 f2-ns lh-title">{{ $j }}. {{ .text }}</h2>
   {{ $answers_have_images := index (0 | index .answers) "image"  }}
   {{ if and .image (or (not $answers_have_images) (not .text)) }}
@@ -42,7 +42,7 @@
 <div id="result" class="mt5" {{ if not $debug }}v-bind:class="{ dn: !done }"{{ end }}>
   <h2 class="f3 f2-ns lh-title">Kết quả:</h2>
   {{ range $quiz.results }}
-  <div id="{{ .id }}" class="shadow-2 pa3" {{ if not $debug }}v-bind:class="{ dn: done != '{{ .id }}' }"{{ end }}>
+  <div class="shadow-2 pa3" {{ if not $debug }}v-bind:class="{ dn: done != '{{ .id }}' }"{{ end }}>
     <h1 class="ttu tracked lh-title">{{ .title }}</h1>
     {{ $page.Scratch.Set "result_image" (printf "https:%s" $page.Params.cover_image) }}
     {{ if .image }}
@@ -80,9 +80,8 @@ function loadDeferImages() {
 window.onload = loadDeferImages;
 
 
-function scrollToResult() {
-  var obj = document.getElementById("result");
-  if (false && obj.scrollIntoView) obj.scrollIntoView(); else {
+function scrollToElement(obj) {
+  if (obj.scrollIntoView) obj.scrollIntoView(); else {
     var curtop = 0;
      if (obj.offsetParent) {
        do {
@@ -94,7 +93,13 @@ function scrollToResult() {
   }
 }
 
-var t = 0, app = new Vue({
+function scrollToResult() {
+  var obj = document.getElementById("result");
+  scrollToElement(obj);
+}
+
+var t = 0, questions = document.getElementsByClassName("question"),
+app = new Vue({
   el: '#app',
   data: {
     done: false,
@@ -104,15 +109,28 @@ var t = 0, app = new Vue({
   },
   methods: {
     select_answer: function (i, k, event) {
-      if (this.done) { event.preventDefault(); return; }
-      if (this.selected_answers[i] == null) t++; else event.preventDefault();
+      event.preventDefault();
+      if (this.done) return;
+      if (this.selected_answers[i] == null) t++;
+
       Vue.set(this.selected_answers, i, k);
+      this.scrollToNextQuestion(i + 1);
+
       if (t == this.selected_answers.length) {
-        event.preventDefault();
         this.show_result();
         window.setTimeout(function(){ scrollToResult(); }, 300);
       }
     },
+
+    scrollToNextQuestion(i) {
+      while (i < questions.length && this.selected_answers[i] != null) i++;
+      if (i == questions.length) {
+        i = 0;
+        while (i < questions.length && this.selected_answers[i] != null) i++;
+      }
+      if (i < questions.length) scrollToElement(questions[i]);
+    },
+
     show_result() {
       if (this.done) return;
       var i, a, r, rs;
@@ -133,6 +151,7 @@ var t = 0, app = new Vue({
       }
       console.log('DONE', this.done);
     },
+
     fb_share(data, event) {
       event.preventDefault();
       var link = '{{ .Permalink }}?name="' + data.title + '"&picture=' + data.image;
