@@ -59,7 +59,7 @@
     {{ if .text }}<p class="lh-copy measure fw4 f4 f3-ns">
       {{ .text | replaceRE "^[ \n]+" "" | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>{{ end }}
     <a class="db no-underline pa3 ba border-box tc pa2 f3 fw5"
-      href="{{ $page.Permalink }}#q1" title="Re Test">Làm lại</a>
+      href="{{ $page.Permalink }}" title="Re Test">Làm lại</a>
   </div>
   {{ end }}
 </div>
@@ -128,7 +128,7 @@ app = new Vue({
         i = 0;
         while (i < questions.length && this.selected_answers[i] != null) i++;
       }
-      if (i < questions.length) scrollToElement(questions[i]);
+      if (i < questions.length) window.setTimeout(function(){ scrollToElement(questions[i]); }, 300);
     },
 
     show_result() {
