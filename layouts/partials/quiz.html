@@ -12,25 +12,24 @@
 <!-- range through quiz's questions -->
 <div id="q{{ $j }}" class="question w-100 mb4">
   <h2 class="f4 f2-ns lh-title">{{ $j }}. {{ .text }}</h2>
-  {{ $answers_have_images := index (0 | index .answers) "image"  }}
-  {{ if and .image (or (not $answers_have_images) (not .text)) }}
+  {{ if and .image (or (not $q.useImagesInAnswers) (not .text)) }}
     <img class="w-100 w-60-ns br4 o-80"
       src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 {{ .image.coords.width }} {{ .image.coords.height }}'%2F%3E"
       data-src="{{ .image.originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .image.croppedImageURL }}">
   {{ end }}
   <div class="full flex flex-column items-center pr2 pr3-ns">
   <ul class="list mw7 w-100 pl3 pl4-ns
-    flex {{ if $answers_have_images }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
+    flex {{ if $q.useImagesInAnswers }}flex-wrap flex-row{{ else }}flex-column{{ end }}">
   {{ range .answers }}
   <!-- range through question's answers -->
-    <li class="{{ if $answers_have_images }}w-50 w-third-ns{{ end }}">
+    <li class="{{ if $q.useImagesInAnswers }}w-50 w-third-ns{{ end }}">
       <a id="{{ .id }}"
         class="db dim ba b--black-20 mr2 mr3-l mb2 mb3-l pa2 shadow-4 no-underline bg-light-gray"
         v-bind:class="{ 'bg-light-blue': selected_answers[{{$i}}] == '{{ .id }}' }"
         v-on:click="select_answer({{ $i }}, '{{ .id }}', $event)" href="#q{{ add $j 1 }}">
         {{ with .image }}<img class="w-100" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 {{ .coords.width }} {{ .coords.height }}'%2F%3E"
           data-src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">{{ end }}
-        {{ with .text }}<div class="{{ if not $answers_have_images }}f4 f3-ns fw3{{ else }}f5 f4-l fw5{{ end }}">{{ . }}</div>{{ end }}
+        {{ with .text }}<div class="{{ if not $q.useImagesInAnswers }}f4 f3-ns fw3{{ else }}f5 f4-l fw5{{ end }}">{{ . }}</div>{{ end }}
       </a>
     </li>
   {{ end }}
