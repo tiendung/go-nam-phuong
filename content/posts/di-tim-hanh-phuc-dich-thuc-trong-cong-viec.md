@@ -74,7 +74,7 @@ Ví dụ: cùng là nhân viên chùi nhà vệ sinh. Nhưng nếu bạn coi nó
 
 Sếp từ chối không giúp bạn điều chỉnh? hoặc tự bản thân bạn không thể tìm được ý nghĩa công việc dù đã cố? Công việc luôn đòi hỏi bạn sử dụng điểm yếu? Vậy hãy nghỉ việc, và tìm kiếm TIẾNG GỌI ở nơi khác. Điều đó tốt cho bạn, cho sếp bạn, cho công ty và cho tất cả mọi người xung quanh bạn.
 
-Và này, nếu bạn vẫn quyết định ở lại vì tiền, tôi không thể trách bạn. Nhưng hãy nhớ **tiêu tiền cho cái tôi đích thực** của bạn nhé!
+Và này, nếu bạn vẫn quyết định ở lại vì tiền, tôi không thể trách bạn. Nhưng hãy nhớ [tiêu tiền cho cái tôi đích thực](https://coachnamphuong.com/posts/chi-tieu-cho-cai-toi-dich-thuc-cua-ban/) của bạn nhé!
 
 ---
 > TOP 5 thế mạnh của tôi, theo bài trắc nghiệm:
