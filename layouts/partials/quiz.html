@@ -74,15 +74,6 @@
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
 
-// loadDeferImages(): https://varvy.com/pagespeed/defer-images.html
-var deferImgs = document.getElementsByTagName('img'),
-    i = 0, n = deferImgs.length, img, x, t = 0;
-for (; i < n; i++) {
-  img = deferImgs[i];
-  if (x = img.getAttribute('data-src')) { img.setAttribute('src', x); t++; }
-}
-console.log(t + " images defered");
-
 function scrollToElement(obj) {
   if (obj.scrollIntoView) obj.scrollIntoView(); else {
     var curtop = 0;
