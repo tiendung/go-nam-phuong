@@ -1,15 +1,17 @@
----
-author: boo
-title: Chi tiêu cho cái tôi đích thực của bạn
-date: '2017-11-17'
-categories:
-  - chi tiêu
-  - sống
-tags:
-  - cái tôi
-cover_image: 'https://i.imgur.com/9KF8tHd.jpg'
-description: "Quan hệ của ta với đồng tiền là đại diện cho quan hệ của ta với bản thân. Bạn có đang chi tiêu cho những điều thực sự quan trọng?"
----
+{
+   "author": "boo",
+   "categories": [
+      "chi tiêu",
+      "sống"
+   ],
+   "cover_image": "https://i.imgur.com/9KF8tHd.jpg",
+   "date": "2017-11-17",
+   "description": "Quan hệ của ta với đồng tiền là đại diện cho quan hệ của ta với bản thân. Bạn có đang chi tiêu cho những điều thực sự quan trọng?",
+   "tags": [
+      "cái tôi"
+   ],
+   "title": "Chi tiêu cho cái tôi đích thực của bạn"
+}
 
 Khi phát biểu về tài chính cá nhân vòng quanh đất nước, tôi thích hỏi khán giả câu hỏi sau:
 

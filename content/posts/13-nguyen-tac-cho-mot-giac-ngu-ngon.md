@@ -1,18 +1,18 @@
----
-author: boo
-date: '2017-11-03'
-title: 13 nguyên tắc cho một giấc ngủ ngon
-categories:
-  - ngủ
-  - healthy101
-tags:
-  - ngủ
-cover_image: 'https://i.imgur.com/yg6PHMe.jpg'
-published: true
-Description: >-
-  Ngủ chiếm đến 1/3 thời gian sống của bạn. Đã đến lúc để cải thiện chất lượng
-  rồi!
----
+{
+   "description": "Ngủ chiếm đến 1/3 thời gian sống của bạn. Đã đến lúc để cải thiện chất lượng rồi!",
+   "author": "boo",
+   "categories": [
+      "ngủ",
+      "healthy101"
+   ],
+   "cover_image": "https://i.imgur.com/yg6PHMe.jpg",
+   "date": "2017-11-03",
+   "published": true,
+   "tags": [
+      "ngủ"
+   ],
+   "title": "13 nguyên tắc cho một giấc ngủ ngon"
+}
 
 Bạn nói: “Hả? 13 chỉ dẫn luôn á? Ai mà theo hết được!”. Nhưng bạn ơi, đừng quên ⅓ thời gian sống của bạn đang dành cho hoạt động này.
 

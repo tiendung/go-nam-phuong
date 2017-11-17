@@ -1,19 +1,21 @@
----
-author: boo
-date: '2017-11-03'
-title: 3 phương pháp giảm stress hiệu quả nhất cho người hiện đại
-subtitle: null
-categories:
-  - healthy101
-  - thở
-tags:
-  - stress
-  - thiền
-  - thở
-  - yoga
-cover_image: 'https://i.imgur.com/4qEgMFM.jpg'
-published: true
----
+{
+   "author": "boo",
+   "categories": [
+      "healthy101",
+      "thở"
+   ],
+   "cover_image": "https://i.imgur.com/4qEgMFM.jpg",
+   "date": "2017-11-03",
+   "published": true,
+   "subtitle": null,
+   "tags": [
+      "stress",
+      "thiền",
+      "thở",
+      "yoga"
+   ],
+   "title": "3 phương pháp giảm stress hiệu quả nhất cho người hiện đại"
+}
 
 Stress là một phản ứng thông thường của cơ thể đối với các sự kiện đầy phấn khích như đang yêu, có công việc mới, mua nhà mới v.v... stress cũng là một cơ chế sinh tồn được tích luỹ trong cơ thể bạn như một phương tiện bảo vệ mình. Khi được kích thích, hệ thần kinh giao cảm báo hiệu cơ chế “chiến đấu hay bỏ chạy" để giúp bạn ngay lập tức hành động và tránh nguy hiểm. Điều này đã giúp tổ tiên của chúng ta trong thời kì tiền sử lẩn tránh thú dữ và các nguy hiểm thường ngày.
 

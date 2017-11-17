@@ -1,15 +1,17 @@
----
-author: boo
-date: '2017-11-03'
-title: 17 tips mua sắm của người tiêu dùng thông thái
-categories:
-  - healthy101
-  - mua sắm
-tags:
-  - mua sắm
-cover_image: 'https://i.imgur.com/C9x1u2p.jpg'
-published: true
----
+{
+   "author": "boo",
+   "categories": [
+      "healthy101",
+      "mua sắm"
+   ],
+   "cover_image": "https://i.imgur.com/C9x1u2p.jpg",
+   "date": "2017-11-03",
+   "published": true,
+   "tags": [
+      "mua sắm"
+   ],
+   "title": "17 tips mua sắm của người tiêu dùng thông thái"
+}
 
 <ul class="list pl0 measure center">
   <li class="lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">

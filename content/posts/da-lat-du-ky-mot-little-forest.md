@@ -1,11 +1,11 @@
----
-author: boo
-date: '2016-04-17'
-title: '[ Đà Lạt du ký ] Một Little Forest'
-cover_image: 'https://i.imgur.com/Oc8yrpX.jpg'
-published: true
-Description: Dấu ấn đầu tiên ở Đà Lạt của chúng tôi...
----
+{
+   "description": "Dấu ấn đầu tiên ở Đà Lạt của chúng tôi...",
+   "author": "boo",
+   "cover_image": "https://i.imgur.com/Oc8yrpX.jpg",
+   "date": "2016-04-17",
+   "published": true,
+   "title": "[ Đà Lạt du ký ] Một Little Forest"
+}
 
 Tôi vô tình xem Little Forest tầm 2 tháng trước. Một bộ phim giản đơn, tươi mát và thấm đẫm tinh thần Nhật Bản. Thoại tối giản, phim giống như một bộ phim tài liệu không lời với chủ đề "từ nông trại đến bàn ăn".
 

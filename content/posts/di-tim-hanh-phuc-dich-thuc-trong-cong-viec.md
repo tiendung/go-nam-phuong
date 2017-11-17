@@ -1,18 +1,20 @@
----
-author: boo
-title: Đi tìm hạnh phúc đích thực trong công việc
-date: '2017-11-17'
-categories:
-  - công việc
-tags:
-  - công việc
-  - hạnh phúc
-  - sách
-  - tích cực
-  - thế mạnh
-cover_image:
-sescription: Giới thiệu 1 cách nhanh gọn để cải thiện mức độ hài lòng trong công việc.
----
+{
+   "author": "boo",
+   "categories": [
+      "công việc"
+   ],
+   "cover_image": null,
+   "date": "2017-11-17",
+   "sescription": "Giới thiệu 1 cách nhanh gọn để cải thiện mức độ hài lòng trong công việc.",
+   "tags": [
+      "công việc",
+      "hạnh phúc",
+      "sách",
+      "tích cực",
+      "thế mạnh"
+   ],
+   "title": "Đi tìm hạnh phúc đích thực trong công việc"
+}
 
 "Hạnh phúc đích thực" ở đây không phải do giật tít mà chính là tên Project "Authentic Happiness" của tác giả Silgman. Ông là tác giả nổi bật của tâm lý học tích cực, nghiên cứu chuyên sâu về hạnh phúc và cách tiếp cận Phật giáo. Cuốn sách cùng tên mình đã đọc, tự suy ngẫm về trải nghiệm bản thân trong quá khứ và hiện tại, hiểu thêm được rất nhiều điều mà trước nay nghĩ mãi không hiểu.
 

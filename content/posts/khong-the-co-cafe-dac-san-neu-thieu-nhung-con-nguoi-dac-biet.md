@@ -1,13 +1,11 @@
----
-author: alex
-date: '2016-12-10'
-title: Không thể có cà phê “đặc sản” nếu thiếu những con người “đặc biệt”
-cover_image: 'https://i.imgur.com/VsEt8Az.jpg'
-published: true
-Description: >-
-  Trải nghiệm tại vùng đất của cà phê Arabica Việt Nam mang đến thật nhiều câu
-  chuyện không ngờ...
----
+{
+   "description": "Trải nghiệm tại vùng đất của cà phê Arabica Việt Nam mang đến thật nhiều câu chuyện không ngờ...",
+   "author": "alex",
+   "cover_image": "https://i.imgur.com/VsEt8Az.jpg",
+   "date": "2016-12-10",
+   "published": true,
+   "title": "Không thể có cà phê “đặc sản” nếu thiếu những con người “đặc biệt”"
+}
 
 Đà Lạt càng gần Noel càng lạnh hơn thường lệ. Năm giờ rưỡi sáng trời vẫn tối thui và gió lạnh không ngừng thổi qua khe cửa. Tôi vùng dậy đi tập Yoga ca sớm nhất để còn kịp vào vườn thu hoạch cà phê đang mùa chín rộ.
 
