@@ -6,7 +6,7 @@
     "layout": "hero",
     "navigation": "fancy",
     "image": "/images/site/namphuong-intro.jpg",
-    "class": "bg-darken-15 bg-top",
+    "class": "bg-darken-25 bg-top",
     "cta": {
       "text": "Câu chuyện của tôi",
       "url": "/about",
