@@ -1,4 +1,4 @@
-{{ $quiz := getJSON .Params.json_file }}
+{{ $quiz := .Params.quiz }}
 {{ $page := . }}
 {{ $debug := ne (getenv "HUGO_ENV") "production" }}
 
