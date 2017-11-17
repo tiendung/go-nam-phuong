@@ -1740,7 +1740,7 @@
                "originalImageURL": "//cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/08b66848-336e-4f72-8d2f-342382df7031.jpg",
                "width": "639"
             },
-            "text": "Bạn là một người thông minh, sâu sắc và luôn tìm kiếm câu trả lời về ý nghĩa cuộc sống. Bạn có vẻ đã đi nhiều nơi và kết giao được với đủ kiểu người trong cuộc sống. Bề ngoài nhìn vào, mọi người đều khen ngợi năng lực và thậm chí là ao ước những gì bạn có. Tuy nhiên chính bản thân bạn lại luôn cảm thấy có điều gì đó thiếu trong cuộc sống của mình. Và bạn biết là câu trả lời không hề đơn giản, vì bạn không phải kiểu người cố gắng thành công theo hình mẫu mà xã hội đặt ra.\n\nBạn chỉ có thể giải mã những khúc mắc trong lòng một khi bạn đạt được thành tựu trong thực hành tâm linh. Có thể bạn đã tìm hiểu nhiều hình thức và thậm chí cố gắng thực hành thường xuyên, nhưng vẫn thấy hoang mang. Đừng lo vì có thể bạn chưa tìm được hình thức thực hành phù hợp thôi. Bạn có thể tham khảo một số cách thư giãn phục hồi và thiền tập tại đây nhé: https://goo.gl/jVM396",
+            "text": "Bạn là một người thông minh, sâu sắc và luôn tìm kiếm câu trả lời về ý nghĩa cuộc sống. Bạn có vẻ đã đi nhiều nơi và kết giao được với đủ kiểu người trong cuộc sống. Bề ngoài nhìn vào, mọi người đều khen ngợi năng lực và thậm chí là ao ước những gì bạn có. Tuy nhiên chính bản thân bạn lại luôn cảm thấy có điều gì đó thiếu trong cuộc sống của mình. Và bạn biết là câu trả lời không hề đơn giản, vì bạn không phải kiểu người cố gắng thành công theo hình mẫu mà xã hội đặt ra.\n\nBạn chỉ có thể giải mã những khúc mắc trong lòng một khi bạn đạt được thành tựu trong thực hành tâm linh. Có thể bạn đã tìm hiểu nhiều hình thức và thậm chí cố gắng thực hành thường xuyên, nhưng vẫn thấy hoang mang. Đừng lo vì có thể bạn chưa tìm được hình thức thực hành phù hợp thôi. Bạn có thể tham khảo một số cách thực hành thiền cơ bản và giảm thiểu stress [ở đây] (/posts/3-phuong-phap-giam-stress-hieu-qua-nhat-cho-nguoi-hien-dai/) nhé.",
             "title": "Bạn cần phát triển tâm linh"
          },
          {
@@ -1790,7 +1790,7 @@
                "originalImageURL": "//cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/0f8011c9-6e9b-471f-8da4-3478eef85616.jpg",
                "width": "640"
             },
-            "text": "Bạn là người có hiểu biết và giàu khao khát. Bạn không để những khó khăn hay rào cản tầm thường cản trở những điều bạn thực sự muốn làm. Quan niệm về tiền bạc của bạn là: Luôn có những điều mà tiền không bao giờ mang lại được hay đền bù được. Vì vậy bạn thích sống vì những giá trị cao hơn.\n\nTuy nhiên, có vẻ như tình hình tài chính của bạn đang kìm hãm bạn trong khá nhiều khía cạnh. Bạn chưa thể hoàn toàn tự tin về năng lực của bản thân vì bạn chưa có được mức thu nhập tương xứng với năng lực. Bạn cũng luôn lo lắng vì đã tiêu quá số tiền dự định mà không biết nó đi về đâu. Đã đến lúc dẹp bỏ nỗi lo đó để học lại căn bẳn để giành lại quyền kiếm soát đồng tiền thay vì để nó kiểm soát bạn rồi đó.",
+            "text": "Bạn là người có hiểu biết và giàu khao khát. Bạn không để những khó khăn hay rào cản tầm thường cản trở những điều bạn thực sự muốn làm. Quan niệm về tiền bạc của bạn là: Luôn có những điều mà tiền không bao giờ mang lại được hay đền bù được. Vì vậy bạn thích sống vì những giá trị cao hơn.\n\nTuy nhiên, có vẻ như tình hình tài chính của bạn đang kìm hãm bạn trong khá nhiều khía cạnh. Bạn chưa thể hoàn toàn tự tin về năng lực của bản thân vì bạn chưa có được mức thu nhập tương xứng với năng lực. Bạn cũng luôn lo lắng vì đã tiêu quá số tiền dự định mà không biết nó đi về đâu. Đã đến lúc dẹp bỏ nỗi lo đó để học lại căn bẳn để giành lại quyền kiếm soát đồng tiền thay vì để nó kiểm soát bạn rồi đó. Hãy tham khảo cách chi tiêu cho cái tôi đích thực [ở đây](/posts/chi-tieu-cho-cai-toi-dich-thuc-cua-ban/) nhé.",
             "title": "Bạn cần tài chính lành mạnh"
          },
          {
@@ -1815,7 +1815,7 @@
                "originalImageURL": "//cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/21637d9b-46bf-457d-8cfd-e3406a0c8dbb.jpg",
                "width": "640"
             },
-            "text": "Bạn là đại diện cho những người trẻ năng động, sáng tạo và nhiều khao khát học tập. Nếu không phải lo lắng quá nhiều về tài chính hay được đặt trong môi trường phù hợp, bạn có thể phát huy năng lực cao đến mức khiến nhiều người bất ngờ.\n\nTuy nhiên, có vẻ công việc hiện tại đang gây một số áp lực, chán nản hay thậm chí là bất mãn cho bạn. Dường như vì tinh thần trách nhiệm mà bạn phải gánh gồng một việc mà bạn biết rất rõ mình không sinh ra để làm. Bạn ơi, thời gian làm việc có thể chiếm 1/3 đời người nên hãy suy nghĩ lại nhé.",
+            "text": "Bạn là đại diện cho những người trẻ năng động, sáng tạo và nhiều khao khát học tập. Nếu không phải lo lắng quá nhiều về tài chính hay được đặt trong môi trường phù hợp, bạn có thể phát huy năng lực cao đến mức khiến nhiều người bất ngờ.\n\nTuy nhiên, có vẻ công việc hiện tại đang gây một số áp lực, chán nản hay thậm chí là bất mãn cho bạn. Dường như vì tinh thần trách nhiệm mà bạn phải gánh gồng một việc mà bạn biết rất rõ mình không sinh ra để làm. Bạn ơi, thời gian làm việc có thể chiếm 1/3 đời người nên hãy suy nghĩ lại nhé. Hãy tham khảo cách có được hạnh phúc đích thực trong công việc [ở đây](/posts/di-tim-hanh-phuc-dich-thuc-trong-cong-viec/) nhé.",
             "title": "Bạn cần một công việc thoả mãn"
          },
          {
@@ -1865,7 +1865,7 @@
                "originalImageURL": "//cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/d17bc3b5-72da-42f4-9880-c07851c75e76.jpg",
                "width": "639"
             },
-            "text": "\nBạn vốn là người ấm áp, giàu cảm xúc và luôn muốn sống có ích. Bạn luôn muốn xây dựng những thói quen lành mạnh trong cuộc sống và cả những mối quan hệ hỗ trợ lẫn nhau. Bạn bè nhớ đến bạn như một người có cái nhìn khách quan, tích cực và rất thích tâm sự với bạn. Nguyên nhân khiến bạn tươi sáng như vậy là vì bạn luôn có những ấp ủ trong lòng và hiểu mục đích của bản thân.\n\nCó vẻ như cuộc sống của bạn đang hơi mất cân bằng do lơ là việc chăm sóc sức khoẻ đúng không? Trong thâm tâm bạn hiểu rất rõ mình cần làm gì nhưng lại gặp nhiều khó khăn trong việc xây dựng thói quen hàng ngày. Bạn cũng hay đặt mục tiêu hơi cao hay đánh giá thấp khoảng thời gian cần thiết để có được kết quả mong muốn. Đừng để những lý do như bận rộn trì hoãn bạn nhé, bạn có thể bắt đầu bằng cách hiểu thêm về Thức ăn Thân \u0026 Thức ăn Tâm tại đây: https://goo.gl/vf4WzS",
+            "text": "Bạn vốn là người ấm áp, giàu cảm xúc và luôn muốn sống có ích. Bạn luôn muốn xây dựng những thói quen lành mạnh trong cuộc sống và cả những mối quan hệ hỗ trợ lẫn nhau. Bạn bè nhớ đến bạn như một người có cái nhìn khách quan, tích cực và rất thích tâm sự với bạn. Nguyên nhân khiến bạn tươi sáng như vậy là vì bạn luôn có những ấp ủ trong lòng và hiểu mục đích của bản thân.\n\nCó vẻ như cuộc sống của bạn đang hơi mất cân bằng do lơ là việc chăm sóc sức khoẻ đúng không? Trong thâm tâm bạn hiểu rất rõ mình cần làm gì nhưng lại gặp nhiều khó khăn trong việc xây dựng thói quen hàng ngày. Bạn cũng hay đặt mục tiêu hơi cao hay đánh giá thấp khoảng thời gian cần thiết để có được kết quả mong muốn. Đừng để những lý do như bận rộn trì hoãn bạn nhé, bạn có thể bắt đầu bằng cách hiểu thêm về Thức ăn Thân \u0026 Thức ăn Tâm tại đây: https://goo.gl/vf4WzS",
             "title": "Bạn cần cải thiện sức khoẻ"
          },
          {
@@ -1890,7 +1890,7 @@
                "originalImageURL": "//cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/115e3eae-14c2-49aa-80b3-3d8649e96950.jpg",
                "width": "640"
             },
-            "text": null,
+            "text": "Bạn là một người có cả tài lẫn tâm, luôn muốn cống hiến bản thân cho những điều tốt đẹp trong cuộc sống. Đối với bạn, làm gì cũng cần có mục đích rõ ràng và có những nguyên tắc cần giữ vững cho dù gặp khó khăn. Một mặt, bạn được nhiều người xung quanh tin tưởng. Nhưng mặt khác, bạn không tránh khỏi hoang mang, cô lập khi những điều bạn nghĩ hơi khác biệt với số đông.\n\nĐể cuộc sống của bạn thực sự cân bằng, bạn cần thiết lập 1 hệ thống quan hệ hỗ trợ: tức là những người tin tưởng vào những giá trị của bạn, động viên bạn trong lúc khó khăn và luôn khiến bạn cảm thấy tích cực về bản thân. Để hiểu rõ hơn hãy tham khảo cách [tìm kiếm \"bộ lạc\"](/posts/ban-da-tim-thay-bo-lac-cua-minh-chua/) của riêng bạn nhé.",
             "title": "Bạn cần 1 hệ thống quan hệ hỗ trợ"
          },
          {
@@ -1915,7 +1915,7 @@
                "originalImageURL": "//cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/47633a44-e8a2-401c-b815-7d35386a4975.jpg",
                "width": "640"
             },
-            "text": null,
+            "text": "Bạn  là tuýp người nhẹ nhàng, hiểu biết và biết quan sát. Một khi bạn thực sự mong muốn có điều gì, bạn đặt quyết tâm rất cao để thực hiện nó. Trong làm việc nhóm, mọi người cần có bạn để thúc đẩy tiến độ công nghiệp, hoặc đơn thuần có ít nhất 1 người là bạn chịu trách nhiệm cho kết quả. Bạn quan tâm đến gia đình, bạn bè và thường được tin tưởng để hỏi ý kiến.\n\nChính vì thế mà bạn xứng đáng có nhiều niềm vui hơn trong cuộc sống.Không nhất thiết phải xao nhãng những điều bạn muốn thực hiện bằng những cuộc vui lớn, mà bạn chỉ cần học cách tìm thấy niềm vui nhiều hơn trong những điều nhỏ bé thưởng nhật mà thôi. Một khi bạn đã nở nụ cười trên môi thì rất là khó cưỡng mà :)\n\nTham khảo bí quyết sống vui của cô bảo mẫu Julie Andrews ở [đây nhé](/posts/nhung-niem-vui-nho-cua-co-bao-mau/)",
             "title": "Bạn cần những niềm vui nho nhỏ"
          }
       ]
