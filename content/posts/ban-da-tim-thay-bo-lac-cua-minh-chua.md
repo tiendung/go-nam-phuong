@@ -53,7 +53,7 @@ Trước hết, hãy viết ra câu trả lời cho các câu hỏi sau, cố g�
 9. Có cộng đồng nào bạn cảm thấy muốn gia nhập?
 10. Bạn hình dung những nơi các thành viên bộ lạc của bạn thường tụ tập là ở đâu? (cả online lẫn offline)
 
-{{< figure src="/images/2017-11-04/cong-dong-ttn-tai-dalat.jpg" alt="Cộng đồng sống thuận tự nhiên của mình ở Đà Lạt" caption="Cộng đồng sống thuận tự nhiên của tôi ở Đà Lạt" class="tc" >}}
+{{< figure src="/images/2017-11-04/cong-dong-ttn-tai-dalat.jpg" alt="cong-dong-song-thuan-tu-nhien" caption="Cộng đồng sống thuận tự nhiên của tôi ở Đà Lạt" class="tc" >}}
 
 ## Bước 2: Mở rộng ranh giới
 
