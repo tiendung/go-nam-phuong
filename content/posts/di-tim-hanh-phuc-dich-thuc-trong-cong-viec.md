@@ -23,7 +23,7 @@
 
 Mình tóm tắt hướng dẫn của tác giả trong lĩnh vực công việc:
 
-**BƯỚC 1:Tìm ra Top 5 Điểm mạnh tiêu biểu của bạn **
+**BƯỚC 1: Tìm ra Top 5 Điểm mạnh tiêu biểu của bạn**
 
 
 Hãy đăng ký tài khoản và làm test ở [đây](https://www.authentichappiness.sas.upenn.edu/testcenter). Chọn "VIA Survey of Character Strengths" (bản dài) hoặc "Brief strength test" (bản ngắn).Bạn phải đăng ký tài khoản trước.
