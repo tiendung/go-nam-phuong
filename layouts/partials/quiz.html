@@ -116,7 +116,7 @@ app = new Vue({
       event.preventDefault();
       if (this.done) return;
       Vue.set(this.selected_answers, i, k);
-      if (this.scrollToNextQuestion(i + 1) == false) {
+      if (!this.scrollToNextQuestion(i + 1)) {
         this.calculate_result();
         window.setTimeout(scrollToResult, 300);
       }
@@ -128,7 +128,10 @@ app = new Vue({
         i = 0;
         while (i < questions.length && this.selected_answers[i] != null) i++;
       }
-      if (i < questions.length) window.setTimeout(function(){ scrollToElement(questions[i]); }, 300);
+      if (i < questions.length) {
+        window.setTimeout(function(){ scrollToElement(questions[i]); }, 300);
+        return true;
+      }
     },
 
     calculate_result() {
