@@ -3,7 +3,7 @@
    "categories": [
       "công việc"
    ],
-   "cover_image": null,
+   "cover_image": ![hanh-phuc-trong-cong-viec]({{site.baseurl}}/content/posts/CO%CC%82NG%20VIE%CC%A3%CC%82C.jpg),
    "date": "2017-11-17",
    "sescription": "Giới thiệu 1 cách nhanh gọn để cải thiện mức độ hài lòng trong công việc.",
    "tags": [
