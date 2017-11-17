@@ -52,41 +52,16 @@ Tôi sẽ thực hiện Khai vấn miễn phí cho __chỉ 8 người / tháng__
 
 <article class="mw7 center ph3 ph5-ns tc pv3 pv5-ns bg-light-gray mid-gray">
   <h1 class="fw6 f3 f2-ns lh-title mt0 mb3">
-    Bước 1
-  </h1>
+    Điền form dưới đây</h1>
   <h2 class="fw3 f4 lh-copy mt0 mb3">
-    Download và điền một trong các mẫu form sau
-  </h2>
+    Để được 1h Khai vấn miễn phí</h2>
   <div>
-    <a class="f5 br-pill dark-blue no-underline ba grow pv2 ph3 mr3 mb2 dib hover-dark-blue"
-      href="https://drive.google.com/file/d/0B0akJ4Ogg464TWJVSnV4ZWZPSU0/view?usp=sharing" target="_blank">
-      Lịch sử sức khoẻ nữ giới
-    </a>
-    <a class="f5 br-pill dark-blue no-underline ba grow pv2 ph3 dib hover-dark-blue"
-      href="https://drive.google.com/file/d/0B0akJ4Ogg464VGJvdFdJRlhWdms/view?usp=sharing" target="_blank">
-      Lịch sử sức khoẻ nam giới
-    </a>
+    <a class="f5 bg-dark-blue no-underline washed-blue ba b--dark-blue grow pv2 ph3 dib mr3 mb2 hover-white"
+      href="https://docs.google.com/forms/d/e/1FAIpQLSezyO9BpPcvhw-Q8U3Ac8qm15eDrTT-ZUStDzTlETd-s47loA/viewform"
+      target="_blank">Mẫu form đăng ký</a>
   </div>
 </article>
 
-<article class="mw7 center ph3 ph5-ns tc pv3 pv5-ns bg-light-gray mid-gray mt4">
-  <h1 class="fw6 f3 f2-ns lh-title mt0 mb3">
-    Bước 2
-  </h1>
-  <h2 class="fw3 f4 lh-copy mt0 mb3">
-    Gửi form kèm theo các khoảng thời gian thuận lợi để làm Lịch sử sức khoẻ
-    (vd: các buổi tối sau 8pm)
-  </h2>
-  <p class="fw1 f5 mt0 mb3">
-
-  </p>
-  <div>
-  <a class="f5 bg-dark-blue no-underline washed-blue ba b--dark-blue grow pv2 ph3 dib mr3 mb2 hover-white"
-    href="mailto:namphuong.cf@gmail.com">
-    Gửi form tới namphuong.cf@gmail.com
-  </a>
-  </div>
-</article>
 
 Bạn sẽ nhận được email xác nhận từ Coach và sẽ được chủ động liên lạc khi đến lượt.
 
