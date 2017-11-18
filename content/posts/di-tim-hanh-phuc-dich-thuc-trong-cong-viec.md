@@ -76,11 +76,16 @@ Sếp từ chối không giúp bạn điều chỉnh? hoặc tự bản thân b�
 Và này, nếu bạn vẫn quyết định ở lại vì tiền, tôi không thể trách bạn. Nhưng hãy nhớ [tiêu tiền cho cái tôi đích thực](/posts/chi-tieu-cho-cai-toi-dich-thuc-cua-ban/) của bạn nhé!
 
 ---
-> TOP 5 thế mạnh của tôi, theo bài trắc nghiệm:
+TOP 5 thế mạnh của tôi, theo bài trắc nghiệm:
+
 1/Love of learning
+
 2/Curiosity & interest in the world
+
 3/Capacity to love & be loved
+
 4/Social intelligence
+
 5/Gratitude
 
 Còn của bạn là gì?:) *rất rất rất tò mò* Hãy chia sẻ qua comment nhé!
