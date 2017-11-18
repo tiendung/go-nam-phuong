@@ -34,12 +34,14 @@ Vì vậy ngày hôm nay tôi mời bạn tập trung vào sức mạnh mà chuy
 Trên bề mặt, đây rõ ràng không phải một câu hỏi về tài chính cá nhân thông thường. Đừng bị lừa. Một câu khai vấn đơn giản như vậy có thể dẫn đến sự chuyển đổi to lớn trong chi tiêu và niềm vui của bạn. Sau đây là 2 bước công hiệu bạn có thể làm hôm nay để có được điều đó.
 
 **1.Hãy đảm bảo bạn không lãng phí năng lượng vào những thứ không phải là bạn ngay từ đầu.**
-Rất dễ bị xao nhãng bởi mong chờ của xã hội, duy trì vị thế, hay đạt được những thứ mà ta đã bị xã hội hoá để tin rằng mình cần, nhưng thực ra không đồng nhất với những giá trị của bạn. Vì vậy hôm nay, hãy hỏi bản thân rằng có sự dư thừa nào đòi hỏi thời gian, năng lượng và tiền bạc của bạn, nhưng không phục vụ cho mục đích đích thực đã luồn lách vào cuộc sống của bạn hay không. Bạn có thể sử dụng ["Vòng tròn cuộc sống"](/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach)như một công cụ đánh giá toàn diện).
+Rất dễ bị xao nhãng bởi mong chờ của xã hội, duy trì vị thế, hay đạt được những thứ mà ta đã bị xã hội hoá để tin rằng mình cần, nhưng thực ra không đồng nhất với những giá trị của bạn. Vì vậy hôm nay, hãy hỏi bản thân rằng có sự dư thừa nào đòi hỏi thời gian, năng lượng và tiền bạc của bạn, nhưng không phục vụ cho mục đích đích thực đã luồn lách vào cuộc sống của bạn hay không. Bạn có thể sử dụng ["Vòng tròn cuộc sống"](/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach) như một công cụ đánh giá toàn diện).
 
 **2. Cam kết chi tiền theo một cách phù hợp với những gì bạn cảm thấy quan trọng trong cuộc sống.** Quan hệ của ta với đồng tiền là đại diện cho quan hệ của ta với bản thân. Vì vậy hôm nay, hãy lập một kế hoạch chi tiêu để ưu tiên hoá cách bạn sử dụng thời gian, tiền bạc và năng lượng. Dành một khoảnh khắc để cân nhắc xem cách dùng tiện hiện tại của bạn có ăn khớp với những gì bạn trân trọng nhất không. Và trong 1 câu thôi, viết ra triết lý chi tiêu cốt lõi của bạn.
 
 
-> Coach Nam Phương: Triết lý chi tiêu của tôi là: “Tiêu tiền có nghĩa là tiêu đi năng lượng sống mà tôi đã đánh đổi để kiếm được, vì vậy hãy trân trọng và tiết chế.”
+> Triết lý chi tiêu của tôi là: “Tiêu tiền có nghĩa là tiêu đi năng lượng sống mà tôi đã đánh đổi để kiếm được, vì vậy hãy trân trọng và tiết chế.”
+>
+> --- <cite>Coach Nam Phương</cite>
 
 Để có thêm cảm hứng về đề tài đồng nhất tài chính cá nhân với cái tôi đích thực của bạn, tôi rất khuyến khích bạn đọc cuốn sách hàng đầu về chuyên môn ý thức tài chính, [“Tiền bạn hay Đời bạn"](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=sr_1_1?s=books&ie=UTF8&qid=1352443087&sr=1-1&keywords=your+money+or+your+life) của Vicki Robin và Joe Dominquez.
 

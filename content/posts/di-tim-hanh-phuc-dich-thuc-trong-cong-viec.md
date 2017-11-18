@@ -18,7 +18,9 @@
 
 "Hạnh phúc đích thực" ở đây không phải do giật tít mà chính là tên Project "Authentic Happiness" của tác giả Silgman. Ông là tác giả nổi bật của tâm lý học tích cực, nghiên cứu chuyên sâu về hạnh phúc và cách tiếp cận Phật giáo. Cuốn sách cùng tên mình đã đọc, tự suy ngẫm về trải nghiệm bản thân trong quá khứ và hiện tại, hiểu thêm được rất nhiều điều mà trước nay nghĩ mãi không hiểu.
 
-> “Loại sách kiểu thế vừa thấy thực tế đời thường vừa khá yên tâm bởi được chống lưng các luận cứ khoa học. Yên.-” - Nhà tâm lý Thái Phác Ngô Toàn.
+> “Loại sách kiểu thế vừa thấy thực tế đời thường vừa khá yên tâm bởi được chống lưng các luận cứ khoa học. Yên.-”
+>
+> --- <cite>Nhà tâm lý Thái Phác Ngô Toàn.</cite>
 
 
 Mình tóm tắt hướng dẫn của tác giả trong lĩnh vực công việc:
@@ -78,14 +80,10 @@ Và này, nếu bạn vẫn quyết định ở lại vì tiền, tôi không th
 ---
 TOP 5 thế mạnh của tôi, theo bài trắc nghiệm:
 
-1/Love of learning
+1. Love of learning
+2. Curiosity & interest in the world
+3. Capacity to love & be loved
+4. Social intelligence
+5. Gratitude
 
-2/Curiosity & interest in the world
-
-3/Capacity to love & be loved
-
-4/Social intelligence
-
-5/Gratitude
-
-Còn của bạn là gì?:) *rất rất rất tò mò* Hãy chia sẻ qua comment nhé!
+Còn của bạn là gì?:) *Rất rất rất tò mò*. Hãy chia sẻ qua comment nhé!
