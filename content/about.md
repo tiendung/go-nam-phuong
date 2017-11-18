@@ -56,7 +56,7 @@ Nếu muốn biết về các dịch vụ cụ thể của tôi, bạn hãy xem 
 
 {{< partial "offers_cta.html" >}}
 
-Tôi không phải một guru với bộ đồ kì quặc, sống trong hẻm núi và trả lời được mọi câu hỏi. Bạn sẽ thấy tôi chạy vòng quanh với jeans và sneaker, mắc lỗi, nói thẳng toẹt, không giấu giếm một ngàn cảm xúc trên mặt và đôi lúc ngập mình trong nỗi sợ hãi và tự nghi ngờ. Dù gì thì tôi cũng là một trong những millenials mà.
+Tôi không phải một guru với bộ đồ kì quặc, sống trong hẻm núi và trả lời được mọi câu hỏi. Bạn sẽ thấy tôi chạy vòng quanh với jeans và sneaker, mắc lỗi, nói thẳng toẹt, không giấu giếm một ngàn cảm xúc trên mặt và đôi lúc trải qua khoảnh khắc sợ hãi và tự nghi ngờ. Dù gì thì tôi cũng là một trong những millenials mà.
 
 Xin đừng mong chờ sự hoàn hảo không-tì-vết, nhưng hãy mong chờ những tổng hợp hữu ích, những ý tưởng mới lạ, những phân tích nhiều chiều và đôi lúc là những cố gắng trở nên hài hước (nhưng lại thành kì quặc và ngốc nghếch). Tất cả để mang đến sức khoẻ và hạnh phúc cho bạn.
 
