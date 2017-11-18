@@ -68,3 +68,21 @@ Cho đến giờ, khi ngồi gõ những dòng này, tôi chưa bao giờ tự h
 > --- <cite>Tôi đã luôn niệm thầm như vậy.</cite>
 
 Tôi học hàng trăm trường phái dinh dưỡng, khái niệm sức khoẻ từ những nhà giáo dụng hàng đầu thế giới, học về thức ăn cơ thể cũng như thức ăn tinh thần. Nhưng sau cùng, người thầy lớn nhất của tôi là cơ thể mình, như một tiểu vũ trụ thuộc về một vũ trụ vĩ đại lớn lao hơn thế. Mà vũ trụ hoá ra luôn gửi đến cho tôi những tín hiệu, chỉ cần chú ý “đọc" được tôi tin mình sẽ đi đúng hướng cần đi. Tôi đã học cách lắng nghe cơ thể mình, dần dần tìm được sức khoẻ Thân - Tâm và cả gạch nối liên kết giữa hai điều đó. Tôi học được cách nhận diện được những thói quen tiêu cực trong suy nghĩ, quan sát nó thấu triệt và lấy lại từ nó quyền làm chủ chính mình. Tôi học được cách cân bằng mọi điều quan trọng với mình: sự nghiệp, các mối quan hệ, thực hành tâm linh, vận động, nấu nướng, chăm sóc vườn tược...và có được niềm giản dị mỗi ngày.
+
+![health-coach]({{site.baseurl}}/https://i.imgur.com/ft8z4bs.jpg)
+
+Tôi thấy năng lượng ngập tràn trong từng tế bào cơ thể cũng như niềm vui tràn ngập trong tâm hồn từ những điều nhỏ nhất trong cuộc sống. Tôi chưa bao giờ thấy tình yêu trong mình nhiều đến vậy: tôi chỉ muốn bung ra, san sẻ, đem tình yêu cho mọi người và cho thiên nhiên cuộc sống xung quanh.
+
+Nhớ lại năm tôi học lớp 12, bố tôi về nhà nhiều lần để khuyên tôi thi Y để trở thành một người thầy chữa bệnh cho người khác. Tôi kiên quyết nói không vì không thể nào tìm đủ khả năng và động lực để làm điều đó. Để rồi cuộc sống dẫn tôi đi một đường vòng lớn trước khi tìm về đúng bản chất một công việc mà bố tôi đã ao ước cho tôi: Mang lại sức khoẻ cho người khác và có một cuộc sống yên ấm cho mình.
+
+Tôi tôn vinh bố mẹ mình bằng cách mang những giá trị họ trân trọng vào nghề nghiệp của mình:
+
+> - Sự trung thực với chính bản thân mình và với người khác, nhất quán trong suy nghĩ và hành động.
+- Sự tận tâm với những người cần mình, kiến tạo những lợi ích chung
+- Sự can đảm đi theo con đường mình chọn, bằng cả khối óc và trái tim.
+
+Tôi viết những dòng này với rất nhiều cân nhắc, bởi có nhiều chi tiết riêng tư thường tôi chỉ cất giấu trong tim mình. Nhưng tôi quyết định viết ra để trả lời câu hỏi “Tại sao?”, để làm rõ động lực và những cam kết nghề nghiệp với mình trước hết. 
+
+Đường còn dài, nhưng tôi có một niềm tin mạnh mẽ rằng cả vũ trụ sẽ hỗ trợ cho ta khi ta sống thuận tự nhiên và làm việc với mục đích chân chính.
+
+
