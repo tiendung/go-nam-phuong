@@ -29,7 +29,7 @@ Vì vậy ngày hôm nay tôi mời bạn tập trung vào sức mạnh mà chuy
 
 **“Những món quà về tinh thần và vật chất nào bạn đã tặng - cho người khác và bản thân bạn - khiến cho cuộc đời đáng sống?”**
 
-![mon-qua]({{site.baseurl}}/https://imgur.com/qIUnDgQ)
+{{< figure src="http://wp.givingtuesday.ca/app/uploads/2014/11/GivingTuesday_BlogHeader.jpg" alt="mon-qua" class="tc" >}}
 
 Trên bề mặt, đây rõ ràng không phải một câu hỏi về tài chính cá nhân thông thường. Đừng bị lừa. Một câu khai vấn đơn giản như vậy có thể dẫn đến sự chuyển đổi to lớn trong chi tiêu và niềm vui của bạn. Sau đây là 2 bước công hiệu bạn có thể làm hôm nay để có được điều đó.
 
