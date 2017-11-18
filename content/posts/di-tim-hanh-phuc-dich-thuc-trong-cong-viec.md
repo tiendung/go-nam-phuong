@@ -37,7 +37,7 @@ Nếu không, đừng hỏi tại sao mình luôn chán việc. Bạn sẽ đi v
 - Điều kiện 1: Được sử dụng thế mạnh của mình hàng ngày
 - Điều kiện 2: Tìm thấy được mục đích cao cả hơn bản thân mình trong công việc, tự thấy công việc của mình đang làm thế giới tốt đẹp hơn.
 
-Bạn có thể đọc [câu chuyện của tôi:](https://coachnamphuong.com/posts/vi-sao-toi-tro-thanh-1-health-coach/) nếu muốn biết: Vì sao tôi chuyển từ công việc Quản lý cấp cao với số lương 2000USD sang làm Health Coach?
+Bạn có thể đọc [câu chuyện của tôi:](/posts/vi-sao-toi-tro-thanh-1-health-coach/) nếu muốn biết: Vì sao tôi chuyển từ công việc Quản lý cấp cao với số lương 2000USD sang làm Health Coach?
 
 
 **BƯỚC 3: Hiểu rõ ý nghĩa của điều mình đang làm**
