@@ -17,6 +17,8 @@ Khi phát biểu về tài chính cá nhân vòng quanh đất nước, tôi th�
 
 **“Nếu bạn nhận được 10 triệu USD (sau thuế!) và ngay lập tức được bảo rằng bạn sẽ chết trong 10 năm, bạn sẽ bắt đầu điều gì...và bỏ đi điều gì?”**
 
+![trieu-phu]({{site.baseurl}}/http://cryptopost.com/wp-content/uploads/2017/06/millionaire.jpg)
+
 Qua nhiều năm, tôi đã nghe hàng ngàn câu trả lời. Những phản hồi phổ biến nhất bởi số đông là: “Tôi sẽ thôi việc hoặc thôi lo lắng.” Và, “Tôi sẽ đi du lịch hoặc làm từ thiện nhiều hơn.” Nếu như cuộc thăm dò ý kiến không chính thức của tôi có giá trị nào đó, thì có vẻ như Thoreau (nhà thơ, nhà triết học, sử gia nổi tiếng) đã đúng: nhiều đàn ông và phụ nữ đang sống một cuộc đời tuyệt vọng trong câm lặng!
 
 Nếu như bạn trải qua một sự chuyển đổi quyết liệt trong những tình cảnh như vậy, bạn sẽ bắt đầu điều gì? Bạn sẽ buông bỏ điều gì? Và quan trọng nhất - những thay đổi đó liệu có khiến bạn hạnh phúc hơn một cách có ý nghĩa?
