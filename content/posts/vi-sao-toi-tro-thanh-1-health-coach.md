@@ -69,7 +69,8 @@ Cho đến giờ, khi ngồi gõ những dòng này, tôi chưa bao giờ tự h
 
 Tôi học hàng trăm trường phái dinh dưỡng, khái niệm sức khoẻ từ những nhà giáo dụng hàng đầu thế giới, học về thức ăn cơ thể cũng như thức ăn tinh thần. Nhưng sau cùng, người thầy lớn nhất của tôi là cơ thể mình, như một tiểu vũ trụ thuộc về một vũ trụ vĩ đại lớn lao hơn thế. Mà vũ trụ hoá ra luôn gửi đến cho tôi những tín hiệu, chỉ cần chú ý “đọc" được tôi tin mình sẽ đi đúng hướng cần đi. Tôi đã học cách lắng nghe cơ thể mình, dần dần tìm được sức khoẻ Thân - Tâm và cả gạch nối liên kết giữa hai điều đó. Tôi học được cách nhận diện được những thói quen tiêu cực trong suy nghĩ, quan sát nó thấu triệt và lấy lại từ nó quyền làm chủ chính mình. Tôi học được cách cân bằng mọi điều quan trọng với mình: sự nghiệp, các mối quan hệ, thực hành tâm linh, vận động, nấu nướng, chăm sóc vườn tược...và có được niềm giản dị mỗi ngày.
 
-![health-coach]({{site.baseurl}}/https://i.imgur.com/ft8z4bs.jpg)
+
+{{< figure src="https://i.imgur.com/ft8z4bs.jpg" alt="health coach" >}}
 
 Tôi thấy năng lượng ngập tràn trong từng tế bào cơ thể cũng như niềm vui tràn ngập trong tâm hồn từ những điều nhỏ nhất trong cuộc sống. Tôi chưa bao giờ thấy tình yêu trong mình nhiều đến vậy: tôi chỉ muốn bung ra, san sẻ, đem tình yêu cho mọi người và cho thiên nhiên cuộc sống xung quanh.
 
