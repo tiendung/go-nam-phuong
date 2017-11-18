@@ -1,6 +1,6 @@
 {
    "header": {
-      "class": "bg-darken-15 bg-darken-25-l bg-top",
+      "class": "bg-darken-15 bg-top",
       "cta": {
          "class": "ba border-box bw1 grow no-underline white hover-white pa2 tracked ttu",
          "text": "Câu chuyện của tôi",
