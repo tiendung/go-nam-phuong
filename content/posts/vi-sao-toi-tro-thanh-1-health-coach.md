@@ -87,7 +87,6 @@ Tôi viết những dòng này với rất nhiều cân nhắc, bởi có nhiề
 Đường còn dài, nhưng tôi có một niềm tin mạnh mẽ rằng cả vũ trụ sẽ hỗ trợ cho ta khi ta sống thuận tự nhiên và làm việc với mục đích chân chính.
 
 Chú thích (*):
-
-http://www.huffingtonpost.com/entry/health-coaches-the-simple-solution-to-a-failing-health_us_59386e69e4b0b65670e56744
-https://www.forbes.com/sites/toddhixon/2012/10/11/everyone-needs-a-health-care-coach/#65547d0f6609
+[Health Coaches: giải pháp đơn giản cho một hệ thống chăm sóc sức khoẻ thất bại](http://www.huffingtonpost.com/entry/health-coaches-the-simple-solution-to-a-failing-health_us_59386e69e4b0b65670e56744)
+[Ai cũng cần một Health Coach](https://www.forbes.com/sites/toddhixon/2012/10/11/everyone-needs-a-health-care-coach/#3794dfca6609)
 
