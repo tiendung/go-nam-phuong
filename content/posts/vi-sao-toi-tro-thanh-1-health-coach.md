@@ -16,7 +16,7 @@
 
 Tôi chưa từng ngờ rằng mình sẽ kể về bố trên bước đường nghề nghiệp.
 
-Bố tôi là một bác sĩ, rất am tường và thích đọc sách báo. Ông truyền tình yêu kiến thức và sự tò mò ham thích tìm hiểu mọi thứ cho tôi. Vì vậy, câu chuyện tuổi thơ tôi gắn liền với ông là những lần đi mua sách và hí hửng mang sách về đọc. Đứng ở nhà sách trước đứa con đeo cặp kính dày cộp, ông khoát tay thật rộng bảo “muốn mua cả nhà sách cũng được" (hiển nhiên chúng tôi không nhiều điều kiện đến thế!). Chở tôi hí hửng với 1 bao sách trên tay, ông đi qua bao nhiêu con đường, giới thiệu cho tôi bao nhêu kiến thức về cây cối hay toà nhà gắn liền với những thăng trầm của phố núi Ban Mê. Còn khi tôi có mang cuốn sách nặng đô nào đó về nhà như kiểu “Từ điển Tôn giáo", thì ông sẽ lấy đi mất trước cả khi tôi kịp sờ đến. Tôi lớn lên dưới ảnh hưởng của ông mà luôn phấn khích trước bể kiến thức vô tận.
+Bố tôi là một bác sĩ, rất am tường và thích đọc sách báo. Ông truyền tình yêu kiến thức và sự tò mò ham thích tìm hiểu mọi thứ cho tôi. Vì vậy, câu chuyện tuổi thơ tôi gắn liền với ông là những lần đi mua sách và hí hửng mang sách về đọc. Đứng ở nhà sách trước đứa con đeo cặp kính dày cộp, ông khoát tay thật rộng bảo “muốn mua cả nhà sách cũng được" (hiển nhiên chúng tôi không nhiều điều kiện đến thế!). Chở tôi hí hửng với 1 bao sách trên tay, ông đi qua bao nhiêu con đường, giới thiệu cho tôi bao nhiêu kiến thức về cây cối hay toà nhà gắn liền với những thăng trầm của phố núi Ban Mê. Còn khi tôi có mang cuốn sách nặng đô nào đó về nhà như kiểu “Từ điển Tôn giáo", thì ông sẽ lấy đi mất trước cả khi tôi kịp sờ đến. Tôi lớn lên dưới ảnh hưởng của ông mà luôn phấn khích trước bể kiến thức vô tận.
 
 {{< figure src="/images/2017-11-02/namphuong-papa.jpg" alt="Bố của Nam Phương" caption="Khi gia đình chúng tôi đi cà phê với nhau, mọi người luôn phải đợi ông đọc cho xong tờ báo mua tại chỗ trước khi gập kính lại, làm ngụm cà phê đen rồi mới tham gia vào câu chuyện" class="tl" >}}
 
@@ -85,5 +85,3 @@ Tôi tôn vinh bố mẹ mình bằng cách mang những giá trị họ trân t
 Tôi viết những dòng này với rất nhiều cân nhắc, bởi có nhiều chi tiết riêng tư thường tôi chỉ cất giấu trong tim mình. Nhưng tôi quyết định viết ra để trả lời câu hỏi “Tại sao?”, để làm rõ động lực và những cam kết nghề nghiệp với mình trước hết. 
 
 Đường còn dài, nhưng tôi có một niềm tin mạnh mẽ rằng cả vũ trụ sẽ hỗ trợ cho ta khi ta sống thuận tự nhiên và làm việc với mục đích chân chính.
-
-
