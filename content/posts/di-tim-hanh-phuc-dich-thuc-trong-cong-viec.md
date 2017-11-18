@@ -59,8 +59,7 @@ Nếu bạn đang ở cấp bậc thấp, cũng không hẳn đó là điều x�
 
 **Bước 4: Lựa chọn cách điều chỉnh công việc cho phù hợp với hoàn cảnh**
 
-_Cách 1: Chủ động đề nghị điều chỉnh để thoả mãn điều kiện 1. _
-
+_Cách 1: Chủ động đề nghị điều chỉnh để thoả mãn điều kiện 1_
 
 Giải thích và đề nghị được điều chỉnh công việc vào mảng bạn có thế mạnh. Người sếp khôn ngoan sẽ hiểu vấn đề và vui vẻ giải quyết cho bạn với nguyên nhân này. Không cần đến mức chuyển phòng ban, mà chỉ cần có những đầu việc khiến bạn thoả mãn về năng lực, sức sáng tạo và thế mạnh!
 
