@@ -1,24 +1,22 @@
 ---
-{
-  type: "static",
-  page: "_default/baseof.html",
-  title: "Gặp Nam Phương",
-  header: {
-    layout: "hero",
-    image: "/images/pages/about.jpg",
-    class: "bg-darken-50 bg-darken-25-l bg-center",
-    cta: null
-  },
-  cover_image: "/uploads/2.jpg",
-  no_newsletter_cta: true
-}
+type: static
+page: _default/baseof.html
+title: Gặp Nam Phương
+header:
+  layout: hero
+  image: /images/pages/about.jpg
+  class: bg-darken-50 bg-darken-25-l bg-center
+  cta: null
+cover_image: /uploads/2.jpg
+no_newsletter_cta: true
+published: true
 ---
 
 Tôi bắt đầu cuộc hành trình vì sức khoẻ & hạnh phúc bằng một tuổi trẻ đi thật xa, đọc thật nhiều và gặp gỡ thật vô tư. 17 tuổi, tôi đồng sáng lập “bộ lạc” Diễn đàn Tuổi trẻ Tây Nguyên, xuất phát từ mong muốn mang đến một **sân chơi tự do và sáng tạo** cho bạn bè cùng tuổi. 18 tuổi, tôi là 1 trong 4 người nhận Học bổng Hoàng tử Andrew. Kể từ đó, tôi đã đi đến hơn 10 quốc gia và nhiều diễn đàn quốc tế. Sau khi ra trường, tôi trở thành Quản lý Quốc gia của một start-up Hàn Quốc chuyên làm nội dung Viral.
 
 > Nhiều người hỏi: Thế quái nào mà cuối cùng cậu lại quyết định về Đà Lạt và trở thành một Health Coach?
 
-Có lẽ khi một người trẻ không thực sự biết mình nên làm gì, cách đơn giản nhất là **để sự tò mò dẫn dắt**. Tôi đã luôn thử máy mó rất nhiều thứ mà có vẻ chả kết nối gì với nhau: Màu sắc, tâm lý học, các bộ môn nhảy, viết lách, làm phim, tâm linh, huấn luyện, báo chí, cà phê…là một vài trong số đó.
+Có lẽ khi một người trẻ không thực sự biết mình nên làm gì, cách đơn giản nhất là **để sự tò mò dẫn dắt**. Tôi đã luôn thử máy mó rất nhiều thứ mà có vẻ chả kết nối gì với nhau: Màu sắc, tâm lý học, nhảy, viết, làm phim, huấn luyện, báo chí, cà phê…là một vài trong số đó.
 
 {{< figure src="/images/pages/namphuong-running.gif" alt="Nam Phương năng động" class="tc" >}}
 
