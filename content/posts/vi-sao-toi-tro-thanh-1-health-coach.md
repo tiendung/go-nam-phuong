@@ -85,3 +85,9 @@ Tôi tôn vinh bố mẹ mình bằng cách mang những giá trị họ trân t
 Tôi viết những dòng này với rất nhiều cân nhắc, bởi có nhiều chi tiết riêng tư thường tôi chỉ cất giấu trong tim mình. Nhưng tôi quyết định viết ra để trả lời câu hỏi “Tại sao?”, để làm rõ động lực và những cam kết nghề nghiệp với mình trước hết. 
 
 Đường còn dài, nhưng tôi có một niềm tin mạnh mẽ rằng cả vũ trụ sẽ hỗ trợ cho ta khi ta sống thuận tự nhiên và làm việc với mục đích chân chính.
+
+Chú thích (*):
+
+http://www.huffingtonpost.com/entry/health-coaches-the-simple-solution-to-a-failing-health_us_59386e69e4b0b65670e56744
+https://www.forbes.com/sites/toddhixon/2012/10/11/everyone-needs-a-health-care-coach/#65547d0f6609
+
