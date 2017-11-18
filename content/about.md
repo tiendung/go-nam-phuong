@@ -30,7 +30,7 @@ Sau vài năm làm việc trong môi trường đầy áp lực của các công
 
 Tôi và người yêu chuyển về sống ở Đà Lạt và nhận ra một lối sống chậm rãi, hoà mình cùng thiên nhiên sẽ tạo điều kiện cho một hạnh phúc thực sự bền vững. Dần từng bước, **tôi hướng sâu hơn vào nội tâm mình và nhận ra điều mình thực sự muốn làm**. Không lâu sau, tôi tốt nghiệp Học viện Integrative Nutrion (Hoa Kỳ) và trở thành Holistic Health Coach.
 
-{{< figure src="https://ibb.co/kNH4oR" class="tc" >}}
+{{< figure src="https://image.ibb.co/mP1m2m/4.jpg" class="tc" >}}
 
 > Tôi tin rằng bạn phải trở thành một người **khoẻ mạnh toàn diện** để sống hạnh phúc trong thế giới này.
 
@@ -40,11 +40,11 @@ Quan trọng hơn hết, tôi tin rằng một con người khoẻ mạnh toàn 
 
 Niềm tin này đã dẫn dắt tôi đến những thành quả tôi tự hào:
 
-{{< figure src="https://ibb.co/dbE62m" class="tc" >}}
+{{< figure src="https://image.ibb.co/gL02a6/5.jpg" class="tc" >}}
 
 Để biến thành một người thực học và hữu ích, tôi chọn cách mỗi ngày chia sẻ miễn phí các nội dung hữu ích qua website và các kênh mạng xã hội của mình.
 
-{{< figure src="https://ibb.co/bxhthm" class="tc" >}}
+{{< figure src="https://image.ibb.co/nc8oF6/6.jpg" class="tc" >}}
 
 ## Kinh doanh và phát triển cộng đồng
 
