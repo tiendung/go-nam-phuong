@@ -54,7 +54,7 @@ _Bạn coi nó là TIẾNG GỌI?_ Khi thoả mãn đủ 2 điều kiện nói t
 Nếu bạn đang ở cấp bậc thấp, cũng không hẳn đó là điều xấu. Đơn thuần đó là một giai đoạn trong cuộc sống trước khi bạn nghe được Tiếng gọi của mình. Hãy chú tâm lắng nghe trái tim!
 
 
-{{< figure src="https://i.imgur.com/cGTrx5C.jpg" alt="health-coach" caption="Từ thứ bậc sự nghiệp, tôi tìm thấy TIẾNG GỌI trở thành 1 Health Coach mang lại sức khoẻ và hạnh phúc cho mọi người." class="tc" >}}
+{{< figure src="https://i.imgur.com/p8puUjB.jpg" alt="health-coach" caption="Từ thứ bậc sự nghiệp, tôi tìm thấy TIẾNG GỌI trở thành 1 Health Coach mang lại sức khoẻ và hạnh phúc cho mọi người." class="tc" >}}
 
 
 **Bước 4: Lựa chọn cách điều chỉnh công việc cho phù hợp với hoàn cảnh**
