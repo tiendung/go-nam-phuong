@@ -158,11 +158,7 @@ function fb_share(data) {
   return;
   {{ end }}
 
-  FB.ui(
-    {
-      method: 'feed',
-      link: link
-    },
+  FB.ui({ method: 'feed', link: link },
     function(response) {
       if (response && !response.error_code) {
         console.log('Success sharing to Facebook.');
