@@ -6,11 +6,11 @@
   <p class="lh-copy measure fw4 f4 f3-ns">{{ .Params.description }}</p>
 </div>
 
-<section id="app">
+<section id="quiz">
 {{ range $i, $q := $quiz.questions }}
 {{ $j := add $i 1 }}
 <!-- range through quiz's questions -->
-<div id="q{{ $j }}" class="question w-100 mb4">
+<div id="q{{ $i }}" class="question w-100 mb4">
   <h2 class="f4 f2-ns lh-title">{{ $j }}. {{ .text }}</h2>
   {{ if and .image (or (not $q.useImagesInAnswers) (not .text)) }}
     <img class="w-100 w-60-ns br4 o-80"
@@ -26,8 +26,7 @@
     <li class="{{ if $q.useImagesInAnswers }}w-50 w-third-ns{{ end }}">
       <a id="{{ .id }}"
         class="db dim ba b--black-20 mr2 mr3-l mb2 mb3-l pa2 shadow-4 no-underline bg-light-gray"
-        v-bind:class="{ 'bg-light-blue': selected_answers[{{ $i }}] == '{{ .id }}' }"
-        v-on:click="select_answer({{ $i }}, '{{ .id }}', $event)">
+        onclick="select_answer({{ $i }}, '{{ .id }}')">
         {{ with .image }}
           <img class="w-100" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 {{ .coords.width }} {{ .coords.height }}'%2F%3E"
             data-src="{{ .originalImageURL | replaceRE "(.+/)[^/]+" "$1" }}{{ .croppedImageURL }}">
@@ -37,16 +36,16 @@
         {{ end }}
       </a>
     </li>
-    {{ end }} <!-- Answer -->
+    {{ end }} <!-- End Answer -->
     </ul>
   </div>
   <hr>
 </div>
-{{ end }} <!-- Question -->
+{{ end }} <!-- End Question -->
 
 <div id="results" class="mt5">
   {{ range $quiz.results }}
-  <div id="{{ .id }}" class="shadow-2 pa3" {{ if not $debug }}v-bind:class="{ dn: done != '{{ .id }}' }"{{ end }}>
+  <div id="{{ .id }}" class="shadow-2 pa3 {{ if not $debug }}dn{{ end }}">
     <h1 class="ttu tracked lh-title">{{ .title }}</h1>
     {{ $page.Scratch.Set "result_image" (printf "https:%s" $page.Params.cover_image) }}
     {{ if .image }}
@@ -55,24 +54,19 @@
         src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 {{ .image.coords.width }} {{ .image.coords.height }}'%2F%3E"
         data-src="{{ $page.Scratch.Get "result_image" }}">
     {{ end }}
-    <div>
-      <a class="no-underline near-white bg-animate bg-dark-blue hover-bg-blue hover-white inline-flex items-center ma2 tc br2 pa2"
-        v-on:click="fb_share({ result_id: '{{ .id }}', title: '{{ .title }}', cover_image: '{{ $page.Scratch.Get "result_image" }}' }, $event)"
+    <div><a class="no-underline near-white bg-animate bg-dark-blue hover-bg-blue hover-white inline-flex items-center ma2 tc br2 pa2"
+        onclick="fb_share({ result_id: '{{ .id }}', title: '{{ .title }}', cover_image: '{{ $page.Scratch.Get "result_image" }}' })"
         title="Facebook share">
-        <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg><span class="f4 ml3 pr2">Chia sẻ <span class="dn dib-ns">cùng bạn bè</span></span></a>
-    </div>
+        <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg><span class="f4 ml3 pr2">Chia sẻ kết quả</span></a></div>
     {{ if .text }}<p class="lh-copy measure fw4 f4 f3-ns">
       {{ .text | replaceRE "^[ \n]+" "" | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>{{ end }}
     <a class="db no-underline pa3 ba border-box tc pa2 f3 fw5"
       href="{{ $page.Permalink }}" title="Re Test">Làm lại</a>
   </div>
-  {{ end }} <!-- Result -->
+  {{ end }} <!-- End Result -->
 </div>
-</section>
+</section> <!-- End Quiz -->
 
-{{ if $debug }}<script src="https://unpkg.com/vue"></script>{{ else }}
-  <script src="https://cdn.jsdelivr.net/npm/vue"></script>
-{{ end }}
 <script>
 
 function scrollToElement(obj) {
@@ -88,73 +82,71 @@ function scrollToElement(obj) {
 }
 
 var questions = document.getElementsByClassName("question"),
-app = new Vue({
-  el: '#app',
-  data: {
-    done: false,
-    selected_answers: [{{ range $quiz.questions }}null,{{ end }}],
-    qa_scores: [ {{ range $quiz.questions }} { {{ range .answers }}"{{.id}}": {{ .results }}, {{ end }} }, {{ end }} ],
-    scores: { {{ range $quiz.results }} "{{.id}}": 0 , {{ end }} }
-  },
+    done = false,
+    selected_answers = [{{ range $quiz.questions }}null,{{ end }}],
+    qa_scores = [ {{ range $quiz.questions }} { {{ range .answers }}"{{.id}}": {{ .results }}, {{ end }} }, {{ end }} ],
+    scores = { {{ range $quiz.results }} "{{.id}}": 0 , {{ end }} };
 
-  methods: {
-    select_answer: function (i, k, event) {
-      event.preventDefault();
-      if (this.done) return;
-      Vue.set(this.selected_answers, i, k);
-      if (!this.scrollToNextQuestion(i + 1)) {
-        this.calculate_result();
-        this.scrollToResult();
-      }
-    },
+function scrollToNextQuestion(i) {
+  while (i < questions.length && selected_answers[i] != null) i++;
+  if (i == questions.length) {
+    i = 0;
+    while (i < questions.length && selected_answers[i] != null) i++;
+  }
+  if (i < questions.length) {
+    window.setTimeout(function(){ scrollToElement(questions[i]); }, 300);
+    return true;
+  }
+}
 
-    scrollToNextQuestion(i) {
-      while (i < questions.length && this.selected_answers[i] != null) i++;
-      if (i == questions.length) {
-        i = 0;
-        while (i < questions.length && this.selected_answers[i] != null) i++;
-      }
-      if (i < questions.length) {
-        window.setTimeout(function(){ scrollToElement(questions[i]); }, 300);
-        return true;
-      }
-    },
+function calculate_result() {
+  if (done) return;
+  var i, a, r, rs, n = questions.length;
+  for (i = 0; i < n; i++) {
+    a = selected_answers[i];
+    rs = qa_scores[i][a];
+    for (r in rs) {
+      scores[r] = scores[r] + parseInt(rs[r]);
+    }
+  }
+  a = 0;
+  for (r in scores) {
+    rs = scores[r];
+    if (rs > a) {
+      a = rs;
+      done = r;
+    }
+  }
+  console.log('DONE', done);
+}
 
-    calculate_result() {
-      if (this.done) return;
-      var i, a, r, rs, n = questions.length;
-      for (i = 0; i < n; i++) {
-        a = this.selected_answers[i];
-        rs = this.qa_scores[i][a];
-        for (r in rs) {
-          this.scores[r] = this.scores[r] + parseInt(rs[r]);
-        }
-      }
-      a = 0;
-      for (r in this.scores) {
-        rs = this.scores[r];
-        if (rs > a) {
-          a = rs;
-          this.done = r;
-        }
-      }
-      console.log('DONE', this.done);
-    },
+function scrollToResult() {
+  var resultElem = document.getElementById(done);
+  resultElem.classList.remove("dn");
+  window.setTimeout( function () { scrollToElement(resultElem); }, 300);
+}
 
-    scrollToResult() {
-      var resultElem = document.getElementById(this.done);
-      window.setTimeout( function () { scrollToElement(resultElem); }, 300);
+function select_answer(i, k) {
+  if (done) return;
 
-    },
+  selected_answers[i] = k;
+  var elems = document.getElementById("q"+i).getElementsByTagName('a'), x = 0;
+  for (; x < elems.length; x++ ) { elems[x].classList.remove('bg-light-blue'); }
+  document.getElementById(k).classList.add('bg-light-blue');
 
-    fb_share(data, event) {
-      event.preventDefault();
-      var link = '{{ .Permalink }}' + data.result_id;
+  if (!scrollToNextQuestion(i + 1)) {
+    calculate_result();
+    scrollToResult();
+  }
+}
 
-      {{ if $debug }}
-      console.log(event.key);
-      console.log(data.result_id + ".md");
-      console.log(`{
+function fb_share(data) {
+  var link = '{{ .Permalink }}' + data.result_id;
+
+  {{ if $debug }}
+  console.log(event.key);
+  console.log(data.result_id + ".md");
+  console.log(`{
   "author": "{{ .Params.author }}",
   "date": "{{ .Params.date }}",
   "type": "meta",
@@ -162,27 +154,24 @@ app = new Vue({
   "cover_image": "${data.cover_image}",
   "description": "Tôi được ${data.title.toUpperCase()}. Kết quả của bạn là gì?"
 }`);
-      window.open(link);
-      return;
-      {{ end }}
+  window.open(link);
+  return;
+  {{ end }}
 
-      FB.ui(
-        {
-          method: 'feed',
-          link: link
-        },
-        function(response) {
-          if (response && !response.error_code) {
-            window.shared_on_facebook = true;
-            console.log('Success sharing to Facebook.');
-          } else {
-            console.log('Error sharing to Facebook.');
-          }
-        }
-      );
-    } // fb_share
-  } // methods:
-})
+  FB.ui(
+    {
+      method: 'feed',
+      link: link
+    },
+    function(response) {
+      if (response && !response.error_code) {
+        console.log('Success sharing to Facebook.');
+      } else {
+        console.log('Error sharing to Facebook.');
+      }
+    }
+  );
+} // fb_share
 </script>
 
 {{ if $debug }}

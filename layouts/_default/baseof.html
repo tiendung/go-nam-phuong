@@ -1,3 +1,5 @@
+{{ $debug := ne (getenv "HUGO_ENV") "production" }}
+
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
@@ -28,10 +30,10 @@ for (; i < n; i++) {
   img = deferImgs[i];
   if (x = img.getAttribute('data-src')) { img.setAttribute('src', x); t++; }
 }
-console.log(t + " images defered");
+{{ if $debug }}console.log(`${deferImgs.length} images. ${t} deferred.`);{{ end }}
 </script>
 
-{{- if ne (getenv "HUGO_ENV") "production" }}
+{{- if $debug }}
 <script>
   console.log("HUGO_ENV: {{ getenv "HUGO_ENV" }}");
   console.log("URL: {{ .URL }}");

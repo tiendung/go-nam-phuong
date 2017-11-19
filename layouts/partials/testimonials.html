@@ -20,6 +20,7 @@
   {{ end }}
 {{ end }}
 
+{{ if $debug := ne (getenv "HUGO_ENV") "production" }}
 <script>
   console.log("selected testimonials:");
   console.log({{ $site.Data.homepage.selected_testimonials }});
@@ -27,3 +28,4 @@
   console.log({{ index $site.Data.testimonials . }});
   {{ end }}
 </script>
+{{ end }}
