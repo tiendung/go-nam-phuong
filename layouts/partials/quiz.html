@@ -44,10 +44,9 @@
 </div>
 {{ end }} <!-- Question -->
 
-<div id="result" class="mt5" {{ if not $debug }}v-bind:class="{ dn: !done }"{{ end }}>
-  <h2 class="f3 f2-ns lh-title">Kết quả:</h2>
+<div id="results" class="mt5">
   {{ range $quiz.results }}
-  <div class="shadow-2 pa3" {{ if not $debug }}v-bind:class="{ dn: done != '{{ .id }}' }"{{ end }}>
+  <div id="{{ .id }}" class="shadow-2 pa3" {{ if not $debug }}v-bind:class="{ dn: done != '{{ .id }}' }"{{ end }}>
     <h1 class="ttu tracked lh-title">{{ .title }}</h1>
     {{ $page.Scratch.Set "result_image" (printf "https:%s" $page.Params.cover_image) }}
     {{ if .image }}
@@ -58,7 +57,7 @@
     {{ end }}
     <div>
       <a class="no-underline near-white bg-animate bg-dark-blue hover-bg-blue hover-white inline-flex items-center ma2 tc br2 pa2"
-        v-on:click="fb_share({ title:'Tôi được: {{ .title }}', desc:'Cho {{ $page.Params.title }} | Kết quả của bạn là gì?', image:'{{ $page.Scratch.Get "result_image" }}' }, $event)"
+        v-on:click="fb_share({ result_id: '{{ .id }}', title: '{{ .title }}', cover_image: '{{ $page.Scratch.Get "result_image" }}' }, $event)"
         title="Facebook share">
         <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg><span class="f4 ml3 pr2">Chia sẻ <span class="dn dib-ns">cùng bạn bè</span></span></a>
     </div>
@@ -67,7 +66,7 @@
     <a class="db no-underline pa3 ba border-box tc pa2 f3 fw5"
       href="{{ $page.Permalink }}" title="Re Test">Làm lại</a>
   </div>
-  {{ end }}
+  {{ end }} <!-- Result -->
 </div>
 </section>
 
@@ -84,14 +83,8 @@ function scrollToElement(obj) {
            curtop += obj.offsetTop;
        } while (obj = obj.offsetParent);
      }
-     // console.log('scroll', curtop);
      window.scroll(0, curtop);
   }
-}
-
-function scrollToResult() {
-  var obj = document.getElementById("result");
-  scrollToElement(obj);
 }
 
 var questions = document.getElementsByClassName("question"),
@@ -111,7 +104,7 @@ app = new Vue({
       Vue.set(this.selected_answers, i, k);
       if (!this.scrollToNextQuestion(i + 1)) {
         this.calculate_result();
-        window.setTimeout(scrollToResult, 300);
+        this.scrollToResult();
       }
     },
 
@@ -148,10 +141,31 @@ app = new Vue({
       console.log('DONE', this.done);
     },
 
+    scrollToResult() {
+      var resultElem = document.getElementById(this.done);
+      window.setTimeout( function () { scrollToElement(resultElem); }, 300);
+
+    },
+
     fb_share(data, event) {
       event.preventDefault();
-      var link = '{{ .Permalink }}?name="' + data.title + '"&picture=' + data.image;
-      console.log(link, data);
+      var link = '{{ .Permalink }}' + data.result_id;
+
+      {{ if $debug }}
+      console.log(event.key);
+      console.log(data.result_id + ".md");
+      console.log(`{
+  "author": "{{ .Params.author }}",
+  "date": "{{ .Params.date }}",
+  "type": "meta",
+  "title": "{{ .Title }}",
+  "cover_image": "${data.cover_image}",
+  "description": "Tôi được ${data.title.toUpperCase()}. Kết quả của bạn là gì?"
+}`);
+      window.open(link);
+      return;
+      {{ end }}
+
       FB.ui(
         {
           method: 'feed',
@@ -161,13 +175,12 @@ app = new Vue({
           if (response && !response.error_code) {
             window.shared_on_facebook = true;
             console.log('Success sharing to Facebook.');
-            $("#resultPopup").modal("hide");
           } else {
             console.log('Error sharing to Facebook.');
           }
         }
       );
-    }
+    } // fb_share
   } // methods:
 })
 </script>

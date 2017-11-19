@@ -5,9 +5,6 @@
   <!-- Meta Robots Tag -->
   <meta name="robots" content="all,follow">
   <meta name="googlebot" content="index,follow,snippet,archive">
-
-  <link href="/css/tachyons.min.css" rel="stylesheet">
-  <link href="/css/theme.css" rel="stylesheet">
   <link rel="icon" type="image/png" href="/favicon.png">
 
   <!-- SEO -->
@@ -33,4 +30,9 @@ Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
 	  <meta property="og:image" content="{{ absURL "/images/site/default-facebook-post.jpg" }}" />
 	{{- end -}}
 {{- end }}
+
+  {{- if ne .Type "meta" }}
+  <link href="/css/tachyons.min.css" rel="stylesheet">
+  <link href="/css/theme.css" rel="stylesheet">
+  {{- end }}
 </head>

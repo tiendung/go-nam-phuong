@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+<body>
+{{- if $debug := ne (getenv "HUGO_ENV") "production" }}
+<h1>{{ .Title }}</h1>
+<h2>{{ .Params.description }}</h2>
+<img src="{{ .Params.cover_image }}">
+<p>{{ .Params | jsonify }}</p>
+{{- else }}
+<script>window.location.href = "../";</script>
+{{- end }}
+</body>
+</html>

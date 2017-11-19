@@ -1,8 +1,11 @@
 {
    "author": "boo",
+   "title": "[Test] Bạn thực sự thiếu gì trong cuộc sống?",
    "cover_image": "https://i.imgur.com/5LKF38z.jpg",
-   "date": "2017-11-04",
    "description": "Cuộc sống của bạn có cân bằng hay không phụ thuộc vào nhiều khía cạnh khác nhau: sức khoẻ, vận động, tình cảm, sự nghiệp, thực hành tâm linh, sáng tạo v.v...Vì vậy, nếu bạn đang cảm thấy mất cân bằng mà không hiểu rõ nguyên ngân ở đâu, hãy làm bài trắc nghiệm này để hiểu rõ điều mình cần. Và nhận những giải pháp lành mạnh cho cuộc sống tươi mới hơn bạn nhé!",
+   "date": "2017-11-04",
+   "categories": [],
+   "tags": [],
    "json_file": "data/quiz/ban-thuc-su-thieu-gi-trong-cuoc-song.json",
    "quiz": {
       "questions": [
@@ -1915,12 +1918,11 @@
                "originalImageURL": "//cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/47633a44-e8a2-401c-b815-7d35386a4975.jpg",
                "width": "640"
             },
-            "text": "Bạn  là tuýp người nhẹ nhàng, hiểu biết và biết quan sát. Một khi bạn thực sự mong muốn có điều gì, bạn đặt quyết tâm rất cao để thực hiện nó. Trong làm việc nhóm, mọi người cần có bạn để thúc đẩy tiến độ công nghiệp, hoặc đơn thuần có ít nhất 1 người là bạn chịu trách nhiệm cho kết quả. Bạn quan tâm đến gia đình, bạn bè và thường được tin tưởng để hỏi ý kiến.\n\nChính vì thế mà bạn xứng đáng có nhiều niềm vui hơn trong cuộc sống.Không nhất thiết phải xao nhãng những điều bạn muốn thực hiện bằng những cuộc vui lớn, mà bạn chỉ cần học cách tìm thấy niềm vui nhiều hơn trong những điều nhỏ bé thưởng nhật mà thôi. Một khi bạn đã nở nụ cười trên môi thì rất là khó cưỡng mà :)\n\nTham khảo bí quyết sống vui của cô bảo mẫu Julie Andrews ở [đây nhé](/posts/nhung-niem-vui-nho-cua-co-bao-mau/)",
+            "text": "Bạn là tuýp người nhẹ nhàng, hiểu biết và biết quan sát. Một khi bạn thực sự mong muốn có điều gì, bạn đặt quyết tâm rất cao để thực hiện nó. Trong làm việc nhóm, mọi người cần có bạn để thúc đẩy tiến độ công nghiệp, hoặc đơn thuần có ít nhất 1 người là bạn chịu trách nhiệm cho kết quả. Bạn quan tâm đến gia đình, bạn bè và thường được tin tưởng để hỏi ý kiến.\n\nChính vì thế mà bạn xứng đáng có nhiều niềm vui hơn trong cuộc sống.Không nhất thiết phải xao nhãng những điều bạn muốn thực hiện bằng những cuộc vui lớn, mà bạn chỉ cần học cách tìm thấy niềm vui nhiều hơn trong những điều nhỏ bé thưởng nhật mà thôi. Một khi bạn đã nở nụ cười trên môi thì rất là khó cưỡng mà :)\n\nTham khảo bí quyết sống vui của cô bảo mẫu Julie Andrews ở [đây nhé](/posts/nhung-niem-vui-nho-cua-co-bao-mau/)",
             "title": "Bạn cần những niềm vui nho nhỏ"
          }
       ]
-   },
-   "title": "[Test] Bạn thực sự thiếu gì trong cuộc sống?"
+   }
 }
 
 # header:
