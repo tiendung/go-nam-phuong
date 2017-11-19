@@ -1,0 +1,45 @@
+<rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ .Site.Title }}</title>
+    <link>{{ .Site.BaseURL }}</link>
+    <description>{{ .Site.Params.default_description }}</description>
+    <language>vi-vn</language>
+    <lastBuildDate>{{ now.Format "2017-11-02" }}</lastBuildDate>
+
+    {{ range .Site.Pages }}{{ if ne .Type "meta" }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <guid>{{ .UniqueID }}</guid>
+      <pubDate>{{ .Params.date }}</pubDate>
+      <author>{{ .Site.Params.author }}</author>
+      <description>{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Summary }}{{ end }}</description>
+      <content:encoded>
+        {{ chomp "<![CDATA[\n" }}
+        <!doctype html>
+        <html lang="vi" prefix="op: http://media.facebook.com/op#">
+          <head>
+            <meta charset="utf-8">
+            <link rel="canonical" href="{{ .Permalink }}">
+            <meta property="op:markup_version" content="v1.0">
+          </head>
+          <body>
+            <article>
+              <header>
+              </header>
+
+              {{ .Content | safeHTML }}
+
+              <footer>
+              </footer>
+            </article>
+          </body>
+        </html>
+        {{ chomp "]]>\n" }}
+      </content:encoded>
+    </item>
+    {{ end }}{{ end }}
+
+  </channel>
+</rss>

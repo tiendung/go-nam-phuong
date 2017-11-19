@@ -1925,13 +1925,4 @@
    }
 }
 
-# header:
-#   caption: '[Unsplash](https://unsplash.com)'
-#   image: https://images.unsplash.com/photo-1462717585237-7fafe19c5448?fit=crop&w=1600
-#   layout: hero
-#   navigation: fancy
-#   class: bg-darken-50 bg-center
-#   cta:
-#     text: Đánh giá ngay!
-#     url: '#q1'
-#     class: ba border-box bw1 grow no-underline white hover-white pa2 mt4 tracked ttu
+Cuộc sống của bạn có cân bằng hay không phụ thuộc vào nhiều khía cạnh khác nhau: sức khoẻ, vận động, tình cảm, sự nghiệp, thực hành tâm linh, sáng tạo v.v...Vì vậy, nếu bạn đang cảm thấy mất cân bằng mà không hiểu rõ nguyên ngân ở đâu, hãy làm bài trắc nghiệm này để hiểu rõ điều mình cần. Và nhận những giải pháp lành mạnh cho cuộc sống tươi mới hơn bạn nhé!
