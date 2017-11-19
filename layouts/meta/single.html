@@ -2,13 +2,15 @@
 <html lang="{{ .Site.LanguageCode }}">
 {{ partial "head.html" . }}
 <body>
+  {{ $redirectUrl :=  .Permalink | replaceRE "(.+/)[^/]+/?" "$1" }}
 {{- if $debug := ne (getenv "HUGO_ENV") "production" }}
 <h1>{{ .Title }}</h1>
 <h2>{{ .Params.description }}</h2>
 <img src="{{ .Params.cover_image }}">
 <p>{{ .Params | jsonify }}</p>
+Redirect to: {{ $redirectUrl }}
 {{- else }}
-<script>window.location.href = "../";</script>
+<script>window.location.href = "{{ $redirectUrl }}";</script>
 {{- end }}
 </body>
 </html>
