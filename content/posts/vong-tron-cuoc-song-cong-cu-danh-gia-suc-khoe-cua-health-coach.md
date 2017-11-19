@@ -10,6 +10,7 @@
       "vòng tròn cuộc sống",
       "thức ăn tâm"
    ],
+   "no_instant_article": true,
    "title": "Vòng tròn Cuộc sống: Công cụ đánh giá sức khoẻ của Health Coach"
 }
 
