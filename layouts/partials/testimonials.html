@@ -9,12 +9,12 @@
       <div class="tc">
         <img src="{{ .avatar }}" class="br-100 h3 w3 dib">
         <h1 class="f4">{{ .name }}</h1>
+        <div class="f5 fw3 gray mt0 pb2 tc">
+          {{ .job }} &middot; {{ .from }}</div>
         <hr class="mw3 bb bw1 b--black-10">
       </div>
       <p class="lh-copy center f5 f4-ns black-70">
         {{ .text | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>
-      <div class="f5 fw3 gray mt0 tc">
-        {{ .job }} &middot; {{ .from }}</div>
     </div>
   </article>
   {{ end }}
