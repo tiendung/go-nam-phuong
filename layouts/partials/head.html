@@ -14,8 +14,10 @@
 	<meta name="keywords" content="{{ if .Keywords }}{{ delimit .Keywords ", " }}{{ else if and .IsPage .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}{{ range $term, $val := .Site.Taxonomies.categories }}{{ lower (humanize $term) }}, {{ end }}{{ end }}">
 	<link rel="canonical" href="{{ .Permalink }}" />
 	<meta property="article:published_time" content="{{ with .Params.date }}{{ . }}{{ else }}{{ now.Format "June 24, 2017" }}{{ end }}" />
-<!-- You can use open graph tags to customize link previews.
-Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
+
+  <meta property="fb:pages" content="129076207686885" />
+  <!-- You can use open graph tags to customize link previews.
+  Learn more: https://developers.facebook.com/docs/sharing/webmasters -->
 	<meta property="fb:app_id" content="{{.Site.Data.settings.facebook.app_id }}" />
 	<meta property="og:url" content="{{ .Permalink }}" />
 	<meta property="og:type" content="{{ with .Params.type }}{{ . }}{{ else }}article{{ end }}" />
