@@ -29,7 +29,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               <header>
               </header>
 
-              {{ .Content | safeHTML }}
+              {{ .Content | replaceRE "(/posts/[^)'\"]+)" (absURL "$1") | replaceRE "(/images/[^)'\"]+)" (absURL "$1") | safeHTML }}
 
               <footer>
               </footer>
