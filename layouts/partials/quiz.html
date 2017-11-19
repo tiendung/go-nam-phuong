@@ -25,7 +25,7 @@
     <!-- range through question's answers -->
     <li class="{{ if $q.useImagesInAnswers }}w-50 w-third-ns{{ end }}">
       <a id="{{ .id }}"
-        class="db dim ba b--black-20 mr2 mr3-l mb2 mb3-l pa2 shadow-4 no-underline bg-light-gray"
+        class="pointer db dim ba b--black-20 mr2 mr3-l mb2 mb3-l pa2 shadow-4 no-underline bg-light-gray"
         onclick="select_answer({{ $i }}, '{{ .id }}')">
         {{ with .image }}
           <img class="w-100" src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 {{ .coords.width }} {{ .coords.height }}'%2F%3E"
@@ -54,7 +54,7 @@
         src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 {{ .image.coords.width }} {{ .image.coords.height }}'%2F%3E"
         data-src="{{ $page.Scratch.Get "result_image" }}">
     {{ end }}
-    <div><a class="no-underline near-white bg-animate bg-dark-blue hover-bg-blue hover-white inline-flex items-center ma2 tc br2 pa2"
+    <div><a class="pointer no-underline near-white bg-animate bg-dark-blue hover-bg-blue hover-white inline-flex items-center ma2 tc br2 pa2"
         onclick="fb_share({ result_id: '{{ .id }}', title: '{{ .title }}', cover_image: '{{ $page.Scratch.Get "result_image" }}' })"
         title="Facebook share">
         <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg><span class="f4 ml3 pr2">Chia sẻ kết quả</span></a></div>
