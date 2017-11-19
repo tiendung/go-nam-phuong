@@ -4,17 +4,17 @@
 
 {{ range $site.Data.homepage.selected_testimonials }}
   {{ with index $site.Data.testimonials . }}
-  <article class="w-100 w-50-ns w-third-l center bg-white fl pa3">
-    <div class="br3 pa3 ma pa4-ns mv3 bn b--black-10 shadow-4">
+  <article class="w-100 w-third-l center bg-white fl pa1 pa3-l">
+    <div class="br3 pa3 mv3 shadow-4">
       <div class="tc">
         <img src="{{ .avatar }}" class="br-100 h3 w3 dib">
         <h1 class="f4">{{ .name }}</h1>
         <hr class="mw3 bb bw1 b--black-10">
       </div>
-      <p class="lh-copy center f6 f5-ns black-70">{{ .text | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>
-      <div class="f6 fw3 gray mt0">
-        {{ .job }} &middot; {{ .from }}
-      </div>
+      <p class="lh-copy center f5 f4-ns black-70">
+        {{ .text | replaceRE "\n" "<br>" | markdownify | safeHTML }}</p>
+      <div class="f5 fw3 gray mt0 tc">
+        {{ .job }} &middot; {{ .from }}</div>
     </div>
   </article>
   {{ end }}
