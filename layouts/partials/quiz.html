@@ -67,8 +67,8 @@
 </div>
 </section> <!-- End Quiz -->
 
-<script>
 
+<script>
 function scrollToElement(obj) {
   if (obj.scrollIntoView) obj.scrollIntoView(); else {
     var curtop = 0;
@@ -172,14 +172,12 @@ function fb_share(data) {
     }
   );
 } // fb_share
-</script>
 
 {{ if $debug }}
-<script>
 console.log("Question:");
 console.log({{ index $quiz.questions 0 }});
 
 console.log("Result:");
 console.log({{ index $quiz.results 0 }});
-</script>
 {{ end }}
+</script>
