@@ -8,7 +8,6 @@
 }
 
 Đà Lạt càng gần Noel càng lạnh hơn thường lệ. Năm giờ rưỡi sáng trời vẫn tối thui và gió lạnh không ngừng thổi qua khe cửa. Tôi vùng dậy đi tập Yoga ca sớm nhất để còn kịp vào vườn thu hoạch cà phê đang mùa chín rộ.
-
 <!--more-->
 
 Trang, huấn luyện viên Yoga, thấy tôi ra về sớm hơn thường lệ liền hỏi dạo này anh bận việc gì hả. Tôi trả lời “anh đang trải nghiệm tại vườn của chú Sơn để tìm hiểu về cà phê đặc sản”. Như chợt nhớ ra điều gì Trang nói với tôi “A, chú Sơn, chú Sơn ... có phải chú Sơn có người cháu là anh Quang mở quán cà phê Là Việt ở Đà Lạt không anh”. Trang chia sẻ thêm  trước khi trở thành huấn luyện viên Yoga đã từng mở quán cà phê và cũng đang muốn tìm hiểu kỹ hơn về việc sản xuất cà phê ở Đà Lạt.

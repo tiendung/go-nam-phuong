@@ -14,7 +14,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <guid>{{ .UniqueID }}</guid>
       <pubDate>{{ .Params.date }}</pubDate>
       <author>{{ .Site.Params.author }}</author>
-      <description>{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Summary }}{{ end }}</description>
+      <description>{{ if .Description }}{{ .Description }}{{ else if .IsPage}}{{ .Summary | replaceRE "<p></p>" "<br>" | chomp }}{{ end }}</description>
       <content:encoded>
         {{ chomp "<![CDATA[\n" }}
         <!doctype html>
@@ -29,7 +29,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
               <header>
               </header>
 
-              {{ .Content | replaceRE "(/posts/[^)'\"]+)" (absURL "$1") | replaceRE "(/images/[^)'\"]+)" (absURL "$1") | safeHTML }}
+              {{ .Content | replaceRE "/((posts|images)/[^\"]+)" (absURL "$1") | replaceRE "<p></p>" "<br>" | safeHTML }}
 
               <footer>
               </footer>
