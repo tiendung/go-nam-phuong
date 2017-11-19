@@ -10,6 +10,7 @@
    "tags": [
       "mua sắm"
    ],
+   "no_instant_article": true,
    "title": "17 tips mua sắm của người tiêu dùng thông thái"
 }
 

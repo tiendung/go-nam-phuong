@@ -13,6 +13,7 @@
       "uống",
       "thực phẩm"
    ],
+   "no_instant_article": true,
    "title": "10 nguyên tắc ăn uống bất biến"
 }
 
@@ -30,10 +31,11 @@ Sau đây là những nguyên tắc ăn uống nên được duy trì lâu dài 
   <li class="lh-copy pv3 ba bl-0 bt-0 br-0 b--dotted b--black-30">
     9. Khi mua thực phẩm đóng gói, nên ưu tiên các loại có 3 thành phần trở xuống. Tránh xa các loại có thành phần hoá chất đọc-không-hiểu-nổi, có đánh số (ví dụ:631,621…), các nhóm chất:  nhóm chất điều vị, chất điều axit, chất tạo ngọt tổng hợp, chất màu caramel,… và chất bảo quản.
     Ví dụ: mua mắm có thành phần cá, mắm, nước thay vì mắm công nghiệp có hơn chục thành phần
-    {{< figure class="tc" src="/images/2017-11-01/nuoc-mam-cong-nghiep.jpg" alt="nước mắm truyền thống, nước mắm công nghiệp" caption="Bạn cần biết mình đang thực sự ăn gì: cá cơm hay tinh cốt cá cơm? Cá hồi hay hương cá hồi?" >}}
   </li>
   <li class="lh-copy pv3 bn">10. Tập trung vào chất lượng thức ăn, không nên ám ảnh với calories vì đây không phải là chỉ số quan trọng trong việc kiểm soát cân nặng như mọi người vẫn lầm tưởng.</li>
 </ul>
+
+{{< figure class="tc" src="/images/2017-11-01/nuoc-mam-cong-nghiep.jpg" alt="nước mắm truyền thống, nước mắm công nghiệp" caption="Bạn cần biết mình đang thực sự ăn gì: cá cơm hay tinh cốt cá cơm? Cá hồi hay hương cá hồi?" >}}
 
 ## Danh sách thực phẩm nên ăn và nên tránh
 
