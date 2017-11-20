@@ -39,7 +39,7 @@ Sau đây là những nguyên tắc ăn uống nên được duy trì lâu dài 
 
 ## Danh sách thực phẩm nên ăn và nên tránh
 
-Sau đây là tham khảo chi tiết hơn nếu bạn cần, nhưng hãy nhớ áp dụng linh hoạt không máy móc bạn nhé :)
+Sau đây là tham khảo chi tiết được Coach chỉnh lý từ hướng dẫn[Healthy living](https://www.bewell.com/healthy-living/) của Dr.Frank Lipman. Nhưng hãy nhớ áp dụng linh hoạt không máy móc bạn nhé :)
 
 <div class="overflow-auto">
   <table class="w-100 center collapse ba b--black-10" cellspacing="0">
