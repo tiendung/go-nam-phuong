@@ -1,5 +1,4 @@
-https://analytics.google.com/analytics/web/#embed/report-home/a109892554w164036390p164802480/
-
+- [ ] add tags in post for seo
 - [ ] bài viết tương tự at the end of a content
 - [ ] biến "clean sweep" thành quiz
 - [ ] homepage: download tai lieu mien phi => 101 an sach
@@ -7,3 +6,7 @@ https://analytics.google.com/analytics/web/#embed/report-home/a109892554w1640363
 - [x] quiz now can share result to facebook
 - [x] plain js quiz play to run smoothly on iphone4s
 - [x] add google analytics
+
+https://goo.gl/KmnaqT | Google Analytics
+https://frontendchecklist.io
+https://varvy.com/mobile

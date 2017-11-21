@@ -34,7 +34,161 @@
 {{- end }}
 
   {{- if ne .Type "meta" }}
-  <link href="/css/tachyons.min.css" rel="stylesheet">
-  <link href="/css/theme.css" rel="stylesheet">
+  <!-- Prematurely connect to the servers to save some milliseconds. Sample code from
+       https://gitlab.com/BluestNight/BluestNight/blob/master/layouts/_default/baseof.html -->
+  <link rel="dns-prefetch" href="https://unpkg.com.com/" />
+  <link rel="preconnect" href="https://unpkg.com/" />
+  <link rel="preload" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css" as="style"/>
+  <!-- Use preload content https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content -->
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.9.0/css/tachyons.min.css"/>
+  <style>
+  /*  Customized CSS for minimal-jekyll-theme. Extracted from
+      https://github.com/desiredpersona/minimal-jekyll-theme/blob/master/_sass/_theme.scss */
+      html {
+        font-family: -apple-system, BlinkMacSystemFont, "avenir next", avenir, "helvetica neue", helvetica, ubuntu, roboto, noto, "segoe ui", arial, sans-serif; }
+
+      a {
+        color: #000; }
+        a:hover {
+          color: rgba(0, 0, 0, 0.8); }
+
+      a.nested-author-cta {
+        color: #999; }
+        a.nested-author-cta:hover {
+          color: #19a974; }
+
+      nav a:last-child {
+        margin-right: 0; }
+
+      .full {
+        width: 100vw;
+        position: relative;
+        left: 50%;
+        right: 50%;
+        margin-left: -50vw;
+        margin-right: -50vw; }
+
+      body span a {
+        font-weight: 300;
+        color: #999; }
+        body span a:hover {
+          color: #999; }
+
+      hr {
+        max-width: 100%;
+        height: 1px;
+        padding: 0;
+        border: 0;
+        border-top: 1px solid #eee; }
+
+      dt {
+        font-weight: bold;
+        margin-top: 1rem; }
+
+      dd {
+        margin-left: 1rem; }
+
+      abbr[title] {
+        cursor: help;
+        text-decoration: none;
+        border-bottom: 1px dotted #000; }
+
+      b, strong {
+        font-weight: 600; }
+
+      mark {
+        background-color: #e8fdf5; }
+
+      figcaption {
+        font-size: .875rem;
+        font-weight: 300;
+        color: #999; }
+
+      table {
+        border-collapse: collapse;
+        border-spacing: 0; }
+
+      table thead {
+        background-color: #fff; }
+
+      table, th, td {
+        padding: .5rem;
+        border: 1px solid #000; }
+
+      blockquote {
+        font-size: 1.25rem;
+        font-style: italic;
+        line-height: 1.5;
+        padding-left: 1rem;
+        margin: 4rem 0 4rem 0;
+        color: #000;
+        border-left: 0.25rem solid #000; }
+        @media (min-width: 30em) {
+          blockquote {
+            font-size: 1.5rem;
+            padding-left: 1.5rem; } }
+
+      blockquote cite {
+        font-size: .875rem;
+        font-style: normal;
+        letter-spacing: .1em;
+        text-transform: uppercase; }
+
+      figure {
+        margin: .25rem 0; }
+
+      body {
+        margin: 0; }
+
+      .link:focus {
+        outline: 0; }
+
+      code, pre {
+        font-family: menlo, monaco, monospace;
+        font-size: 0.9rem;
+        font-weight: 300; }
+
+      pre {
+        margin: 0;
+        padding: 1rem; }
+
+      p > code {
+        border-right: .25rem;
+        padding: .25rem;
+        background-color: #f4f4f4; }
+
+      .bg-darken-0 {
+        box-shadow: none; }
+
+      .bg-darken-15 {
+        box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.15); }
+
+      .bg-darken-25 {
+        box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.25); }
+
+      .bg-darken-50 {
+        box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.5); }
+
+      @media screen and (min-width: 30em) {
+        .bg-darken-0-ns {
+          box-shadow: none; }
+
+        .bg-darken-25-ns {
+          box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.25); }
+
+        .bg-darken-50-ns {
+          box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.5); }
+
+      @media screen and (min-width: 60em) {
+        .bg-darken-0-l {
+          box-shadow: none; }
+
+        .bg-darken-25-l {
+          box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.25); }
+
+        .bg-darken-50-l {
+          box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.5); }
+
+  </style>
   {{- end }}
 </head>
