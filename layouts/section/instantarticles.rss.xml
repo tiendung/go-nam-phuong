@@ -26,11 +26,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
           </head>
           <body>
             <article>
-              {{ $c := .Content }}
-              {{ $c := $c | replaceRE "<session no-instant-article(.|\n)*</session>" "" }}
-              {{ $c := $c | replaceRE "/((posts|images)/[^\"]+)" (absURL "$1") }}
-              {{ $c := $c | replaceRE "<p></p>" "<br>" }}
-              {{ $c | safeHTML }}
+              {{- $c := .Content }}
+              {{- $c := $c | replaceRE "<session no-instant-article(.|\n)*</session>" "" }}
+              {{- $c := $c | replaceRE "/((posts|images)/[^\"]+)" (absURL "$1") }}
+              {{- $c := $c | replaceRE "<p></p>" "<br>" }}
+              {{- $c | safeHTML }}
+              <p>
+                <a href="{{ absURL "/offers/" }}">
+                  <img src="{{ absURL "/images/site/offer-cta.png" }}">
+                </a>
+              </p>
               <footer>
                 <h1>Bài viết mới</h1>
                 <ul class="op-related-articles">
