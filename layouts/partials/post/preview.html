@@ -1,7 +1,7 @@
 {{- if .Params.cover_image -}}
 <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
 <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
-<img src="{{ .Params.cover_image }}" class="w-100">
+<img src="{{ .Params.cover_image }}" alt="{{ .Title }}" class="w-100">
 </a>
 {{- end }}
 <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
