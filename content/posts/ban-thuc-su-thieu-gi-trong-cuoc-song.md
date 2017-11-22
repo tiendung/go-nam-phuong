@@ -3,7 +3,7 @@
    "title": "[Test] Bạn thực sự thiếu gì trong cuộc sống?",
    "cover_image": "https://i.imgur.com/5LKF38z.jpg",
    "description": "Cuộc sống của bạn có cân bằng hay không phụ thuộc vào nhiều khía cạnh khác nhau: sức khoẻ, vận động, tình cảm, sự nghiệp, thực hành tâm linh, sáng tạo v.v...Vì vậy, nếu bạn đang cảm thấy mất cân bằng mà không hiểu rõ nguyên ngân ở đâu, hãy làm bài trắc nghiệm này để hiểu rõ điều mình cần. Và nhận những giải pháp lành mạnh cho cuộc sống tươi mới hơn bạn nhé!",
-   "date": "2017-11-04",
+   "date": "2017-11-22",
    "categories": [],
    "tags": [],
    "json_file": "data/quiz/ban-thuc-su-thieu-gi-trong-cuoc-song.json",

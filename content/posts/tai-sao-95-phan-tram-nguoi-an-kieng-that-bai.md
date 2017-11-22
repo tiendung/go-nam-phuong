@@ -1,7 +1,7 @@
 {
   "author": "boo",
   "title": "Tại sao 95% người ăn kiêng thất bại?",
-  "date": "2017-11-02",
+  "date": "2017-11-21",
   "header": {
     "image": "/images/2017-11-02/an-kieng.jpg",
     "layout": "hero",

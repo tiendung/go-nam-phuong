@@ -4,7 +4,7 @@
       "sống"
    ],
    "cover_image": "https://i.imgur.com/jZgDIJO.jpg",
-   "date": "2017-11-01",
+   "date": "2017-11-22",
    "published": true,
    "tags": [
       "vòng tròn cuộc sống",
