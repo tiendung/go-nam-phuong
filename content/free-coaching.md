@@ -39,7 +39,7 @@ Trò chuyện thân mật riêng tư trong vòng 1 giờ, gặp mặt trực ti�
 
 <h3 class="i fw3">
   2. Coach hướng dẫn bạn đánh giá tổng quan
-  <a href="/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach" target="_blank">Vòng tròn cuộc sống</a>
+  <a href="/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach" target="_blank" rel="noopener">Vòng tròn cuộc sống</a>
 </h3>
 
   * Khía cạnh nào của cuộc sống đang mang đến niềm vui cho bạn?
@@ -54,11 +54,11 @@ Tôi sẽ thực hiện Khai vấn miễn phí cho __chỉ 8 người / tháng__
   <h1 class="fw6 f3 f2-ns lh-title mt0 mb3">
     Điền form dưới đây</h1>
   <h2 class="fw3 f4 lh-copy mt0 mb3">
-    Để được 1h Khai vấn miễn phí</h2>
+    Để được Khai vấn miễn phí</h2>
   <div>
-    <a class="f5 bg-dark-blue no-underline washed-blue ba b--dark-blue grow pv2 ph3 dib mr3 mb2 hover-white"
+    <a class="f5 bg-blue no-underline washed-blue grow pv2 ph3 dib mr3 mb2 hover-white"
       href="https://docs.google.com/forms/d/e/1FAIpQLSezyO9BpPcvhw-Q8U3Ac8qm15eDrTT-ZUStDzTlETd-s47loA/viewform"
-      target="_blank">Mẫu form đăng ký</a>
+      target="_blank" rel="noopener">Mẫu form đăng ký</a>
   </div>
 </article>
 
