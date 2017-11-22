@@ -7,13 +7,13 @@
 - [x] plain js quiz play to run smoothly on iphone4s
 - [x] add google analytics
 
+https://www.facebook.com/coachnamphuong/publishing_tools/?section=INSTANT_ARTICLES
 https://goo.gl/KmnaqT | Google Analytics
 https://frontendchecklist.io
 https://varvy.com/mobile
 
 
 <!-- Add below code to layouts/index.html to enable Netlify CMS
-
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script>
   if (window.netlifyIdentity) {
