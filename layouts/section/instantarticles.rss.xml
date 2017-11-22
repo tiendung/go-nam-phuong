@@ -26,7 +26,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
           </head>
           <body>
             <article>
-              {{ .Content | replaceRE "/((posts|images)/[^\"]+)" (absURL "$1") | replaceRE "<p></p>" "<br>" | safeHTML }}
+              {{ $c := .Content }}
+              {{ $c := $c | replaceRE "<session no-instant-article(.|\n)*</session>" "" }}
+              {{ $c := $c | replaceRE "/((posts|images)/[^\"]+)" (absURL "$1") }}
+              {{ $c := $c | replaceRE "<p></p>" "<br>" }}
+              {{ $c | safeHTML }}
               <footer>
                 <h1>Bài viết mới</h1>
                 <ul class="op-related-articles">

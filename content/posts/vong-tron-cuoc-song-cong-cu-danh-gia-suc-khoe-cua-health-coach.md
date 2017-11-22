@@ -10,7 +10,6 @@
       "vòng tròn cuộc sống",
       "thức ăn tâm"
    ],
-   "no_instant_article": true,
    "title": "Vòng tròn Cuộc sống: Công cụ đánh giá sức khoẻ của Health Coach"
 }
 
@@ -77,6 +76,8 @@ Hãy lên kế hoạch hành động để mở rộng Vòng tròn cuộc sống
 
 - *Top 3 lĩnh vực bạn đang làm tốt nhất là gì?* Hãy chúc mừng bản thân mình vì không phải ai cũng làm được như bạn. Tại sao bạn lại làm tốt đến thế? Hãy liệt kê ra 1-3 hành động cụ thể bạn đang làm tốt trong lĩnh vực đó và tiếp tục làm nó.
 - *Top 3 lĩnh vực bạn đang mất cân bằng là gì?* Nguyên nhân cụ thể do đâu? Hãy thành thực trả lời với bản thân mình. Sau đó hãy liệt kê ra từ 1-3 hành động cụ thể bạn có thể làm để cải thiện nó.
+
+<session no-instant-article="true">
 
 ### Ví dụ mẫu
 
@@ -146,6 +147,8 @@ Hãy lên kế hoạch hành động để mở rộng Vòng tròn cuộc sống
     </tbody>
   </table>
 </div>
+
+</session>
 
 ## Lưu ý
 
