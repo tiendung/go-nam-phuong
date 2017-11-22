@@ -31,7 +31,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
                 <h1>Bài viết mới</h1>
                 <ul class="op-related-articles">
                   {{ $page := . }}
-                  {{ range first 5 .Site.Pages }}{{ if eq .Type "posts" | and (not .Params.quiz) | and (not .Params.no_instant_article ) | and (ne .Permalink $page.Permalink) }}
+                  {{ range first 9 .Site.Pages }}{{ if eq .Type "posts" | and (not .Params.quiz) | and (not .Params.no_instant_article ) | and (ne .Permalink $page.Permalink) }}
                   <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
                   {{ end }}{{ end }}
                 </ul>

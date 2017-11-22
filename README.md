@@ -7,10 +7,10 @@
 - [x] plain js quiz play to run smoothly on iphone4s
 - [x] add google analytics
 
-https://www.facebook.com/coachnamphuong/publishing_tools/?section=INSTANT_ARTICLES
+https://goo.gl/M2oFA9 | Facebook Instant Articles
 https://goo.gl/KmnaqT | Google Analytics
 https://frontendchecklist.io
-https://varvy.com/mobile
+https://varvy.com/seo
 
 
 <!-- Add below code to layouts/index.html to enable Netlify CMS
