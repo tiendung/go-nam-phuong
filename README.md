@@ -8,6 +8,8 @@
 - [x] add google analytics
 
 https://developers.facebook.com/docs/instant-articles/cta/
+  The maximum number of URLs allowed in the Related Articles block is 3.
+
 
 https://goo.gl/M2oFA9 | Facebook Instant Articles
 https://goo.gl/KmnaqT | Google Analytics
