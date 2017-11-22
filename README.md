@@ -9,6 +9,11 @@
 
 https://developers.facebook.com/docs/instant-articles/cta/
   The maximum number of URLs allowed in the Related Articles block is 3.
+  <p>
+    <a href="{{ absURL "/offers/" }}">
+      <img src="{{ absURL "/images/site/offer-cta.png" }}">
+    </a>
+  </p>
 
 
 https://goo.gl/M2oFA9 | Facebook Instant Articles
