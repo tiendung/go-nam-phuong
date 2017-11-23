@@ -68,3 +68,6 @@ Các bộ lạc đang tồn tại quanh bạn - chỉ ở khoảng cách của m
 1 trong những nguyên nhân phổ biến gây tan rã nhiều bộ lạc là thiếu sự thống nhất ngay từ đầu về: Tầm nhìn, Mục đích, Giá trị chung mà các thành viên cần gìn giữ. Ngoài ra, nên có một số quy định cơ bản để đối chiếu khi cần xem xét các trường hợp gia nhập/ly khai hay khi xảy ra tranh cãi. Tất cả những điều này nên được văn bản hoá chính thức và các thành viên phải cùng hiểu rõ.
 
 Bên cạnh đó, hãy truyền cảm hứng cho các thành viên khác mở rộng ranh giới, mời những người phù hợp gia nhập. Càng có nhiều năng lượng tích cực và quan điểm mới mẻ lưu thông trong một cộng đồng, các thành viên càng có nhiều cảm hứng và sự trợ giúp. Tất cả các thành viên do đó sẽ thành công hơn!
+
+
+Cuối cùng, hãy chia sẻ bài viết để những người cũng đang tìm kiếm bộ lạc có thể liên hệ với bạn nhé :)
