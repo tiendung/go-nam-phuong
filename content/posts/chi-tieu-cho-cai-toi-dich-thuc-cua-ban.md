@@ -47,3 +47,5 @@ Rất dễ bị xao nhãng bởi mong chờ của xã hội, duy trì vị thế
 
 
 Nếu bạn thích bài viết của chuyên gia này, hãy tham khảo thêm tại [Facebook /ManishaThakor](http://www.facebook.com/ManishaThakor), hoặc blog [MoneyZen.](http://www.moneyzen.com/)
+
+**Và đừng quên chia sẻ bài viết cho những người bạn quan tâm nhé!**
