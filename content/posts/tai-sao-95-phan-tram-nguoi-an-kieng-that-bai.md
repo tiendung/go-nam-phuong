@@ -101,3 +101,6 @@ So sánh ngoại hình của mình với người khác là một trong những 
 Nếu đọc đến đây, hẳn bạn đã nhận ra những rào cản ngăn trở quá trình giảm cân của mình. Tôi tin rằng bất kì cô gái nào cũng sẽ có cân nặng mong muốn nếu tránh được cái bẫy ăn kiêng. Thay vào đó, hãy ưu tiên cải thiện phương diện <a href="/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an" target="_blank" rel="noopener">thức ăn tinh thần</a>, chuẩn bị cho mình một lối sống lành mạnh, một động lực xuất phát từ yêu thương và một tâm lý tích cực. Làm được điều đó, cân nặng mong muốn chỉ là sản phẩm phụ trong quá trình đạt đến điều bạn thật sự ao ước:
 
 > Hạnh phúc!
+
+
+**Nếu bạn thấy hữu ích, hãy chia sẻ cho những người bạn quan tâm nhé!**
