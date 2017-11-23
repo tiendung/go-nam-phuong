@@ -95,3 +95,6 @@ Sau đây là một số cách thiền tập đơn giản, thích hợp cho con 
 [Hướng dẫn thiền tập bởi Thích Nhất Hạnh](https://langmai.org/thien-duong/sen-bup-tung-canh-he/thien-tap-co-huong-dan/)
 
 [Bước đầu tập thiền bởi Sư Tâm Pháp](http://sutamphap.com/buoc-dau-tap-thien/)
+
+
+Nếu bạn thấy hữu ích, hãy chia sẻ để tất cả người thân của ta đều được hưởng lợi bạn nhé!
