@@ -44,3 +44,5 @@ Anh T trưởng nhóm là một cá nhân thực sự khác. Khôn ngoan
 Anh đưa ra một chiếc ly gốm nhỏ với những mảnh vỡ đã được gắn lại và nói về việc anh giữ nó như sự quý trọng tuyệt đối đối với mối quan hệ của người tặng. Chẳng biết đó là do cao hứng hay do anh cố tình kể chuyện để truyền cảm hứng, anh kết thúc bằng việc đề nghị chúng tôi đọc thử ''Cuộc cách mạng một cọng rơm''. Nói rồi, T xin lỗi vì đã ''nhiều chuyện'' rồi đứng lên đi về phía đống lửa tại được đốt lên để chia tay 2 người khách Anh.
 
 Sáng hôm sau thức dậy lúc 6h sáng, tôi thấy người yêu mình đã đọc xong cuốn sách. Nắng lại lên trên đỉnh đồi.
+
+Ghi chú: Đây là bài viết của tôi cách đây khá lâu, khi mới lên Đà Lạt lần đầu ^^ Nếu thích, bạn có thể chia sẻ để lan toả cảm hứng cho bạn bè nhé ^^
