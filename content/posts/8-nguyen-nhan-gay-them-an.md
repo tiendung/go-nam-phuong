@@ -52,4 +52,9 @@ Một vài loại thực phẩm âm (bành trướng) hơn trong khi các loại
 
  Khi mọi thứ đang cực kì ổn trong cuộc sống, thỉnh thoảng sự  tự phá hoại diễn ra. Chúng ta thèm những thứ khiến bản thân thụt lùi,  rồi từ đó tạo thêm nhiều cơn thèm khác để cân bằng lại.Thường thì tình trạng đường máu thấp gây nên  tâm trạng thất thường.
  
+Nếu bạn thấy hữu ích, hãy chia sẻ cho những người bạn quan tâm nhé!
+
+---
+ 
 Lược dịch theo tài liệu của Học viện [Integrative Nutrition.](integrativenutrition.com)
+
