@@ -69,3 +69,5 @@ Tập luyện thường xuyên là một trong những rào cản cơn mất ng�
 * Ngủ giữa ngày: Chợp mắt giữa ngày rất tốt, nhưng nên trước 4h chiều và không nên quá 30-40 phút. Ngủ dài giữa ngày, đặc biệt là sau 4h chiều và kể cả chợp mắt nhanh vào buổi tối khi đang xem TV có thể gây hại đến nhịp điệu ngủ và ngăn bạn tận hưởng một giấc ngủ đầy đủ vào ban đêm.
 
 Lược dịch từ hướng dẫn [Healthy living](https://www.bewell.com/healthy-living/)của Dr.Frank Lipman.
+
+Nhớ chia sẻ cho những người bạn luôn muốn được khoẻ mạnh nhé!
