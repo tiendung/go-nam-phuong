@@ -126,4 +126,4 @@ Câu chuyện về cà phê đặc sản và những con người tạo nên gi�
   <figcaption><p>Will Frith và chú Sơn trong CLB Cà phê tại gia của chú. Chú từng học cách rang cà phê đặc sản của anh.</p></figcaption>
 </figure>
 
-Nếu bạn thích bài viết, hãy chia sẻ đến cho người bạn nào có cùng mối quan tâm về cà phê nhé.
+Nếu bạn thích bài viết, hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> đến cho người bạn nào có cùng mối quan tâm về cà phê nhé.

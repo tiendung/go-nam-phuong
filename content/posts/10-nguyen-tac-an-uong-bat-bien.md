@@ -120,4 +120,4 @@ Sau đây là tham khảo chi tiết được Coach chỉnh lý từ hướng d�
   </table>
 </div>
 
-Nhớ chia sẻ cho những người bạn luôn muốn được khoẻ mạnh nhé!
+Nhớ <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> cho những người bạn luôn muốn được khoẻ mạnh nhé!

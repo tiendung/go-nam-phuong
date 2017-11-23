@@ -87,4 +87,4 @@ TOP 5 thế mạnh của tôi, theo bài trắc nghiệm:
 5. Gratitude
 
 Còn của bạn là gì?:) *Rất rất rất tò mò*. Hãy chia sẻ qua comment nhé!
-Và đừng quên chia sẻ cho những người đang không được hài lòng trong công việc nhé.
+Và đừng quên <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> cho những người đang không được hài lòng trong công việc nhé.

@@ -103,4 +103,4 @@ Nếu đọc đến đây, hẳn bạn đã nhận ra những rào cản ngăn t
 > Hạnh phúc!
 
 
-**Nếu bạn thấy hữu ích, hãy chia sẻ cho những người bạn quan tâm nhé!**
+**Nếu bạn thấy hữu ích, hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> cho những người bạn quan tâm nhé!**
