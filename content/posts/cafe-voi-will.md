@@ -211,3 +211,5 @@ I wish you both the best and have a good life and thank you very much.
 Tôi/cháu chúc điều tốt đẹp nhất và một đời sống tốt đến cả hai. Và rất cảm ơn anh.
 
 Cảm ơn, rất vui đã gặp bạn.
+
+**Nếu thích câu chuyện của Will, bạn hãy chia sẻ cho ai đó nữa nhé!**
