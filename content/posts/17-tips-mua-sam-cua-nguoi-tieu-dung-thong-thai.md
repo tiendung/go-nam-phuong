@@ -60,3 +60,5 @@ Nên chọn các phần cắt nhiều nạc và bỏ da gà vì đây là nơi d
 
 ### Mang túi shopping đến siêu thị thay vì sử dụng bao nilon.
 Hãy sống xanh ^^
+
+Nếu bạn thấy hữu ích, hãy chia sẻ cho những người bạn quan tâm nhé!
