@@ -74,4 +74,7 @@ Cơ thể ta biết phải ăn gì. Nhưng não ta lại mắc sai lầm. Khi ch
 {{< figure src="/images/2017-11-02/nau-an.jpg" alt="nau an" >}}
 
 Lòng nhân từ thực sự là không chỉ hỗ trợ lựa chọn cá nhân của người khác, mà còn tôn trọng tính sinh học cá nhân của chính mình. Và đừng quên lắng nghe những tín hiệu của cơ thể nhé.
-Bạn có bao giờ mắc kẹt trong một “tín điều” không hiệu quả cho bạn  không? Hãy chia sẻ ý kiến của bạn kèm theo bài viết này, nếu bạn thấy có ích nhé!
+
+**Bạn có bao giờ mắc kẹt trong một “tín điều” không hiệu quả cho bạn  không? **
+
+Hãy chia sẻ ý kiến của bạn kèm theo bài viết này, nếu bạn thấy có ích nhé!
