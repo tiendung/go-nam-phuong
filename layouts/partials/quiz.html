@@ -2,7 +2,7 @@
 
 {{ $quiz := .Params.quiz }}
 {{ $page := . }}
-{{ $debug :=  (getenv "HUGO_ENV") "production" }}
+{{ $debug := ne (getenv "HUGO_ENV") "production" }}
 
 <div class="pb3">
   <p class="lh-copy measure fw4 f4 f3-ns">{{ .Params.description }}</p>
