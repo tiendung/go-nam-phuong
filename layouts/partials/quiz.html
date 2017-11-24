@@ -2,7 +2,7 @@
 
 {{ $quiz := .Params.quiz }}
 {{ $page := . }}
-{{ $debug := ne (getenv "HUGO_ENV") "production" }}
+{{ $debug :=  (getenv "HUGO_ENV") "production" }}
 
 <div class="pb3">
   <p class="lh-copy measure fw4 f4 f3-ns">{{ .Params.description }}</p>
@@ -124,8 +124,8 @@ function calculate_result() {
 
 function scrollToResult() {
   var resultElem = document.getElementById(done);
-  resultElem.classList.remove("dn");
   window.setTimeout( function () {
+    resultElem.classList.remove("dn");
     scrollToElement(resultElem);
     resultElem.getElementsByTagName("h1")[0].classList.add("animated", "pulse");
   }, 300);
