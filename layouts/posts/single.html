@@ -5,7 +5,6 @@
 
 <main class="flex flex-column items-center">
   <article class="mw7 w-100 ph3 ph4-ns">
-
     <header>
     {{ if .Params.author }}{{ partial "post_meta.html" . }}{{ end }}
     {{ partial "share_icons.html" . }}
@@ -27,14 +26,15 @@
     </div>
 
     <div class="mw7 w-100 lh-copy">
-      <div class="bb b--light-gray pb1 mb3">
+      {{ partial "share_icons.html" . }}
+      <div class="bb b--light-gray pb1 mv3">
     {{/* {{ partial "category_tag_list.html" . }} */}}
       </div>
 
-      {{ partial "share_icons.html" . }}
+      {{ partial "related.html" . }}
+
       <div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="5"></div>
     </div>
-
   </article>
 </main>
 

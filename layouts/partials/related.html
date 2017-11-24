@@ -1,0 +1,14 @@
+{{ $related := .Site.RegularPages.Related . | first 5 }}
+<h3>Bài viết khác</h3>
+<ul>
+{{ $page := . }}
+{{ with $related }}
+	{{ range . }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	{{ end }}
+{{ else }}
+	{{ range (.Site.Pages | first 5) }}{{ if eq .Type "posts" | and (ne .URL "/posts/") | and (ne .Permalink $page.Permalink) }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+	{{ end }}{{ end }}
+{{ end }}
+</ul>

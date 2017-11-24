@@ -24,3 +24,12 @@ params:
     - health
   default_description: Tôi là Nam Phương - Health Coach, Trainer, Nhà hoạt động xã hội.
     Một 9x lạc quan với quyết tâm giúp bạn trở nên khoẻ mạnh và hạnh phúc.
+
+related:
+  threshold: 65
+  includeNewer: false
+  indices:
+    - name: keywords
+      weight: 50
+    - name: tags
+      weight: 100
