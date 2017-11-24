@@ -15,15 +15,15 @@
   <div class="flex flex-auto flex-column justify-center">
     <div class="flex flex-column items-start center w-100 pv5 pa3 ph4-ns
     {{ if eq .Params.header.navigation "fancy" }}mw8{{ else }}mw7{{ end }}">
-      <h1 class="f3 f2-ns f1-l fw6 lh-title white mv0">{{ .Params.title }}</h1>
+      <h1 class="f3 f2-ns f1-l fw6 lh-title white mv0 bg-black-30">{{ .Params.title }}</h1>
       {{- with .Params.subtitle }}
-        <h2 class="f4 f3-ns f2-l fw4 lh-title white mt3 mb3">{{ . }}</h2>
+        <h2 class="f4 f3-ns f2-l fw4 lh-title white mt3 mb3 bg-black-30">{{ . }}</h2>
       {{- end }}
       {{- with .Params.paragraph }}
-        <p class="f5 f4-l fw3 lh-copy white-90 mt3 mb3">{{ . }}</p>
+        <p class="f5 f4-l fw3 lh-copy white-90 mt3 mb3 bg-black-40">{{ . }}</p>
       {{- end }}
       {{- with .Params.header.cta }}
-        <a class="f5 f4-ns lh-copy {{ .class }}" href="{{ .url }}">{{ .text }}</a>
+        <a class="f5 f4-ns lh-copy  bg-black-40 {{ .class }}" href="{{ .url }}">{{ .text }}</a>
       {{- end }}
     </div>
   </div>
