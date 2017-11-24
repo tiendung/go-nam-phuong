@@ -27,14 +27,14 @@
 {{ end }}
 
 <script>
-// loadDeferImages(): https://varvy.com/pagespeed/defer-images.html
+// https://varvy.com/pagespeed/defer-images.html
 var deferImgs = document.getElementsByTagName('img'),
     i = 0, n = deferImgs.length, img, x, t = 0;
 for (; i < n; i++) {
   img = deferImgs[i];
   if (x = img.getAttribute('data-src')) { img.setAttribute('src', x); t++; }
 }
-{{ if $debug }}
+{{- if $debug }}
   console.log(`${deferImgs.length} images. ${t} deferred.`);
   console.log("HUGO_ENV: {{ getenv "HUGO_ENV" }}");
   console.log("URL: {{ .URL }}");
@@ -42,7 +42,7 @@ for (; i < n; i++) {
   console.log(".Page.Keywords: {{ .Keywords }}");
   {{- $images := findRE "src=\"(.+?).jpg\"" .Content 6 }}
   console.log("images: {{ $images }}");
-{{ end }}
+{{- end }}
 </script>
 
 {{ block "body_bottom" . }}
