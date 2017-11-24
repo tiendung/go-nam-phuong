@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
 {{ $quiz := .Params.quiz }}
 {{ $page := . }}
 {{ $debug := ne (getenv "HUGO_ENV") "production" }}
@@ -123,7 +125,10 @@ function calculate_result() {
 function scrollToResult() {
   var resultElem = document.getElementById(done);
   resultElem.classList.remove("dn");
-  window.setTimeout( function () { scrollToElement(resultElem); }, 300);
+  window.setTimeout( function () {
+    scrollToElement(resultElem);
+    resultElem.getElementsByTagName("h1")[0].classList.add("animated", "pulse");
+  }, 300);
 }
 
 function select_answer(i, k) {
