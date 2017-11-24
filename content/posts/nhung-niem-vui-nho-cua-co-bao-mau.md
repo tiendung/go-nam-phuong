@@ -134,4 +134,4 @@ Trong hai bộ phim đã nói trên, trái tim giá băng của những ông b�
 
 Một khi đã “phá băng" của ai đấy, người đó sẽ mang lại niềm vui cho những người khác nữa. Và niềm vui cứ thế nhân lên gấp bội!
 
-Hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> bài viết này, và rủ ai đó cùng xem (hoặc xem lại lần thứ n!)1 trong 2 bộ phim này nhé ^^
+Hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue">chia sẻ</a> bài viết này, và rủ ai đó cùng xem (hoặc xem lại lần thứ n!)1 trong 2 bộ phim này nhé ^^

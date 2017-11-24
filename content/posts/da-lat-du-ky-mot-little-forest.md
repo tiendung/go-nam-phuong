@@ -45,4 +45,4 @@ Anh đưa ra một chiếc ly gốm nhỏ với những mảnh vỡ đã 
 
 Sáng hôm sau thức dậy lúc 6h sáng, tôi thấy người yêu mình đã đọc xong cuốn sách. Nắng lại lên trên đỉnh đồi.
 
-Ghi chú: Đây là bài viết của tôi cách đây khá lâu, khi mới lên Đà Lạt lần đầu ^^ Nếu thích, bạn có thể <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> để lan toả cảm hứng cho bạn bè nhé ^^
+Ghi chú: Đây là bài viết của tôi cách đây khá lâu, khi mới lên Đà Lạt lần đầu ^^ Nếu thích, bạn có thể <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue">chia sẻ</a> để lan toả cảm hứng cho bạn bè nhé ^^

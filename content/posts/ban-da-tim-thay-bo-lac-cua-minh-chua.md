@@ -70,4 +70,4 @@ Các bộ lạc đang tồn tại quanh bạn - chỉ ở khoảng cách của m
 Bên cạnh đó, hãy truyền cảm hứng cho các thành viên khác mở rộng ranh giới, mời những người phù hợp gia nhập. Càng có nhiều năng lượng tích cực và quan điểm mới mẻ lưu thông trong một cộng đồng, các thành viên càng có nhiều cảm hứng và sự trợ giúp. Tất cả các thành viên do đó sẽ thành công hơn!
 
 
-Cuối cùng, hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> bài viết để những người cũng đang tìm kiếm bộ lạc có thể liên hệ với bạn nhé :)
+Cuối cùng, hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue">chia sẻ</a> bài viết để những người cũng đang tìm kiếm bộ lạc có thể liên hệ với bạn nhé :)

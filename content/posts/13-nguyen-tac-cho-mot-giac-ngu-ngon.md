@@ -70,4 +70,4 @@ Tập luyện thường xuyên là một trong những rào cản cơn mất ng�
 
 Lược dịch từ hướng dẫn [Healthy living](https://www.bewell.com/healthy-living/)của Dr.Frank Lipman.
 
-Nhớ <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> cho những người bạn luôn muốn được khoẻ mạnh nhé!
+Nhớ <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue">chia sẻ</a> cho những người bạn luôn muốn được khoẻ mạnh nhé!

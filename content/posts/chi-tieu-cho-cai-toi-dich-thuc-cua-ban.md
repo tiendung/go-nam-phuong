@@ -48,4 +48,4 @@ Rất dễ bị xao nhãng bởi mong chờ của xã hội, duy trì vị thế
 
 Nếu bạn thích bài viết của chuyên gia này, hãy tham khảo thêm tại [Facebook /ManishaThakor](http://www.facebook.com/ManishaThakor), hoặc blog [MoneyZen.](http://www.moneyzen.com/)
 
-**Và đừng quên <a onclick="FB.ui({ method: 'feed', link: window.location.href })" href="">chia sẻ</a> bài viết cho những người đang gặp khó khăn về chi tiêu nhé!**
+**Và đừng quên <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue">chia sẻ</a> bài viết cho những người đang gặp khó khăn về chi tiêu nhé!**
