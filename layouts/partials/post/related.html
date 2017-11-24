@@ -1,0 +1,9 @@
+<article class="db grid-item w-100 w-third-l fl
+  pr3 pr4-ns mb4 bg-white">
+  <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
+{{- if .Params.cover_image -}}
+  <img src="{{ .Params.cover_image }}" alt="{{ .Title }}" class="w-100">
+{{- end }}
+  <h3 class="f4 fw4 fw5-ns mt0 pt0 lh-title">{{ .Title | safeHTML }}</h3>
+</a>
+</article><!-- grid-item -->

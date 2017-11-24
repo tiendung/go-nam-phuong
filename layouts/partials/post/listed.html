@@ -1,5 +1,17 @@
 <article class="db grid-item w-100 w-50-ns w-50-m w-third-l fl
-            pr3 pr4-ns mb4
-            box-masonry bg-white" id="{{ .UniqueID }}">
-{{ partial "post/preview.html" . }}
+  pr3 pr4-ns mb4 box-masonry bg-white" id="{{ .UniqueID }}">
+  {{- if .Params.cover_image -}}
+  <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
+  <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
+  <img src="{{ .Params.cover_image }}" alt="{{ .Title }}" class="w-100">
+  </a>
+  {{- end }}
+  <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
+    <h3 class="f4 f3-ns fw4 fw6-ns lh-title">{{ .Title | safeHTML }}</h3>
+    <p class="f5 fw3 lh-copy mv2">{{ if .Params.quiz }}{{  .Params.description | plainify | safeHTML }}{{ else }}{{  .Summary | plainify | safeHTML }}{{ end }}</p>
+    <div class="f6 fw3 gray mt0">
+      <time>{{ .Date.Format "Jan 2, 2006" }}</time>
+      <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>
+    </div>
+  </a>
 </article><!-- grid-item -->
