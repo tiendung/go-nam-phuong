@@ -7,12 +7,13 @@
       "biết ơn",
       "sống",
       "tích cực",
-      "tri ân"
+      "tri ân",
       "điều lành",
-      "ơn nghĩa"
+      "ơn nghĩa",
       "tạ ơn"
    ],
-   "cover_image": "https://i.imgur.com/XPHOeHY.jpg"
+   "cover_image": "https://i.imgur.com/XPHOeHY.jpg",
+   "draft": true
 }
 
 Tuần này là Tuần của Lễ Tạ Ơn (Thanksgiving) ở Mỹ, Canada, Quần đảo Caribe và Liberia. Những lời nguyện cảm tạ và các dạng tương tự của Lễ Tạ Ơn có mặt ở hầu hết các tôn giáo và nền văn hoá, thường là sau thời điểm thu gặt mùa màng. Chúng ta cần có lúc biết ơn đơn thuần vì lý do ta đang có thức ăn trên mặt bàn, trong khi cả tỷ người trên thế giới đang chết đói hay không có đủ dưỡng chất.
@@ -26,8 +27,7 @@ Bạn cũng cần chứng thực về sức mạnh của lòng biết ơn trư�
 
 Sau đây là 3 bài tập tâm lý đã được chứng minh làm gia tăng hạnh phúc, chỉ sau 1 tuần thực hiện. Hãy thử làm theo và quan sát tác động tích cực của chúng lên tư duy và hành động của bạn.
 
-**
-Bài tập 1: Nhật ký ba điều lành**
+## Bài tập 1: Nhật ký ba điều lành
 
 _Thời gian thực hiện: 5-10 phút/ngày_
 
@@ -44,7 +44,7 @@ Lập ra 3 chiến lược để tiếp tục sống trong trạng thái biết 
 
 Cứ khi nào điều gì tốt lành xảy đến hãy viết xuống, hoặc viết xuống hành động bạn có thể làm để biến tình huống xấu thành tốt.
 
-**Bài tập 2: Chuyến thăm ơn nghĩa**
+## Bài tập 2: Chuyến thăm ơn nghĩa
 
 _Thời gian thực hiện: Trong 1 ngày nghỉ hoặc ngay hôm nay!_
 
@@ -59,14 +59,11 @@ Viết đi viết lại nhiều lần. Khiến nó thật hùng hồn và súc t
 
 Gặp người đó **trực tiếp**, đọc lên lá thư cho họ nghe. Đừng quên mang khăn giấy nhé - vì có thể nước mắt sẽ rơi :">
 
-**
-Bài tập 3: Tri ân nguồn cội**
+## Bài tập 3: Tri ân nguồn cội
 
 _Thời gian thực hiện: 10-15 phút_
 
 ![biết ơn](/images/2017-11-24/DSC00862.JPG)
-![DSC00862.JPG](/images/2017-11-24/DSC00862.JPG)
-
 
 Hãy nghĩ đến một điều tốt lành nhất mà bạn đang có được: Một công việc thực sự tốt, người yêu tuyệt vời, hay đơn thuần là những bữa cơm ngon hàng ngày…
 
@@ -77,14 +74,12 @@ Sau khi biết là ai/điều gì, hãy tiếp tục lần ngược thời gian 
 Lần ngược lại dấu vết với những câu hỏi: Ai? Vì sao? Như thế nào?. Bạn cũng có thể vẽ sơ đồ với những mũi tên lần dò đến đầu mối xa nhất và bạn có thể tìm thấy. **Hãy làm trước khi đọc tiếp.**
 
 ![biết ơn bữa ăn](/images/2017-11-24/DSC00863.JPG)
-![DSC00863.JPG](/images/2017-11-24/DSC00863.JPG)
-
 
 Cuối cùng, hãy chọn cách riêng của bạn để cảm tạ trước nhất đầu mối đầu tiên đó: Ông bà tổ tiên, bố mẹ bạn, hay thiên nhiên, vũ trụ này? Sau đó bạn có thể cảm tạ những đầu mối dọc đường, giúp đỡ bạn trong cả đoạn đường. Bạn có thể tặng quà, một cú điện thoại thăm hỏi, hoặc đơn giản viết ra một lời tri ân thật trang trọng và đọc lại nó hằng ngày.
 
-Ví dụ:
+**Ví dụ:**
 
-_Tôi biết ơn vì mình đã được sinh ra trong cuộc đời này với hình hài không khiếm khuyết và được nuôi dạy với đầy đủ các điều kiện cơ bản.
+Tôi biết ơn vì mình đã được sinh ra trong cuộc đời này với hình hài không khiếm khuyết và được nuôi dạy với đầy đủ các điều kiện cơ bản.
 
 Tôi biết ơn vì đang yêu và sống trong một tình yêu cao cả của bố mẹ và người yêu tôi.
 

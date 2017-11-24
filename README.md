@@ -1,6 +1,8 @@
+- [ ] create test https://www.authentichappiness.sas.upenn.edu/questionnaires/survey-character-strengths
 - [ ] add tags in post for seo
 - [ ] biến "clean sweep" thành quiz
 - [ ] homepage: download tai lieu mien phi => 101 an sach
+
 - [x] bài viết tương tự (related posts) at the end of a content
 - [x] add facebook instant articles
 - [x] quiz now can share result to facebook
