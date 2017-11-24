@@ -12,8 +12,9 @@
    },
    "paragraph": "Một 9x lạc quan với quyết tâm giúp bạn trở nên khoẻ mạnh và hạnh phúc",
    "subtitle": "Health Coach, Trainer, Nhà hoạt động xã hội",
-   "title": "Tôi là Nam Phương",
+   "title": "Health Coach Nam Phương",
    "date": "2017-11-18",
    "cover_image": "/images/site/namphuong-intro.jpg",
-   "description": "Tôi là Nam Phương - Health Coach, Trainer, Nhà hoạt động xã hội. Một 9x lạc quan với quyết tâm giúp bạn trở nên khoẻ mạnh và hạnh phúc."
+   "description": "Tôi là Nam Phương - Health Coach, Trainer, Nhà hoạt động xã hội. Một 9x lạc quan với quyết tâm giúp bạn trở nên khoẻ mạnh và hạnh phúc.",
+   "tags": ["health", "health coach", "khai vấn", "sức khoẻ"]
 }
