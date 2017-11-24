@@ -12,7 +12,7 @@
       "ơn nghĩa",
       "tạ ơn"
    ],
-   "cover_image": "https://i.imgur.com/XPHOeHY.jpg",
+   "cover_image": "https://i.imgur.com/qbJuQ0A.jpg",
    "description": Cuối năm, cùng nhìn lại và tạ ơn những điều mình được thụ hưởng trong hiện tại nhé.
 }
 
