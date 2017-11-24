@@ -18,7 +18,9 @@
     {{ end }}
   </session><!-- grid -->
 </main>
+{{ end }}
 
+{{ define "body_bottom" }}
 {{ partial "masonry_layout.html" . }}
 {{ partial "search_filter.html" .  }}
 {{ end }}

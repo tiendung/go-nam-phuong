@@ -4,7 +4,11 @@
 <html lang="{{ .Site.LanguageCode }}">
 <html dir="ltr">
 
+<head>
 {{ partial "head.html" . }}
+{{ block "head_bottom" . }}
+{{ end }}
+</head>
 
 <body class="black-80">
 {{- if not .Params.no_header }}
@@ -40,5 +44,8 @@ for (; i < n; i++) {
   console.log("images: {{ $images }}");
 {{ end }}
 </script>
+
+{{ block "body_bottom" . }}
+{{ end }}
 </body>
 </html>
