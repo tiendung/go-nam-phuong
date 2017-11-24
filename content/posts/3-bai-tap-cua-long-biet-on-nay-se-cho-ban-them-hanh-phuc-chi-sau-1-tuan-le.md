@@ -1,11 +1,8 @@
 {
    "author": "boo",
-   "categories": [
-      "biết ơn", "sống"
-   ],
-   "cover_image": "https://i.imgur.com/XPHOeHY.jpg",
+   "title": "3 bài tập của Lòng Biết Ơn này sẽ cho bạn thêm hạnh phúc chỉ sau 1 tuần lễ",
    "date": "2017-11-24",
-   "subtitle": null,
+   "categories": [ "biết ơn", "sống" ],
    "tags": [
       "biết ơn",
       "sống",
@@ -15,7 +12,7 @@
       "ơn nghĩa"
       "tạ ơn"
    ],
-   "title": "3 bài tập của Lòng Biết Ơn này sẽ cho bạn thêm hạnh phúc chỉ sau 1 tuần lễ"
+   "cover_image": "https://i.imgur.com/XPHOeHY.jpg"
 }
 
 Tuần này là Tuần của Lễ Tạ Ơn (Thanksgiving) ở Mỹ, Canada, Quần đảo Caribe và Liberia. Những lời nguyện cảm tạ và các dạng tương tự của Lễ Tạ Ơn có mặt ở hầu hết các tôn giáo và nền văn hoá, thường là sau thời điểm thu gặt mùa màng. Chúng ta cần có lúc biết ơn đơn thuần vì lý do ta đang có thức ăn trên mặt bàn, trong khi cả tỷ người trên thế giới đang chết đói hay không có đủ dưỡng chất.
@@ -37,7 +34,7 @@ _Thời gian thực hiện: 5-10 phút/ngày_
 <figure class="https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?auto=format&fit=crop&w=1266&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="ba điều lành" class="w-100"></figure>
 
 
-Trước khi đi ngủ, hãy viết xuống 3 điều tốt lành đã diễn ra trong ngày. 
+Trước khi đi ngủ, hãy viết xuống 3 điều tốt lành đã diễn ra trong ngày.
 
 Sau đó, viết xuống lý do tại sao chúng lại xảy ra.
 
@@ -54,7 +51,7 @@ _Thời gian thực hiện: Trong 1 ngày nghỉ hoặc ngay hôm nay!_
 <figure class="https://images.unsplash.com/photo-1505189014261-0148f9aefa85?auto=format&fit=crop&w=1500&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="chuyến thăm ơn nghĩa" class="w-100"></figure>
 
 
-Hãy nghĩ đến một người đã làm điều tốt cho bạn mà bạn chưa từng cảm ơn thoả đáng. 
+Hãy nghĩ đến một người đã làm điều tốt cho bạn mà bạn chưa từng cảm ơn thoả đáng.
 
 Trong 1 lá thư, hãy viết ra chính xác họ đã làm gì và nó đã tác động lên cuộc sống của bạn như thế nào.
 
@@ -67,7 +64,8 @@ Bài tập 3: Tri ân nguồn cội**
 
 _Thời gian thực hiện: 10-15 phút_
 
-![biết ơn]({{site.baseurl}}//DSC00862.JPG)![DSC00862.JPG]({{site.baseurl}}/DSC00862.JPG)
+![biết ơn](/images/2017-11-24/DSC00862.JPG)
+![DSC00862.JPG](/images/2017-11-24/DSC00862.JPG)
 
 
 Hãy nghĩ đến một điều tốt lành nhất mà bạn đang có được: Một công việc thực sự tốt, người yêu tuyệt vời, hay đơn thuần là những bữa cơm ngon hàng ngày…
@@ -78,7 +76,8 @@ Sau khi biết là ai/điều gì, hãy tiếp tục lần ngược thời gian 
 
 Lần ngược lại dấu vết với những câu hỏi: Ai? Vì sao? Như thế nào?. Bạn cũng có thể vẽ sơ đồ với những mũi tên lần dò đến đầu mối xa nhất và bạn có thể tìm thấy. **Hãy làm trước khi đọc tiếp.**
 
-![biết ơn bữa ăn]({{site.baseurl}}//DSC00863.JPG)![DSC00863.JPG]({{site.baseurl}}/DSC00863.JPG)
+![biết ơn bữa ăn](/images/2017-11-24/DSC00863.JPG)
+![DSC00863.JPG](/images/2017-11-24/DSC00863.JPG)
 
 
 Cuối cùng, hãy chọn cách riêng của bạn để cảm tạ trước nhất đầu mối đầu tiên đó: Ông bà tổ tiên, bố mẹ bạn, hay thiên nhiên, vũ trụ này? Sau đó bạn có thể cảm tạ những đầu mối dọc đường, giúp đỡ bạn trong cả đoạn đường. Bạn có thể tặng quà, một cú điện thoại thăm hỏi, hoặc đơn giản viết ra một lời tri ân thật trang trọng và đọc lại nó hằng ngày.
@@ -96,7 +95,3 @@ Tôi hy vọng bạn thử thực hiện ít nhất 1 hoặc tất cả những 
 Credit:
 Bài tập 1& 2: © 2013, 2016 Integrative Nutrition, Inc.
 Bài tập 3: Thiết kế bởi Health Coach Nam Phương
-
-
-
-
