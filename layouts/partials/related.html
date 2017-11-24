@@ -1,10 +1,11 @@
 {{ $related := .Site.RegularPages.Related . | first 3 }}
-<h3>Bài viết khác</h3>
 <session class="grid w-100 db cf">
 {{ $page := . }}
 {{ with $related }}
+	<h3>Bài viết liên quan</h3>
 	{{ range . }}{{ partial "post/related.html" . }}{{ end }}
 {{ else }}
+	<h3>Bài viết khác</h3>
 	{{ range (.Site.Pages | first 3) }}{{ if eq .Type "posts" | and (ne .URL "/posts/") | and (ne .Permalink $page.Permalink) }}
 	{{ partial "post/related.html" . }}
 	{{ end }}{{ end }}

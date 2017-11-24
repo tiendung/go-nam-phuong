@@ -43,7 +43,7 @@
 </div>
 {{ end }} <!-- End Question -->
 
-<div id="results" class="mt5">
+<div id="results" class="mt5 mb3">
   {{ range $quiz.results }}
   <div id="{{ .id }}" class="shadow-2 pa3 {{ if not $debug }}dn{{ end }}">
     <h1 class="ttu tracked lh-title">{{ .title }}</h1>
