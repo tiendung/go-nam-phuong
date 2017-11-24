@@ -5,7 +5,7 @@
 {{ with $related }}
 	{{ range . }}{{ partial "post/related.html" . }}{{ end }}
 {{ else }}
-	{{ range (.Site.Pages | first 4) }}{{ if eq .Type "posts" | and (ne .URL "/posts/") | and (ne .Permalink $page.Permalink) }}
+	{{ range (.Site.Pages | first 3) }}{{ if eq .Type "posts" | and (ne .URL "/posts/") | and (ne .Permalink $page.Permalink) }}
 	{{ partial "post/related.html" . }}
 	{{ end }}{{ end }}
 {{ end }}
