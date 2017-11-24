@@ -13,7 +13,7 @@
       "tạ ơn"
    ],
    "cover_image": "https://i.imgur.com/qbJuQ0A.jpg",
-   "description": Cuối năm, cùng nhìn lại và tạ ơn những điều mình được thụ hưởng trong hiện tại nhé.
+   "description": "Cuối năm, cùng nhìn lại và tạ ơn những điều mình được thụ hưởng trong hiện tại nhé."
 }
 
 Tuần này là Tuần của Lễ Tạ Ơn (Thanksgiving) ở Mỹ, Canada, Quần đảo Caribe và Liberia. Những lời nguyện cảm tạ và các dạng tương tự của Lễ Tạ Ơn có mặt ở hầu hết các tôn giáo và nền văn hoá, thường là sau thời điểm thu gặt mùa màng. Chúng ta cần có lúc biết ơn đơn thuần vì lý do ta đang có thức ăn trên mặt bàn, trong khi cả tỷ người trên thế giới đang chết đói hay không có đủ dưỡng chất.
