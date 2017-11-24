@@ -31,8 +31,7 @@ Sau đây là 3 bài tập tâm lý đã được chứng minh làm gia tăng h�
 
 _Thời gian thực hiện: 5-10 phút/ngày_
 
-<figure src="https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?auto=format&fit=crop&w=1266&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="ba điều lành" class="w-100"></figure>
-
+{{< figure src="https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?auto=format&fit=crop&w=1266&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="ba điều lành" class="w-100" >}}
 
 Trước khi đi ngủ, hãy viết xuống 3 điều tốt lành đã diễn ra trong ngày.
 
@@ -48,7 +47,7 @@ Cứ khi nào điều gì tốt lành xảy đến hãy viết xuống, hoặc v
 
 _Thời gian thực hiện: Trong 1 ngày nghỉ hoặc ngay hôm nay!_
 
-<figure src="https://images.unsplash.com/photo-1505189014261-0148f9aefa85?auto=format&fit=crop&w=1500&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="chuyến thăm ơn nghĩa" class="w-100"></figure>
+{{< figure src="https://images.unsplash.com/photo-1505189014261-0148f9aefa85?auto=format&fit=crop&w=1500&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="chuyến thăm ơn nghĩa" class="w-100" >}}
 
 
 Hãy nghĩ đến một người đã làm điều tốt cho bạn mà bạn chưa từng cảm ơn thoả đáng.
