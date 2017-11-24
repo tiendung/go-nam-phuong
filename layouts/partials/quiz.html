@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+
 {{ $quiz := .Params.quiz }}
 {{ $page := . }}
 {{ $debug := ne (getenv "HUGO_ENV") "production" }}
@@ -54,7 +56,7 @@
         src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 {{ .image.coords.width }} {{ .image.coords.height }}'%2F%3E"
         data-src="{{ $page.Scratch.Get "result_image" }}">
     {{ end }}
-    <div><a class="pointer no-underline near-white bg-animate bg-dark-blue hover-bg-blue hover-white inline-flex items-center ma2 tc br2 pa2"
+    <div><a class="pointer no-underline near-white bg-dark-blue grow hover-white inline-flex items-center ma2 tc br2 pa2"
         onclick="fb_share({ result_id: '{{ .id }}', title: '{{ .title }}', cover_image: '{{ $page.Scratch.Get "result_image" }}' })"
         title="Facebook share">
         <svg class="dib h2 w2" fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.476-1.195 1.176v1.54h2.39l-.31 2.416h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg><span class="f4 ml3 pr2">Chia sẻ kết quả</span></a></div>
@@ -69,15 +71,15 @@
 
 
 <script>
-function scrollToElement(obj) {
-  if (obj.scrollIntoView) obj.scrollIntoView(); else {
+function scrollToElement(obj, behavior="auto") {
+  if (false && obj.scrollIntoView) obj.scrollIntoView({ behavior: behavior }); else {
     var curtop = 0;
      if (obj.offsetParent) {
        do {
            curtop += obj.offsetTop;
        } while (obj = obj.offsetParent);
      }
-     window.scroll(0, curtop);
+     window.scroll({ left: 0, top: curtop, behavior: behavior });
   }
 }
 
@@ -120,10 +122,16 @@ function calculate_result() {
   console.log('DONE', done);
 }
 
+// done="58565054-2018-4090-805d-4d20e166a171"; scrollToResult();
 function scrollToResult() {
   var resultElem = document.getElementById(done);
   resultElem.classList.remove("dn");
-  window.setTimeout( function () { scrollToElement(resultElem); }, 300);
+  window.setTimeout( function () {
+    scrollToElement(resultElem, "smooth");
+    window.setTimeout( function () {
+      resultElem.getElementsByTagName("h1")[0].classList.add("animated", "pulse");
+    }, 500);
+  }, 300);
 }
 
 function select_answer(i, k) {
