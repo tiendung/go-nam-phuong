@@ -77,4 +77,4 @@ Lòng nhân từ thực sự là không chỉ hỗ trợ lựa chọn cá nhân 
 
 **Bạn có bao giờ mắc kẹt trong một “tín điều” không hiệu quả cho bạn  không? **
 
-Hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue">chia sẻ</a> ý kiến của bạn kèm theo bài viết này, nếu bạn thấy có ích nhé!
+Hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> ý kiến của bạn kèm theo bài viết này, nếu bạn thấy có ích nhé!

@@ -1,7 +1,7 @@
 - [ ] add tags in post for seo
-- [ ] bài viết tương tự (related posts) at the end of a content
 - [ ] biến "clean sweep" thành quiz
 - [ ] homepage: download tai lieu mien phi => 101 an sach
+- [x] bài viết tương tự (related posts) at the end of a content
 - [x] add facebook instant articles
 - [x] quiz now can share result to facebook
 - [x] plain js quiz play to run smoothly on iphone4s

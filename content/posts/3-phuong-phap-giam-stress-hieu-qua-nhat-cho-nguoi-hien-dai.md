@@ -97,4 +97,4 @@ Sau đây là một số cách thiền tập đơn giản, thích hợp cho con 
 [Bước đầu tập thiền bởi Sư Tâm Pháp](http://sutamphap.com/buoc-dau-tap-thien/)
 
 
-Nếu bạn thấy hữu ích, hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue">chia sẻ</a> để tất cả người thân của ta đều được hưởng lợi bạn nhé!
+Nếu bạn thấy hữu ích, hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> để tất cả người thân của ta đều được hưởng lợi bạn nhé!

@@ -156,4 +156,4 @@ Hãy lên kế hoạch hành động để mở rộng Vòng tròn cuộc sống
 2.  Hãy thực sự lên lịch thực hiện các hành động thay vì để ý tưởng nằm trên giới: Cài nhắc nhở trên điện thoại, đặt lịch hẹn, mua dụng cụ mới...một khi đã có ngày giờ cụ thể, cơ hội bạn thực hiện sẽ tăng cao hơn rất nhiều!
 3.  Một thời gian sau (1-6 tháng), hãy sử dụng công cụ này một lần nữa. Sau đó so sánh 2 vòng tròn với nhau để xem sự cải thiện trong cuộc sống của bạn.
 
-Hãy giúp người thân, bạn bè biết đến công cụ này bằng cách <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue">chia sẻ</a> đến họ nhé! Sẽ có thêm người đồng hành với bạn đó!
+Hãy giúp người thân, bạn bè biết đến công cụ này bằng cách <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> đến họ nhé! Sẽ có thêm người đồng hành với bạn đó!
