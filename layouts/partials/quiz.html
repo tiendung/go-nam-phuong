@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
-
 {{ $quiz := .Params.quiz }}
 {{ $page := . }}
 {{ $debug := ne (getenv "HUGO_ENV") "production" }}
@@ -69,6 +67,8 @@
 </div>
 </section> <!-- End Quiz -->
 
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
 
 <script>
 function scrollToElement(obj) {

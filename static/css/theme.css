@@ -1,63 +1,3 @@
-/*
-  http://creative.ondrejsvestka.cz use FontAwesome icon to display on top of hovered image
-  Following css code enable the same effect. Extracted from
-  https://github.com/kishaningithub/hugo-creative-portfolio-theme/blob/master/static/css/style.default.css
-*/
-.box-masonry:hover .box-masonry-image.with-hover-overlay:before {
-  opacity: 0.8;
-}
-.box-masonry:hover .box-masonry-image.with-hover-icon:after {
-  opacity: 0.7;
-}
-.box-masonry .box-masonry-image {
-  display: block;
-  position: relative;
-  min-height: 100px;
-}
-.box-masonry .box-masonry-image.with-hover-overlay:before {
-  display: block;
-  position: absolute;
-  content: " ";
-  background: #fff;
-  opacity: 0;
-  width: 100%;
-  height: 100%;
-  left: 0;
-  top: 0;
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-}
-.box-masonry .box-masonry-image.with-hover-icon:after {
-  display: block;
-  position: absolute;
-  width: 100%;
-  left: 0;
-  top: 50%;
-  -webkit-transform: translate(0, -50%);
-  -ms-transform: translate(0, -50%);
-  transform: translate(0, -50%);
-  opacity: 0;
-  -webkit-transition: all 0.2s ease-out;
-  -moz-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-  font-family: 'FontAwesome';
-  /*content: '\f105';*/
-  content: '\f08a';
-  text-align: center;
-  font-size: 50px;
-  color: #555555;
-}
-.box-masonry .box-masonry-image:hover {
-  text-decoration: none;
-}
-.box-masonry:hover .box-masonry-image.with-hover-overlay:before {
-  opacity: 0.8;
-}
-.box-masonry:hover .box-masonry-image.with-hover-icon:after {
-  opacity: 0.7;
-}
-
 /*  Customized CSS for minimal-jekyll-theme. Extracted from
     https://github.com/desiredpersona/minimal-jekyll-theme/blob/master/_sass/_theme.scss */
 html {
@@ -204,3 +144,55 @@ p > code {
 
   .bg-darken-50-l {
     box-shadow: inset 0 0 0 9999px rgba(0, 0, 0, 0.5); }
+
+
+/*
+  Following css code enable the same effect. Extracted & modified from
+  https://github.com/kishaningithub/hugo-creative-portfolio-theme/blob/master/static/css/style.default.css
+*/
+.box-masonry .box-masonry-image:hover {
+  text-decoration: none;
+}
+.box-masonry:hover .box-masonry-image.with-hover-overlay:before {
+  opacity: 0.65;
+}
+.box-masonry:hover .box-masonry-image.with-hover-icon:after {
+  opacity: 0.5;
+}
+.box-masonry .box-masonry-image {
+  display: block;
+  position: relative;
+  min-height: 100px;
+}
+.box-masonry .box-masonry-image.with-hover-overlay:before {
+  display: block;
+  position: absolute;
+  content: " ";
+  background: #fff;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.box-masonry .box-masonry-image.with-hover-icon:after {
+  display: block;
+  position: absolute;
+  width: 100%;
+  left: 0;
+  top: 50%;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  opacity: 0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  content: '\2605';
+  text-align: center;
+  font-size: 45px;
+  color: #555555;
+}
