@@ -6,7 +6,7 @@
    ],
    "cover_image": "https://i.imgur.com/3spziqU.jpg",
    "date": "2017-11-15",
-   "description": "Hai vai diễn huyền thoại của Julie Andrews cho chúng ta rất nhiều bí kíp sống vui cực thú vị!",
+   "description": "Vai diễn huyền thoại của Julie Andrews cho chúng ta rất nhiều bí kíp sống vui cực thú vị!",
    "published": true,
    "tags": [
       "niềm vui",
