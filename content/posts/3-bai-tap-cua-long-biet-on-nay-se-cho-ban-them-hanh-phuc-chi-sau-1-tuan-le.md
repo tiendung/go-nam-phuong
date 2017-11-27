@@ -37,7 +37,7 @@ Trước khi đi ngủ, hãy viết xuống 3 điều tốt lành đã diễn ra
 
 Sau đó, viết xuống lý do tại sao chúng lại xảy ra.
 
-Hãy ngữ về tác động của những sự kiện tốt lành này lên ngày của bạn. Sẽ ra sao nếu không có chúng?
+Hãy nghĩ về tác động của những sự kiện tốt lành này lên ngày của bạn. Sẽ ra sao nếu không có chúng?
 
 Lập ra 3 chiến lược để tiếp tục sống trong trạng thái biết ơn, làm nảy sinh thêm sự tích cực.
 
