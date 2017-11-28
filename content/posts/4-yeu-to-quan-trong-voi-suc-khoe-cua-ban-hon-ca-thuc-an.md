@@ -5,7 +5,7 @@
       "ăn"
    ],
    "cover_image": "https://i.imgur.com/E7TLYNz.jpg",
-   "date": "2017-11-21",
+   "date": "2017-11-01",
    "description": "Nếu bạn hiểu được điều này, bạn sẽ tạo ra khác biệt thực sự trong cuộc sống!",
    "published": true,
    "subtitle": "Những yếu tố quan trọng với sức khoẻ của bạn hơn cả thức ăn",

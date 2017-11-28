@@ -20,3 +20,11 @@ https://github.com/dgraph-io/dgraph/issues/1 | Product Roadmap #1
 CSS, SGV, MOTION, ANIMATION
 http://danielcwilson.com/blog
 https://myvisionprofile.zeiss.com/survey/quick#questions (anim quiz)
+
+AMP
+https://github.com/ageitgey/amplify
+https://github.com/gohugoio/hugo/issues/1905
+https://github.com/gohugoio/hugo/issues/3220
+
+hugo --theme normal  --baseURL https://something.com/
+hugo --theme amp --baseURL https://something.com/amp/ --destination public/amp
