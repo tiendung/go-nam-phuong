@@ -6,12 +6,12 @@
    ],
    "cover_image": "https://i.imgur.com/3spziqU.jpg",
    "date": "2017-11-15",
-   "description": "Hai vai diễn bảo mẫu của Julie Andrews đều để lại cho chúng ta nhiều chiến thuật vui sống",
-   "published": true,
+   "description": "Vai diễn huyền thoại của Julie Andrews cho chúng ta rất nhiều bí kíp sống vui cực thú vị!",
    "tags": [
       "niềm vui",
       "julie andrews",
-      "bảo mẫu"
+      "bảo mẫu",
+      "biết ơn"
    ],
    "title": "Những niềm vui nhỏ của cô bảo mẫu"
 }
