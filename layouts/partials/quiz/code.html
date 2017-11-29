@@ -1,0 +1,116 @@
+{{ $quiz := .Params.quiz }}
+{{ $debug := ne (getenv "HUGO_ENV") "production" }}
+<script>
+function scrollToElement(obj) {
+  if (obj.scrollIntoView) obj.scrollIntoView(); else {
+    var curtop = 0;
+     if (obj.offsetParent) {
+       do {
+           curtop += obj.offsetTop;
+       } while (obj = obj.offsetParent);
+     }
+     window.scroll(0, curtop);
+  }
+}
+
+var questions = document.getElementsByClassName("question"),
+    done = false,
+    selected_answers = [{{ range $quiz.questions }}null,{{ end }}],
+    qa_scores = [ {{ range $quiz.questions }} { {{ range .answers }}"{{.id}}": {{ .results }}, {{ end }} }, {{ end }} ],
+    scores = { {{ range $quiz.results }} "{{.id}}": 0 , {{ end }} };
+
+function scrollToNextQuestion(i) {
+  while (i < questions.length && selected_answers[i] != null) i++;
+  if (i == questions.length) {
+    i = 0;
+    while (i < questions.length && selected_answers[i] != null) i++;
+  }
+  if (i < questions.length) {
+    window.setTimeout(function(){ scrollToElement(questions[i]); }, 300);
+    return true;
+  }
+}
+
+function calculate_result() {
+  if (done) return;
+  var i, a, r, rs, n = questions.length;
+  for (i = 0; i < n; i++) {
+    a = selected_answers[i];
+    rs = qa_scores[i][a];
+    for (r in rs) {
+      scores[r] = scores[r] + parseInt(rs[r]);
+    }
+  }
+  a = 0;
+  for (r in scores) {
+    rs = scores[r];
+    if (rs > a) {
+      a = rs;
+      done = r;
+    }
+  }
+  console.log('DONE', done);
+}
+
+function scrollToResult() {
+  var resultElem = document.getElementById(done);
+  window.setTimeout( function () {
+    resultElem.classList.remove("dn");
+    scrollToElement(resultElem);
+    resultElem.getElementsByTagName("h1")[0].classList.add("animated", "pulse");
+  }, 300);
+}
+
+function select_answer(i, k) {
+  if (done) return;
+
+  selected_answers[i] = k;
+  var elems = document.getElementById("q"+i).getElementsByTagName('a'), x = 0;
+  for (; x < elems.length; x++ ) { elems[x].classList.remove('bg-light-blue'); }
+  document.getElementById(k).classList.add('bg-light-blue');
+
+  if (!scrollToNextQuestion(i + 1)) {
+    calculate_result();
+    scrollToResult();
+  }
+}
+
+function fb_share(data) {
+  var link = '{{ .Permalink }}' + data.result_id;
+
+  {{ if $debug }}
+  console.log(event.key);
+  console.log(data.result_id + ".md");
+  console.log(`{
+  "author": "{{ .Params.author }}",
+  "date": "{{ .Params.date }}",
+  "type": "meta",
+  "title": "{{ .Title }}",
+  "cover_image": "${data.cover_image}",
+  "description": "Tôi được ${data.title.toUpperCase()}. Kết quả của bạn là gì?"
+}`);
+  window.open(link);
+  return;
+  {{ end }}
+
+  FB.ui({ method: 'feed', link: link },
+    function(response) {
+      if (response && !response.error_code) {
+        console.log('Success sharing to Facebook.');
+      } else {
+        console.log('Error sharing to Facebook.');
+      }
+    }
+  );
+} // fb_share
+
+{{ if $debug }}
+console.log("Question:");
+console.log({{ index $quiz.questions 0 }});
+
+console.log("Result:");
+console.log({{ index $quiz.results 0 }});
+{{ end }}
+</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">

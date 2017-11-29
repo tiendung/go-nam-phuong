@@ -11,6 +11,9 @@
 </head>
 
 <body class="black-80">
+{{ block "body_top" . }}
+{{ end }}
+
 {{- if not .Params.no_header }}
 {{- partial "header.html" . }}
 {{ end }}

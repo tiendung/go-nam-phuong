@@ -1,8 +1,9 @@
+{{ define "body_top" }}
+  <!-- partial "FB JavaScript SDK on your page once, ideally right after the opening body tag -->
+  {{ partial "facebook_sdk.html" . }}
+{{ end }}
+
 {{ define "main" }}
-
-<!-- partial "FB JavaScript SDK on your page once, ideally right after the opening body tag -->
-{{ partial "facebook_sdk.html" . }}
-
 <main class="flex flex-column items-center">
   <article class="mw7 w-100 ph3 ph4-ns">
     <header>
@@ -19,7 +20,7 @@
 
     <div class="mw7 w-100 f5 f4-ns fw3 lh-copy mb0">
     {{ if .Params.quiz }}
-      {{ partial "quiz.html" . }}
+      {{ partial "quiz/body.html" . }}
     {{ else }}
       {{ .Content }}
     {{ end }}
@@ -37,5 +38,8 @@
     </div>
   </article>
 </main>
+{{ end }}
 
+{{ define "body_bottom" }}
+{{ if .Params.quiz }}{{ partial "quiz/code.html" . }}{{ end }}
 {{ end }}
