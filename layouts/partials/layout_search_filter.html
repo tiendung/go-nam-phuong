@@ -23,8 +23,8 @@ var posts = [
 ];
 </script>
 {{ $production := (getenv "HUGO_ENV") "production" }}
-<script{{ if $production }}async {{ end }} src="/js/masonry.js"></script>
-<script{{ if $production }}async {{ end }} src="/js/imagesloaded.js"></script>
-<script{{ if $production }}async {{ end }} src="/js/fuse.js"></script>
-<script{{ if $production }}async {{ end }} src="/js/mark.js"></script>
-<script{{ if $production }}async {{ end }} src="/js/layout_search_filter.js"></script>
+<script{{ if $production }} async {{ end }}src="/js/masonry.js"></script>
+<script{{ if $production }} async {{ end }}src="/js/imagesloaded.js"></script>
+<script{{ if $production }} async {{ end }}src="/js/fuse.js"></script>
+<script{{ if $production }} async {{ end }}src="/js/mark.js"></script>
+<script{{ if $production }} async {{ end }}src="/js/layout_search_filter.js"></script>
