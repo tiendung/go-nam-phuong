@@ -1,21 +1,38 @@
-<script src="//cdn.jsdelivr.net/npm/lodash@4.17.4/lodash.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fuse.js/3.0.4/fuse.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.0/mark.min.js"></script>
-<script>
+// window.addEventListener('load', function() { setTimeout(function() {
+// init Masonry
+var grid = document.querySelector('.grid');
 
-function viNormalize(str) {
-  str = str.toLowerCase();
-  str = str.replace(/à|á|ạ|ả|ã|â|ầ|ấ|ậ|ẩ|ẫ|ă|ằ|ắ|ặ|ẳ|ẵ/g, "a");
-  str = str.replace(/è|é|ẹ|ẻ|ẽ|ê|ề|ế|ệ|ể|ễ/g, "e");
-  str = str.replace(/ì|í|ị|ỉ|ĩ/g, "i");
-  str = str.replace(/ò|ó|ọ|ỏ|õ|ô|ồ|ố|ộ|ổ|ỗ|ơ|ờ|ớ|ợ|ở|ỡ/g, "o");
-  str = str.replace(/ù|ú|ụ|ủ|ũ|ư|ừ|ứ|ự|ử|ữ/g, "u");
-  str = str.replace(/ỳ|ý|ỵ|ỷ|ỹ/g, "y");
-  str = str.replace(/đ/g, "d");
-  str = str.replace(/[^a-z0-9]/g, " ");
-  str = str.replace(/\s+/g, " ");
-  return str;
-}
+var msnry = new Masonry( grid, {
+  itemSelector: '.grid-item',
+  columnWidth: '.grid-sizer',
+  percentPosition: true
+});
+
+imagesLoaded( grid ).on( 'progress', function() {
+  // layout Masonry after each image loads
+  // can call msnry.layout() again if need to re-layout grid (i.e when grid-item deleted ... )
+  msnry.layout();
+});
+
+// Returns a function, that, as long as it continues to be invoked, will not
+// be triggered. The function will be called after it stops being called for
+// N milliseconds. If `immediate` is passed, trigger the function on the
+// leading edge, instead of the trailing.
+function debounce(func, wait, immediate) {
+	var timeout;
+	return function() {
+		var context = this, args = arguments;
+		var later = function() {
+			timeout = null;
+			if (!immediate) func.apply(context, args);
+		};
+		var callNow = immediate && !timeout;
+		clearTimeout(timeout);
+		timeout = setTimeout(later, wait);
+		if (callNow) func.apply(context, args);
+	};
+};
+
 var markOptions = {
   "element": "span",
   "className": "bg-light-yellow",
@@ -31,16 +48,6 @@ var markOptions = {
     "đ":"d"
   }
 };
-
-var posts = [
-{{ range .Pages }}
-  {
-    id: "{{ .UniqueID }}",
-    title: viNormalize("{{ .Title | plainify }}"),
-    desc: viNormalize("{{ with .Params.description }}{{ . | plainify }}{{ else }}{{  .Summary | plainify }}{{ end }}")
-  },
-{{ end }}
-];
 
 var options = {
   threshold: 0.25,
@@ -78,5 +85,6 @@ function searching() {
   msnry.layout();
 };
 
-var search =  _.debounce(searching, 300, { 'maxWait': 900 });
-</script>
+window.search =  debounce(searching, 300);
+
+// }, 100) });

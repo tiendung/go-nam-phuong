@@ -118,20 +118,15 @@ console.log({{ index $quiz.results 0 }});
 <div id="progress-bar" class="w1 bg-light-blue fixed top-0 left-0"></div>
 <script src="https://jeremenichelli.io/scrollProgress/dist/scrollProgress.js"></script>
 <script>
-window.addEventListener('load', function() {
+window.addEventListener('load', function() { setTimeout(function() {
+  var progressBar = document.getElementById('progress-bar');
 
-  setTimeout(function() {
-    var progressBar = document.getElementById('progress-bar');
+  function onProgress(x, y) {
+    {{ if $debug }}console.log(x, y);{{ end }}
+    progressBar.style.height = y * 100 + '%';
+  }
 
-    function onProgress(x, y) {
-      {{ if $debug }}console.log(x, y);{{ end }}
-      progressBar.style.height = y * 100 + '%';
-    }
-
-    self.progressObserver = new ScrollProgress(onProgress);
-  }, 100)
-});
+  self.progressObserver = new ScrollProgress(onProgress);
+}, 100) });
 </script>
 {{ end }}
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">

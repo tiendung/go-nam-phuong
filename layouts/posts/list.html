@@ -1,3 +1,6 @@
+{{ define "head_bottom" }}
+{{ end }}
+
 {{ define "main" }}
 <main class="full center pl3 pl4-ns bt b--light-gray">
 
@@ -21,6 +24,5 @@
 {{ end }}
 
 {{ define "body_bottom" }}
-{{ partial "masonry_layout.html" . }}
-{{ partial "search_filter.html" .  }}
+{{ partial "layout_search_filter.html" .  }}
 {{ end }}
