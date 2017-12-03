@@ -4,21 +4,21 @@ helps:
     cta:
       url: /free-coaching/
       text: Đăng kí
-    image: https://images.unsplash.com/photo-1460518451285-97b6aa326961?w=800
+    image: /images/site/photo-1460518451285-97b6aa326961.jpg
 
   - title: Khai vấn toàn diện
     subtitle: Lộ trình phát triển sức khoẻ & hạnh phúc được thiết kế riêng cho bạn
     cta:
       url: /offers/
       text: Tìm hiểu
-    image: https://images.unsplash.com/photo-1493689485253-f07fcbfc731b?&w=800
+    image: /images/site/photo-1493689485253-f07fcbfc731b.jpg
 
   - title: Quét dọn cuộc sống
     subtitle: <strong>Miễn phí</strong> 100 cách giúp bạn loại bỏ sự thừa thãi
     cta:
       url: /quet-don-cuoc-song-register
       text: Đăng kí
-    image: https://images.unsplash.com/photo-1478473495191-2d8dd1398896?w=800
+    image: /images/site/photo-1478473495191-2d8dd1398896.jpg
 
 selected_posts:
   - posts/vi-sao-toi-tro-thanh-1-health-coach.md
