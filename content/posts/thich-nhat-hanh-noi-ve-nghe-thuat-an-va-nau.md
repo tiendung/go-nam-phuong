@@ -7,9 +7,8 @@
       "thiền",
       "thở"
    ],
-   "cover_image": "",
+   "cover_image": "https://i.imgur.com/QydeWL5.jpg",
    "date": "2017-11-27",
-   "draft": true,
    "tags": [
       "ngủ",
           "chánh niệm",
@@ -63,7 +62,7 @@ Nhà mình có quyền "How to eat" bản Anh của thầy Thích Nhất Hạnh.
 
 {{< figure src="https://i.imgur.com/aiJPfhy.jpg" alt="sáu quán khi ăn cho người trẻ" class="w-100" >}}
 
-NGUỒN THAM KHẢO:
-[Ăn cơm chánh niệm](https://langmai.org/thien-duong/hanh-phuc-la-con-duong/an-com-chanh-niem/) - Làng Mai
+### NGUỒN THAM KHẢO
 
-[How to eat](https://www.penguinrandomhouse.com/books/545835/how-to-eat-by-thich-nhat-hanh/9781937006723/)
+- [Ăn cơm chánh niệm](https://langmai.org/thien-duong/hanh-phuc-la-con-duong/an-com-chanh-niem/) - Làng Mai
+- [How to eat](https://www.penguinrandomhouse.com/books/545835/how-to-eat-by-thich-nhat-hanh/9781937006723/)
