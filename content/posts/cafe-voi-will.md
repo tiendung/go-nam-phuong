@@ -21,7 +21,11 @@ Vì vậy tôi quyết định đóng góp cuộc phỏng vấn với Frith dư�
 
 Các bạn có thể nghe Radio hoặc đọc đều được, vì tôi cung cấp cả script song ngữ Anh – Việt phía bên dưới. Giọng Will thì rất trầm ấm, kiểu tôi vẫn thích.
 
-##### Link nghe: [Nhắm mắt Radio #3 – Café với Will Frith](https://soundcloud.com/nham_mat_radio/nham-mat-03-cafe-voi-will-frith)
+### Lắng nghe
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/nham_mat_radio/nham-mat-03-cafe-voi-will-frith"></iframe>
+
+<br>
 
 <figure>
   <img class="w-100" src="/images/2017-05-29/cafe-voi-will.jpg" alt="">
