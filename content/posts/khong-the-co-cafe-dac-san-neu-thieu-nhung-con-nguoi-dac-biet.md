@@ -22,7 +22,7 @@ Anh là người kéo chú Sơn vào cuộc, kết nối chú với các chuyên
 
 Cà phê của Là Việt cung cấp hiện nay thì phần nhiều là Catimor, một số lượng vừa phải là Typica và Bourbon. Theo anh cà phê của Việt Nam thì nó cũng mắc nhưng chất lượng nó chưa tốt và cực kỳ không ổn định. Và phương pháp dễ dàng và ổn định nhất là nhập khẩu cà phê từ nước ngoài và bán nó. Điều này cũng giống như việc Việt Nam là một đất nước sản xuất gạo nhiều, nhưng dân mình thì ăn gạo Nhật, Đài Loan. Cũng như vậy, người Sài Gòn đang uống nhiều cà phê từ Ethiopia và Kenya.
 
-Theo anh các quán cà phê hiện đang chú trọng cà phê đặc sản, khó kiếm tiền, và không kiếm được nhiều tiền. Vì chi phí đầu tư để làm ra chất lượng đó là vô cùng cao. Nó cao khoảng gấp năm lần quán cà phê bình thường. Cực kì cao và không hiệu quả. (nguồn [caphethoibao.com](http://www.caphethoibao.com/tran-nhat-quang-dung-nen-tao-ra-nhung-gia-tri-ao-cho-nguoi-nong-dan))
+Theo anh các quán cà phê hiện đang chú trọng cà phê đặc sản, khó kiếm tiền, và không kiếm được nhiều tiền. Vì chi phí đầu tư để làm ra chất lượng đó là vô cùng cao. Nó cao khoảng gấp năm lần quán cà phê bình thường. Cực kì cao và không hiệu quả. (nguồn [caphethoibao.com](https://web.archive.org/web/20170411165556/http://www.caphethoibao.com/tran-nhat-quang-dung-nen-tao-ra-nhung-gia-tri-ao-cho-nguoi-nong-dan))
 
 ## Cà phê Arabica Đà Lạt
 
