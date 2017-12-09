@@ -1,6 +1,7 @@
 {
   "author": "boo",
   "title": "8 bộ phim Nhật Bản phải xem của các tín đồ ẩm thực",
+  "draft": true,
   "date": "2017-12-07"
 }
 
