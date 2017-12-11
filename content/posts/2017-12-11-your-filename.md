@@ -105,6 +105,7 @@ Gary Taubes hỏi khi tôi mô tả cho anh ta tuổi thọ của người Ikari
 
 Theo báo cáo của Pes và Poulain, Christina Chrysohoou, bác sĩ tim mạch của Trường Y Đại học Athens, cùng với nửa tá các nhà khoa học để tổ chức nghiên cứu Ikaria, bao gồm một cuộc khảo sát về chế độ ăn uống của 673 người Ikaria. Cô phát hiện ra rằng các đối tượng tiêu thụ khoảng gấp sáu lần lượng đậu mỗi ngày so với người Mỹ, ăn cá hai lần một tuần và ăn thịt năm lần một tháng, uống trung bình 2-3 cốc cà phê mỗi ngày và uống khoảng một phần tư lượng đường tinh luyện - người cao tuổi không thích soda. Cô cũng khám phá ra rằng họ đang tiêu thụ nhiều dầu ô liu cùng với hai đến bốn ly rượu mỗi ngày.
 
+
 Chrysohoou cũng ngờ rằng **giấc ngủ của Ikarians và những thói quen tình dục có thể có liên quan đến cuộc sống lâu dài của họ.** Bà trích dẫn một bài báo năm 2008 của Trường Y khoa Đại học Athens và Trường Y tế Công cộng Harvard đã nghiên cứu trên 23.000 người trưởng thành Hy Lạp. Các nhà nghiên cứu đã theo dõi các đối tượng trong trung bình sáu năm, đo lường chế độ ăn uống của họ, hoạt động thể chất và mức họ ngủ rưa. Họ nhận thấy rằng ngủ trưa có liên quan đến việc giảm 12% nguy cơ mắc bệnh mạch vành, nhưng thường xuyên ngủ trưa -  ít nhất ba ngày một lần -  cũng giảm 37%. Cô cũng chỉ ra một nghiên cứu sơ bộ về đàn ông Ikaria giữa 65 và 100, bao gồm 80% trong số họ cho biết có quan hệ tình dục thường xuyên, và một phần tư nhóm tự báo cáo nói rằng họ đã đạt "thời gian tốt" và có "thành tích."
 
 ***
@@ -150,7 +151,14 @@ Thực tế là họ không biết làm thế nào mà họ có thể thọ như
 
 Mỗi một trong những yếu tố này đều có thể gắn liền với tuổi thọ. Đó là điều mà ngành công nghiệp chế độ ăn uống trị giá 70 tỷ đô la và ngành công nghiệp câu lạc bộ sức khoẻ trị giá 20 tỷ đô la Mỹ cố gắng thuyết phục chúng ta rằng nếu chúng ta ăn đúng thức ăn hoặc tập luyện đúng cách, chúng ta sẽ khỏe mạnh, giảm cân và sống lâu hơn. Nhưng những chiến lược này hiếm khi hiệu quả. Không phải vì họ có tư tưởng sai lầm: quả là một ý tưởng tốt để mọi người thực hiện bất kỳ hoạt động lành mạnh nào. Vấn đề là, rất khó thay đổi hành vi cá nhân khi [hành vi của cộng đồng](https://coachnamphuong.com/posts/ban-da-tim-thay-bo-lac-cua-minh-chua/) vẫn giữ nguyên. Ở Hoa Kỳ, bạn không thể đi xem phim, đi bộ qua sân bay hoặc mua thuốc ho mà không đi qua rất nhiều thanh kẹo, đồ ăn vặt mặn và đồ uống ngọt có đường. Ngành chế biến thực phẩm tiêu tốn hơn 4 tỷ đô la mỗi năm để chúng ta ăn. Làm thế nào để bạn chống lại điều đó? Kỷ luật là một điều tốt, nhưng kỷ luật là một cơ bắp biết mệt mỏi. Sớm hay muộn,[hầu hết mọi người đều vấp phải sự cám dỗ không ngừng.](https://coachnamphuong.com/posts/tai-sao-95-phan-tram-nguoi-an-kieng-that-bai/)
 
+
+
+{{< figure src="https://pbs.twimg.com/media/Ck7ZTNEXAAAUCcI.jpg" alt="cụ bà trăm tuổi ở okinawa" caption="Các cụ ở Okinawa thường sống cùng nhau qua hơn nửa thập kỉ, chia sẻ vui buồn mỗi tối" class="tl" >}}
+
 Cùng lúc với lượng calo tiếp cận càng ngày càng nhiều, ta đã giảm hoạt động thể chất trong cuộc sống của mình. Năm 1970, khoảng 40% trẻ em ở Hoa Kỳ đi bộ đến trường; bây giờ ít hơn 12% làm điều đó. Ông bà của chúng ta, mặc dù không tập thể dục, đã đốt cháy khoảng năm lần lượng calo mỗi ngày trong hoạt động thể chất. Đồng thời, việc tiếp cận thực phẩm đã bùng nổ.
+
+
+{{< figure src="https://www.healthytravelblog.com/wp-content/uploads/2017/10/Okinawa-Blue-Zones-748x350.jpg" alt="cụ bà trăm tuổi ở okinawa" caption="liệu bạn đã đốt cháy đủ calo bằng các cụ bà?" class="tl" >}}
 
 Mặc cho hòn đảo tương đối cô lập, những con đường quanh co và sự độc lập mạnh mẽ của người dân, nền văn hoá lương thực của Hoa Kỳ cùng các lực lượng khác, bắt đầu rải rác ở Ikaria. Chợ làng đang bán khoai tây chiên và soda, theo kinh nghiệm của tôi là sẽ thay thế trà như là thức uống được người trẻ Ikaria  lựa chọn. Khi những truyền thống cổ xưa của hòn đảo này đang lùi bước trước thời kỳ toàn cầu hoá, khoảng cách giữa thời gian sống của người Ikaria và thế giới còn lại dường như đang dần dần biến mất, vì những thế hệ tiếp theo của người già trở nên ít có khả năng sống lâu như vậy hơn.
 
