@@ -22,7 +22,6 @@
     "vùng xanh"
   ],
   "cover_image": "https://i.imgur.com/zQr4YBN.jpg"
-  "draft": "true"
 }
 
 
