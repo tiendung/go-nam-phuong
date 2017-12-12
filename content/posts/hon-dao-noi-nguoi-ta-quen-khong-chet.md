@@ -22,7 +22,7 @@
     "vùng xanh"
   ],
   "cover_image": "https://i.imgur.com/zQr4YBN.jpg",
-  "draft": "true"
+  "draft": "false"
 }
 
 
@@ -170,7 +170,3 @@ _“Nó chỉ biến mất,” _ ông nói.  _“Thực ra tôi đã trở về 
 Tôi đã từng nghe câu chuyện này trước đây. Nó đã trở thành một phần của nền văn hoá dân gian ở Ikaria, bằng chứng về cách sống đặc biệt của nó. Tuy nhiên, tôi vẫn hỏi ông, "Chuyện gì đã xảy ra vậy?"
 
 _“Các bác sĩ của tôi đều chết hết rồi.”_
-
-
-
-
