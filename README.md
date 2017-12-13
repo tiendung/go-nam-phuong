@@ -1,4 +1,4 @@
-it p- [ ] create test https://www.authentichappiness.sas.upenn.edu/questionnaires/survey-character-strengths
+- [ ] create test https://www.authentichappiness.sas.upenn.edu/questionnaires/survey-character-strengths
 - [ ] add tags in post for seo
 - [ ] biến "clean sweep" thành quiz
 - [ ] homepage: download tai lieu mien phi => 101 an sach
