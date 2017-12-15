@@ -72,9 +72,9 @@ Những người sống lâu nhất trên thế giới đã chọn - hoặc đã
 Để đạt đến trăm tuổi, bạn phải thắng cuộc xổ số về gien di truyền. Nhưng hầu hết chúng ta có đủ khả năng sống tốt đến đầu những năm 90 tuổi mà phần lớn không bị bệnh kinh niên. Như những người Cơ Đốc Phục Lâm cho thấy, tuổi thọ trung bình của con người có thể tăng 10-12 năm bằng cách tuân theo lối sống của những Vùng Xanh.
 
 
+
+Hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> bài viết để người thân bạn bè tham khảo bạn nhé!
+
 Đọc câu chuyện đầy đủ về hành trình tìm kiếm bí mật tuổi thọ của Dan Buettner [ở đây.](https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/)
 
 Dịch tổng hợp từ [National geographic](http://adventure.nationalgeographic.com/2009/06/live-longer-dan-buettner-text/5) và [Bluezones.com]( https://bluezones.com/2016/11/power-9/)
-
-
-
