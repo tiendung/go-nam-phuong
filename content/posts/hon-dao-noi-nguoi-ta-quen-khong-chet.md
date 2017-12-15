@@ -168,3 +168,6 @@ _“Nó chỉ biến mất,” _ ông nói.  _“Thực ra tôi đã trở về 
 Tôi đã từng nghe câu chuyện này trước đây. Nó đã trở thành một phần của nền văn hoá dân gian ở Ikaria, bằng chứng về cách sống đặc biệt của nó. Tuy nhiên, tôi vẫn hỏi ông, "Chuyện gì đã xảy ra vậy?"
 
 _“Các bác sĩ của tôi đều chết hết rồi.”_
+
+
+Chia sẻ bài viết nếu bạn thấy hữu ích nhé!
