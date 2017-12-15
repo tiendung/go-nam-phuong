@@ -18,13 +18,13 @@
 
 
 Dan Buettner là chủ sở hữu của ba kỷ lục Guinness thế giới riêng biệt cho đi xe đạp đường dài: đạp 15.500 dặm từ Alaska đến Argentina năm 1987, khi anh 27 tuổi; hành trình 12.888 dặm qua Liên Xô vào năm 1990; và một chuyến dạo chơi 12.172 dặm qua Châu Phi hoàn thành vào năm 1992. Nhưng chính [nghiên cứu về tuổi thọ](https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/)được xuất bản lần đầu tiên trong National Geographic mới  thực sự mang đến  thành công của anh về chủ đề này. Người bản địa Minnesota này đã du hành đến năm quốc gia để nghiên cứu những  con người mạnh khoẻ nhất thế giới. Tại Sardinia, Okinawa, Costa Rica, và Loma Linda, California, Buettner hợp tác với các nhà khoa học để kiểm tra các vùng bất thường, nơi số lượng người trăm tuổi vượt trội so với mức trung bình thống kê. Sau đây là 5 khu vực được gọi là [“Những Vùng Xanh" (The Blue Zones)](https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/):
-- Vùng Barbagia của Sardinia - các vùng cao nguyên của nội địa Sardinia  với tập trung đông các ông trăm tuổi nhiều nhất thế giới.
+- Vùng Barbagia của Sardinia - các vùng cao nguyên của nội địa Sardinia  với mật độ tập trung các ông trăm tuổi cao nhất thế giới.
 
 - Ikaria, Hy Lạp - Đảo Aegean với tỷ lệ tử vong trung lưu thấp nhất thế giới và tỷ lệ mất trí nhớ thấp nhất thế giới.
 
 - Bán đảo Nicoya, Costa Rica - Tỷ lệ tử vong ở độ tuổi trung lưu thấp nhất thế giới, tập trung cao thứ nhì số lượng ông trăm tuổi.
 
-- Những Người Cơ Đốc Phục Lâm (Seventh Day Adventists)  -với mật độ  cao nhất là ở Loma Linda, California. Họ sống lâu hơn 10 năm so với trung bình ở Bắc Mỹ.
+- Những Người Cơ Đốc Phục Lâm (Seventh Day Adventists)  - với mật độ  cao nhất là ở Loma Linda, California. Họ sống lâu hơn 10 năm so với trung bình ở Bắc Mỹ.
 
 - Okinawa, Nhật Bản - Các bà trên 70 tuổi là những người sống lâu nhất trên thế giới.
 
