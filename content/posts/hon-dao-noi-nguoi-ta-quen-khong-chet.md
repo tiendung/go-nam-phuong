@@ -170,4 +170,5 @@ Tôi đã từng nghe câu chuyện này trước đây. Nó đã trở thành m
 _“Các bác sĩ của tôi đều chết hết rồi.”_
 
 
-Chia sẻ bài viết nếu bạn thấy hữu ích nhé!
+
+Hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> bài viết để người thân bạn bè tham khảo bạn nhé!
