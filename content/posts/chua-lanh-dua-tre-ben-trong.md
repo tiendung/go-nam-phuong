@@ -27,9 +27,6 @@
 }
 
 
-![đứa trẻ thương tổn]({{site.baseurl}}/https://www.mindful.org/wp-content/uploads/thich490.jpg)
-_Vẽ bởi bé Tighe Moore, 7 tuổi_
-
 Trong mỗi chúng ta, có một đứa trẻ nhỏ, khổ đau. Chúng ta đều có những thời kỳ khó khăn khi còn bé và nhiều người đã trải qua thương chấn. Để bảo vệ và phòng thủ cho bản thân khỏi những khổ đau trong tương lai, chúng ta thường cố gắng quên đi những thời kì đau đớn.
 
 Mỗi lần chúng ta liên hệ với những trải nghiệm khổ đau, chúng ta tin rằng mình không thể chịu đựng được, và chúng ta nhét cảm xúc và ký ức xuống đáy sâu của vô thức.  Có thể chúng ta không dám đối mặt với đứa trẻ này qua nhiều thập kỉ.
