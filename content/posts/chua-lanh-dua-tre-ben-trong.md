@@ -47,7 +47,7 @@ Nhưng cũng như khổ đau đang diện diện trong mọi tế bào của cơ
 
 Khi chúng ta trở nên ý thức rằng ta đã bỏ quên đứa trẻ thương tổn trong mình, ta cảm thấy lòng trắc ẩn lớn lao với đứa trẻ và ta bắt đầu sinh ra năng lượng chánh niệm. Việc thực hành đi chánh niệm, ngồi chánh niệm và thở chánh niệm là nền tảng của ta. Với niệm hơi thở và bước chân chánh niệm của mình, ta sản sinh ra năng lượng chánh niệm và quay về với trí tuệ được đánh thức nằm bên trong mỗi tế bào của cơ thể. Năng lượng đó sẽ ôm ấp ta và chữa lành ta, và sẽ chữa lành đứa trẻ thương tổn bên trong ta.
 
-**Lắng nghe**
+### **Lắng nghe**
 
 Khi chúng ta nói đến lắng nghe với lòng trắc ẩn, chúng ta thường nghĩ đến việc lắng nghe ai đó khác. Nhưng chúng ta cũng phải lắng nghe cả đứa trẻ thương tổn bên trong mình. Đôi lúc đứa trẻ thương tổn trong ta muốn tất cả sự chú ý của ta. Đứa trẻ đó sẽ trồi lên từ những tầng sâu của ý thức và đòi hỏi sự chú ý của bạn. Nếu bạn chánh niệm, bạn sẽ nghe tiếng nói của cậu bé hay cô bé đang kêu gọi trợ giúp. Vào khoảnh khắc đó, thay vì chú ý đến bất cứ điều gì phía trước bạn, hãy lùi lại và ôm ấp dịu dàng đứa trẻ bị tổn thương. Bạn có thể nói chuyện thẳng với đứa trẻ bằng ngôn ngữ của tình yêu, nói rằng, _“Trong quá khứ, tôi đã bỏ em một mình. Tôi đã rời xa em. Bây giờ, tôi rất hối lỗi. Tôi sẽ bao bọc em.”_ Bạn có thể nói, _“Em yêu, tôi ở đây vì em. Tôi sẽ chăm sóc tốt cho em. Tôi biết em đã đau khổ quá nhiều. Tôi đã quá bận rộn. Tôi đã lờ em đi, và giờ đây tôi đã học được cách trở về bên em.”_ 
 Nếu cần thiết, bạn phải khóc cùng với đứa trẻ đó. Bất cứ khi nào bạn cần, bạn có thể ngồi và thở với đứa trẻ. 
