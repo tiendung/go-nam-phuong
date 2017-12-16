@@ -47,7 +47,7 @@ Nhưng cũng như khổ đau đang diện diện trong mọi tế bào của cơ
 
 Khi chúng ta trở nên ý thức rằng ta đã bỏ quên đứa trẻ thương tổn trong mình, ta cảm thấy lòng trắc ẩn lớn lao với đứa trẻ và ta bắt đầu sinh ra năng lượng chánh niệm. Việc thực hành đi chánh niệm, ngồi chánh niệm và thở chánh niệm là nền tảng của ta. Với niệm hơi thở và bước chân chánh niệm của mình, ta sản sinh ra năng lượng chánh niệm và quay về với trí tuệ được đánh thức nằm bên trong mỗi tế bào của cơ thể. Năng lượng đó sẽ ôm ấp ta và chữa lành ta, và sẽ chữa lành đứa trẻ thương tổn bên trong ta.
 
-### **Lắng nghe**
+## **Lắng nghe**
 
 Khi chúng ta nói đến lắng nghe với lòng trắc ẩn, chúng ta thường nghĩ đến việc lắng nghe ai đó khác. Nhưng chúng ta cũng phải lắng nghe cả đứa trẻ thương tổn bên trong mình. Đôi lúc đứa trẻ thương tổn trong ta muốn tất cả sự chú ý của ta. Đứa trẻ đó sẽ trồi lên từ những tầng sâu của ý thức và đòi hỏi sự chú ý của bạn. Nếu bạn chánh niệm, bạn sẽ nghe tiếng nói của cậu bé hay cô bé đang kêu gọi trợ giúp. Vào khoảnh khắc đó, thay vì chú ý đến bất cứ điều gì phía trước bạn, hãy lùi lại và ôm ấp dịu dàng đứa trẻ bị tổn thương. Bạn có thể nói chuyện thẳng với đứa trẻ bằng ngôn ngữ của tình yêu, nói rằng, _“Trong quá khứ, tôi đã bỏ em một mình. Tôi đã rời xa em. Bây giờ, tôi rất hối lỗi. Tôi sẽ bao bọc em.”_ Bạn có thể nói, _“Em yêu, tôi ở đây vì em. Tôi sẽ chăm sóc tốt cho em. Tôi biết em đã đau khổ quá nhiều. Tôi đã quá bận rộn. Tôi đã lờ em đi, và giờ đây tôi đã học được cách trở về bên em.”_ 
 Nếu cần thiết, bạn phải khóc cùng với đứa trẻ đó. Bất cứ khi nào bạn cần, bạn có thể ngồi và thở với đứa trẻ. 
@@ -72,7 +72,7 @@ Những người quanh ta, gia đình và bè bạn, cũng có thể có một �
 
 Hãy quay lại và chăm sóc bản thân mình. Cơ thể bạn cần bạn, cảm xúc của bạn cần bạn, tri giác của bạn cần bạn. Đứa trẻ thương tổn bên trong bạn cần bạn. Nỗi khổ đau cần bạn công nhận nó. Về nhà và ở đó với tất cả những điều này. Thực tập đi chánh niệm và thở chánh niệm. Làm mọi việc trong chánh niệm để bạn có thể thực sự ở đó, để bạn có thể yêu thương.
 
-**Năng lượng niệm**
+## **Năng lượng niệm**
 
 Năng lượng niệm là phương thuốc sẽ nhận diện và chữa lành đứa trẻ bên trong. Nhưng làm cách nào ta trau dồi năng lượng này?
 
@@ -95,13 +95,13 @@ Sự thực hành dựa trên cái nhìn sâu sắc về **bất nhị** (nondua
 
 Mỗi lần chúng ta cần năng lượng niệm, ta chỉ cần chạm vào hạt giống của niệm hơi thở hoặc thiền chánh niệm đi, cười và sau đó ta có năng lượng sẵn sàng để đảm đương việc nhận diện, ôm ấp và sau đó là nhìn sâu vào trong và chuyển hoá. Bất cứ việc gì ta làm, cho dù đó là nấu nướng, quét nhà, giặt đồ, đi lại, hay ý thức về hơi thở của mình, ta có thể tiếp tục sản sinh ra năng lượng chánh niệm, và hạt giống chánh niệm trong ta sẽ trở nên mạnh mẽ.  Trong hạt giống chánh niệm là hạt giống của định tâm. Với hai nguồn năng lượng này, ta có thể giỏi phóng mình khỏi những mâu thuẫn.
 
-**Tâm trí cần được lưu thông tốt**
+## **Tâm trí cần được lưu thông tốt**
 
 Chúng ta biết rằng có độc chất bên trong cơ thể mình. Nếu máu không lưu thông tốt, những độc chất này tích tụ lại. Để duy trì trạng thái khoẻ mạnh, cơ thể hoạt động để trục xuất độc tố. Khi máu lưu thông tốt, thận và gan có thể làm việc của mình để làm tan chất độc. Chúng ta có thể sử dụng mát-xa để giúp máu tuần hoàn tốt hơn.
 
 Ý thức của ta cũng vậy, có thể ở trong tình trạng kém lưu thông. Chúng ta có thể có một khối lớn khổ sở, đau đớn, buồn bã hay tuyệt vọng bên trong mình; nó như một độc chất trong ý thức của ta. Ta gọi nó là một khối **“nội kết”** (internal formation - “kết” tiếng Hán Việt của “thừng", sợi dây, là tụ lại, đóng lại thành từng khối khổ đau, không chịu tan mà đóng lại thành khối ở bên trong, cho nên gọi là nội kết) hoặc **“triền sử”** (internal knot - “Triền” tức là trói lại, quấn lại không cho có tự do, triền sử là những nút thắt trong tâm). **Ôm lấy những đau đớn và buồn bã với năng lượng niệm là thực hành mát-xa cho ý thức.** Khi máu không lưu thông, các cơ quan nội tạng không thể hoạt động đúng, và chúng ta bị bệnh. Khi tâm lý của ta không lưu thông tốt, tâm trí của ta sẽ bị bệnh. Chánh niệm kích hoạt và gia tăng sự tuần hoàn qua khỏi những khối đau đớn lớn.
 
-**Chiếm cứ phòng khách**
+## **Chiếm cứ phòng khách**
 
 Những khối lớn khổ sở, đau đớn, buồn bã hay tuyệt vọng luôn muốn nổi lên ý thức của ta, vào phòng khách, bởi chúng đã trở nên to lớn và cần sự chú ý của ta. Chúng muốn nổi lên, nhưng ta không muốn những vị khách không mời này đi vào bởi rất đau đớn khi phải nhìn vào chúng. Vì vậy ta cố gắng chặn đường chúng. Ta muốn chúng ngủ yên dưới tầng hầm. Ta không muốn đối mặt với chúng, vì vậy thói quen của ta là lấp đầy phòng khách với những vị khách khác. Bất cứ khi nào ta có 10 hoặc 15 phút nghỉ ngơi, ta làm gì đó để giữ cho phòng khách được chiếm cứ. Ta gọi một người bạn. Ta nhặt lên một cuốn sách. Ta bật TV. Ta lái xe một vòng, Ta hi vọng rằng nếu phòng khách bị chiếm cứ, những tâm hành không dễ chịu đó sẽ không đi lên.
 
@@ -109,7 +109,7 @@ Nhưng tất cả những tâm hành cần được lưu thông. Nếu ta không
 
 Đôi khi ta có một cơn nhức đầu, ta uống aspirin, nhưng cơn nhức đầu không biến mất. Đôi khi loại nhức đầu có thể là một triệu chứng của bệnh tâm thần. Có lẽ ta bị dị ứng. **Ta nghĩ đó là một vấn đề thể lý, nhưng những cơn dị ứng có thể là một triệu chứng của bệnh tâm thần.** Ta được bác sĩ khuyên uống thuốc, nhưng đôi khi chúng sẽ đè nén những khối nội kết của ta, khiến bệnh của ta tệ hơn.
 
-**Tháo dỡ rào cản**
+## **Tháo dỡ rào cản**
 
 Nếu ta có thể học cách không sợ những gút thắt của đau khổ, ta dần dần có thể cho chúng lưu thông lên phía trên phòng khách của ta. Có thể bắt đầu học cách ôm lấy chúng và chuyển hoá chúng thành năng lượng niệm. Khi ta tháo dỡ hàng rào giữa tầng hầm và phòng khách, những khối lớn đau đớn sẽ đi lên và chúng ta sẽ phải khổ sở một chút. Đứa trẻ nội tâm của ta có thể có rất nhiều nỗi sợ và giận dữ được tích tụ lại do phải ở dưới tầng hầm quá lâu. **Không có cách nào lẩn tránh nó cả.**
 
@@ -117,7 +117,7 @@ Nếu ta có thể học cách không sợ những gút thắt của đau khổ,
 
 Mỗi lần ta cho những tâm hành này vào một bồn chánh niệm, những khối đau đớn trong ta trở nên nhẹ nhàng hơn. Vì thế hãy cho cơn giận của bạn, sự tuyệt vọng của bạn, nỗi sợ hãi của bạn được tắm trong chánh niệm mỗi ngày. Sau vài ngày hoặc vài tuần mang chúng lên hàng ngày và giúp chúng đi xuống lần nữa, bạn tạo nên sự lưu thông tốt trong tâm lý của mình.
 
-**Tác dụng của chánh niệm**
+## **Tác dụng của chánh niệm**
 
 Tác dụng đầu tiên của chánh niệm là để nhận diện và không phải để chiến đấu. Ta có thể ngừng lại bất cứ lúc nào và nhận thức về đứa trẻ trong ta. **Khi ta nhận diện đứa trẻ thương tổn lần đầu tiên, tất cả những gì ta cần làm là nhận thức về em và nói xin chào.** Đó là tất cả. Có lẽ đứa trẻ này đang buồn. Nếu ta nhận thấy điều này ta có thể chỉ cần hít vào và nói với mình:
 
