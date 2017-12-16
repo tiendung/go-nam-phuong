@@ -33,7 +33,7 @@ Mỗi lần chúng ta liên hệ với những trải nghiệm khổ đau, chún
 
 Nhưng chỉ bởi chúng ta lờ đứa bé đi không có nghĩa là cô bé hay cậu bé không ở đó. Đứa trẻ thương tổn luôn ở đó, cố gắng có sự chú ý của ta. Đứa bé nói, _“Em ở đây. Em ở đây. Anh/chị không thể tránh em. Anh/chị không thể chạy khỏi em.”_ Chúng ta muốn chấm dứt đau khổ bằng cách gửi đứa trẻ xuống một nơi sâu bên trong, và tránh càng xa càng tốt. Nhưng trốn chạy không làm chấm dứt nỗi đau khổ của ta, mà chỉ kéo dài nó thêm.
 
-{{< figure src="https://images.unsplash.com/photo-1483193722442-5422d99849bc?auto=format&fit=crop&w=1350&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="đứa trẻ thương tổn" caption="“Em ở đây. Em ở đây." class="tl" >}}
+{{< figure src="https://images.unsplash.com/photo-1483193722442-5422d99849bc?auto=format&fit=crop&w=1350&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="đứa trẻ thương tổn" caption="“Em ở đây. Em ở đây."" class="tl" >}}
 
 Đứa trẻ thương tổn đòi hỏi quan tâm và tình yêu, nhưng ta làm điều ngược lại. Chúng ta chạy trốn bởi chúng ta sợ đau khổ. Khối đau đớn và buồn bã trong ta cảm thấy nặng nề không chịu nổi. Cho dù nếu chúng ta có thời gian, chúng ta không về nhà cùng mình. Chúng ta cố gắng giữ cho mình liên tục được giải trí - xem TV hoặc phim ảnh, giao tiếp xã hội, hoặc sử dụng rượu và thuốc phiện - bởi chúng ta không muốn trải nghiệm nỗi khổ đau thêm lần nào nữa.
 
