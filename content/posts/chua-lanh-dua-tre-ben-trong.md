@@ -136,7 +136,7 @@ Adapted from Reconciliation: Healing The Inner Child (2010) by Thich Nhat Hanh, 
 
 Các từ ngữ được dịch dựa theo tham khảo của Làng Mai, đồng thời có chú thích tiếng Anh và chú thích thêm của langmai.org._
 
-Xin hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> bài viết cho những người bạn thương yêu và giúp họ chữa lành đứa trẻ bên trong.
+Xin hãy chia sẻ bài viết cho những người bạn thương yêu và giúp họ chữa lành đứa trẻ bên trong.
 
 
 
