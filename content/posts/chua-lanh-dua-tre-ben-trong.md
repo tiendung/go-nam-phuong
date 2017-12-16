@@ -6,7 +6,7 @@
       "thức ăn tâm",
       "tâm thức"
    ],
-   "cover_image": "blob:https://imgur.com/ecc115ce-4468-48b2-9c38-b6dca9939771",
+   "cover_image": "https://i.imgur.com/8yGse39.jpg",
   "header": {
     "image": "https://i.imgur.com/o2ONNiO.jpg",
     "layout": "hero",
