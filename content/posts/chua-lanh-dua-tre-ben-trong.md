@@ -91,8 +91,6 @@ Khi ai đó chạm vào hạt giống của giận dữ bằng cách nói hoặc
 Sự thực hành dựa trên cái nhìn sâu sắc về **bất nhị** (nonduality) - giận dữ không phải một kẻ thù. Cả chánh niệm và giận dữ đều là chúng ta. Chánh niệm ở đó không phải để kìm hãm hay chiến đấu chống lại cơn giận, mà để nhận diện và chăm sóc nó - như một người anh trai lớn yểm trợ một câu em nhỏ. Thế là năng lượng của cơn giận được nhận diện và ôm ấp dịu dàng với năng lượng niệm.
 
 
-{{< figure src="https://i.imgur.com/5tu4TjA.jpg" alt="tiếng chuông chánh niệm" class="tl" >}}
-
 Mỗi lần chúng ta cần năng lượng niệm, ta chỉ cần chạm vào hạt giống của niệm hơi thở hoặc thiền chánh niệm đi, cười và sau đó ta có năng lượng sẵn sàng để đảm đương việc nhận diện, ôm ấp và sau đó là nhìn sâu vào trong và chuyển hoá. Bất cứ việc gì ta làm, cho dù đó là nấu nướng, quét nhà, giặt đồ, đi lại, hay ý thức về hơi thở của mình, ta có thể tiếp tục sản sinh ra năng lượng chánh niệm, và hạt giống chánh niệm trong ta sẽ trở nên mạnh mẽ.  Trong hạt giống chánh niệm là hạt giống của định tâm. Với hai nguồn năng lượng này, ta có thể giỏi phóng mình khỏi những mâu thuẫn.
 
 ## **Tâm trí cần được lưu thông tốt**
@@ -124,6 +122,8 @@ Tác dụng đầu tiên của chánh niệm là để nhận diện và không 
 > “Hít vào, tôi biết rằng khổ sở đã hiển lộ trong tôi. 
 Xin chào, khổ sở. 
 Thở ra, tôi sẽ chăm sóc cho em.”
+
+{{< figure src="https://i.imgur.com/tyGCHHO.jpg" alt="nhận diện đứa trẻ thương tổn" class="tl" >}}
 
 Một khi ta nhận diện đứa trẻ nội tâm của mình, tác dụng thứ hai của chánh niệm là ôm ấp lấy em. Đây là một sự thực hành rất dễ chịu. **Thay vì chiến đấu với những cảm xúc, ta chăm sóc tốt cho chúng.** Chánh niệm mang đến một đồng minh - **định** (concentration). Vài phút đầu tiên nhận diện và ôm lấy đứa trẻ nội tâm với sự dịu dàng sẽ giúp giảm đau. Những cảm xúc khó khăn vẫn sẽ còn đó, nhưng ta không phải chịu đựng nhiều như thế nữa.
 
