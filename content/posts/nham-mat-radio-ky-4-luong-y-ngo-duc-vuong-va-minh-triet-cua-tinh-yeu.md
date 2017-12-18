@@ -23,8 +23,12 @@
       "tâm thức"
    ],
    "title": "Nhắm Mắt Radio kì 4: Lương y Ngô Đức Vượng và minh triết của tình yêu",
-"draft": "true"
+   "draft": "true"
 }
 
-<iframe width="100%" height="165" src="https://vocaroo.com/i/s03acbmyS5YX" frameborder="0"></iframe>
-[Link nghe](https://vocaroo.com/i/s03acbmyS5YX)
+<audio controls>
+  <source src="https://s0.vocaroo.com/media/download_temp/Vocaroo_s03acbmyS5YX.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+[Link nghe](https://s0.vocaroo.com/media/download_temp/Vocaroo_s03acbmyS5YX.mp3)
