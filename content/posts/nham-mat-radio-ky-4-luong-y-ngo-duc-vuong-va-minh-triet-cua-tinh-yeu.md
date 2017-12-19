@@ -3,7 +3,7 @@
    "categories": [
       "radio"
    ],
-   "cover_image": "https://i.imgur.com/0On3j4i.jpg",
+   "cover_image": "https://i.imgur.com/VrueEfy.jpg",
   "header": {
     "image": "/images/2017-11-02/an-kieng.jpg",
     "layout": "hero",
@@ -37,7 +37,7 @@ Your browser does not support the audio element.
 
 **Khách mời:** Lương y Ngô Đức Vượng - nhà nghiên cứu sinh vật học & năng lượng sinh học, đồng thời là tác giả của cuốn sách nổi tiếng "Minh triết trong ăn uống phương Đông". Thầy bắt đầu con đường hiện tại bằng cách chữa trị cho chính mình vượt qua căn bệnh ung thư sau...2 tuần.
 
-{{< figure src="https://i.imgur.com/0On3j4i.jpg" alt="ngô đức vượng và health coach nam phương" caption="Trò chuyện cùng thầy, tôi luôn học hỏi được nhiều kiến thức mới lạ" class="tl" >}}
+{{< figure src="https://i.imgur.com/0On3j4i.jpg" alt="ngô đức vượng và health coach nam phương" caption="Trò chuyện cùng thầy, tôi luôn học hỏi được nhiều kiến thức mới lạ. Thầy khen các câu hỏi của tôi nhưng cũng nhắc: 'Mình chỉ nên tập trung vào một vài lĩnh vực thôi đã.'" class="tl" >}}
 
 **Nội dung:**
 
