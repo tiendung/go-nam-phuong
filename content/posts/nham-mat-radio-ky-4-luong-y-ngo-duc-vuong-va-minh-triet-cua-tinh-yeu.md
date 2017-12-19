@@ -22,8 +22,7 @@
       "mục đích sống",
       "tâm thức"
    ],
-   "title": "Nhắm Mắt Radio kì 4: Lương y Ngô Đức Vượng và minh triết của tình yêu",
-   "draft": "false"
+   "title": "Nhắm Mắt Radio kì 4: Lương y Ngô Đức Vượng và minh triết của tình yêu"
 }
 
 <audio controls>
