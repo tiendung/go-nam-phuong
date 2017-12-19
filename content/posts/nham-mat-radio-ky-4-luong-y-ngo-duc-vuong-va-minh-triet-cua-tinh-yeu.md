@@ -22,7 +22,8 @@
       "mục đích sống",
       "tâm thức"
    ],
-   "title": "Nhắm Mắt Radio kì 4: Lương y Ngô Đức Vượng và minh triết của tình yêu"
+   "title": "Nhắm Mắt Radio kì 4: Lương y Ngô Đức Vượng và minh triết của tình yêu",
+   "draft": "false"
 }
 
 <audio controls>
@@ -48,4 +49,3 @@ Your browser does not support the audio element.
 - Bệnh về thể xác & tinh thần
 - Con đường đi tìm chân lý tâm linh rồi áp dụng nó vào đời sống
 - Vai trò của tình yêu thương của người thầy thuốc
-
