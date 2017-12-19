@@ -40,12 +40,23 @@ Your browser does not support the audio element.
 {{< figure src="https://i.imgur.com/0On3j4i.jpg" alt="ngô đức vượng và health coach nam phương" caption="Trò chuyện cùng thầy, tôi luôn học hỏi được nhiều kiến thức mới lạ" class="tl" >}}
 
 **Nội dung:**
+
 - Cách thầy tự chữa ung thư và giành chiến thắng sau 2 tuần
+
 - Sức mạnh của tinh thần, ý chí để chiến thắng bệnh tật
+
 - 3 nguyên nhân gây bệnh phổ quát
+
 - Xác định mục đích cuộc sống quan trọng như thế nào
+
 - Cầu nguyện trước bữa ăn
+
 - Cây cầu nối giữa tôn giáo và khoa học
+
 - Bệnh về thể xác & tinh thần
+
 - Con đường đi tìm chân lý tâm linh rồi áp dụng nó vào đời sống
+
 - Vai trò của tình yêu thương của người thầy thuốc
+
+Mọi câu hỏi dành cho Lương y xin gởi về cho Nam Phương để Phương giúp bạn liên lạc giải đáp.
