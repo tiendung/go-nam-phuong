@@ -11,7 +11,7 @@
     "class": "bg-darken-50 bg-darken-25-l bg-center"
   },
    "date": "2017-12-15",
-   "description": "Lương y Ngô Đức Vượng chia sẻ về bí quyết sống khoẻ mạnh, minh mẫn đến độ tuổi 80 của mình",
+   "description": "Lương y Ngô Đức Vượng kể lại câu chuyện chiến thắng ung thư sau 2 tuần, và minh mẫn đến độ tuổi 80 của mình",
    "tags": [
       "radio",
       "nhắm mắt",
@@ -23,7 +23,7 @@
       "tâm thức"
    ],
    "title": "Nhắm Mắt Radio kì 4: Lương y Ngô Đức Vượng và minh triết của tình yêu",
-   "draft": "true"
+   "draft": "false"
 }
 
 <audio controls>
@@ -32,3 +32,21 @@ Your browser does not support the audio element.
 </audio>
 
 [Link nghe](https://s0.vocaroo.com/media/download_temp/Vocaroo_s03acbmyS5YX.mp3)
+
+**Health Coach Nam Phương thực hiện**
+
+**Khách mời:** Lương y Ngô Đức Vượng - nhà nghiên cứu sinh vật học & năng lượng sinh học, đồng thời là tác giả của cuốn sách nổi tiếng "Minh triết trong ăn uống phương Đông". Thầy bắt đầu con đường hiện tại bằng cách chữa trị cho chính mình vượt qua căn bệnh ung thư sau...2 tuần.
+
+{{< figure src="https://i.imgur.com/0On3j4i.jpg" alt="ngô đức vượng và health coach nam phương" caption="Trò chuyện cùng thầy, tôi luôn học hỏi được nhiều kiến thức mới lạ" class="tl" >}}
+
+**Nội dung:**
+- Cách thầy tự chữa ung thư và giành chiến thắng sau 2 tuần
+- Sức mạnh của tinh thần, ý chí để chiến thắng bệnh tật
+- 3 nguyên nhân gây bệnh phổ quát
+- Xác định mục đích cuộc sống quan trọng như thế nào
+- Cầu nguyện trước bữa ăn
+- Cây cầu nối giữa tôn giáo và khoa học
+- Bệnh về thể xác & tinh thần
+- Con đường đi tìm chân lý tâm linh rồi áp dụng nó vào đời sống
+- Vai trò của tình yêu thương của người thầy thuốc
+
