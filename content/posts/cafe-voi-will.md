@@ -1,6 +1,6 @@
 {
    "author": "boo",
-   "cover_image": "blob:https://imgur.com/024c227d-dea5-4881-b7a5-50646c73d27d",
+   "cover_image": "https://i.imgur.com/sv1tzqw.jpg",
    "date": "2017-05-29",
    "title": "Nhắm mắt radio #3 – Café với Will Frith",
    "description": "Cuộc trò chuyện với người đàn ông huyền thoại trong giới làm cà phê đặc sản của Việt Nam",
