@@ -111,7 +111,7 @@ Nhưng tất cả những tâm hành cần được lưu thông. Nếu ta không
 
 Nếu ta có thể học cách không sợ những gút thắt của đau khổ, ta dần dần có thể cho chúng lưu thông lên phía trên phòng khách của ta. Có thể bắt đầu học cách ôm lấy chúng và chuyển hoá chúng thành năng lượng niệm. Khi ta tháo dỡ hàng rào giữa tầng hầm và phòng khách, những khối lớn đau đớn sẽ đi lên và chúng ta sẽ phải khổ sở một chút. Đứa trẻ nội tâm của ta có thể có rất nhiều nỗi sợ và giận dữ được tích tụ lại do phải ở dưới tầng hầm quá lâu. **Không có cách nào lẩn tránh nó cả.**
 
-Đó là lý do tại sao sự thực hành chánh niệm lại quan trọng đến thế. Nếu chánh niệm không ở đó, ta sẽ thấy rất khó chịu khi những hạt giống đó mọc lên. Nhưng nếu ta biết cách sản sinh năng lượng chánh niệm, ta được chữa lành rất nhiều khi mời chúng lên mỗi ngày và ôm lấy chúng. Chánh niệm là một nguồn năng lượng mạnh mẽ có thể nhận diện, ôm ấp và chăm dóc cho những năng lượng tiêu cực này. Có thể những hạt giống đó ban đầu không muốn đi lên, có lẽ có quá nhiều giận dữ và hồ nghi, vì vậy ta có thể phải dỗ dành chúng một chút. Sau khi được ôm ấp một thời gian, một cảm xúc mạnh mẽ sẽ trở lại tầng hầm và trở thành một hạt giống một lần nữa, nhưng yếu hơn trước.
+Đó là lý do tại sao sự thực hành chánh niệm lại quan trọng đến thế. Nếu chánh niệm không ở đó, ta sẽ thấy rất khó chịu khi những hạt giống đó mọc lên. Nhưng nếu ta biết cách sản sinh năng lượng chánh niệm, ta được chữa lành rất nhiều khi mời chúng lên mỗi ngày và ôm lấy chúng. Chánh niệm là một nguồn năng lượng mạnh mẽ có thể nhận diện, ôm ấp và chăm sóc cho những năng lượng tiêu cực này. Có thể những hạt giống đó ban đầu không muốn đi lên, có lẽ có quá nhiều giận dữ và hồ nghi, vì vậy ta có thể phải dỗ dành chúng một chút. Sau khi được ôm ấp một thời gian, một cảm xúc mạnh mẽ sẽ trở lại tầng hầm và trở thành một hạt giống một lần nữa, nhưng yếu hơn trước.
 
 Mỗi lần ta cho những tâm hành này vào một bồn chánh niệm, những khối đau đớn trong ta trở nên nhẹ nhàng hơn. Vì thế hãy cho cơn giận của bạn, sự tuyệt vọng của bạn, nỗi sợ hãi của bạn được tắm trong chánh niệm mỗi ngày. Sau vài ngày hoặc vài tuần mang chúng lên hàng ngày và giúp chúng đi xuống lần nữa, bạn tạo nên sự lưu thông tốt trong tâm lý của mình.
 
@@ -137,8 +137,3 @@ Adapted from Reconciliation: Healing The Inner Child (2010) by Thich Nhat Hanh, 
 Các từ ngữ được dịch dựa theo tham khảo của Làng Mai, đồng thời có chú thích tiếng Anh và chú thích thêm của langmai.org._
 
 Xin hãy chia sẻ bài viết cho những người bạn thương yêu và giúp họ chữa lành đứa trẻ bên trong.
-
-
-
-
-
