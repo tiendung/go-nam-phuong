@@ -1,5 +1,3 @@
-
-
 {
    "author": "boo",
    "categories": [
@@ -26,14 +24,13 @@
    "title": "Chữa lành đứa trẻ bên trong"
 }
 
-
 Trong mỗi chúng ta, có một đứa trẻ nhỏ, khổ đau. Chúng ta đều có những thời kỳ khó khăn khi còn bé và nhiều người đã trải qua thương chấn. Để bảo vệ và phòng thủ cho bản thân khỏi những khổ đau trong tương lai, chúng ta thường cố gắng quên đi những thời kì đau đớn.
 
 Mỗi lần chúng ta liên hệ với những trải nghiệm khổ đau, chúng ta tin rằng mình không thể chịu đựng được, và chúng ta nhét cảm xúc và ký ức xuống đáy sâu của vô thức.  Có thể chúng ta không dám đối mặt với đứa trẻ này qua nhiều thập kỉ.
 
 Nhưng chỉ bởi chúng ta lờ đứa bé đi không có nghĩa là cô bé hay cậu bé không ở đó. Đứa trẻ thương tổn luôn ở đó, cố gắng có sự chú ý của ta. Đứa bé nói, _“Em ở đây. Em ở đây. Anh/chị không thể tránh em. Anh/chị không thể chạy khỏi em.”_ Chúng ta muốn chấm dứt đau khổ bằng cách gửi đứa trẻ xuống một nơi sâu bên trong, và tránh càng xa càng tốt. Nhưng trốn chạy không làm chấm dứt nỗi đau khổ của ta, mà chỉ kéo dài nó thêm.
 
-{{< figure src="https://images.unsplash.com/photo-1483193722442-5422d99849bc?auto=format&fit=crop&w=1350&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="đứa trẻ thương tổn" caption="“Em ở đây. Em ở đây."" class="tl" >}}
+{{< figure src="https://images.unsplash.com/photo-1483193722442-5422d99849bc?auto=format&fit=crop&w=1350&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D" alt="đứa trẻ thương tổn" caption="“Em ở đây. Em ở đây.\"" class="tl" >}}
 
 Đứa trẻ thương tổn đòi hỏi quan tâm và tình yêu, nhưng ta làm điều ngược lại. Chúng ta chạy trốn bởi chúng ta sợ đau khổ. Khối đau đớn và buồn bã trong ta cảm thấy nặng nề không chịu nổi. Cho dù nếu chúng ta có thời gian, chúng ta không về nhà cùng mình. Chúng ta cố gắng giữ cho mình liên tục được giải trí - xem TV hoặc phim ảnh, giao tiếp xã hội, hoặc sử dụng rượu và thuốc phiện - bởi chúng ta không muốn trải nghiệm nỗi khổ đau thêm lần nào nữa.
 
@@ -49,8 +46,8 @@ Khi chúng ta trở nên ý thức rằng ta đã bỏ quên đứa trẻ thươ
 
 ## **Lắng nghe**
 
-Khi chúng ta nói đến lắng nghe với lòng trắc ẩn, chúng ta thường nghĩ đến việc lắng nghe ai đó khác. Nhưng chúng ta cũng phải lắng nghe cả đứa trẻ thương tổn bên trong mình. Đôi lúc đứa trẻ thương tổn trong ta muốn tất cả sự chú ý của ta. Đứa trẻ đó sẽ trồi lên từ những tầng sâu của ý thức và đòi hỏi sự chú ý của bạn. Nếu bạn chánh niệm, bạn sẽ nghe tiếng nói của cậu bé hay cô bé đang kêu gọi trợ giúp. Vào khoảnh khắc đó, thay vì chú ý đến bất cứ điều gì phía trước bạn, hãy lùi lại và ôm ấp dịu dàng đứa trẻ bị tổn thương. Bạn có thể nói chuyện thẳng với đứa trẻ bằng ngôn ngữ của tình yêu, nói rằng, _“Trong quá khứ, tôi đã bỏ em một mình. Tôi đã rời xa em. Bây giờ, tôi rất hối lỗi. Tôi sẽ bao bọc em.”_ Bạn có thể nói, _“Em yêu, tôi ở đây vì em. Tôi sẽ chăm sóc tốt cho em. Tôi biết em đã đau khổ quá nhiều. Tôi đã quá bận rộn. Tôi đã lờ em đi, và giờ đây tôi đã học được cách trở về bên em.”_ 
-Nếu cần thiết, bạn phải khóc cùng với đứa trẻ đó. Bất cứ khi nào bạn cần, bạn có thể ngồi và thở với đứa trẻ. 
+Khi chúng ta nói đến lắng nghe với lòng trắc ẩn, chúng ta thường nghĩ đến việc lắng nghe ai đó khác. Nhưng chúng ta cũng phải lắng nghe cả đứa trẻ thương tổn bên trong mình. Đôi lúc đứa trẻ thương tổn trong ta muốn tất cả sự chú ý của ta. Đứa trẻ đó sẽ trồi lên từ những tầng sâu của ý thức và đòi hỏi sự chú ý của bạn. Nếu bạn chánh niệm, bạn sẽ nghe tiếng nói của cậu bé hay cô bé đang kêu gọi trợ giúp. Vào khoảnh khắc đó, thay vì chú ý đến bất cứ điều gì phía trước bạn, hãy lùi lại và ôm ấp dịu dàng đứa trẻ bị tổn thương. Bạn có thể nói chuyện thẳng với đứa trẻ bằng ngôn ngữ của tình yêu, nói rằng, _“Trong quá khứ, tôi đã bỏ em một mình. Tôi đã rời xa em. Bây giờ, tôi rất hối lỗi. Tôi sẽ bao bọc em.”_ Bạn có thể nói, _“Em yêu, tôi ở đây vì em. Tôi sẽ chăm sóc tốt cho em. Tôi biết em đã đau khổ quá nhiều. Tôi đã quá bận rộn. Tôi đã lờ em đi, và giờ đây tôi đã học được cách trở về bên em.”_
+Nếu cần thiết, bạn phải khóc cùng với đứa trẻ đó. Bất cứ khi nào bạn cần, bạn có thể ngồi và thở với đứa trẻ.
 
 > “Thở vào, tôi quay về với đứa trẻ thương tổn của tôi; thở ra, tôi chăm sóc tốt cho đứa trẻ thương tổn của tôi.”
 
@@ -78,7 +75,7 @@ Năng lượng niệm là phương thuốc sẽ nhận diện và chữa lành �
 
 Chúng ta có thể chia ý thức thành 2 phần. Một phần là **“ý thức”** (mind consciousness) và phần kia là **“tàng thức”** (store consciousness). Ý thức là dạng hoạt động tích cực. Tâm lý học phương Tây gọi nó là **“tâm trí"** (the conscious mind). Để nuôi cấy năng lượng niệm, chúng ta cố gắng thu hút ý thức hoạt động tích cực của ta trong tất cả mọi hoạt động và hiện diện thực sự với bất cứ điều gì ta đang làm.  Chúng ta muốn  chánh niệm khi ta uống trà hoặc lái xe qua thành phố. Khi ta đi, ta muốn ý thức rằng ta đang đi. Khi ta thở, ta muốn ý thức rằng ta đang thở.
 
-Tàng thức, còn được gọi là **“căn bản thức”** (root consciousness), là nền tảng của ý thức chúng ta. Trong Tâm lý học phương Tây nó được gọi là **“vô thức" (unconscious mind)**. Đó là nơi tất cả những trải nghiệm quá khứ của ta được lưu giữ. Tàng thức có khả năng học và xử lý thông tin. 
+Tàng thức, còn được gọi là **“căn bản thức”** (root consciousness), là nền tảng của ý thức chúng ta. Trong Tâm lý học phương Tây nó được gọi là **“vô thức" (unconscious mind)**. Đó là nơi tất cả những trải nghiệm quá khứ của ta được lưu giữ. Tàng thức có khả năng học và xử lý thông tin.
 
 Thường thì ý thức ta không ở đó cùng cơ thể ta. Đôi lúc ta trải qua những hoạt động thường nhật mà không có sự tham gia của ý thức. Chúng ta có thể làm nhiều điều chỉ bằng tàng thức, và ý thức có thể nghĩ đến hàng ngàn thứ khác. Ví dụ, khi chúng ta lái xe qua thành phố, ý thức có thể không nghĩ về việc lái xe chút nào, nhưng ta vẫn có thể đến nơi mà không lạc hay gây tai nạn. Đó là tàng thức đang tự hoạt động.
 
@@ -119,8 +116,8 @@ Mỗi lần ta cho những tâm hành này vào một bồn chánh niệm, nhữ
 
 Tác dụng đầu tiên của chánh niệm là để nhận diện và không phải để chiến đấu. Ta có thể ngừng lại bất cứ lúc nào và nhận thức về đứa trẻ trong ta. **Khi ta nhận diện đứa trẻ thương tổn lần đầu tiên, tất cả những gì ta cần làm là nhận thức về em và nói xin chào.** Đó là tất cả. Có lẽ đứa trẻ này đang buồn. Nếu ta nhận thấy điều này ta có thể chỉ cần hít vào và nói với mình:
 
-> “Hít vào, tôi biết rằng khổ sở đã hiển lộ trong tôi. 
-Xin chào, khổ sở. 
+> “Hít vào, tôi biết rằng khổ sở đã hiển lộ trong tôi.
+Xin chào, khổ sở.
 Thở ra, tôi sẽ chăm sóc cho em.”
 
 {{< figure src="https://i.imgur.com/tyGCHHO.jpg" alt="nhận diện đứa trẻ thương tổn" class="tl" >}}
