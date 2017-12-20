@@ -3,7 +3,7 @@
    "categories": [
       "radio"
    ],
-   "cover_image": "https://i.imgur.com/VrueEfy.jpg",
+   "cover_image": "https://i.imgur.com/BJGBajO.jpg",
   "header": {
     "image": "/images/2017-11-02/an-kieng.jpg",
     "layout": "hero",
