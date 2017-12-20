@@ -3,9 +3,9 @@
    "categories": [
       "radio"
    ],
-   "cover_image": "https://i.imgur.com/BJGBajO.jpg",
+   "cover_image": "https://i.imgur.com/VrueEfy.jpg",
   "header": {
-    "image": "/images/2017-11-02/an-kieng.jpg",
+    "image": "https://i.imgur.com/BJGBajO.jpg",
     "layout": "hero",
     "navigation": "fancy",
     "class": "bg-darken-50 bg-darken-25-l bg-center"
