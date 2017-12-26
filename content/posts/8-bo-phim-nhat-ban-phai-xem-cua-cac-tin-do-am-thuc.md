@@ -1,8 +1,28 @@
 {
-  "author": "boo",
-  "title": "8 bộ phim Nhật Bản phải xem của các tín đồ ẩm thực",
-  "draft": true,
-  "date": "2017-12-07"
+   "author": "boo",
+   "categories": [
+      "nấu"
+   ],
+   "cover_image": "https://i.imgur.com/h3AsmrZ.jpg",
+  "header": {
+    "image": "",
+    "layout": "hero",
+    "navigation": "fancy",
+    "class": "bg-darken-50 bg-darken-25-l bg-center"
+  },
+   "date": "2017-12-26",
+   "description": "Những thước phim lung linh và cảm hứng sống thông qua các món ăn sẽ mang lại thật nhiều cảm hứng cho bạn vào bếp",
+   "tags": [
+      "nấu ăn",
+      "phim",
+      "little forest",
+      "tampopo",
+      "osen",
+      "quán ăn đêm",
+      "tiệm ăn góc đường",
+      "nghệ nhân sushi"
+   ],
+   "title": "8 bộ phim Nhật Bản dành riêng cho các tín đồ ẩm thực"
 }
 
 Nếu bạn là người sành ăn hoặc ham thích nghệ thuật nấu, bạn chắc chắn sẽ được truyền cảm hứng khi xem các bộ phim đề tài ẩm thực của Nhật Bản. Thậm chí, bản thân mình khi xem một trong những bộ phim này đã có cảm hứng “lăn vào bếp" rồi từ từ thay đổi lối sống khi tìm thấy phiên bản thực của “Little Forest" tại Đà Lạt.
@@ -12,9 +32,12 @@ Nhiều bộ phim trong số này đã truyền tải ít nhiều tinh thần th
 
 ## 1. Tampopo (1985, 2016)
 
-Phim được làm từ năm 1985 nhưng mới đây đã được làm lại với độ phân giả 4K, Tampopo kể câu chuyện của một cô chủ nhà hàng goá bụa được hướng dẫn trong cuộc tìm kiếm công thức hoàn hảo cho món mì này. Nhóm những người hướng dẫn không phải là chef này nọ danh tiếng mà là một băng hết sức kì dị. Khỏi kể, coi hình là thấy:
+Phim được làm từ năm 1985 nhưng mới đây đã được làm lại với độ phân giả 4K, Tampopo kể câu chuyện của một cô chủ nhà hàng goá bụa được hướng dẫn trong cuộc tìm kiếm công thức hoàn hảo cho món mì này. Nhóm những người hướng dẫn không phải là chef danh tiếng mà là một băng hết sức kì dị, thậm chí du thủ du thực:
 
-“Tampopo" có nghĩa rất dịu dàng là “bồ công anh", nhưng bộ phim có đầy đủ các yếu tố: thực phẩm (dĩ nhiên), bạo lực, tình dục, tệ nạn xã hội, cạnh tranh kinh doanh... và thậm chí là một số cảnh bị dán nhãn "phi đạo đức". Bộ phim này khiến mình nhớ đến "Xích lô" của Trần Anh Hùng, với rất nhiều lát cắt cuộc sống muôn hình muôn trạng. Thức ăn trong phim hầu hết không long lanh như các phim còn lại, mà như được "mượn" để kể chuyện đời. Vì quá trần trụi, thực tế mà có thể gây ám ảnh. Tuy nhiên rất đáng xem nếu bạn thích những bộ phim rất...đời.
+{{< figure src="https://i.imgur.com/h3AsmrZ.jpg" alt="băng đảng của tampopo" class="w-100" >}}
+
+
+“Tampopo" có nghĩa rất dịu dàng là “bồ công anh", nhưng bộ phim có đầy đủ các yếu tố: thực phẩm (dĩ nhiên), bạo lực, tình dục, tệ nạn xã hội, cạnh tranh kinh doanh... và thậm chí là một số cảnh bị dán nhãn "phi đạo đức". Bộ phim này khiến mình nhớ đến "Xích lô" của Trần Anh Hùng, với rất nhiều lát cắt hiện thực đầy ám ảnh của cuộc sống muôn hình muôn trạng. Thức ăn trong phim hầu hết không long lanh như các phim còn lại, mà như được "mượn" để kể chuyện đời. Rất trần trụi, rất thực tế, và cũng rất đời.
 
 
 ## 2. Khu Rừng nhỏ (Little Forest) (2014)
@@ -25,6 +48,14 @@ Phim được làm từ năm 1985 nhưng mới đây đã được làm lại v�
 
 {{< figure src="http://phim.hotakky.com/media/userfiles/images/images/p06-schilling-little-forest-a-20140912.jpg" caption="Cả thức ăn lẫn diễn viên đều hết sức tươi ngon :\"D" class="w-100" >}}
 
+{{< figure src="http://phim.hotakky.com/media/userfiles/images/images/p06-schilling-little-forest-a-20140912.jpg" caption="Cả thức ăn lẫn diễn viên đều hết sức tươi ngon :\"D" class="w-100" >}}
+
+
+{{< figure src="https://i.imgur.com/dHorPTb.jpg" caption=" bộ phim được chuyển thể từ truyện tranh cùng tên" class="w-100" >}}
+
+{{< figure src="https://i.imgur.com/UQUXo6t.jpg" caption="Xem phim, ta học được cách phối hợp thực phẩm mùa nào thức nấy" >}}
+
+
 
 ## 3.Osen (TV series - 2008)
 
@@ -32,7 +63,11 @@ Osen là tên của cô chủ trẻ tuổi kế thừa một nhà hàng có truy
 
 >  Điều quan trọng nhất trong nấu ăn không phải là dụng cụ, mà là lòng ao ước được làm ra món ăn đó. Không phải kĩ năng, mà chính sự tận tâm, tấm lòng của người nấu, mong muốn mang lại cho người ăn một món ăn thật ngon, thật đẹp, khiến cho mọi người đều vui vẻ, là yếu tố cốt lõi làm nên giá trị của món ăn. Sự ao ước và tấm lòng ấy thậm chí có thể tạo ra những điều kì diệu, như giúp cho người đầu bếp có những đường cắt thẳng – kĩ thuật mà chỉ những bậc thầy mới đạt được. Và những món ăn đơn giản nhưng được làm ra bởi tấm lòng ấy cũng có sức mạnh lớn lao hơn bất kì điều gì, lay động cả những trái tim sắt đá nhất.
 
-{{< figure src="http://farm8.staticflickr.com/7416/10963187575_2bd42ea9db.jpg" caption="" class="w-100" >}}
+{{< figure src="https://i.imgur.com/xycKw90.jpg" caption="Osen trong cuộc tranh tài với đại diện của ẩm thực hiện đại "lò vi sóng"" class="w-100" >}}
+
+{{< figure src="https://i.imgur.com/ZNNSP3d.jpg" caption="nàng luôn mặc kimono và gập đầu chào khách rất kính cẩn" class="w-100" >}}
+
+{{< figure src="https://i.imgur.com/eYHND3m.jpg" caption="tuy hầu hết các món đều thường chỉ tìm thấy ở nhà hàng, bạn sẽ học được nhiều tips trong khâu chuẩn bị, sơ chế rất hay" class="w-100" >}}
 
 
 
@@ -56,10 +91,14 @@ Không nhất thiết phải là người hâm mộ Nhật Bản hay món sushi,
 
 {{< figure src="https://i0.wp.com/lewtonbus.net/wp-content/uploads/2016/10/Jiro_Dreams_of_Sushi_Review.jpg" caption="" class="w-100" >}}
 
+{{< figure src="https://i.imgur.com/ZKjs83n.jpg" caption="những học viên của Jiro sau 10 năm mới được phép làm món sushi trứng này" class="w-100" >}}
+
 
 ## 6. An ("Sweet bean") (2016)
 
-Chắc hẳn chúng ta ai cũng quen thuộc với hình ảnh chiếc "bánh rán" tròn trĩnh mà Doraemon mê tít. Đó chính là một loại bánh nhân đậu ngọt tên là "dorayaki". Bộ phim xoay quanh món ăn này là một câu chuyện về tình bạn khác thường giữa ông chủ một tiệm bánh cô đơn, một cụ bà 76 tuổi và một nữ sinh trung học. Ngọt ngào đến chan chứa. Phim khám phá sức mạnh của những niềm vui nhỏ giản đơn của cuộc sống có thể giúp vơi bớt gánh nặng, hàn gắn những tâm hồn. Cần thiết biết bao "cây cầu" được bắc qua giữa các thế hệ truyền cho nhau không chỉ kĩ năng mà còn tình cảm gửi gắm trong sản phẩm mình làm.
+Chắc hẳn chúng ta ai cũng quen thuộc với hình ảnh chiếc "bánh rán" tròn trĩnh mà Doraemon mê tít. Đó chính là một loại bánh nhân đậu ngọt tên là "dorayaki". Bộ phim xoay quanh món ăn này là một câu chuyện về tình bạn khác thường giữa ông chủ một tiệm bánh cô đơn, một cụ bà 76 tuổi và một nữ sinh trung học. Ngọt ngào mà chan chứa. Phim khám phá sức mạnh của những niềm vui nhỏ giản đơn của cuộc sống có thể giúp vơi bớt gánh nặng, hàn gắn những tâm hồn. Cần thiết biết bao chính là "cây cầu" được bắc qua giữa các thế hệ truyền cho nhau không chỉ kĩ năng mà còn tình cảm gửi gắm trong sản phẩm mình làm. Hơn nữa, bộ phim còn mang đến một cái nhìn đầy nhân văn đối với một bộ phận người vẫn bị xã hội bỏ quên và kì thị.
+
+{{< figure src="https://i.imgur.com/Hnok4Aw.jpg" caption="Phông nền mùa xuân với những con đường tràn ngập sắc hoa đào sẽ làm nức lòng những ai yêu cái đẹp" class="w-100" >
 
 
 ## 7.Rinco's restaurant (TV Series - 2011)
@@ -67,13 +106,18 @@ Chắc hẳn chúng ta ai cũng quen thuộc với hình ảnh chiếc "bánh r�
 Một bộ phim khá độc đáo bắt đầu với một bài hát giới thiệu Rinco, ước mơ mở một nhà hàng của cô và gia đình. Như bao bạn trẻ khác, Rinco cũng đối mặt với những vấn đề giữa mẹ-con gái và chuyện tình cảm. Đã chạy trốn, nhưng không có gì ngoài món miso được đánh giá cao của bà, Rinco buộc phải trở về nhà với mẹ và con lợn cưng của mình. Bạn có thể chờ xem vài điều kì dị chỉ có ở Nhật Bản, hoạt hình kiểu cute và một đống phép màu.
 
 {{< figure src="http://flavorboulevard.com/wp-content/uploads/2015/05/rincofeedserumesu.jpg" caption="" class="w-100" >}}
+
 {{< figure src="http://2.bp.blogspot.com/_nqLU-qd7Ahc/TLjNUxRsb8I/AAAAAAAABaw/0PvFZZ12cpU/s400/75f01916.jpg" caption="Xem xong cân nhắc nuôi một con pet như này :\">" class="w-100" >}}
+
+{{< figure src="https://i.imgur.com/xVQAEFU.jpg" caption="phim có minh hoạ thêm hoạt hình kiểu cute, không hợp ai dị ứng các yếu tố nhí nhảnh" class="w-100" >}}
 
 
 ## 8. Tiệm bánh góc đường (Patisserie Coin de Rue) (2011)
 
 Chà, tôi hơi đắn đo khi giới thiệu một bộ phim với quá nhiều đồ ngọt quyến rũ, nhỡ đâu lại khiến ai đó ngồi liếm màn hình hay phá vỡ kế hoạch ăn kiêng thì sao nhỉ ^^. Bộ phim này đưa "food porn" lên một tầm cao mới! Natsume là một cô gái trẻ đầy nhiệt tâm và táo bạo rời quê nhà đến Tokyo tìm người yêu vì ngỡ chàng đang làm việc tại tiệm Coin de Rue Patiserie danh tiếng. Các sự kiện nối tiếp nhau để rồi chính Natsume cũng bắt đầu học làm đầu bếp bánh ngọt. Cô cũng gặp Tomura, đã từng là thợ làm bánh huyền thoại nay đã giải nghệ và thường xuyên đến tiệm như một khách hàng. Tình yêu tuổi trẻ, chăm chỉ làm việc và sự kiên trì liệu có dẫn cô đến một kết cục ngọt ngào?
 
-{{< figure src="http://images.vkool.net/fposter/thumb/i62.tinypic.com/23vkbab.jpg" caption="Gặp lại khuôn mặt thiên thần của \"Osen\" Yu Aoi nhé ^^" class="w-100" >}}
+{{< figure src="https://i.imgur.com/NJHuDoG.jpg" class="w-100" >}}
 
-Tham khảo từ danh sách các phim trong Savvytokyo, Bếp Thực dưỡng và kênh 14.
+{{< figure src="https://i.imgur.com/jdBIhT1.jpg" caption="Gặp lại khuôn mặt thiên thần của \"Osen\" Yu Aoi nhé ^^" class="w-100" >}}
+
+Hãy chia sẻ bài viết và rủ bạn bè cùng xem phim bạn nhé! 
