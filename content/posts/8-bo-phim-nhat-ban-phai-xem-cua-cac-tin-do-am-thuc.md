@@ -48,12 +48,10 @@ Phim được làm từ năm 1985 nhưng mới đây đã được làm lại v�
 
 {{< figure src="http://phim.hotakky.com/media/userfiles/images/images/p06-schilling-little-forest-a-20140912.jpg" caption="Cả thức ăn lẫn diễn viên đều hết sức tươi ngon :\"D" class="w-100" >}}
 
-{{< figure src="http://phim.hotakky.com/media/userfiles/images/images/p06-schilling-little-forest-a-20140912.jpg" caption="Cả thức ăn lẫn diễn viên đều hết sức tươi ngon :\"D" class="w-100" >}}
-
 
 {{< figure src="https://i.imgur.com/dHorPTb.jpg" caption=" bộ phim được chuyển thể từ truyện tranh cùng tên" class="w-100" >}}
 
-{{< figure src="https://i.imgur.com/UQUXo6t.jpg" caption="Xem phim, ta học được cách phối hợp thực phẩm mùa nào thức nấy" >}}
+{{< figure src="https://i.imgur.com/UQUXo6t.jpg" caption="Xem phim,ta học được cách phối hợp thực phẩm mùa nào thức nấy" >}}
 
 
 
@@ -63,7 +61,7 @@ Osen là tên của cô chủ trẻ tuổi kế thừa một nhà hàng có truy
 
 >  Điều quan trọng nhất trong nấu ăn không phải là dụng cụ, mà là lòng ao ước được làm ra món ăn đó. Không phải kĩ năng, mà chính sự tận tâm, tấm lòng của người nấu, mong muốn mang lại cho người ăn một món ăn thật ngon, thật đẹp, khiến cho mọi người đều vui vẻ, là yếu tố cốt lõi làm nên giá trị của món ăn. Sự ao ước và tấm lòng ấy thậm chí có thể tạo ra những điều kì diệu, như giúp cho người đầu bếp có những đường cắt thẳng – kĩ thuật mà chỉ những bậc thầy mới đạt được. Và những món ăn đơn giản nhưng được làm ra bởi tấm lòng ấy cũng có sức mạnh lớn lao hơn bất kì điều gì, lay động cả những trái tim sắt đá nhất.
 
-{{< figure src="https://i.imgur.com/xycKw90.jpg" caption="Osen trong cuộc tranh tài với đại diện của ẩm thực hiện đại "lò vi sóng"" class="w-100" >}}
+{{< figure src="https://i.imgur.com/xycKw90.jpg" caption="Osen trong cuộc tranh tài với đại diện của ẩm thực hiện đại \"lò vi sóng\"" class="w-100" >}}
 
 {{< figure src="https://i.imgur.com/ZNNSP3d.jpg" caption="nàng luôn mặc kimono và gập đầu chào khách rất kính cẩn" class="w-100" >}}
 
@@ -101,7 +99,7 @@ Chắc hẳn chúng ta ai cũng quen thuộc với hình ảnh chiếc "bánh r�
 {{< figure src="https://i.imgur.com/Hnok4Aw.jpg" caption="Phông nền mùa xuân với những con đường tràn ngập sắc hoa đào sẽ làm nức lòng những ai yêu cái đẹp" class="w-100" >
 
 
-## 7.Rinco's restaurant (TV Series - 2011)
+## 7. Rinco's restaurant (TV Series - 2011)
 
 Một bộ phim khá độc đáo bắt đầu với một bài hát giới thiệu Rinco, ước mơ mở một nhà hàng của cô và gia đình. Như bao bạn trẻ khác, Rinco cũng đối mặt với những vấn đề giữa mẹ-con gái và chuyện tình cảm. Đã chạy trốn, nhưng không có gì ngoài món miso được đánh giá cao của bà, Rinco buộc phải trở về nhà với mẹ và con lợn cưng của mình. Bạn có thể chờ xem vài điều kì dị chỉ có ở Nhật Bản, hoạt hình kiểu cute và một đống phép màu.
 
