@@ -4,12 +4,6 @@
       "nấu"
    ],
    "cover_image": "https://i.imgur.com/h3AsmrZ.jpg",
-  "header": {
-    "image": "",
-    "layout": "hero",
-    "navigation": "fancy",
-    "class": "bg-darken-50 bg-darken-25-l bg-center"
-  },
    "date": "2017-12-26",
    "description": "Những thước phim lung linh và cảm hứng sống thông qua các món ăn sẽ mang lại thật nhiều cảm hứng cho bạn vào bếp",
    "tags": [
