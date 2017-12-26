@@ -96,7 +96,7 @@ Không nhất thiết phải là người hâm mộ Nhật Bản hay món sushi,
 
 Chắc hẳn chúng ta ai cũng quen thuộc với hình ảnh chiếc "bánh rán" tròn trĩnh mà Doraemon mê tít. Đó chính là một loại bánh nhân đậu ngọt tên là "dorayaki". Bộ phim xoay quanh món ăn này là một câu chuyện về tình bạn khác thường giữa ông chủ một tiệm bánh cô đơn, một cụ bà 76 tuổi và một nữ sinh trung học. Ngọt ngào mà chan chứa. Phim khám phá sức mạnh của những niềm vui nhỏ giản đơn của cuộc sống có thể giúp vơi bớt gánh nặng, hàn gắn những tâm hồn. Cần thiết biết bao chính là "cây cầu" được bắc qua giữa các thế hệ truyền cho nhau không chỉ kĩ năng mà còn tình cảm gửi gắm trong sản phẩm mình làm. Hơn nữa, bộ phim còn mang đến một cái nhìn đầy nhân văn đối với một bộ phận người vẫn bị xã hội bỏ quên và kì thị.
 
-{{< figure src="https://i.imgur.com/Hnok4Aw.jpg" caption="Phông nền mùa xuân với những con đường tràn ngập sắc hoa đào sẽ làm nức lòng những ai yêu cái đẹp" class="w-100" >
+{{< figure src="https://i.imgur.com/Hnok4Aw.jpg" caption="Phông nền mùa xuân với những con đường tràn ngập sắc hoa đào sẽ làm nức lòng những ai yêu cái đẹp" class="w-100" >}}
 
 
 ## 7. Rinco's restaurant (TV Series - 2011)
