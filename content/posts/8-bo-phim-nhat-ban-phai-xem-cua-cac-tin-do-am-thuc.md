@@ -28,7 +28,7 @@ Nhiều bộ phim trong số này đã truyền tải ít nhiều tinh thần th
 
 Phim được làm từ năm 1985 nhưng mới đây đã được làm lại với độ phân giả 4K, Tampopo kể câu chuyện của một cô chủ nhà hàng goá bụa được hướng dẫn trong cuộc tìm kiếm công thức hoàn hảo cho món mì này. Nhóm những người hướng dẫn không phải là chef danh tiếng mà là một băng hết sức kì dị, thậm chí du thủ du thực:
 
-{{< figure src="https://i.imgur.com/h3AsmrZ.jpg" alt="băng đảng của tampopo" class="w-100" >}}
+{{< figure src="https://i.imgur.com/9hKBAyQ.jpg" alt="băng đảng của tampopo" class="w-100" >}}
 
 
 “Tampopo" có nghĩa rất dịu dàng là “bồ công anh", nhưng bộ phim có đầy đủ các yếu tố: thực phẩm (dĩ nhiên), bạo lực, tình dục, tệ nạn xã hội, cạnh tranh kinh doanh... và thậm chí là một số cảnh bị dán nhãn "phi đạo đức". Bộ phim này khiến mình nhớ đến "Xích lô" của Trần Anh Hùng, với rất nhiều lát cắt hiện thực đầy ám ảnh của cuộc sống muôn hình muôn trạng. Thức ăn trong phim hầu hết không long lanh như các phim còn lại, mà như được "mượn" để kể chuyện đời. Rất trần trụi, rất thực tế, và cũng rất đời.
