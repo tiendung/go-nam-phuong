@@ -18,7 +18,8 @@
 "mục tiêu",
 "kế hoạch",
 "thành công",
-"thất bại"
+"thất bại",
+"cuộc sống"
    ],
 "title": "Cách đặt quyết tâm năm mới VÀ giữ vững nó"
 }
