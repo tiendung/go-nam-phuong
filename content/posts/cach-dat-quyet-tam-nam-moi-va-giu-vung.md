@@ -20,10 +20,10 @@
 "thành công",
 "thất bại"
    ],
-"title": "Cách đặt quyết tâm năm mới VÀ giữ vững nó, trong khi 50% thất bại"
+"title": "Cách đặt quyết tâm năm mới VÀ giữ vững nó"
 }
 
-Bạn đang đặt quyết tâm cho năm mới? Cảnh báo nhé: Thống kê cho thấy 50% người đặt quyết tâm sẽ từ bỏ kế hoạch của mình chỉ sau 1 tháng. Nhưng năm nay, bạn sẽ được hướng dẫn thật kĩ lưỡng cách đặt quyết tâm VÀ cách giữ quyết tâm đó tới cùng. Tôi đã tổng hợp để trao cho bạn những công cụ tốt nhất, phần còn lại là của bạn. 
+Bạn đang đặt quyết tâm cho năm mới? Cảnh báo nhé: **Thống kê cho thấy 50% người đặt quyết tâm sẽ từ bỏ kế hoạch của mình chỉ sau 1 tháng.** Nhưng năm nay, bạn sẽ được hướng dẫn thật kĩ lưỡng cách đặt quyết tâm VÀ cách giữ quyết tâm đó tới cùng. Tôi đã tổng hợp để trao cho bạn những công cụ tốt nhất, phần còn lại là của bạn. 
 
 Nào, hãy đảm bảo bạn có ít nhất 30 phút trong 1 không gian yên tĩnh, lấy giấy bút ra và chúng ta bắt đầu nhé!
 
@@ -62,7 +62,9 @@ Nếu như bạn là tôi, bạn có thể sẽ nhìn vào 1001 cái nhánh cây
 - Điều này sẽ có lợi cho những người khác như thế nào?
 - Tôi sẽ phải trở thành người như thế nào để biến quyết tâm này thành hiện thực? (Và đây là câu hỏi quan trọng nhất!)
 
-Điểm mấu chốt của việc này là để bạn tập trung vào những mục tiêu thể hiện đúng con người mà bạn muốn thực sự trở thành. Giờ thì hãy can đảm tỉa bớt những nhánh cây đi, với niềm tin tưởng rằng những nhánh cây còn lại sẽ được phát huy hết tiềm năng.
+**Điểm mấu chốt của việc này là để bạn tập trung vào những mục tiêu thể hiện đúng con người mà bạn muốn thực sự trở thành.** 
+
+{{< figure src="https://i.imgur.com/6RIKM9z.jpg" alt="coach nam phuong quotes" caption="" class="tl" >}}
 
 
 ## Biến mọi thứ thành kế hoạch và hành động
@@ -72,6 +74,8 @@ Chắc tất cả chúng ta có thể đồng ý với nhau rằng “quyết t�
 **- Bước 1: Chuyển dịch những quyết tâm (“nhánh cây" còn sót lại ở trên) thành các mục tiêu theo nguyên tắc SMART.**
 
 Đó là viết tắt của các tiêu chí: Specific (Cụ thể), Measurable (Đo lường được), Attainable (Có khả năng đạt được), Relevant (Thích hợp), Timebound (Có giới hạn thời gian).
+
+{{< figure src="https://i.imgur.com/65UjqR6.jpg" alt="nguyên tắc SMART" caption="" class="tl" >}}
 
 Ví dụ: Thay vì đặt mục tiêu mơ hồ “Tôi sẽ cải thiện sức khoẻ", mục tiêu SMART có thể là: “Từ nay đến tháng 6/2018, tôi sẽ nâng tầm sức khoẻ của mình lên mức vận động viên nghiệp dư, có khả năng chạy được 21km không nghỉ”.
 
@@ -88,31 +92,37 @@ Thông thường thì bạn nên chọn một hành động cụ thể trong ng�
 
 Nguyên nhân hàng đầu của việc bỏ dở quyết tâm là vì chúng được đặt ra trong trạng thái hừng hực khí thế. Chúng là thay đổi lớn, được mong chờ thành tựu trong một thời gian ngắn. Khi mất đi khí thế, bạn nhìn vào và cảm thấy sợ hãi hay nhụt chí. Bạn bắt đầu nhìn thấy những khó khăn cản trở chưa được tính đến. Bạn bắt đầu trì hoãn, trì hoãn và trì hoãn...
 
-Chìa khoá ở đây có thể là phương pháp Kaizen mà người Nhật: Khởi động cho kế hoạch lớn của bạn bằng những thay đổi nhỏ nhưng liên tục, có tính chất tăng dần.
+**Hãy khởi động cho kế hoạch lớn của bạn bằng những thay đổi nhỏ nhưng liên tục, có tính chất tăng dần.**
 
-## Chuyển dịch thói quen xấu thành thói quen tốt
+Ví dụ với việc tập chạy, tuần đầu tiên có thể bạn chẳng cần phải chạy mà chỉ là mua giày và đi dạo quanh nhà thôi chẳng hạn. Sau đó, mới tăng dần lên 1km, 2km...hoặc bạn chẳng cần tăng số km mà chọn 1 địa hình khó hơn 1 chút như con dốc nào đó chẳng hạn. 
 
-Các thói quen xấu thường là rào cản ngáng đường bạn. Chúng ta có thể vô hiệu hoá chúng bằng cách nhìn trực diện vào bản chất của chúng. [Charles Duhigg](http://charlesduhigg.com/), tác giả cuốn “Sức mạnh của thói quen" đề nghị chúng ta phân tích những thói quen của mình ra 3 phần: Gợi ý, Thói quen, Phần thưởng. Ví dụ:
+Tương tự như việc tiết kiệm tiền. Đừng mong chờ bản thân có thể cắt giảm 50% chi tiêu cái rụp nếu như bạn vốn là một con nghiện shopping. Hãy bắt đầu bằng cách viết lại chi tiêu mỗi ngày thôi.
 
-Thói quen xấu: Tôi lướt Facebook quá thường xuyên.
-Gợi ý: Tôi thấy buồn chán, cô đơn.
-Thói quen: Tôi lướt Facebook.
-Phần thưởng: Tôi được kết nối.
-Cách thay đổi thói quen: Thay vì lướt Facebook, hãy gọi điện cho một người bạn đã lâu không liên lạc và trò chuyện thật lâu và thật sâu để nhận được phần thưởng kết nối.
-
-Thói quen xấu: Tôi thức khuya và dậy muộn mỗi sáng.
-Gợi ý: Tôi cảm thấy muốn dành thời gian thêm cho bản thân mỗi tối.
-Thói quen: Tôi xem phim đến khuya.
-Phần thưởng: Tôi được giải trí mỗi tối.
-Cách thay đổi thói quen: Thay vì xem phim, hãy dành ra thời gian cho bản thân mình vào một giờ cố định mỗi ngày. Bạn có thể yêu cầu sự trợ giúp từ người thân để có thêm thời gian, hay tạm nghỉ làm việc trong 30 phút giữa buổi chiều chẳng hạn. (Bạn sẽ ngạc nhiên vì năng suất làm việc tăng đáng kể!)
-
-Khi làm [coaching 1:1](https://coachnamphuong.com/1-on-1-coaching), tôi thường hướng dẫn với phiên bản **“1 phút mỗi ngày"**: Với bất cứ thói quen nào bạn muốn hình thành, hãy chỉ làm nó trong 1 phút của ngày đầu tiên, rồi tăng lên 2 phút vào ngày thứ 2, 3 phút vào ngày thứ 3…Bộ não bạn gần như chẳng nhận ra sự khác biệt giữa các phút này. 
+Những thành công nhỏ ban đầu sẽ có tác dụng khích lệ rất lớn, giúp ta gia tăng lòng tự tin và quyết tâm thực hiện. Khi làm [coaching 1:1](https://coachnamphuong.com/1-on-1-coaching), tôi thường hướng dẫn với phiên bản **“1 phút mỗi ngày"**: Với bất cứ thói quen nào bạn muốn hình thành, hãy chỉ làm nó trong 1 phút của ngày đầu tiên, rồi tăng lên 2 phút vào ngày thứ 2, 3 phút vào ngày thứ 3…Bộ não bạn gần như chẳng nhận ra sự khác biệt giữa các phút này. 
 
 Cuối tháng đầu tiên, có người sẽ ngồi thiền được trong 30 phút. 
 
 Sau 3 tháng, có người tập thể dục được 1h30’ mỗi ngày và ngủ sớm hơn được 1h30’.
 
 Phiên bản 1 phút của bạn sẽ là gì nào?
+
+
+## Chuyển dịch thói quen xấu thành thói quen tốt
+
+Các thói quen xấu thường là rào cản ngáng đường bạn. Chúng ta có thể vô hiệu hoá chúng bằng cách nhìn trực diện vào bản chất của chúng. [Charles Duhigg](http://charlesduhigg.com/), tác giả cuốn “Sức mạnh của thói quen" đề nghị chúng ta phân tích những thói quen của mình ra 3 phần: Gợi ý, Thói quen, Phần thưởng. Ví dụ:
+
+_Thói quen xấu:_ Tôi lướt Facebook quá thường xuyên.
+_Gợi ý_: Tôi thấy buồn chán, cô đơn.
+_Thói quen_: Tôi lướt Facebook.
+_Phần thưởng_: Tôi được kết nối.
+_Cách thay đổi thói quen_: Thay vì lướt Facebook, hãy gọi điện cho một người bạn đã lâu không liên lạc và trò chuyện thật lâu và thật sâu để nhận được phần thưởng kết nối.
+
+_Thói quen xấu_: Tôi thức khuya và dậy muộn mỗi sáng.
+_Gợi ý_: Tôi cảm thấy muốn dành thời gian thêm cho bản thân mỗi tối.
+_Thói quen_: Tôi xem phim đến khuya.
+_Phần thưởng_: Tôi được giải trí mỗi tối.
+_Cách thay đổi thói quen_: Thay vì xem phim, hãy dành ra thời gian cho bản thân mình vào một giờ cố định mỗi ngày. Bạn có thể yêu cầu sự trợ giúp từ người thân để có thêm thời gian, hay tạm nghỉ làm việc trong 30 phút giữa buổi chiều chẳng hạn. (Bạn sẽ ngạc nhiên vì năng suất làm việc tăng đáng kể!)
+
 
 ## Đừng làm hỏng hạnh phúc hiện tại của bạn
 
@@ -152,8 +162,7 @@ Một ngày không làm được điều gì đó ư? Thay vì nghĩ “Ôi khô
 
 > “Tôi cực kì hạnh phúc ở trong rừng. Tôi yêu những cái cây phát triển ra khỏi những tảng đá và những ngọn đồi. Chúng bắt đầu nhỏ và sống sót nhờ vài tia nắng ở đó. Chúng lớn lên theo bất cứ hướng nào để có thêm ánh sáng. Sự phát triển chậm cho phép chúng cuối cùng cũng đạt đến một kiểu hình mỏng mảnh và thậm chí phi thực, nhưng chúng bám rễ rất chắc. Tôi thích tưởng tượng về những ngày đầu tiên, những rễ cây lần dò trong đất, nhanh chóng bỏ qua những con đường thất bại, xây dựng những hệ thống sâu theo những con đường tốt hơn. Những cái cây kì lạ và xinh đẹp được kết thúc cách đó nhờ một quá trình đơn giản. Chúng vận động theo một mục tiêu liên tục, từ dưới lên.
 
-Cũng ở rừng là nơi tôi bắt đầu dạy con trai mình bài học này: khám phá chỉ vì mục đích khám phá thôi, không mong cầu. Khám phá bản thể của những thứ quanh mình và trong mình, tự do thoát khỏi những câu chuyện và mong đợi có tính điều kiện từ bên ngoài. Xây dựng từ trong ra và từ dưới lên. Những thói quen tuyệt vời và luyện tập sẽ tạo nên một cuộc đời tuyệt vời và thành công. Gieo xuống những điều đó và hãy để phần còn lại tự lo lấy chúng.” -Patrick O’Shaughnessy
-
+> Cũng ở rừng là nơi tôi bắt đầu dạy con trai mình bài học này: khám phá chỉ vì mục đích khám phá thôi, không mong cầu. Khám phá bản thể của những thứ quanh mình và trong mình, tự do thoát khỏi những câu chuyện và mong đợi có tính điều kiện từ bên ngoài. Xây dựng từ trong ra và từ dưới lên. Những thói quen tuyệt vời và luyện tập sẽ tạo nên một cuộc đời tuyệt vời và thành công. Gieo xuống những điều đó và hãy để phần còn lại tự lo lấy chúng.” -Patrick O’Shaughnessy
 
 
 
