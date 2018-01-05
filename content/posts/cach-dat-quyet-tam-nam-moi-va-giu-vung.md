@@ -94,11 +94,7 @@ Nguyên nhân hàng đầu của việc bỏ dở quyết tâm là vì chúng đ
 
 **Hãy khởi động cho kế hoạch lớn của bạn bằng những thay đổi nhỏ nhưng liên tục, có tính chất tăng dần.**
 
-Ví dụ với việc tập chạy, tuần đầu tiên có thể bạn chẳng cần phải chạy mà chỉ là mua giày và đi dạo quanh nhà thôi chẳng hạn. Sau đó, mới tăng dần lên 1km, 2km...hoặc bạn chẳng cần tăng số km mà chọn 1 địa hình khó hơn 1 chút như con dốc nào đó chẳng hạn. 
-
-Tương tự như việc tiết kiệm tiền. Đừng mong chờ bản thân có thể cắt giảm 50% chi tiêu cái rụp nếu như bạn vốn là một con nghiện shopping. Hãy bắt đầu bằng cách viết lại chi tiêu mỗi ngày thôi.
-
-Những thành công nhỏ ban đầu sẽ có tác dụng khích lệ rất lớn, giúp ta gia tăng lòng tự tin và quyết tâm thực hiện. Khi làm [coaching 1:1](https://coachnamphuong.com/1-on-1-coaching), tôi thường hướng dẫn với phiên bản **“1 phút mỗi ngày"**: Với bất cứ thói quen nào bạn muốn hình thành, hãy chỉ làm nó trong 1 phút của ngày đầu tiên, rồi tăng lên 2 phút vào ngày thứ 2, 3 phút vào ngày thứ 3…Bộ não bạn gần như chẳng nhận ra sự khác biệt giữa các phút này. 
+Khi làm [coaching 1:1](https://coachnamphuong.com/1-on-1-coaching), tôi thường hướng dẫn với phiên bản **“1 phút mỗi ngày"**: Với bất cứ thói quen nào bạn muốn hình thành, hãy chỉ làm nó trong 1 phút của ngày đầu tiên, rồi tăng lên 2 phút vào ngày thứ 2, 3 phút vào ngày thứ 3…Bộ não bạn gần như chẳng nhận ra sự khác biệt giữa các phút này. 
 
 Cuối tháng đầu tiên, có người sẽ ngồi thiền được trong 30 phút. 
 
@@ -173,7 +169,7 @@ Bạn nghĩ người bạn muốn trở thành - phiên bản tốt nhất - s�
 
 - v.v...
 
-Việc thực hiện thói quen của Bạn-phiên-bản-thành-công-trong-tương-lai ngay từ lúc này sẽ tạo ra một chuỗi các ô màu xanh trên biểu đồ. Và bạn sẽ cảm thấy thoả mãn sau mỗi ngày. 
+Việc thực hiện thói quen của Bạn-phiên-bản-thành-công-trong-tương-lai ngay từ lúc này sẽ tạo ra một chuỗi các ô màu xanh trên biểu đồ. Bạn có cố gắng, nhưng thoả mãn cùng hiện tại.
 
 Một ngày không làm được điều gì đó ư? Thay vì nghĩ “Ôi không, hôm nay mình đã không đạp xe nổi", bạn có thể dùng tư duy tích cực: “Hãy cho đôi chân của mình nghỉ một ngày để ngày mai nó sẽ trở lại sung sức hơn.” Và ngày mai, bạn sẽ hào hứng khôi phục lại chuỗi ô màu xanh đáng tự hào đó. Thành tích sẽ đến sau đó, đơn giản như tác dụng phụ mà thôi.
 
