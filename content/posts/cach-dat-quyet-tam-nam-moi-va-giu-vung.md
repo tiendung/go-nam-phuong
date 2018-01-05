@@ -152,19 +152,28 @@ Chờ đã, tôi không có ý phê phán những người tham vọng, đặt m
 Bạn nghĩ người bạn muốn trở thành - phiên bản tốt nhất - sẽ có thói quen gì hàng ngày?
 
 Đó có thể là:
+
 - Thiền mỗi sáng
+
 - Đọc sách
+
 - Vận động ra mồ hôi
+
 - Chăm sóc ai đó
+
 - Tự nấu bữa tối
+
 - Dọn giường
+
 - Dành thời gian bên người thân
+
 - Cười
+
 - v.v...
 
-Việc thực hiện thói quen của Bạn-thành-công-trong-tương-lai ngay từ lúc này sẽ tạo ra một chuỗi các ô màu xanh trên biểu đồ. Và bạn sẽ cảm thấy thoả mãn sau mỗi ngày. 
+Việc thực hiện thói quen của Bạn-phiên-bản-thành-công-trong-tương-lai ngay từ lúc này sẽ tạo ra một chuỗi các ô màu xanh trên biểu đồ. Và bạn sẽ cảm thấy thoả mãn sau mỗi ngày. 
 
-Một ngày không làm được điều gì đó ư? Thay vì nghĩ “Ôi không, hôm nay mình đã không đạp xe nổi", bạn có thể dùng tư duy tích cực: “Hãy cho đôi chân của mình nghỉ một ngày để ngày mai nó sẽ trở lại sung sức hơn.” Và ngày mai, bạn sẽ hào hứng khôi phục lại chuỗi ô màu xanh đáng tự hào đó. 
+Một ngày không làm được điều gì đó ư? Thay vì nghĩ “Ôi không, hôm nay mình đã không đạp xe nổi", bạn có thể dùng tư duy tích cực: “Hãy cho đôi chân của mình nghỉ một ngày để ngày mai nó sẽ trở lại sung sức hơn.” Và ngày mai, bạn sẽ hào hứng khôi phục lại chuỗi ô màu xanh đáng tự hào đó. Thành tích sẽ đến sau đó, đơn giản như tác dụng phụ mà thôi.
 
 {{< figure src="https://i.imgur.com/tf30k1u.jpg" alt="thành công và thất bại" caption="" class="tl" >}}
 
