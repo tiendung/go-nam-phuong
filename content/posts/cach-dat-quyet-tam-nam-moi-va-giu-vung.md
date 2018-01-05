@@ -176,9 +176,10 @@ Một ngày không làm được điều gì đó ư? Thay vì nghĩ “Ôi khô
 
 > “Tôi cực kì hạnh phúc ở trong rừng. Tôi yêu những cái cây phát triển ra khỏi những tảng đá và những ngọn đồi. Chúng bắt đầu nhỏ và sống sót nhờ vài tia nắng ở đó. Chúng lớn lên theo bất cứ hướng nào để có thêm ánh sáng. Sự phát triển chậm cho phép chúng cuối cùng cũng đạt đến một kiểu hình mỏng mảnh và thậm chí phi thực, nhưng chúng bám rễ rất chắc. Tôi thích tưởng tượng về những ngày đầu tiên, những rễ cây lần dò trong đất, nhanh chóng bỏ qua những con đường thất bại, xây dựng những hệ thống sâu theo những con đường tốt hơn. Những cái cây kì lạ và xinh đẹp được kết thúc cách đó nhờ một quá trình đơn giản. Chúng vận động theo một mục tiêu liên tục, từ dưới lên.
 
-> Cũng ở rừng là nơi tôi bắt đầu dạy con trai mình bài học này: khám phá chỉ vì mục đích khám phá thôi, không mong cầu. Khám phá bản thể của những thứ quanh mình và trong mình, tự do thoát khỏi những câu chuyện và mong đợi có tính điều kiện từ bên ngoài. Xây dựng từ trong ra và từ dưới lên. Những thói quen tuyệt vời và luyện tập sẽ tạo nên một cuộc đời tuyệt vời và thành công. Gieo xuống những điều đó và hãy để phần còn lại tự lo lấy chúng.” -Patrick O’Shaughnessy
+> Cũng ở rừng là nơi tôi bắt đầu dạy con trai mình bài học này: khám phá chỉ vì mục đích khám phá thôi, không mong cầu. Khám phá bản thể của những thứ quanh mình và trong mình, tự do thoát khỏi những câu chuyện và mong đợi có tính điều kiện từ bên ngoài. Xây dựng từ trong ra và từ dưới lên. Những thói quen tuyệt vời và luyện tập sẽ tạo nên một cuộc đời tuyệt vời và thành công. Gieo xuống những điều đó và hãy để phần còn lại tự lo lấy chúng.” 
+-Patrick O’Shaughnessy
 
-
+Nếu thấy bài viết hữu ích, hãy chia sẻ như một cách "gieo duyên" năm mới cho những người khác nhé!
 
 
 
