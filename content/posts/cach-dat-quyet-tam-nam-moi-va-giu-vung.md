@@ -149,6 +149,8 @@ Chờ đã, tôi không có ý phê phán những người tham vọng, đặt m
 
 **Hãy khám phá và tận hưởng quá trình. Hãy tạo lập những thói quen của thành công và tập trung vào việc duy trì những thói quen đó.**
 
+{{< figure src="https://i.imgur.com/tf30k1u.jpg" alt="thành công và thất bại" caption="" class="tl" >}}
+
 Bạn nghĩ người bạn muốn trở thành - phiên bản tốt nhất - sẽ có thói quen gì hàng ngày?
 
 Đó có thể là:
@@ -175,7 +177,6 @@ Việc thực hiện thói quen của Bạn-phiên-bản-thành-công-trong-tư�
 
 Một ngày không làm được điều gì đó ư? Thay vì nghĩ “Ôi không, hôm nay mình đã không đạp xe nổi", bạn có thể dùng tư duy tích cực: “Hãy cho đôi chân của mình nghỉ một ngày để ngày mai nó sẽ trở lại sung sức hơn.” Và ngày mai, bạn sẽ hào hứng khôi phục lại chuỗi ô màu xanh đáng tự hào đó. Thành tích sẽ đến sau đó, đơn giản như tác dụng phụ mà thôi.
 
-{{< figure src="https://i.imgur.com/tf30k1u.jpg" alt="thành công và thất bại" caption="" class="tl" >}}
 
 > “Tôi cực kì hạnh phúc ở trong rừng. Tôi yêu những cái cây phát triển ra khỏi những tảng đá và những ngọn đồi. Chúng bắt đầu nhỏ và sống sót nhờ vài tia nắng ở đó. Chúng lớn lên theo bất cứ hướng nào để có thêm ánh sáng. Sự phát triển chậm cho phép chúng cuối cùng cũng đạt đến một kiểu hình mỏng mảnh và thậm chí phi thực, nhưng chúng bám rễ rất chắc. Tôi thích tưởng tượng về những ngày đầu tiên, những rễ cây lần dò trong đất, nhanh chóng bỏ qua những con đường thất bại, xây dựng những hệ thống sâu theo những con đường tốt hơn. Những cái cây kì lạ và xinh đẹp được kết thúc cách đó nhờ một quá trình đơn giản. Chúng vận động theo một mục tiêu liên tục, từ dưới lên.
 
