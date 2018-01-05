@@ -62,7 +62,7 @@ Nếu như bạn là tôi, bạn có thể sẽ nhìn vào 1001 cái nhánh cây
 - Điều này sẽ có lợi cho những người khác như thế nào?
 - Tôi sẽ phải trở thành người như thế nào để biến quyết tâm này thành hiện thực? (Và đây là câu hỏi quan trọng nhất!)
 
-**Điểm mấu chốt của việc này là để bạn tập trung vào những mục tiêu thể hiện đúng con người mà bạn muốn thực sự trở thành.** 
+**Điểm mấu chốt của việc này là bạn phải tập trung vào những mục tiêu thể hiện đúng con người mà bạn thực sự muốn trở thành.** 
 
 {{< figure src="https://i.imgur.com/6RIKM9z.jpg" alt="coach nam phuong quotes" caption="" class="tl" >}}
 
@@ -112,15 +112,23 @@ Phiên bản 1 phút của bạn sẽ là gì nào?
 Các thói quen xấu thường là rào cản ngáng đường bạn. Chúng ta có thể vô hiệu hoá chúng bằng cách nhìn trực diện vào bản chất của chúng. [Charles Duhigg](http://charlesduhigg.com/), tác giả cuốn “Sức mạnh của thói quen" đề nghị chúng ta phân tích những thói quen của mình ra 3 phần: Gợi ý, Thói quen, Phần thưởng. Ví dụ:
 
 _Thói quen xấu:_ Tôi lướt Facebook quá thường xuyên.
+
 _Gợi ý_: Tôi thấy buồn chán, cô đơn.
+
 _Thói quen_: Tôi lướt Facebook.
+
 _Phần thưởng_: Tôi được kết nối.
+
 _Cách thay đổi thói quen_: Thay vì lướt Facebook, hãy gọi điện cho một người bạn đã lâu không liên lạc và trò chuyện thật lâu và thật sâu để nhận được phần thưởng kết nối.
 
 _Thói quen xấu_: Tôi thức khuya và dậy muộn mỗi sáng.
+
 _Gợi ý_: Tôi cảm thấy muốn dành thời gian thêm cho bản thân mỗi tối.
+
 _Thói quen_: Tôi xem phim đến khuya.
+
 _Phần thưởng_: Tôi được giải trí mỗi tối.
+
 _Cách thay đổi thói quen_: Thay vì xem phim, hãy dành ra thời gian cho bản thân mình vào một giờ cố định mỗi ngày. Bạn có thể yêu cầu sự trợ giúp từ người thân để có thêm thời gian, hay tạm nghỉ làm việc trong 30 phút giữa buổi chiều chẳng hạn. (Bạn sẽ ngạc nhiên vì năng suất làm việc tăng đáng kể!)
 
 
