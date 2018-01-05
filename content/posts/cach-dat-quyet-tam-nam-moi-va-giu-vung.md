@@ -16,8 +16,9 @@
       "thói quen",
 "quyết tâm",
 "mục tiêu",
-"kế hoạch"
-"thành công"
+"kế hoạch",
+"thành công",
+"thất bại"
    ],
 "title": "Cách đặt quyết tâm năm mới VÀ giữ vững nó, trong khi 50% thất bại"
 }
