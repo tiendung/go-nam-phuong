@@ -51,7 +51,7 @@ Chúng tôi thực tập “Khởi đầu mới" để làm thanh sạch tâm tr
 Lưu ý: Để không làm người khác tổn thương khi ta bày tỏ sự tổn thương của chính mình, hãy tránh cách nói quy chụp, với từ ngữ mang tính tuyệt đối, chung chung. Ví dụ như: "Anh lúc nào cũng về muộn", "Cô luôn luôn àm tôi xấu mặt".
 Thay vì thế, ta sử dụng **"giao tiếp phi bạo lực":**
 
-{{< figure src="https://i.imgur.com/ILBtS0A.png" alt="giao tiếp phi bạo lực" caption=":"Ảnh được chia sẻ bởi Xanhshop" class="tl" >}}
+{{< figure src="https://i.imgur.com/ILBtS0A.png" alt="giao tiếp phi bạo lực" caption="Ảnh được chia sẻ bởi Xanhshop" class="tl" >}}
 
 Cụ thể, thay vì hờn trách "Sao anh lúc nào cũng về muộn!" thì ta có thể nói:
 
@@ -65,11 +65,10 @@ Việc thực tập “Khởi đầu mới" giúp ta phát triển lời nói t�
 
 Cùng với những tố chất tốt đẹp đó, mỗi chúng ta có những phần còn yếu, ví dụ như nói ra cơn giận hay mắc kẹt trong những nhận thức sai lầm của mình. Khi ta thực tập “tưới hoa", chúng ta hỗ trợ sự phát triển của những phẩm chất tốt trong mỗi người và cùng lúc đó ta giúp làm giảm những khó khăn của người kia. Như trong một khu vườn, khi ta “tưới hoa" bằng lòng yêu thường và sự từ bi, chúng ta cũng đang lấy bớt đi những năng lượng từ những cỏ dại của giận dữ, ghen tị hay nhận thức sai.
 
-{{< figure src="https://i.imgur.com/W7EwRAF.jpg" alt="tưới hoa" caption="Không khó để nhận ra bông hoa bên trong mỗi con người, bao gồm bên trong BẠN. Bạn hãy giúp tưới tẩm cho bông hoa đó lớn mãi nhé" class="tl full" >}}
+{{< figure src="https://i.imgur.com/W7EwRAF.jpg" alt="tưới hoa" caption="Không khó để nhận ra bông hoa bên trong mỗi con người, bao gồm bên trong BẠN. Bạn hãy giúp tưới tẩm cho bông hoa đó lớn mãi nhé" class="" >}}
 
 Chúng ta có thể thực tập “Khởi đầu mới" hàng ngày bằng cách bày tỏ sự trân trọng của mình dành cho những người cùng thực tập và xin lỗi ngay lập tức khi ta làm hoặc nói gì đó gây tổn thương họ. Chúng ta cũng có thể lịch sự để cho người khác biết khi mình bị tổn thương. Sức khoẻ và hạnh phúc của toàn bộ cộng đồng phụ thuộc vào sự hoà hợp, bình an và niềm vui tồn tại giữa mỗi thành viên trong Tăng đoàn.
 
 
 _Health Coach Nam Phương bổ sung, điều chỉnh từ hướng dẫn của của [Langmai.org](https://plumvillage.org/mindfulness-practice/beginning-anew/)
-Bài viết thuộc series “Detox for New Year" - Hướng dẫn Thải độc & Làm mới toàn diện để khởi tạo một Năm Mới thành công đúng nghĩa.
--
+Bài viết thuộc series “Detox for New Year" - Hướng dẫn Thải độc & Làm mới toàn diện để khởi tạo một Năm Mới thành công đúng nghĩa._
