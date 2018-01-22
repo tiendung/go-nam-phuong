@@ -38,8 +38,3 @@ collections:
           - {label: "caption",name: "caption",widget: "string", required: false}
           - label: "cta"
             name: "cta"
-            widget: "object"
-            fields:
-              - {label: "text",  name: "text",  widget: "string", required: false}
-              - {label: "url",   name: "url",   widget: "string", required: false}
-              - {label: "class", name: "class", widget: "string", required: false}
