@@ -37,3 +37,7 @@
 <!-- <link rel="stylesheet" href="/css/animate.css"> -->
 <link rel="stylesheet" href="/css/theme.css"/>
 {{- end }}
+
+{{- if $.IsNode }}
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{- end }}
