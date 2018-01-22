@@ -86,7 +86,7 @@ Cho nên, tốt nhất là trước khi thanh lọc toàn diện ngôi nhà củ
 
 {{< figure src="https://i.imgur.com/gLUyZUQ.jpg" alt="phong thuỷ cho tài chính" caption="" class="tl" >}}
 
-Học cách giải mã nhãn sản phẩm ở đây, hoặc tra cứu thành phần sản phẩm ở đây. Tôi cũng sẽ sớm có hướng dẫn về cách tẩy rửa nhà cửa từ nguyên liệu ít độc hại.
+Tôi cũng sẽ sớm có hướng dẫn về cách tẩy rửa nhà cửa từ nguyên liệu ít độc hại.
 
 ## 5/ Chia tay với đồ nhựa
 
