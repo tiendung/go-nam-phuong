@@ -69,6 +69,8 @@ Cùng với những tố chất tốt đẹp đó, mỗi chúng ta có những p
 
 Chúng ta có thể thực tập “Khởi đầu mới" hàng ngày bằng cách bày tỏ sự trân trọng của mình dành cho những người cùng thực tập và xin lỗi ngay lập tức khi ta làm hoặc nói gì đó gây tổn thương họ. Chúng ta cũng có thể lịch sự để cho người khác biết khi mình bị tổn thương. Sức khoẻ và hạnh phúc của toàn bộ cộng đồng phụ thuộc vào sự hoà hợp, bình an và niềm vui tồn tại giữa mỗi thành viên trong Tăng đoàn.
 
+Hãy chia sẻ phương pháp này với người mà bạn muốn thực hành cùng, rồi dành ra một buổi để thử cùng nhau nhé!
+
 
 _Health Coach Nam Phương bổ sung, điều chỉnh từ hướng dẫn của của [Langmai.org](https://plumvillage.org/mindfulness-practice/beginning-anew/)
 Bài viết thuộc series “Detox for New Year" - Hướng dẫn Thải độc & Làm mới toàn diện để khởi tạo một Năm Mới thành công đúng nghĩa._
