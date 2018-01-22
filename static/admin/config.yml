@@ -24,11 +24,11 @@ collections:
       - {label: "tags",       name: "tags",       widget: list}
       - {label: "description",name: "description",widget: "string", required: false}
       - {label: "cover_image",name: "cover_image",widget: "image",  required: false}
-      - label: "header"
-        name: "label"
-        widget: "object"
-        fields:
-          - {label: "layout", name: "layout", widget: "string", required: false}
-          - {label: "image",  name: "image",  widget: "string", required: false}
-          - {label: "class",  name: "class",  widget: "string", required: false}
-          - {label: "caption",name: "caption",widget: "string", required: false}
+      # - label: "header"
+      #   name: "label"
+      #   widget: "object"
+      #   fields:
+      #     - {label: "layout", name: "layout", widget: "string", required: false}
+      #     - {label: "image",  name: "image",  widget: "string", required: false}
+      #     - {label: "class",  name: "class",  widget: "string", required: false}
+      #     - {label: "caption",name: "caption",widget: "string", required: false}
