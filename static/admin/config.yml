@@ -17,12 +17,9 @@ collections:
       - {label: "subtitle",   name: "subtitle",   widget: "string", required: false}
       - {label: "pubdate",    name: "date",       widget: "datetime", format: "YYYY-MM-DD hh:mma"}
       - {label: "draft",      name: "draft",      widget: "boolean", default: true}
-
       - {label: "body",       name: "body",       widget: "markdown"}
-
       - {label: "categories", name: "categories", widget: list}
       - {label: "tags",       name: "tags",       widget: list}
-
       - {label: "description",name: "description",widget: "string", required: false}
       - {label: "cover_image",name: "cover_image",widget: "image",  required: false}
 
