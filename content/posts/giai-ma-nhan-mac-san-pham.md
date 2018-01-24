@@ -40,12 +40,12 @@ Hãy tra cứu những chất phổ biến nhất theo Hướng dẫn tẩy rử
     <tbody class="lh-copy">
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Tự nhiên / gốc thực vật (Natural / Plant based)</td>
-        <td class="bn pa2 pa3-ns">Có thể là bất cứ điều gì hoặc không là gì cả - không có quy định về việc sử dụng từ này. Một số hoặc tất cả các thành phần này đến từ thực vật hoặc khoáng chất chứ không phải là dầu mỏ, nhưng nhà sản xuất hiếm khi tiết lộ có bao nhiêu hoặc ít các thành phần đó.</td>
+        <td class="bn pa2 pa3-ns">Có thể là bất cứ điều gì hoặc không là gì cả - không có quy định về việc sử dụng từ này. Một số hoặc tất cả thành phần  từ thực vật hoặc khoáng chất, nhưng nhà sản xuất hiếm khi tiết lộ có bao nhiêu hoặc ít các thành phần đó.</td>
         <td class="bn pa2 pa3-ns">Hãy cẩn thận với tuyên bố này. "Tự nhiên" không giống như "hữu cơ" (“organic"). Bạn nên xem chứng nhận cụ thể, và Tra cứu thành phần bằng công cụ của EWG</td>
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Hữu cơ (Organic)</td>
-        <td class="bn pa2 pa3-ns">Có thể là bất cứ điều gì hoặc không là gì cả - không có quy định chặt chẽ về việc sử dụng từ này. Chất hữu cơ hàm ý chứa hầu hết các thành phần từ cây trồng mà không sử dụng phân bón tổng hợp hoặc thuốc trừ sâu. Một số nhà sản xuất gây hiểu nhầm cho người tiêu dùng bằng cách sử dụng thuật ngữ này dưới dưới góc độ hoá học, nghĩa là các thành phần được làm chủ yếu từ các nguyên tử cacbon (các thành phần từ dầu mỏ có thể rơi vào loại này).</td>
+        <td class="bn pa2 pa3-ns">Có thể là bất cứ điều gì hoặc không là gì cả - không có quy định chặt chẽ về việc sử dụng từ này. Hàm ý chứa hầu hết các thành phần từ cây trồng mà không sử dụng phân bón tổng hợp hoặc thuốc trừ sâu. Một số nhà sản xuất gây hiểu nhầm cho người tiêu dùng bằng cách sử dụng thuật ngữ này dưới dưới góc độ hoá học, nghĩa là các thành phần được làm chủ yếu từ các nguyên tử cacbon, bao gồm các thành phần dầu mỏ.</td>
         <td class="bn pa2 pa3-ns">Bạn nên xem chứng nhận cụ thể, và Tra cứu thành phần bằng công cụ của EWG.</td>
       </tr>
       <tr class="striped--near-white">
@@ -55,7 +55,7 @@ Hãy tra cứu những chất phổ biến nhất theo Hướng dẫn tẩy rử
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Triclosan</td>
-        <td class="bn pa2 pa3-ns">Một loại thuốc trừ sâu có thể có trong xà bông rửa tay và nước rửa chén. Chúng không làm sạch tốt hơn so với xà phòng thông thường và nước, hoặc cung cấp thêm công dụng nào chống lại bệnh tật. Nhưng chúng làm cạn nước, nơi chúng thường gây độc cho tảo, cá và động vật hoang dã. Việc sử dụng quá nhiều các sản phẩm có chứa thuốc trừ sâu có thể thúc đẩy sự phát triển của các vi khuẩn kháng thuốc kháng sinh.</td>
+        <td class="bn pa2 pa3-ns">Một loại thuốc trừ sâu có thể có trong xà bông rửa tay và nước rửa chén. Chúng không làm sạch tốt hơn so với xà phòng thông thường và nước, hoặc cung cấp thêm công dụng chống lại bệnh tật. Chúng làm cạn nước, gây độc cho tảo, cá và động vật hoang dã. Có thể thúc đẩy sự phát triển của các vi khuẩn kháng thuốc kháng sinh.</td>
         <td class="bn pa2 pa3-ns">Tránh - vì gây hại lớn cho sức khoẻ của bạn lẫn các sinh vật khác.</td>
       </tr>
       <tr class="striped--near-white">
@@ -65,14 +65,14 @@ Hãy tra cứu những chất phổ biến nhất theo Hướng dẫn tẩy rử
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Phân huỷ sinh học (Biodegradable)</td>
-        <td class="bn pa2 pa3-ns">Vì không có ai điều chỉnh việc sử dụng thuật ngữ này đối với nhãn sản phẩm làm sạch, bạn không thể chắc chắn một sản phẩm có nhãn này tốt hơn một sản phẩm không có. Một số thành phần đúng là nhanh chóng phân hủy sinh học thành các chất vô hại. Những chất khác vẫn nán lại trong môi trường nhiều năm hoặc phân hủy thành chất gây ô nhiễm có hại. </td>
+        <td class="bn pa2 pa3-ns">Không ai điều chỉnh việc sử dụng thuật ngữ này đối với nhãn sản phẩm làm sạch, bạn không thể chắc chắn một sản phẩm có nhãn này tốt hơn một sản phẩm không có. Một số thành phần đúng là nhanh chóng phân hủy sinh học thành các chất vô hại. Những chất khác vẫn nán lại trong môi trường nhiều năm hoặc phân hủy thành chất gây ô nhiễm có hại. </td>
         <td class="bn pa2 pa3-ns">Đọc và tìm hiểu kĩ thành phần của bất kì sản phẩm đóng gói nào, bất kể nội dung quảng cáo.</td>
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Không có clo/ Thay thế chất tẩy trắng
 (Chlorine-free / bleach alternative)</td>
-        <td class="bn pa2 pa3-ns">Các sản phẩm có nhãn "không có clo" không chứa thuốc tẩy chlorine. Chúng có thể chứa chất tẩy oxy. Cả hai loại thuốc tẩy đều gây kích ứng hoặc ăn mòn nên cần sử dụng cẩn thận. Nhưng thuốc tẩy chlorine có thể giải phóng các số ít khí clo có hại. Người sử dụng thường xuyên thuốc tẩy chlorine có nguy cơ mắc bệnh hen suyễn và các vấn đề hô hấp khác.</td>
-        <td class="bn pa2 pa3-ns">Tránh thuốc tẩy chlorine và sử dụng các chất thay thế không chứa clo khi cần thiết. </td>
+        <td class="bn pa2 pa3-ns">Các sản phẩm không chứa thuốc tẩy chlorine. Nhưng có thể chứa chất tẩy oxy. Cả hai loại thuốc tẩy đều gây kích ứng hoặc ăn mòn nên cần sử dụng cẩn thận. Nhưng thuốc tẩy chlorine có thể giải phóng các số ít khí clo có hại.</td>
+        <td class="bn pa2 pa3-ns">Tránh thuốc tẩy chlorine và sử dụng các chất thay thế không chứa clo khi cần thiết.  Người sử dụng thường xuyên thuốc tẩy chlorine có nguy cơ mắc bệnh hen suyễn và các vấn đề hô hấp khác. </td>
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Dễ bắt cháy / Dễ cháy
@@ -110,7 +110,7 @@ Hãy tra cứu những chất phổ biến nhất theo Hướng dẫn tẩy rử
       </tr>
  <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Enzymes</td>
-        <td class="bn pa2 pa3-ns">Là các protein thêm vào chất làm sạch để giúp phá vỡ và loại bỏ đất và vết bẩn. Enzyme có thể gây hen suyễn và các vấn đề về đường hô hấp trong công nhân nhà máy sản xuất chất làm sạch. Nhưng đừng cho rằng enzyme an toàn chỉ đơn giản vì chúng là tự nhiên. Cũng nên lưu ý rằng axit boric, một chất độc hại cho hệ thống sinh sản, thường được bổ sung để ổn định các enzyme trong việc làm sạch nguồn cung cấp</td>
+        <td class="bn pa2 pa3-ns">Là các protein thêm vào chất làm sạch để giúp phá vỡ và loại bỏ đất và vết bẩn. Enzyme có thể gây hen suyễn và các vấn đề về đường hô hấp trong công nhân nhà máy sản xuất chất làm sạch. Đừng cho rằng enzyme an toàn chỉ đơn giản vì chúng là tự nhiên. Cũng nên lưu ý rằng axit boric, một chất độc hại cho hệ thống sinh sản, thường được bổ sung để ổn định các enzyme trong việc làm sạch nguồn cung cấp</td>
         <td class="bn pa2 pa3-ns">Cân nhắc bằng các câu hỏi về an toàn tương tự với các thành phần hoặc sản phẩm khác. </td>
       </tr>
   <td class="bn pa2 pa3-ns">Tinh dầu (Essential oil)</td>
@@ -135,7 +135,7 @@ Hãy tra cứu những chất phổ biến nhất theo Hướng dẫn tẩy rử
         <td class="bn pa2 pa3-ns">Tra cứu thành phần bằng công cụ của EWG</td>
       </tr>
   <td class="bn pa2 pa3-ns">Chất làm trắng quang học (Optical brightener)</td>
-        <td class="bn pa2 pa3-ns">Chất tìm thấy trong một số chất tẩy giặt, làm cho vải trở nên sáng hơn. Nó bám vào quần áo trong máy giặt và dính vào vải ngay cả sau khi rửa. Có thể gây kích ứng da. Một số, như triazine-stilbenes, không dễ phân hủy và có thể tích tụ trong môi trường, nơi chúng có thể độc hại cho sinh vật dưới nước. Những hóa chất này không được phép trong một số tiêu chuẩn chứng nhận của bên thứ ba cho các chất làm sạch thân thiện môi trường. </td>
+        <td class="bn pa2 pa3-ns">Chất có trong một số chất tẩy giặt, làm cho vải trở nên sáng hơn. Nó bám vào quần áo trong máy giặt và dính vào vải ngay cả sau khi rửa. Có thể gây kích ứng da. Một số, như triazine-stilbenes, không dễ phân hủy và có thể tích tụ trong môi trường, nơi chúng có thể độc hại cho sinh vật dưới nước. Những hóa chất này không được phép trong một số tiêu chuẩn chứng nhận của bên thứ ba cho các chất làm sạch thân thiện môi trường. </td>
         <td class="bn pa2 pa3-ns">Tránh bất cứ khi nào có thể.</td>
       </tr>
   <td class="bn pa2 pa3-ns">Thuốc trừ sâu (Pesticide)</td>
@@ -151,7 +151,7 @@ Hãy tra cứu những chất phổ biến nhất theo Hướng dẫn tẩy rử
         <td class="bn pa2 pa3-ns">Tra cứu thành phần bằng công cụ của EWG.  Khi bạn đang vệ sinh, mở cửa sổ hoặc chạy quạt để cải thiện thông gió. Mang găng tay và khẩu trang khi sử dụng.</td>
       </tr>
   <td class="bn pa2 pa3-ns">Dung môi (solvent)</td>
-        <td class="bn pa2 pa3-ns">Là chất lỏng giữ các thành phần khác được hoà trộn với nhau trong dung dịch. Cũng có thể được sử dụng như là chất tẩy rửa chuyên dụng cho đất cứng và vết bẩn. Nước là một dung môi không độc, nhưng nhiều dung môi khác dễ cháy và giải phóng các hợp chất hữu cơ dễ bay hơi vào không khí. Khi hít phải, dung môi có thể gây suy hô hấp, tổn thương thần kinh, gây hại cho sinh sản và phát triển và ung thư. Chọn sản phẩm an toàn nhất bạn có thể. Khi sử dụng dung môi hoặc chất tẩy rửa khác, thông khí tốt để giảm thiểu hít phải.</td>
+        <td class="bn pa2 pa3-ns">Là chất lỏng giữ các thành phần khác được hoà trộn với nhau trong dung dịch. Có thể được sử dụng như là chất tẩy rửa chuyên dụng cho đất cứng và vết bẩn. Nước là một dung môi không độc, nhưng nhiều dung môi khác dễ cháy và giải phóng các hợp chất hữu cơ dễ bay hơi vào không khí. Khi hít phải, dung môi có thể gây suy hô hấp, tổn thương thần kinh, gây hại cho sinh sản và phát triển và ung thư. Chọn sản phẩm an toàn nhất bạn có thể. Khi sử dụng dung môi hoặc chất tẩy rửa khác, thông khí tốt để giảm thiểu hít phải.</td>
         <td class="bn pa2 pa3-ns">Việc xả và vứt bỏ các dung môi gây ô nhiễm môi trường, do đó hãy liên hệ với cơ sở thu gom chất thải nguy hại tại địa phương của bạn để xử lý đúng cách. Cống không phải là nơi an toàn để đổ bất kỳ dung môi nào, ngoại trừ nước.</td>
       </tr>
   <td class="bn pa2 pa3-ns">Không độc hại (Non-Toxic)</td>
