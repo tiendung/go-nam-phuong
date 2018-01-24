@@ -167,7 +167,9 @@ Hãy tra cứu những chất phổ biến nhất theo Hướng dẫn tẩy rử
 </div>
 
 **Chú ý đặc biệt:**
+
 - Không bao giờ trộn các chất tẩy rửa có chứa thuốc tẩy chlorine với các sản phẩm có chứa giấm, các chất có tính axit, ammonia hoặc oxy. Chúng có thể giải phóng hơi chlorine và chloramine nguy hiểm.
+
 - Hãy tra cứu [Công cụ của EWG](https://www.ewg.org/guides/cleaners#.WmG375P1UWo)cho các loại hoá chất mà bạn không biết chắc chắn nhé.
 
 _Bài viết thuộc series “Detox for New Year” - Hướng dẫn Thải độc & Làm mới toàn diện để khởi tạo một Năm Mới thành công đúng nghĩa._
