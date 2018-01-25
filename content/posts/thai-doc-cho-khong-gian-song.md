@@ -86,6 +86,7 @@ Cho nên, tốt nhất là trước khi thanh lọc toàn diện ngôi nhà củ
 
 {{< figure src="https://i.imgur.com/gLUyZUQ.jpg" alt="phong thuỷ cho tài chính" caption="" class="tl" >}}
 
+Tra cứu độ an toàn của thành phần hoá chất trong nhà ở [đây](https://coachnamphuong.com/posts/giai-ma-nhan-mac-san-pham/).
 Tôi cũng sẽ sớm có hướng dẫn về cách tẩy rửa nhà cửa từ nguyên liệu ít độc hại.
 
 ## 5/ Chia tay với đồ nhựa
