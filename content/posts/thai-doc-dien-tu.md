@@ -43,9 +43,10 @@ Và thế hệ millenials lớn lên với tất cả sự yêu chiều đó th�
 
 Bằng cách nào ư? Rất nhiều kênh, mương: xem tin tức chẳng rõ thực hư trên báo, lướt những newsfeed không bao giờ kết thúc (và rồi phàn nàn về những gì người khác viết), trôi theo các video do youtube "dành cho bạn"...chưa kể các quảng cáo ngày càng được cá nhân hoá, bám đuổi bạn liên tục dựa theo sở thích và mối quan tâm của bạn. Bạn cứ nghĩ rằng mình có nhiều lựa chọn hơn khi sử dụng internet, nhưng thực chất cái bạn có nhiều hơn là ham muốn. Còn chính những nhà tiếp thị mới đang lựa chọn giúp bạn. Tin không, Google và Facebook  hiểu sở thích của bạn hơn mẹ bạn đấy!
 
-**Nguyên nhân thứ 3: Các thiết bị điện tử là "kẻ trộm thời gia" lớn nhất.** Thống kế cho thấy mỗi năm chúng ta dành trung bình 3 tuần cho mạng xã hội và emails (1) - so với đó, chúng ta có bao nhiều ngày nghỉ thực sự bên gia đình hay cho bản thân?
+**Nguyên nhân thứ 3: Các thiết bị điện tử là "kẻ trộm thời gian" lớn nhất.** Thống kế cho thấy mỗi năm chúng ta dành trung bình 3 tuần cho mạng xã hội và emails (1) - so với đó, chúng ta có bao nhiều ngày nghỉ thực sự bên gia đình hay cho bản thân?
 
 Ngoài ra các mối lo lắng khác lần lượt được ghi nhận như:
+
 - Rất nhiều hội chứng bệnh lý như rối loạn nghiện Internet (Internet addiction disorder), trầm cảm mạng xã hội facebook...
 
 {{< figure src="https://i.imgur.com/gbvAgXS.jpg" alt="trầm cảm mạng xã hội" caption="Trầm cảm mạng xã hội Facebook là khi người dùng so sánh mình liên tục với những hình ảnh long lanh của người khác và trở nên chán chường, tự ti" class="tl" >}}
@@ -61,7 +62,7 @@ Ngoài ra các mối lo lắng khác lần lượt được ghi nhận như:
 - Thậm chí, chúng ta bị dẫn dắt và kích động hết sức dễ dàng một khi nghĩ rằng mình đang "an toàn" dưới lớp mặt nạ nặc danh, không phải chịu các trách nhiệm pháp luật thực sự.
 
 
-{{< figure src="https://i.imgur.com/lcG9sJo.png" alt="cyber bullying" class="tl" >}}
+{{< figure src="https://i.imgur.com/J9DAL47.png" alt="cyber bullying" class="tl" >}}
 
 Tôi là người học marketing, và cũng tự học qua không ít các khoá học về quảng cáo &  truyền thông trực tuyến, inbound marketing, nội dung viral...Ban đầu, tôi cảm thấy rất phấn khích trước sự sáng tạo, năng động của những ngành này. Nó thoả mãn con người ham học và thích đón đầu cái mới của tôi. Nhưng càng về sau tôi càng nhận ra rằng mình và những người cùng ngành đang thao túng người khác, cho phép  mình tạo ra các "bộ lọc" thông tin gây ảnh hưởng đến cái nhìn của nhiều người khác. Theo sau đó thường là các tiêu dùng không cần thiết, dẫn đến một lượng rác thải khổng lồ trong thực tế lẫn trí óc người khác. **Không thể chắc chắn hơn, tôi khẳng định bất cứ ai hàng ngày tiếp xúc với thông tin kĩ thuật số cũng cần làm thanh lọc cho mình.**
 
@@ -72,21 +73,27 @@ Những gì tôi viết rồi sẽ chìm trong biển thông tin kĩ thuật s�
 > Với lượng rác thông tin mà bạn đang tiếp nhận hàng ngày, hạnh phúc trong thực tế của bạn đã, đang, sẽ bị ảnh hưởng đến mức nào?
 
 Nếu không chắc, hãy thử nghiệm như sau: Trong một ngày, bạn hãy ghi nhận lại sau mỗi lần bản thân mình sử dụng thiết bị điện tử:
--thời gian dự kiến dành cho nó?
--thời gian thực tế dành cho nó?
--mục đích ban đầu là gì?
--những hoạt động "ngoài dự kiến" mà bạn làm?
--số lần bạn chạm vào mà không có mục đích cụ thể nào mà chỉ đơn thuần là để xem bất cứ cập nhật, thông báo (notifications) nào?
 
-Ngoài ra, có app[Moment](https://itunes.apple.com/us/app/moment-screen-time-tracker/id771541926?mt=8)có thể giúp bạn đo lường những thông số này. Chỉ cần đo trong 1 ngày và bạn sẽ ngạc nhiên với mức độ tự gây ô nhiễm của bản thân đấy.
+- Thời gian dự kiến dành cho nó?
+
+- Thời gian thực tế dành cho nó?
+
+- Mục đích ban đầu là gì?
+
+- Những hoạt động "ngoài dự kiến" mà bạn làm?
+
+- Số lần bạn chạm vào mà không có mục đích cụ thể nào mà chỉ đơn thuần là để xem bất cứ cập nhật, thông báo (notifications) nào?
+
+Ngoài ra, có app [Moment](https://itunes.apple.com/us/app/moment-screen-time-tracker/id771541926?mt=8) có thể giúp bạn đo lường những thông số này. Chỉ cần đo trong 1 ngày và bạn sẽ ngạc nhiên với mức độ tự gây ô nhiễm của bản thân đấy.
 
 ## Lộ trình thanh lọc điện tử
 
 Đầu tiên, hãy biết rằng bạn không phải người duy nhất. Tôi coach cho những khách hàng ở nhiều độ tuổi và họ đều bị ô nhiễm thông tin. Tuy nhiên, không ai phải nói lời từ giã với các thiết bị hay MXH ngay lập tức cả. **Khi nói đến việc thay đổi thói quen, điểm cốt lõi luôn là thay đổi từ từ, chậm mà chắc.** Đừng cố gắng thay đổi tất cả cùng 1 lúc để rồi rơi vào vào lòng lắp thất bại - nản lòng - trở về như cũ...Sau đây là các bước bạn có thể làm dần:
 
-_
-**Bước 1: Sử dụng chính các công cụ điện tử để "kiêng cữ" trong thời gian 1 tháng đầu**_
-- App Forest (https://itunes.apple.com/us/app/forest-stay-focused/id866450515?mt=8): sử dụng cơ chế tưởng thưởng cho người sử dụng mỗi lần vượt qua một số khoảng thời gian tự cài đặt mà không sử dụng thiết bị
+
+**Bước 1: Sử dụng chính các công cụ điện tử để "kiêng cữ" trong thời gian 1 tháng đầu**
+
+- [App Forest](https://itunes.apple.com/us/app/forest-stay-focused/id866450515?mt=8): sử dụng cơ chế tưởng thưởng cho người sử dụng mỗi lần vượt qua một số khoảng thời gian tự cài đặt mà không sử dụng thiết bị
 
 {{< figure src="https://i.imgur.com/f7MUOIS.png" alt="app forest" class="tl" >}}
 
@@ -96,10 +103,11 @@ _
 
 - Xoá tất cả các app mạng xã hội ra khỏi điện thoại, chỉ sử dụng từ desktop máy tính
 
-- Truất quyền gửi thông báo âm thanh, pop-up, banner...của các ứng dụng, chỉ cho phép những cái thực sự cần thiết. Ví dụ như tôi không cho phép facebook messenger, zalo...gửi noti. Khi nói chuyện với ai đó, tôi sẽ chat liên tục bà đảm bảo vấn đề kết thúc rốt ráo. Nếu chờ đợi thêm thông tin nào đó, tôi sẽ chủ động kiểm tra bằng cách vào app.
+- Truất quyền gửi thông báo âm thanh, pop-up, banner...của các ứng dụng, chỉ cho phép những cái thực sự cần thiết. Ví dụ như tôi không cho phép facebook messenger, zalo...gửi noti. Khi nói chuyện với ai đó, tôi sẽ chat liên tục và đảm bảo vấn đề kết thúc rốt ráo. Nếu chờ đợi thêm thông tin nào đó, tôi sẽ chủ động kiểm tra bằng cách vào app.
 
 
 _**Bước 2: Quy định ít nhất 1h cố định trong ngày không sử dụng thiết bị điện tử và thu nạp thông tin điện tử**_
+
 - Nếu bạn vẫn tìm cách giải trí, thư giãn bằng các thiết bị trong giờ trưa, giờ nghỉ thì đã đến lúc nghĩ lại. Tốt nhất là thay bằng hoạt động ngoài trời, vận động, hay thư giãn trong tĩnh lặng.
 
 - Trao đổi về nỗ lực này của bạn với những người liên quan để họ không nhắn tin, trao đổi với bạn trong thời gian này (dẫn đến việc sử dụng lại thiết bị)
@@ -114,14 +122,18 @@ _**Bước 2: Quy định ít nhất 1h cố định trong ngày không sử d�
 
 
 **Bước 3: Tạo lập một ngày hoàn toàn offline cho mình (& cả gia đình) hàng tuần**
+
 Tôi có một dạng "Unplugged Sunday" - ngày chủ nhật rút phích. Không online, tôi sẽ đầu tư thời gian cho các hoạt động sau:
+
 - Đọc sách
 - Thiền tập
 - Giao lưu với cộng đồng
 - Từ thiện
 - Dọn dẹp, sắp xếp lại nhà cửa.
-{{< figure src="https://i.imgur.com/Lxa2nWm.jpg" alt="app forest" "Ảnh \: Trang Tooc" class="tl" >}}
-{{< figure src="https://i.imgur.com/rfWKszO.jpg" alt="app forest" caption="Ảnh \: Trang Tooc" class="tl" >}}
+
+{{< figure src="https://i.imgur.com/Lxa2nWm.jpg" alt="app forest" caption="Ngày nghỉ thực sự là ngày bạn nên dành cho mình, không phải cho các thiết bị.Ảnh: Trang Tooc" class="tl" >}}
+
+{{< figure src="https://i.imgur.com/rfWKszO.jpg" alt="app forest" caption="Hãy sắp xếp lại không gian sống trong khoảng thời gian này thay vì thu nạp thêm thông tin điện tử.Ảnh: Trang Tooc" class="tl" >}}
 
 **Bước 4: Trở về với thiên nhiên trong ít nhất 5 ngày**
 
@@ -135,14 +147,17 @@ Rất nhiều khách hàng của tôi nói rằng điều này cực kì khó v�
 
 > "Anh/con/bố mẹ nghĩ sao nếu chúng ta chuyển sang một cuộc sống bình yên như thế này?"
 
-{{< figure src="https://i.imgur.com/TuDbyuv.jpg" alt="vui giữa thiên nhiên không thiết bị điện tử" caption="Từ ngày chuyển lên Đà Lạt, chúng tôi thuường đến nhà nhau và hoàn toàn không sử dụng thiết bị nào. Chỉ có những cuộc trao đổi thân tình giữa thiên nhiên" class="tl" >}}
+{{< figure src="https://i.imgur.com/TuDbyuv.jpg" alt="vui giữa thiên nhiên không thiết bị điện tử" caption="Từ ngày chuyển lên Đà Lạt, chúng tôi thường đến nhà nhau và hoàn toàn không sử dụng thiết bị nào. Chỉ có những cuộc trao đổi thân tình giữa thiên nhiên" class="tl" >}}
 
 {{< figure src="https://i.imgur.com/891DRzd.jpg" alt="không thiết bị điện tử" caption="Không thiết bị, bạn sẽ khám phá lại rất nhiều niềm vui trong sáng khác" class="tl" >}}
 
-Đó cũng chính là câu hỏi khởi đầu cho sự thay đổi lối sống của chúng tôi tại Đà Lạt. Chúng tôi không hoàn toàn rời xa công nghệ, nhưng việc giữ lượng thông tin điện tử ở mức tối thiểu thực sự đã giúp chúng tôi kết nối và hiện diện. Cho mình và cho những người yêu thương.
+Đó cũng chính là câu hỏi khởi đầu cho sự thay đổi lối sống của chúng tôi tại Đà Lạt. Chúng tôi không hoàn toàn rời xa công nghệ, nhưng việc giữ lượng thông tin điện tử ở mức tối thiểu đã giúp chúng tôi thực sự kết nối và hiện diện. Cho mình và cho những người yêu thương.
 
 
 (1)[9 ways to start and stick to a digital detox](http://www.telegraph.co.uk/better/technology/9-ways-to-start-and-stick-to-a-digital-detox/)
+
 (2)Ayyagari, R., Grover, V., & Purvis, R. (2011). Technostress: Technological antecedents and implications. MIS Quarterly, 35(4), 831-858.
-(3) http://www.telegraph.co.uk/technology/10540261/screen-time-ipad-tablet-digital-detox-difital-addiction.html
+
+(3)[Switch off – it’s time for your digital detox](http://www.telegraph.co.uk/technology/10540261/screen-time-ipad-tablet-digital-detox-difital-addiction.html)
+
  (4)[What happens when we reconnect with nature](http://greatergood.berkeley.edu/article/item/what_happens_when_we_reconnect_with_nature#.WMGF36raA7I.facebook)
