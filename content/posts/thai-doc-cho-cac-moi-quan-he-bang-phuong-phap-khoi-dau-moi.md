@@ -24,9 +24,9 @@
 }
 
 
-Hầu như ai cũng công nhận vai trò tối quan trọng của tinh thần lên sức khoẻ của ta, thậm chí vượt qua vai trò của thức ăn và vận động. Trong tất cả những[“thức ăn tâm"](https://coachnamphuong.com/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an/),quan hệ giữa ta và người khác là yếu tố gây ảnh hưởng lớn lên bất cứ ai nên cần được chăm sóc, tưới tẩm đầu tiên.
+Hầu như ai cũng công nhận vai trò tối quan trọng của tinh thần lên sức khoẻ của ta, thậm chí vượt qua vai trò của thức ăn và vận động. Trong tất cả những[“thức ăn tâm"](/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an/),quan hệ giữa ta và người khác là yếu tố gây ảnh hưởng lớn lên bất cứ ai nên cần được chăm sóc, tưới tẩm đầu tiên.
 
-Chưa kể đến những [tổn thương sâu sắc từ thời thơ ấu](https://coachnamphuong.com/posts/chua-lanh-dua-tre-ben-trong/), có những lấn cấn ta thường gạt bỏ qua một bên vì cho rằng không đáng gì, chỉ như một hạt bụi. Ta chẹp miệng bỏ qua, “không chấp" hay nghĩ rằng mình quá trưởng thành hay từ bi để cần một lời xin lỗi. Hay quá thừa thãi hay câu nệ để nói lời cảm ơn cho những thứ nhỏ bé, vụn vặt. Thế rồi những hạt bụi qua thời gian đóng lại thành một lớp bụi dày, che mờ và “vấy bẩn" những mối quan hệ tưởng như gần gũi nhất.
+Chưa kể đến những [tổn thương sâu sắc từ thời thơ ấu](/posts/chua-lanh-dua-tre-ben-trong/), có những lấn cấn ta thường gạt bỏ qua một bên vì cho rằng không đáng gì, chỉ như một hạt bụi. Ta chẹp miệng bỏ qua, “không chấp" hay nghĩ rằng mình quá trưởng thành hay từ bi để cần một lời xin lỗi. Hay quá thừa thãi hay câu nệ để nói lời cảm ơn cho những thứ nhỏ bé, vụn vặt. Thế rồi những hạt bụi qua thời gian đóng lại thành một lớp bụi dày, che mờ và “vấy bẩn" những mối quan hệ tưởng như gần gũi nhất.
 
 > Trong một mối quan hệ gần gũi như cha mẹ với con cái, vợ với chồng, bạn thân với bạn thân, cái bẫy thường nằm ở chỗ ta mong chờ sự hiểu và thương đã ở đó thì sẽ luôn ở đó mãi. Ví dụ như: "Tôi không cần xin lỗi chồng mình, vì lấy nhau bao nhiêu năm rồi tự phải hiểu nhau chứ!”
 

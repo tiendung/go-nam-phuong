@@ -52,7 +52,7 @@ Chỉ cần 2 bước, tôi gọi là GIEO TRỒNG & CẮT TỈA.
 - Bản thân
 - Các mối quan hệ
 - Sự nghiệp
-- Bất cứ điều gì quan trọng khác đối với bạn, như các mảng trong [Vòng tròn cuộc sống](https://coachnamphuong.com/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach/).
+- Bất cứ điều gì quan trọng khác đối với bạn, như các mảng trong [Vòng tròn cuộc sống](/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach/).
 
 Và hãy để hạt giống lớn thành một cái cây thật tươi tốt trong tâm trí.
 
@@ -95,7 +95,7 @@ Nguyên nhân hàng đầu của việc bỏ dở quyết tâm là vì chúng đ
 
 **Hãy khởi động cho kế hoạch lớn của bạn bằng những thay đổi nhỏ nhưng liên tục, có tính chất tăng dần.**
 
-Khi làm [coaching 1:1](https://coachnamphuong.com/1-on-1-coaching), tôi thường hướng dẫn với phiên bản **“1 phút mỗi ngày"**: Với bất cứ thói quen nào bạn muốn hình thành, hãy chỉ làm nó trong 1 phút của ngày đầu tiên, rồi tăng lên 2 phút vào ngày thứ 2, 3 phút vào ngày thứ 3…Bộ não bạn gần như chẳng nhận ra sự khác biệt giữa các phút này. 
+Khi làm [coaching 1:1](/1-on-1-coaching), tôi thường hướng dẫn với phiên bản **“1 phút mỗi ngày"**: Với bất cứ thói quen nào bạn muốn hình thành, hãy chỉ làm nó trong 1 phút của ngày đầu tiên, rồi tăng lên 2 phút vào ngày thứ 2, 3 phút vào ngày thứ 3…Bộ não bạn gần như chẳng nhận ra sự khác biệt giữa các phút này. 
 
 Cuối tháng đầu tiên, có người sẽ ngồi thiền được trong 30 phút. 
 

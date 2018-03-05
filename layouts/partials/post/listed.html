@@ -2,13 +2,13 @@
   pr3 pr4-ns mb4 box-masonry bg-white" id="{{ .UniqueID }}">
 {{- if .Params.cover_image -}}
   <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
-  <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
+  <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink | relURL }}">
     <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 235 197'%2F%3E"
       data-src="{{ .Params.cover_image }}"
       alt="{{ .Title }}" class="w-100">
   </a>
 {{- end }}
-  <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
+  <a class="db link black-80 hover-silver" href="{{ .Permalink | relURL }}">
     <h3 class="f4 f3-ns fw4 fw6-ns lh-title">{{ .Title | safeHTML }}</h3>
     <p class="f5 fw3 lh-copy mv2">{{ if .Params.quiz }}{{  .Params.description | plainify | safeHTML }}{{ else }}{{  .Summary | plainify | safeHTML }}{{ end }}</p>
     <div class="f6 fw3 gray mt0">

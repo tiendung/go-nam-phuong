@@ -17,7 +17,7 @@
 }
 
 
-Dan Buettner là chủ sở hữu của ba kỷ lục Guinness thế giới riêng biệt cho đi xe đạp đường dài: đạp 15.500 dặm từ Alaska đến Argentina năm 1987, khi anh 27 tuổi; hành trình 12.888 dặm qua Liên Xô vào năm 1990; và một chuyến dạo chơi 12.172 dặm qua Châu Phi hoàn thành vào năm 1992. Nhưng chính [nghiên cứu về tuổi thọ](https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/) được xuất bản lần đầu tiên trong National Geographic mới  thực sự mang đến  thành công của anh về chủ đề này. Người bản địa Minnesota này đã du hành đến năm quốc gia để nghiên cứu những  con người mạnh khoẻ nhất thế giới. Tại Sardinia, Okinawa, Costa Rica, và Loma Linda, California, Buettner hợp tác với các nhà khoa học để kiểm tra các vùng bất thường, nơi số lượng người trăm tuổi vượt trội so với mức trung bình thống kê. Sau đây là 5 khu vực được gọi là [“Những Vùng Xanh" (The Blue Zones)](https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/):
+Dan Buettner là chủ sở hữu của ba kỷ lục Guinness thế giới riêng biệt cho đi xe đạp đường dài: đạp 15.500 dặm từ Alaska đến Argentina năm 1987, khi anh 27 tuổi; hành trình 12.888 dặm qua Liên Xô vào năm 1990; và một chuyến dạo chơi 12.172 dặm qua Châu Phi hoàn thành vào năm 1992. Nhưng chính [nghiên cứu về tuổi thọ](/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/) được xuất bản lần đầu tiên trong National Geographic mới  thực sự mang đến  thành công của anh về chủ đề này. Người bản địa Minnesota này đã du hành đến năm quốc gia để nghiên cứu những  con người mạnh khoẻ nhất thế giới. Tại Sardinia, Okinawa, Costa Rica, và Loma Linda, California, Buettner hợp tác với các nhà khoa học để kiểm tra các vùng bất thường, nơi số lượng người trăm tuổi vượt trội so với mức trung bình thống kê. Sau đây là 5 khu vực được gọi là [“Những Vùng Xanh" (The Blue Zones)](/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/):
 
 - Vùng Barbagia của Sardinia - các vùng cao nguyên của nội địa Sardinia  với mật độ tập trung các ông trăm tuổi cao nhất thế giới.
 
@@ -30,7 +30,7 @@ Dan Buettner là chủ sở hữu của ba kỷ lục Guinness thế giới riê
 - Okinawa, Nhật Bản - Các bà trên 70 tuổi là những người sống lâu nhất trên thế giới.
 
 
-Những khu vực này đã trở thành chủ đề của cuốn sách [The Blue Zones](https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/) : Những bài học để sống lâu hơn từ những người sống lâu nhất (kênh National Geographic). Mặc dù có sự khác biệt lớn về văn hóa và địa lý giữa các vùng đất xa xôi này, nhóm nghiên cứu của Buettner đã xác định được những thực tiễn thông thường mà dường như hỗ trợ hỗ trợ con người sống cực kỳ thọ. Anh gọi đó là "The Power Nine", hoặc chín quy tắc mà bất kỳ người nào có thể làm theo với hy vọng có thể thi đua cùng những người sống lâu nhất thế giới.
+Những khu vực này đã trở thành chủ đề của cuốn sách [The Blue Zones](/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/) : Những bài học để sống lâu hơn từ những người sống lâu nhất (kênh National Geographic). Mặc dù có sự khác biệt lớn về văn hóa và địa lý giữa các vùng đất xa xôi này, nhóm nghiên cứu của Buettner đã xác định được những thực tiễn thông thường mà dường như hỗ trợ hỗ trợ con người sống cực kỳ thọ. Anh gọi đó là "The Power Nine", hoặc chín quy tắc mà bất kỳ người nào có thể làm theo với hy vọng có thể thi đua cùng những người sống lâu nhất thế giới.
 
 {{< figure src="https://i.imgur.com/NlsUhUD.png" alt="the power 9 blue zones" caption="Credit:bluezones.com" class="tc" >}}
 
@@ -76,6 +76,6 @@ Những người sống lâu nhất trên thế giới đã chọn - hoặc đã
 
 Hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> bài viết để người thân bạn bè tham khảo bạn nhé!
 
-Đọc câu chuyện đầy đủ về hành trình tìm kiếm bí mật tuổi thọ của Dan Buettner [ở đây.](https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/)
+Đọc câu chuyện đầy đủ về hành trình tìm kiếm bí mật tuổi thọ của Dan Buettner [ở đây.](/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/)
 
 Dịch tổng hợp từ [National geographic](http://adventure.nationalgeographic.com/2009/06/live-longer-dan-buettner-text/5) và [Bluezones.com]( https://bluezones.com/2016/11/power-9/)
