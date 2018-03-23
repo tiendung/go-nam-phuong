@@ -31,7 +31,7 @@ Thường xuyên sử dụng các chất có cồn, thuốc lá, chất kích th
 Ăn quá nhiều thực phẩm chứa đường, chất béo bão hoà (saturated fat), phụ gia công nghiệp - hai cái này thường có trong thực phẩm chế biến sẵn, fast food, dầu ăn đã hydro hoá toàn phần (hydrogenated oil) hoặc bán phần (partially hydrogenated oil)
 Ăn thực phẩm mà có sử dụng hoá chất trong quá trình nuôi trồng
 Thức khuya, gây ảnh hưởng đến chu trình làm việc của các cơ quan thải độc như gan (thường làm việc từ 11h trở đi)
-Thường xuyên tiếp xúc với các chất độc hại có thể có trong các mặt hàng thường ngày như dầu gội, chất tẩy rửa, đồ dùng nhựa, quần áo, nội thất, và ngay cả NƯỚC UỐNG lẫn KHÔNG KHÍ. Các [nhà khoa học] ước tính (https://www.beyondpesticides.org/resources/pesticide-induced-diseases-database/body-burden) một người trung bình có thể tích đến 500 loại chất độc trong cơ thể, chủ yếu ở các mô mỡ.
+Thường xuyên tiếp xúc với các chất độc hại có thể có trong các mặt hàng thường ngày như dầu gội, chất tẩy rửa, đồ dùng nhựa, quần áo, nội thất, và ngay cả NƯỚC UỐNG lẫn KHÔNG KHÍ. Các [nhà khoa học ước tính] (https://www.beyondpesticides.org/resources/pesticide-induced-diseases-database/body-burden) một người trung bình có thể tích đến 500 loại chất độc trong cơ thể, chủ yếu ở các mô mỡ.
 
 **Thật buồn cười nếu như chúng ta cứ tìm cách thải độc mà lại không thực sự nỗ lực NGỪA ĐỘC ngay từ đầu! Điều đó giống như bạn cố công đi quét dọn 1 ngôi nhà mà ngay ngày mai chính bạn vứt rác tung toé lên nó vậy!**
 
@@ -98,7 +98,7 @@ Những môn như yoga, khí công, bơi lội...là những lựa chọn hàng 
 
 
 ## Nhịn ăn và thanh lọc bằng nước ép
-Nhịn ăn để thanh lọc không đơn thuần là một trào lưu gần đây. Aesculapius, thần y Hy Lạp cổ đã khuyên răn chúng ta: "Thay vì sử dụng thuốc, hãy nhịn ăn". Hầu hết các tôn giáo lớn đều khuyên kiêng, nhịn ăn trong 1 thời gian nhất định để thanh lọc cơ thể lẫn tâm thức. Trong cuộc phỏng vấn của tôi với Lương y Ngô Đức Vượng, thầy đã chia sẻ cơ chế [nhịn ăn chữa ung th] (https://coachnamphuong.com/posts/nham-mat-radio-ky-4-luong-y-ngo-duc-vuong-va-minh-triet-cua-tinh-yeu/) đi kèm với thiền định. Ghandhi cũng thực hiện rất nhiều cuộc nhịn ăn như một phần của triết lý sống "bất bạo động" của mình.
+Nhịn ăn để thanh lọc không đơn thuần là một trào lưu gần đây. Aesculapius, thần y Hy Lạp cổ đã khuyên răn chúng ta: "Thay vì sử dụng thuốc, hãy nhịn ăn". Hầu hết các tôn giáo lớn đều khuyên kiêng, nhịn ăn trong 1 thời gian nhất định để thanh lọc cơ thể lẫn tâm thức. Trong cuộc phỏng vấn của tôi với Lương y Ngô Đức Vượng, thầy đã chia sẻ cơ chế [nhịn ăn chữa ung thư] (https://coachnamphuong.com/posts/nham-mat-radio-ky-4-luong-y-ngo-duc-vuong-va-minh-triet-cua-tinh-yeu/) đi kèm với thiền định. Ghandhi cũng thực hiện rất nhiều cuộc nhịn ăn như một phần của triết lý sống "bất bạo động" của mình.
 
 > Hãy để thời gian nhịn ăn như một thời gian thanh lọc cả cơ thể lẫn tâm hồn. Để sau đó, bạn có một khởi đầu mới lành mạnh theo mọi nghĩa!
 
@@ -111,33 +111,33 @@ Cho nên, việc nhịn ăn chính là cho họ kịp thời xử lý nốt đ�
 > Trái ngược với niềm tin của nhiều người là khi bệnh cần ăn nhiều để bồi bổ, nhịn ăn hữu ích trong quá trình chữa trị và hồi phục cả bệnh cấp tính lẫn mãn tính, tình trạng thiếu sức sống, suy nhược, hay tâm trí bất ổn.
 
 **Có các cách nhịn ăn thanh lọc sau:**
--Nhịn khô: không ăn không uống, tính hiệu quả cao nhưng không phù hợp với người mới tập nhịn và thể trạng không tốt, chỉ nên thực hiện trong 1 ngày.
--Nhịn nước: chỉ uống nước lọc thôi, không ăn không uống gì khác
--Nhịn ăn với nước ép trái cây họ chanh (citrus): chanh, cam, bưởi...
--nhịn ăn với nước ép trái cây họ sub-acid:  táo, các loại dâu, xoài, lê, dứa, mơ, kiwi...
--Nhịn ăn với nước ép rau
--Chỉ ăn trái cây và rau thô, sống
--Chỉ ăn  trái cây và rau thô,  vài loại rau nấu chín, carbohydrates loại tốt, protein thực vật
+- Nhịn khô: không ăn không uống, tính hiệu quả cao nhưng không phù hợp với người mới tập nhịn và thể trạng không tốt, chỉ nên thực hiện trong 1 ngày.
+- Nhịn nước: chỉ uống nước lọc thôi, không ăn không uống gì khác
+- Nhịn ăn với nước ép trái cây họ chanh (citrus): chanh, cam, bưởi...
+- nhịn ăn với nước ép trái cây họ sub-acid:  táo, các loại dâu, xoài, lê, dứa, mơ, kiwi...
+- Nhịn ăn với nước ép rau
+- Chỉ ăn trái cây và rau thô, sống
+- Chỉ ăn  trái cây và rau thô,  vài loại rau nấu chín, carbohydrates loại tốt, protein thực vật
 
 Tuỳ theo tình trạng sức khoẻ và nhu cầu của mình mà mỗi người có thể quyết định chọn phương pháp nào, tốt nhất là bắt đầu từ dễ đến khó (từ dưới lên), từ ngắn hạn lên dài hạn.
 
 **Các lưu ý:**
--Khi nhịn ăn cần sự giám sát, hướng dẫn chặt chẽ của bác sĩ hay chuyên gia dinh dưỡng. Bạn không nên làm theo các lộ trình đưa ra bởi những người nổi tiếng nhưng không hề có chuyên môn về dinh dưỡng, sức khoẻ. Hãy hỏi ý kiến bác sĩ hay nhà trị liệu của bạn nếu có băn khoăn.
+- Khi nhịn ăn cần sự giám sát, hướng dẫn chặt chẽ của bác sĩ hay chuyên gia dinh dưỡng. Bạn không nên làm theo các lộ trình đưa ra bởi những người nổi tiếng nhưng không hề có chuyên môn về dinh dưỡng, sức khoẻ. Hãy hỏi ý kiến bác sĩ hay nhà trị liệu của bạn nếu có băn khoăn.
 
--1 ngày trước và sau khi nhịn cần theo một chế độ ăn uống đơn giản nhất có thể: thuần chay, và ăn ngũ cốc toàn phần thay vì tinh bột trắng. Tối trước đó nếu được hãy bắt đầu nhịn.
+- 1 ngày trước và sau khi nhịn cần theo một chế độ ăn uống đơn giản nhất có thể: thuần chay, và ăn ngũ cốc toàn phần thay vì tinh bột trắng. Tối trước đó nếu được hãy bắt đầu nhịn.
 
--Các ngày sau đó cũng cần thêm thức ăn khác dần dần, tránh gây sốc cho cơ thể bằng cách lại tiếp tục nạp các thức ăn không lành mạnh dồn dập.
+- Các ngày sau đó cũng cần thêm thức ăn khác dần dần, tránh gây sốc cho cơ thể bằng cách lại tiếp tục nạp các thức ăn không lành mạnh dồn dập.
 
--Không cần phải móc túi sử dụng các sản phẩm đắt tiền quảng cáo có tác dụng thanh lọc nghe rất là "thần thánh", có tác dụng chữa cháy đến mức kì ảo. Nếu đọc một bài báo về thanh lọc mà ở trên là ca ngợi công dụng thảo mộc, ở dưới là viên TPBS có đúng thành phần thảo mộc đấy là tự biết nhé!
+- Không cần phải móc túi sử dụng các sản phẩm đắt tiền quảng cáo có tác dụng thanh lọc nghe rất là "thần thánh", có tác dụng chữa cháy đến mức kì ảo. Nếu đọc một bài báo về thanh lọc mà ở trên là ca ngợi công dụng thảo mộc, ở dưới là viên TPBS có đúng thành phần thảo mộc đấy là tự biết nhé!
 
 **Hướng dẫn chi tiết khác**
--Hướng dẫn nhịn khô & nhịn ướt trong 1 ngày
--Hướng dẫn thanh lọc bằng nước ép trong 3 ngày
+- Hướng dẫn nhịn khô & nhịn ướt trong 1 ngày
+- Hướng dẫn thanh lọc bằng nước ép trong 3 ngày
 (sẽ bổ sung thêm)
 
-**Để có giám sát chuyên môn của Health Coach Nam Phương khi thực hiện bất kì 1 phương pháp thanh lọc nào, hãy đăng kí g qua email: namphuong.cf@gmail.com,  hay đt:01696024402.**
+**Để có giám sát chuyên môn của Health Coach Nam Phương khi thực hiện bất kì 1 phương pháp thanh lọc nào, hãy đăng kí g qua email: namphuong.cf@gmail.com,  hay đt: 01696024402.**
 
 Nguồn tham khảo:
-Foodbabe.com
-Bepthucduong.com
-Sách “Minh triết trong ăn uống phương Đông"
+1. Foodbabe.com
+2. Bepthucduong.com
+3. Sách “Minh triết trong ăn uống phương Đông"
