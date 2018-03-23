@@ -21,7 +21,7 @@ Tuần này là Tuần của Lễ Tạ Ơn (Thanksgiving) ở Mỹ, Canada, Qu�
 > “Những người hạnh phúc thực sự là những người luôn biết ơn những điều tưởng như nhỏ nhặt nhất.”
 
 
-Tôi đã đọc câu nói này ở đâu đó và đã chứng thực được điều này trong 1 năm vừa qua, khi tôi liên tục thực hành các Bài tập biết ơn.[Vòng tròn cuộc sống](https://coachnamphuong.com/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach/) của tôi mở rộng hơn bao giờ hết, cho dù thu nhập giảm xuống rất nhiều khi tôi chuyển sang nghề [Health Coach](https://coachnamphuong.com/posts/vi-sao-toi-tro-thanh-1-health-coach/).
+Tôi đã đọc câu nói này ở đâu đó và đã chứng thực được điều này trong 1 năm vừa qua, khi tôi liên tục thực hành các Bài tập biết ơn.[Vòng tròn cuộc sống](/posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach/) của tôi mở rộng hơn bao giờ hết, cho dù thu nhập giảm xuống rất nhiều khi tôi chuyển sang nghề [Health Coach](/posts/vi-sao-toi-tro-thanh-1-health-coach/).
 
 Bạn cũng cần chứng thực về sức mạnh của lòng biết ơn trước khi gật đầu tin tôi hay bất cứ ai.
 
