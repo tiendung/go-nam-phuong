@@ -19,8 +19,8 @@ Thông tin về các sản phẩm & dịch vụ sức khoẻ đang tràn ngập 
 
 Ngược lại, cũng có nhiều người cố gắng tự xây dựng thói quen tốt nhưng thất bại. Họ thường cảm thấy gượng ép, chán chường khi nghĩ đến các lựa chọn “lành mạnh”. Để rồi cảm thấy tủi hổ khi quay trở về con đường cũ.
 Hầu hết chúng ta chưa biết cách đặt mục tiêu cho hợp lý hay thậm chí không có mục tiêu!
-Nhiều cản tâm lý ngăn cản chúng ta hành động. Nhất là khi những gì được khuyến nghị đi ngược với trực giác hoặc niềm tin sẵn có.
-Tôi tin rằng 1 trong những nguyên nhân chính khiến ta thất bại trong việc xây dựng sức khoẻ là vì chúng ta đánh giá quá cao Thông Tin (Information), trong khi cái chúng ta cần là Chuyển đổi (Transformation).
+Nhiều rào cản tâm lý ngăn cản chúng ta hành động. Nhất là khi những gì được khuyến nghị đi ngược với trực giác hoặc niềm tin sẵn có.
+Tôi tin rằng 1 trong những nguyên nhân chính khiến ta thất bại trong việc xây dựng sức khoẻ là vì chúng ta đánh giá quá cao Thông Tin (Information), trong khi cái chúng ta cần là Chuyển hoá (Transformation).
 
 ### Tôi áp dụng những niềm tin cốt lõi sau:
 
@@ -94,11 +94,10 @@ Bạn là người được chủ động đưa ra lựa chọn của mình. Coa
         <tr class="striped--near-white">
           <td class="bn pa1 pa2-ns ttu b">Chi phí</td>
           <td class="bn pa1 pa2-ns b">3,000,000 VND</td>
-          <td class="bn pa1 pa2-ns b">5,500,000 VND*</td>
+          <td class="bn pa1 pa2-ns b">6,000,000 VND</td>
         </tr>
       </tbody>
     </table>
-    <p>(*) Tiết kiệm 500,000VND.</p>
   </div>
 </div>
 

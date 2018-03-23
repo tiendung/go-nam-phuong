@@ -1,11 +1,11 @@
 <article class="db grid-item w-100 w-third-l fl pr0 pr4-l mb4 box-masonry bg-white">
 {{- if .Params.cover_image -}}
   <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
-  <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink }}">
+  <a class="box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink | relURL }}">
     <img src="{{ .Params.cover_image }}" alt="{{ .Title }}" class="w-100">
   </a>
 {{- end }}
-  <a class="db link black-80 hover-silver" href="{{ .Permalink }}">
+  <a class="db link black-80 hover-silver" href="{{ .Permalink | relURL }}">
     <h3 class="f4 fw4 fw5-ns mt0 pt2 lh-title">{{ .Title | safeHTML }}</h3>
   </a>
 </article><!-- grid-item -->
