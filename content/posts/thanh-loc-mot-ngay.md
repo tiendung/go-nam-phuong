@@ -36,6 +36,7 @@ Bữa sáng: cơm gạo lứt với rau củ quả, đậu khuôn hoặc tempeh
 Bữa tối: ăn súp nhẹ, hoặc hoa quả, hoặc nước ép hoa quả (thêm chút muối)
 
 **Ngày nhịn:**
+
 - Sáng mới thức dậy uống tầm 250ml nước chanh muối. Sau đó cả ngày uống 2l nước lọc. Tuỳ cơ thể, có thể tăng giảm lượng nước theo nhu cầu, sao cho cảm thấy thoải mái là được. Mỗi lần không uống quá 250ml.
 
 - Đối với nhịn nước:
@@ -47,6 +48,7 @@ Nếu thấy đói giữa các bữa thì có thể uống thêm không quá 300
 - Đối với nhịn khô: Ngoài uống nước chanh muối như hướng dẫn trên thì cả ngày không ăn uống gì nữa, tính từ lúc mặt trời mọc của ngày nhịn đến lúc mặt trời mọc của ngày xả.
 
 **Ngày xả:**
+
 - Sáng dậy sớm (5-6am), vệ sinh cá nhân xong thì uống nước chanh pha theo tỉ lệ sau:
 1-1,5l nước ấm + 1-2 thì cà phê muối trắng + 1 trái chanh
 - Cố gắng uống hết toàn bộ trong thời gian ngắn nhất, có thể chia ra 4-5 ly, mỗi ly uống trong vài phút.
