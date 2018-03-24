@@ -105,6 +105,7 @@ Cho nên, việc nhịn ăn chính là cho họ kịp thời xử lý nốt đ�
 > Trái ngược với niềm tin của nhiều người là khi bệnh cần ăn nhiều để bồi bổ, nhịn ăn hữu ích trong quá trình chữa trị và hồi phục cả bệnh cấp tính lẫn mãn tính, tình trạng thiếu sức sống, suy nhược, hay tâm trí bất ổn.
 
 **Có các cách nhịn ăn thanh lọc sau:**
+
 - Nhịn khô: không ăn không uống, tính hiệu quả cao nhưng không phù hợp với người mới tập nhịn và thể trạng không tốt, chỉ nên thực hiện trong 1 ngày.
 - Nhịn nước: chỉ uống nước lọc thôi, không ăn không uống gì khác
 - Nhịn ăn với nước ép trái cây họ chanh (citrus): chanh, cam, bưởi...
@@ -116,6 +117,7 @@ Cho nên, việc nhịn ăn chính là cho họ kịp thời xử lý nốt đ�
 Tuỳ theo tình trạng sức khoẻ và nhu cầu của mình mà mỗi người có thể quyết định chọn phương pháp nào, tốt nhất là bắt đầu từ dễ đến khó (từ dưới lên), từ ngắn hạn lên dài hạn.
 
 **Các lưu ý:**
+
 - Khi nhịn ăn cần sự giám sát, hướng dẫn chặt chẽ của bác sĩ hay chuyên gia dinh dưỡng. Bạn không nên làm theo các lộ trình đưa ra bởi những người nổi tiếng nhưng không hề có chuyên môn về dinh dưỡng, sức khoẻ. Hãy hỏi ý kiến bác sĩ hay nhà trị liệu của bạn nếu có băn khoăn.
 
 - 1 ngày trước và sau khi nhịn cần theo một chế độ ăn uống đơn giản nhất có thể: thuần chay, và ăn ngũ cốc toàn phần thay vì tinh bột trắng. Tối trước đó nếu được hãy bắt đầu nhịn.
