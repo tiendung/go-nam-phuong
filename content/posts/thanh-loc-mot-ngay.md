@@ -24,7 +24,7 @@ Có rất nhiều phương pháp thanh lọc, nhưng phương pháp này phù h�
 
 **Miễn trừ trách nhiệm (Disclaimers):** Đây là hướng dẫn chung cho tất cả mọi người, không nhằm thay thế ý kiến của bác sĩ hay các nhà chuyên môn y khoa khác. Nếu như sức khoẻ của bạn có vấn đề cần lưu ý, hãy hỏi ý kiến của người đang điều trị cho bạn trước khi thực hiện. Tôi sẽ không chịu trách nhiệm cho bất kỳ  thiệt hại hay điều không may nào xảy ra cho bạn khi thực hiện phương pháp này.
 
-Ngày khởi động trước khi nhịn
+**Ngày khởi động trước khi nhịn**
 
 - Nên tránh đạm động vật, tinh bột trắng
 - Ăn rau củ quả, uống nhiều nước lọc, ăn thức ăn dễ tiêu hoá

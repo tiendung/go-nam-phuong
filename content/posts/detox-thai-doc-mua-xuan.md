@@ -4,12 +4,6 @@
       "thanh lọc", "thải độc"
    ],
    "cover_image": "https://i.imgur.com/h0aoYbb.jpg",
-  "header": {
-    "image": "https://i.imgur.com/undefined.jpeg",
-    "layout": "hero",
-    "navigation": "fancy",
-    "class": "bg-darken-50 bg-darken-25-l bg-center"
-  },
    "date": "2018-03-23",
    "description": "Tất tần tật về thải độc",
    "tags": [
@@ -43,7 +37,7 @@ Cùng nhìn lại hệ thống thải độc tuyệt vời trong cơ thể bạn
 
 {{< figure src="https://i.imgur.com/kWdxsie.png" alt="hệ thống thải độc tự nhiên của cơ thể" class="tl" >}}
 
-Phạm vào 5 sai lầm ở trên chính là bóc lột sức lao động của các cơ quan này và khiến chúng sớm kiệt quệ. Tôi rất thông cảm nếu như bạn vô tình tích độc vô người, bởi chính tôi khi còn mải mê kiếm tiền ở thành thị cũng đã bỏ qua rất nhiều loại độc chất, hoặc có biết thì cũng đành chấp nhận vì chưa thể tìm ra giải pháp. Vì vậy, tôi sẽ cố gắng hướng dẫn chi tiết cho bạn trong loạt bài viết trên website và [fanpage] (http://www.facebook.com/coachnamphuong).
+Phạm vào 5 sai lầm ở trên chính là bóc lột sức lao động của các cơ quan này và khiến chúng sớm kiệt quệ. Tôi rất thông cảm nếu như bạn vô tình tích độc vô người, bởi chính tôi khi còn mải mê kiếm tiền ở thành thị cũng đã bỏ qua rất nhiều loại độc chất, hoặc có biết thì cũng đành chấp nhận vì chưa thể tìm ra giải pháp. Vì vậy, tôi sẽ cố gắng hướng dẫn chi tiết cho bạn trong loạt bài viết trên website và [fanpage](http://www.facebook.com/coachnamphuong).
 
 ## Tạo điều kiện cho cơ thể tự thải độc bằng cách nào?
 Thực phẩm tự nhiên, massage, vận khí, thảo mộc và nhịn ăn là các phương pháp thải độc, thanh lọc đã được các nền y học cổ truyền phương Đông đề cập.
@@ -52,27 +46,27 @@ Thực phẩm tự nhiên, massage, vận khí, thảo mộc và nhịn ăn là 
 
 {{< figure src="https://i.imgur.com/NvW3PWu.jpg" alt="ăn rau củ quả" class="tl" >}}
 
-Lý do siêu đơn giản: chất xơ trong khẩu phần ăn hàng ngày có tác dụng như "cây chổi" quét sạch chất độc ra khỏi cơ thể (Nguồn: 1, 2). Ngoài ra, các loại thực vật nói chung còn có nhiều công dụng thanh lọc tự nhiên mà sau đây là vài ví dụ:
+Lý do siêu đơn giản: chất xơ trong khẩu phần ăn hàng ngày có tác dụng như "cây chổi" quét sạch chất độc ra khỏi cơ thể (Nguồn: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3654245/), [2](http://www.ncbi.nlm.nih.gov/pubmed/10552878/)). Ngoài ra, các loại thực vật nói chung còn có nhiều công dụng thanh lọc tự nhiên mà sau đây là vài ví dụ:
 
--Hành tỏi có thể giúp loại bỏ kim loại nặng ra khỏi cơ thể, ngăn ngừa tổn thương thận (Nguồn: 1, 2, 3, 4, 5, 6, 7). Chúng giàu sulfur, giúp cơ thể sản sinh thêm glutathione - một chất chống oxy hoá quan trọng  giúp đẩy chất độc ra khỏi cơ thể (nguồn: 1, 2).
+-Hành tỏi có thể giúp loại bỏ kim loại nặng ra khỏi cơ thể, ngăn ngừa tổn thương thận (Nguồn: [1](http://www.ncbi.nlm.nih.gov/pubmed/18521705), [2](http://www.ncbi.nlm.nih.gov/pubmed/3268178), [3](http://www.ncbi.nlm.nih.gov/pubmed/3520155), [4](http://www.ncbi.nlm.nih.gov/pubmed/11448543), [5](https://mdanderson.influuent.utsystem.edu/en/publications/influence-of-garlic-on-the-disposition-and-toxicity-of-lead-and-c), [6](http://www.ncbi.nlm.nih.gov/pubmed/8205968), [7](http://www.ncbi.nlm.nih.gov/pubmed/22151785)). Chúng giàu sulfur, giúp cơ thể sản sinh thêm glutathione - một chất chống oxy hoá quan trọng  giúp đẩy chất độc ra khỏi cơ thể (nguồn: [1](http://www.huffingtonpost.com/dr-mark-hyman/glutathione-the-mother-of_b_530494.html), [2](https://goo.gl/trBhrZ)).
 
--Tảo Chlorella giúp loại bỏ thuỷ ngân tích tụ trong đường tiêu hoá, cơ, xương. (1)
+-Tảo Chlorella giúp loại bỏ thuỷ ngân tích tụ trong đường tiêu hoá, cơ, xương. ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055906/))
 
--Vitamin B1 có trong ngũ cốc lứt, đậu hạt, rau chân vịt giúp tăng cường việc thải chì ra khỏi cơ thể (1), Ăn đủ vitamin B1 cũng ngăn hấp thụ chì, giảm lượng chì trong máu.
+-Vitamin B1 có trong ngũ cốc lứt, đậu hạt, rau chân vịt giúp tăng cường việc thải chì ra khỏi cơ thể ([1](https://www.sciencedirect.com/science/article/pii/0378427487901354)), Ăn đủ vitamin B1 cũng [ngăn hấp thụ chì](http://www.ncbi.nlm.nih.gov/pubmed/2707476), [giảm lượng chì trong máu](http://www.ncbi.nlm.nih.gov/pubmed/15670978).
 
--Hạt hướng dương, bơ, hạnh nhân cũng giàu vitamin E, một chất chống oxy hoá giúp bảo vệ cơ thể khỏi methylmercury  (nguồn: 1, 2, 3). Đặc biệt là bơ có thể giúp gan khoẻ mạnh hơn.
+-Hạt hướng dương, bơ, hạnh nhân cũng giàu vitamin E, một chất chống oxy hoá giúp bảo vệ cơ thể khỏi methylmercury  (nguồn: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1533267/pdf/envhper00536-0213.pdf), [2](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1637175/pdf/envhper00482-0073.pdf), [3](https://www.researchgate.net/publication/282689498_The_protective_effect_of_vitamin_E_and_selenium_against_methyl_mercury_toxicity_in_the_Japanese_quail)). Đặc biệt là bơ có thể giúp [gan khoẻ mạnh hơn](https://www.sciencedaily.com/releases/2000/12/001219074822.htm).
 
--Những thực phẩm giàu calci như rau lá xanh đậm, hạnh nhân, cá mòi bảo vệ cơ thể khỏi chì.
+-Những thực phẩm giàu calci như rau lá xanh đậm, hạnh nhân, cá mòi [bảo vệ cơ thể khỏi chì](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1533267/pdf/envhper00536-0213.pdf).
 
--Nước chanh kích thích gan làm việc mạnh mẽ, giúp thải bỏ độc tố (nguồn: 1, 2). Vitamin C trong nước chanh cũng được dùng để sản sinh thêm glutathione.(nguồn: 1, 2, 3, 4)
+-Nước chanh kích thích gan làm việc mạnh mẽ, giúp thải bỏ độc tố (nguồn: [1](http://draxe.com/benefits-of-lemon-water/), [2](https://bmcpharma.biomedcentral.com/articles/10.1186/1471-2210-5-2)). Vitamin C trong nước chanh cũng được dùng để sản sinh thêm glutathione. (nguồn: [1](http://ajcn.nutrition.org/content/58/1/103.abstract), [2](http://ajcn.nutrition.org/content/77/1/189.full), [3](http://www.huffingtonpost.com/dr-mark-hyman/glutathione-the-mother-of_b_530494.html), [4](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2596047/pdf/yjbm00117-0089.pdf))
 
--Đậu gà, hạt bí giàu chất kẽm, một khoáng chất giúp bảo vệ thận khỏi cadmium và có thể loại bỏ các chiệu chứng nhiễm độc cadmium (: 1, 2, 3)
+-Đậu gà, hạt bí giàu chất kẽm, một khoáng chất giúp bảo vệ thận khỏi cadmium và có thể loại bỏ các chiệu chứng nhiễm độc cadmium (: [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1533267/pdf/envhper00536-0213.pdf), [2](http://ps.oxfordjournals.org/content/40/3/827), [3](http://ijt.arakmu.ac.ir/article-1-376-en.pdf))
 
--Rau ngò tăng cường khả năng thải độc kim loại nặng như chì, thuỷ ngân (nguồn:1, 2). Thậm chí nó cũng giúp lọc nước uống đã nhiễm những chất độc này!
+-Rau ngò tăng cường khả năng thải độc kim loại nặng như chì, thuỷ ngân (nguồn: [1](http://www.ncbi.nlm.nih.gov/pubmed/11535365), [2](http://www.ncbi.nlm.nih.gov/pubmed/8914687)). Thậm chí nó cũng giúp [lọc nước uống](http://healthland.time.com/2013/09/12/cilantro-more-than-an-herb-it-can-purify-water-too/) đã nhiễm những chất độc này!
 
--Vi khuẩn lactic trong kimchi (thức ăn lên men yêu thích của tôi!) đã được chứng minh giúp giảm hàm lượng thuốc trừ sâu. Probiotics cũng giúp bảo vệ cơ thể khỏi nhiễm BPA-1 chất phá hoại nội tiết, thải bỏ các kim loại nặng và các chất nitrosamine gây ung thư.
+-Vi khuẩn lactic trong kimchi (thức ăn lên men yêu thích của tôi!) đã được chứng minh giúp [giảm hàm lượng thuốc trừ sâu](http://www.ncbi.nlm.nih.gov/pubmed/19199784). Probiotics cũng giúp [bảo vệ cơ thể khỏi nhiễm BPA](http://www.ncbi.nlm.nih.gov/pubmed/18540113)-1 chất phá hoại nội tiết, [thải bỏ các kim loại nặng](http://www.ncbi.nlm.nih.gov/pubmed/22798364) và [các chất nitrosamine gây ung thư](http://www.ncbi.nlm.nih.gov/pubmed/25010287).
 
--Củ cải tía giữ gan khoẻ mạnh để nó có thể làm tốt công việc lọc các  chất độc ra khỏi máu.(nguồn: 1, 2, 3)
+-Củ cải tía giữ gan khoẻ mạnh để nó có thể làm tốt công việc lọc các  chất độc ra khỏi máu.(nguồn: [1](http://www.ncbi.nlm.nih.gov/pubmed/17234508), [2](http://www.ncbi.nlm.nih.gov/pubmed/11520257), [3](http://link.springer.com/article/10.1007/s12272-011-0510-8))
 
 -Hay đơn thuần uống nước được lọc sạch mỗi ngày thay cho các loại nước ngọt, nước uống đóng chai khác đã giúp giảm bớt đầu việc cho thận rất nhiều!
 
@@ -131,11 +125,11 @@ Tuỳ theo tình trạng sức khoẻ và nhu cầu của mình mà mỗi ngư�
 - Không cần phải móc túi sử dụng các sản phẩm đắt tiền quảng cáo có tác dụng thanh lọc nghe rất là "thần thánh", có tác dụng chữa cháy đến mức kì ảo. Nếu đọc một bài báo về thanh lọc mà ở trên là ca ngợi công dụng thảo mộc, ở dưới là viên TPBS có đúng thành phần thảo mộc đấy là tự biết nhé!
 
 **Hướng dẫn chi tiết khác**
-- Hướng dẫn nhịn khô & nhịn ướt trong 1 ngày
+- [Hướng dẫn nhịn khô & nhịn ướt trong 1 ngày](/posts/thanh-loc-mot-ngay/)
 - Hướng dẫn thanh lọc bằng nước ép trong 3 ngày
 (sẽ bổ sung thêm)
 
-**Để có giám sát chuyên môn của Health Coach Nam Phương khi thực hiện bất kì 1 phương pháp thanh lọc nào, hãy đăng kí g qua email: namphuong.cf@gmail.com,  hay đt: 01696024402.**
+**Để có giám sát chuyên môn của Health Coach Nam Phương khi thực hiện bất kì 1 phương pháp thanh lọc nào, hãy đăng kí qua email: namphuong.cf@gmail.com,  hay đt: 01696024402.**
 
 Nguồn tham khảo:
 1. Foodbabe.com
