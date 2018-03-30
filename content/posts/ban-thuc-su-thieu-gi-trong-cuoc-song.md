@@ -1843,7 +1843,7 @@
                "originalImageURL": "//cdn.playbuzz.com/cdn/ccaece10-897c-43c1-9d3c-8c700270b54a/41030e3d-3a0b-4b4f-9cc3-4328ae76b2e4.jpg",
                "width": "640"
             },
-            "text": "Bạn là một người có nội tâm sâu sắc, giàu cảm xúc và yêu thiên nhiên. Nếu được đặt trong môi trường phù hợp, bạn có thể phát huy năng lực của bản thân lên mức đáng ngạc nhiên.\n\nTuy nhiên, môi trường sống hiện tại đang làm bạn cảm thấy ngột ngạt, gò ép hay buồn chán. Nếu như bạn có những dấu hiệu như: mệt mỏi nhưng cũng không thấy muốn về nhà, luôn ước phải cải thiện chỗ này chỗ kia của phòng, cảm thấy tù túng...thì đã đến lúc bạn nên xem xét lại việc thay đổi môi trường đang sống hoặc ít nhất là làm 1 số việc để cải thiện nó. Có rất nhiều cách đơn giản bạn có thể làm ngay lúc này: download 100 cách quét dọn cuộc sống [ở đây](http://coachnamphuong.com/quet-don-cuoc-song-register) nhé.",
+            "text": "Bạn là một người có nội tâm sâu sắc, giàu cảm xúc và yêu thiên nhiên. Nếu được đặt trong môi trường phù hợp, bạn có thể phát huy năng lực của bản thân lên mức đáng ngạc nhiên.\n\nTuy nhiên, môi trường sống hiện tại đang làm bạn cảm thấy ngột ngạt, gò ép hay buồn chán. Nếu như bạn có những dấu hiệu như: mệt mỏi nhưng cũng không thấy muốn về nhà, luôn ước phải cải thiện chỗ này chỗ kia của phòng, cảm thấy tù túng...thì đã đến lúc bạn nên xem xét lại việc thay đổi môi trường đang sống hoặc ít nhất là làm 1 số việc để cải thiện nó.",
             "title": "Bạn cần cải thiện môi trường sống"
          },
          {
