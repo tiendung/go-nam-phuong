@@ -142,8 +142,13 @@ Cồn: có cần phải nói thêm không? Đã độc càng thêm độc!
 **NGUỒN THAM  KHẢO:**
 
 (1) Jaishankar, M., Tseten, T., Anbalagan, N., Mathew, B. B., & Beeregowda, K. N. (2014). Toxicity, mechanism and health effects of some heavy metals. Interdisciplinary Toxicology, 7(2), 60–72.
+
 (2) https://myersdetox.com/unlocking-human-performance-with-hair-mineral-analysis/
+
 (3) [[Sách “Thoát khỏi ung thư"](https://tiki.vn/thoat-khoi-ung-thu-p403080.html)
+
 (4) [Hướng dẫn thải độc kim loại nặng của Dr.Axe](https://draxe.com/heavy-metal-detox/)
+
 (5) [Hướng dẫn sử dụng than hoạt tinh của Dr.Axe](https://draxe.com/activated-charcoal-uses/)
+
 (6) [Cục quản lý Thực phẩm & Dược Hoa Kỳ](https://www.fda.gov/food/foodborneillnesscontaminants/metals/ucm115644.htm)
