@@ -11,7 +11,7 @@
     "class": "bg-darken-50 bg-darken-25-l bg-center"
   },
    "date": "2018-03-23",
-   "description": "Hướng dẫn thanh lọc siêu đơn giản này có thể được thực hiện hàng tháng mà không tốn công chuẩn bị.",
+   "description": "Nhiễm độc kim loại nặng đang trở thành vấn đề 'không thể tránh khỏi' đối với cư dân thành thị. Hãy đọc để phòng tránh cho mình và người thân. ",
    "tags": [
             "thanh lọc", "detox", "thải độc", "kim loại", "nặng"
    ],
