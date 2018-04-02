@@ -1,7 +1,7 @@
 {
    "author": "boo",
    "categories": [
-      "thải độc", “thanh lọc"
+      "thải độc", "thanh lọc"
    ],
    "cover_image": "https://i.imgur.com/zZ097BD.jpg",
   "header": {
@@ -13,9 +13,9 @@
    "date": "2018-03-23",
    "description": "Hướng dẫn thanh lọc siêu đơn giản này có thể được thực hiện hàng tháng mà không tốn công chuẩn bị.",
    "tags": [
-            "thanh lọc", "detox", "thải độc", "kim loại", “nặng"
+            "thanh lọc", "detox", "thải độc", "kim loại", "nặng"
    ],
-"Title": “Thải độc kim loại nặng"
+"Title": "Thải độc kim loại nặng"
 }
 
 
