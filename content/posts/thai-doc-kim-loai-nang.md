@@ -19,7 +19,7 @@
 }
 
 
-** Miễn trừ trách nhiệm (Disclaimers)**: Đây là hướng dẫn chung cho tất cả mọi người, không nhằm thay thế ý kiến của bác sĩ hay các nhà chuyên môn y khoa khác. Nếu như sức khoẻ của bạn có vấn đề cần lưu ý, hãy hỏi ý kiến của người đang điều trị cho bạn trước khi thực hiện. Tôi sẽ không chịu trách nhiệm cho bất kỳ thiệt hại hay điều không may nào xảy ra cho bạn khi thực hiện theo hướng dẫn này.
+**Miễn trừ trách nhiệm (Disclaimers)**: Đây là hướng dẫn chung cho tất cả mọi người, không nhằm thay thế ý kiến của bác sĩ hay các nhà chuyên môn y khoa khác. Nếu như sức khoẻ của bạn có vấn đề cần lưu ý, hãy hỏi ý kiến của người đang điều trị cho bạn trước khi thực hiện. Tôi sẽ không chịu trách nhiệm cho bất kỳ thiệt hại hay điều không may nào xảy ra cho bạn khi thực hiện theo hướng dẫn này.
 
 Bạn cũng có thể đăng kí [Coaching 1:1](http://coachnamphuong.com/1-on-1-coaching) để có sự trợ giúp thay đổi từ từ và bền vững.
 
@@ -30,7 +30,8 @@ Dù bạn là ai, bạn cũng cần biết về nhiễm độc kim loại nặng
 ## "Kim loại nặng" là những gì?
 [Kim loại nặng](https://en.wikipedia.org/wiki/Heavy_metals) là các kim loại có cấu trúc hoá học đậm đặc, trọng lượng nguyên tử và số nguyên tử cao. **Sinh ra từ đất, chúng có thể đi vào không khí, nước hoặc...thực phẩm**. Thuỷ ngân có thể được tìm thấy trong nước, được lưu trữ trong thịt cá và có thể vẫn được nha sĩ sử dụng để làm răng (!). Chì có thể được tìm thấy trong ống cống, rồi có thể đi vào nguồn cung cấp nước, và còn có thể bị hấp thụ qua DA! Ngay cả những thứ như thuốc khử mùi và dụng cụ nấu bếp có thể là nguồn tiếp xúc kim loại nặng.
 
-{{< figure src="https://i.imgur.com/PJBP71n.jpg" alt=”nhiễm độc kim loại nặng từ sản xuất công nghiệp" class="tl" >}}
+{{< figure src="https://i.imgur.com/PJBP71n.jpg" alt="nhiễm độc kim loại nặng từ sản xuất công nghiệp" class="tl" >}}
+
 ## Nhiễm độc kim loại nặng xảy ra như thế nào?
 
 Một số kim loại  với liều lượng nhỏ thì không thành vấn đề và thậm chí là cần thiết (như đồng), nhưng những loại nguy hiểm như chì, thuỷ ngân, chromium,  cadmium, asen...có thể tích tụ với tốc độ nhanh hơn mà tốc độ cơ thể có thể đào thải. Tuỳ mức độ  phơi nhiễm mà có thể dẫn đến nhiều rối loạn sức khoẻ và thậm chí là tử vong.
@@ -95,17 +96,23 @@ Bước 1: "mở khoá" giải phóng các kim loại nặng đang bị tích t�
 Bước 2:  "còng tay" những tên tội phạm nguy hiểm này và"dẫn độ" chúng ra khỏi cơ thể càng nhanh càng tốt.
 
 > Thải độc kim loại nặng đòi hỏi đặc biệt cẩn trọng, bởi mỗi loại kim loại nặng đòi hỏi phương pháp xử lý khác nhau. Nếu nghi ngờ mình bị nhiễm độc, hãy tìm sự kiểm tra, giám sát quá trình thải độc từ các bác sĩ uy tín.
+
 {{< figure src="https://i.imgur.com/ub5vNK0.png" alt="thải độc kim loại nặng" class="tl" >}}
+
 ## Các phương pháp điều trị an toàn:
+
 _Điều trị Chelation:_ là liệu pháp đặc biệt làm sạch động mạch. Bác sĩ sẽ tiêm axit ethylenediaminetetraacetic (EDTA) vào máu thông qua tĩnh mạch, sau đó chúng sẽ tự tìm kiếm và kết hợp với các loại khoáng chất có trong máu. Khi đã kết thành khối cùng với kim loại nặng, nó tạo thành một hợp chất bài tiết và được thải ra qua đường tiết niệu. Thực ra chelat là quá trình tự nhiên được thực hiện trong cơ thể ta hàng ngày Ví dụ, khi hemoglobin liên kết với oxy thì hemoglobin đang chelat oxy. Tất nhiên khi ứng dụng cho việc thải độc, **bạn không thể tự làm mà phải nhờ đến cơ sở y khoa uy tín**. Nếu được thực hiện một cách chính xác thì liệu pháp này an toàn. Tuy nhiên,  **phải tiếp tục bổ sung dinh dưỡng đầy đủ** vì liệu pháp này sẽ loại bỏ cả 1 số dưỡng chất trong cơ thể. Nên hãy ăn trước và trong khi điều trị, và uống nước đầy đủ nữa. (3) Như đã nói ở trên, hầu hết mỗi người cần ít nhất 5 đợt chelat để có kết quả tốt. Mặc dù được coi là an toàn, cũng có thể có tác dụng phụ như: ói mửa, chóng mặt, sốt, đau đầu, giảm đường huyết hay thay đổi huyết áp. (Tôi hy vọng bác sĩ của bạn sẽ nói rõ tất cả! **Nếu không hãy hỏi kỹ vào.**)
+
 _Than hoạt tính:_  là phương pháp xử lý để loại bỏ các kim loại và các chất độc thông qua sự hấp phụ, hay phản ứng hóa học nơi mà các phần tử kết thành 1 khối với một bề mặt. Bề mặt xốp của than hoạt tính có điện tích âm nên hút các chất độc và khí độc tích điện dương. Than hoạt tính có tác dụng mạnh mẽ đến mức nó được sử dụng như một biện pháp khẩn cấp để loại bỏ độc tố ra khỏi cơ thể rất nhanh (12). Nếu như lỡ trúng một loại độc tố nào đó (kể cả ngộ độc rượu), bạn có thể uống ngay 1 thìa canh bột than hoạt tính với nhiều nước. Nó có đầy đủ cacbon và có thể giúp loại bỏ kim loại nặng và các chất độc khác. Tìm kiếm than hoạt tính được làm từ gáo dừa hoặc các loại gỗ có hạt siêu mịn. Rồi làm theo chỉ dẫn của loại cụ thể mà bạn dùng. Bất cứ khi nào bạn dùng than hoạt tính, bạn phải uống gấp đôi - gấp 3 lượng nước bạn dùng hàng ngày. Nên phương pháp này **chỉ nên dùng cho các trường hợp thải độc ngắn ngày (2 ngày -1 tuần), không nên dùng dài ngày mà không có sự hướng dẫn của người có chuyên môn.**
+
 _Đất sét bentonite:_ là loại đất sét từ tro núi lửa,  được sử dụng để hấp thụ độc tố vì chúng hoạt động như một miếng bọt biển hoặc nam châm hút các hóa chất và kim loại bên trong cơ thể. (13) Do tính chất poly-cationic của nó, nó hấp thu các chất độc tích điện âm. Hầu hết các loại đất sét chỉ dùng cho mục đích sử dụng nào đó, chứ không dùng để ăn. Tuy nhiên, một số loại đất sét hữu cơ chất lượng cao có thể được sử dụng để ăn hoặc uống, mặc dù bạn cần phải cẩn thận khi làm việc này (liên hệ với nhà sản xuất để hỏi kĩ về tính an toàn của nó). Về mặt lịch sử, nhiều nền văn hoá đã dùng đất sét để lấy các khoáng chất và giúp làm sạch cơ thể ký sinh trùng, vi khuẩn. Sau khi có loại **đất sét hữu cơ và an toàn**, trộn 1/2 muỗng cà phê với nước, lắc đều và uống hàng ngày. Lưu ý là nếu như uống loại không an toàn thì còn nguy hiểm hơn vì chính nó có thể chứa kim loại nặng. **Tốt nhất trẻ em và phụ nữ mang thai không nên dùng.**
+
 _Triphala:_ là một công thức thảo dược Ayurvedic truyền thống được làm từ bột khô của ba loại trái cây khác nhau có chứa chất chống oxy hoá mạnh, là acid gallic, axit ellagic và axit chebulinic.  (14) Triphala có khả năng kháng khuẩn, chống viêm và chống tiêu chảy. Tiêu thụ triphala có thể giúp làm sạch đường tiêu hóa, giảm táo bón và vận động ruột thường xuyên, là điều quan trọng để loại bỏ kim loại, vi khuẩn và axit béo dư thừa ra khỏi cơ thể. Nó có thể được dùng dưới dạng trà, dạng bột, dạng chất lỏng hoặc trong dạng viên nang. Hãy dùng khi dạ dày rỗng, tốt nhất là khoảng hai giờ trước khi đi ngủ.
+
 _Phòng xông hơi hồng ngoại ( mang tính hỗ trợ):_ Không giống như phòng xông hơi thông thường, phòng xông hơi hồng ngoại làm tăng nhiệt độ cơ thể của bạn, tăng cường quá trình trao đổi chất. Bằng cách đó, nó hỗ trợ các hệ thống thải độc tự nhiên để giúp giải phóng độc tố lưu trữ trong cơ thể.
 Kem chống ngứa (hỗ trợ): Nếu bạn bị ngứa ngáy khó chịu trước hoặc trong suốt quá trình thải độc, hãy bôi kem chống ngứa để giảm . Bạn cũng có thể tự làm từ đất sét bentonite với công thức đơn giản sau:  Trộn đất sét trong bát với một chút nước lọc cho đến khi kết dính như bơ đậu phộng. Sau đó, chỉ cần đắp keo dính này  lên vùng ngứa, để cho khô, sau đó rửa sạch  rồi bóc ra.
 
 {{< figure src="https://i.imgur.com/AYkrFTo.gif" alt="thải độc kim loại nặng" class="tl" >}}
-
 
 
 ## Thực phẩm nên ăn trong thời gian làm thải độc kim loại:
@@ -118,7 +125,7 @@ Các loại hạt chứa omega-3: như óc chó, chia còn bao gồm chất xơ 
 Nước xương: cung cấp nhiều loại khoáng chất quan trọng, nhưng tốt nhất nên ninh xương cùng với rau củ quả, và chỉ dùng nguyên liệu động vật sạch nhé.
 Uống nước lọc thay vì các nước uống đóng chai
 
-**BẠN CÓ THỂ ĂN THEO THỰC ĐƠN 3 NGÀY THẢI ĐỘC MÙA XU N [Ở Đ Y.] (http://coachnamphuong.com/thai-doc-mua-xuan-register/thank-you)** Đây là menu thải độc rất nhẹ nhàng mà hiệu quả do tôi tổng hợp từ các nguồn uy tín và điều chỉnh cho phù hợp với cơ địa người Việt. 
+**BẠN CÓ THỂ ĂN THEO THỰC ĐƠN 3 NGÀY THẢI ĐỘC MÙA XUÂN [Ở đây](http://coachnamphuong.com/thai-doc-mua-xuan-register/thank-you)** Đây là menu thải độc rất nhẹ nhàng mà hiệu quả do tôi tổng hợp từ các nguồn uy tín và điều chỉnh cho phù hợp với cơ địa người Việt. 
 
 ## Thực phẩm cần tránh trong thời gian làm thải độc kim loại:
 
@@ -136,7 +143,7 @@ Cồn: có cần phải nói thêm không? Đã độc càng thêm độc!
 
 (1) Jaishankar, M., Tseten, T., Anbalagan, N., Mathew, B. B., & Beeregowda, K. N. (2014). Toxicity, mechanism and health effects of some heavy metals. Interdisciplinary Toxicology, 7(2), 60–72.
 (2) https://myersdetox.com/unlocking-human-performance-with-hair-mineral-analysis/
-(3) Sách “Thoát khỏi ung thư"
-(4) Hướng dẫn thải độc Kim loại nặng của Dr.Axe
-(5) Hướng dẫn sử dụng than hoạt tinh của Dr.Axe 
-(6) Cục quản lý Thực phẩm & Dược Hoa Kỳ
+(3) [[Sách “Thoát khỏi ung thư"](https://tiki.vn/thoat-khoi-ung-thu-p403080.html)
+(4) [Hướng dẫn thải độc kim loại nặng của Dr.Axe](https://draxe.com/heavy-metal-detox/)
+(5) [Hướng dẫn sử dụng than hoạt tinh của Dr.Axe](https://draxe.com/activated-charcoal-uses/)
+(6) [Cục quản lý Thực phẩm & Dược Hoa Kỳ](https://www.fda.gov/food/foodborneillnesscontaminants/metals/ucm115644.htm)
