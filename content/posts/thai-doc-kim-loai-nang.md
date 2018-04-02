@@ -28,7 +28,7 @@ Bạn cũng có thể đăng kí [Coaching 1:1](http://coachnamphuong.com/1-on-1
 Dù bạn là ai, bạn cũng cần biết về nhiễm độc kim loại nặng. Ngược lại với niềm tin ngây thơ rằng chuyện này chỉ xảy ra với những người sống gần những nhà máy hoá chất, việc kim loại xâm nhập vào cơ thể 1 cách không mong muốn là chuyện được nhiều chuyên gia khẳng định: **"không thể tránh khỏi"** - trong đời sống hiện đại. Vì vậy hãy đọc kĩ để thực hiện các phòng ngừa cần thiết nhé!
 
 ## "Kim loại nặng" là những gì?
-[Kim loại nặng](https://en.wikipedia.org/wiki/Heavy_metals) là các kim loại có cấu trúc hoá học đậm đặc, trọng lượng nguyên tử và số nguyên tử cao. **Sinh ra từ đất, chúng có thể đi vào không khí, nước hoặc...thực phẩm**. Thuỷ ngân có thể được tìm thấy trong nước, được lưu trữ trong thịt cá và có thể vẫn được nha sĩ sử dụng để làm răng (!). Chì có thể được tìm thấy trong ống cống, rồi có thể đi vào nguồn cung cấp nước, và còn có thể bị hấp thụ qua DA! Ngay cả những thứ như thuốc khử mùi và dụng cụ nấu bếp có thể là nguồn tiếp xúc kim loại nặng.
+[Kim loại nặng](https://en.wikipedia.org/wiki/Heavy_metals) là các kim loại có cấu trúc hoá học đậm đặc, trọng lượng nguyên tử và số nguyên tử cao. **Sinh ra từ đất, chúng có thể đi vào không khí, nước hoặc...thực phẩm**. Thuỷ ngân có thể được tìm thấy trong nước, được lưu trữ trong thịt cá và có thể vẫn được nha sĩ sử dụng để làm răng!. Chì có thể được tìm thấy trong ống cống, rồi có thể đi vào nguồn cung cấp nước, và còn có thể bị hấp thụ qua DA! Ngay cả những thứ như thuốc khử mùi và dụng cụ nấu bếp có thể là nguồn tiếp xúc kim loại nặng.
 
 {{< figure src="https://i.imgur.com/PJBP71n.jpg" alt="nhiễm độc kim loại nặng từ sản xuất công nghiệp" class="tl" >}}
 
@@ -38,46 +38,74 @@ Một số kim loại  với liều lượng nhỏ thì không thành vấn đ�
 
 Sau đây là 1 số kim loại nặng gây độc cho cơ thể và nguồn gây phơi nhiễm tiềm năng:
 
-Chì: (Ống khí xả tự động, chân răng, nước, vài loại trà)
-Thuỷ ngân (trám răng, vắc-xin, kính áp tròng, thuỷ sản, đặc biệt là các loại cá như cá kiếm cá mập, cá ngừ mắt to, chất kết dính, bộ lọc không khí, mỹ phẩm, chất làm mềm vải, cảm giác, sáp và chất đánh bóng sàn, và bột talcum.)  (6) 
-Cadmium (thuốc lá, pin, dầu ăn được hydro hoá/hydrogenated oil trong thực phẩm công nghiệp, cà phê)
-Asen/thạch tín (các loại thịt gia cầm và trứng)
-Nhôm (chất khử mùi, vắc-xin, thiết bị nấu, vài loại trà, nước, vài loại chocolate, thực phẩm đóng hộp, kem đánh răng, thuốc xịt côn trùng, đồ gốm sứ, bức tranh cũ, ống hàn)
-Tali/thaillium (xăng dầu)
-Bismuth (mỹ phẩm, thuốc)
+- Chì: (Ống khí xả tự động, chân răng, nước, vài loại trà)
+
+- Thuỷ ngân (trám răng, vắc-xin, kính áp tròng, thuỷ sản, đặc biệt là các loại cá như cá kiếm cá mập, cá ngừ mắt to, chất kết dính, bộ lọc không khí, mỹ phẩm, chất làm mềm vải, cảm giác, sáp và chất đánh bóng sàn, và bột talcum.)  (6) 
+
+- Cadmium (thuốc lá, pin, dầu ăn được hydro hoá/hydrogenated oil trong thực phẩm công nghiệp, cà phê)
+
+- Asen/thạch tín (các loại thịt gia cầm và trứng)
+
+- Nhôm (chất khử mùi, vắc-xin, thiết bị nấu, vài loại trà, nước, vài loại chocolate, thực phẩm đóng hộp, kem đánh răng, thuốc xịt côn trùng, đồ gốm sứ, bức tranh cũ, ống hàn)
+
+- Tali/thaillium (xăng dầu)
+
+- Bismuth (mỹ phẩm, thuốc)
 ...
 
 ## Hạn chế nhiễm độc kim loại nặng bằng cách nào?
 
-Tiêu thụ thịt động vật, thuỷ sản chỉ từ nguồn cung cấp đảm bảo an toàn.
-Nói chuyện với nha sĩ để tìm hiểu về hàm lượng kim loại hay chất họ sử dụng khi làm răng cho bạn, và thảo luận về tính an toàn của nó.
-Tự làm khử mùi, các sản phẩm làm đẹp bằng phương pháp tự nhiên
-Tránh hydrogenated oil (xem thành phần bao bì đồ ăn công nghiệp, hay thấy lắm!)
-Áp dụng chế độ ăn nhiều xơ (80%-90%) là rau củ quả
-Hạn chế dùng mĩ phẩm. Nếu dùng chỉ dùng mĩ phẩm có nguyên liệu được chứng nhận hữu cơ.
+- Tiêu thụ thịt động vật, thuỷ sản chỉ từ nguồn cung cấp đảm bảo an toàn.
+
+-Nói chuyện với nha sĩ để tìm hiểu về hàm lượng kim loại hay chất họ sử dụng khi làm răng cho bạn, và thảo luận về tính an toàn của nó.
+
+-Tự làm khử mùi, các sản phẩm làm đẹp bằng phương pháp tự nhiên
+
+-Tránh hydrogenated oil (xem thành phần bao bì đồ ăn công nghiệp, hay thấy lắm!)
+
+-Áp dụng chế độ ăn nhiều xơ (80%-90%) là rau củ quả
+
+-Hạn chế dùng mĩ phẩm. Nếu dùng chỉ dùng mĩ phẩm có nguyên liệu được chứng nhận hữu cơ.
 
 ## Các dấu hiệu nhiễm độc kim loại nặng là gì?
 
 Dấu hiệu nhiễm độc cấp tính bao gồm:
-Chuột rút nặng
-Chóng mặt
-Nôn mửa
-Khó thở
-Khó khăn trong vận động, tư duy
+
+-Chuột rút nặng
+
+-Chóng mặt
+
+-Nôn mửa
+
+-Khó thở
+
+-Khó khăn trong vận động, tư duy
 
 Dấu hiệu dễ bỏ qua liên hệ bao gồm:
-Kiệt sức
-Đau đầu
-Mụn
-Tiêu hoá kém, đầy hơi, xì hơi
-Tiêu hoá chất béo kém
-Các vấn đề phụ nữ: hóc-môn, vô sinh, tiền sản
-Ra mồ hôi quá nhiều
-Chỉ tăng cân nặng quanh vòng eo
-Thèm ăn nghiêm trọng
-Mất ngủ giữa đêm
-Đau nhức khớp xương
-Tâm trạng dao động
+
+-Kiệt sức
+
+-Đau đầu
+
+-Mụn
+
+-Tiêu hoá kém, đầy hơi, xì hơi
+
+-Tiêu hoá chất béo kém
+
+-Các vấn đề phụ nữ: hóc-môn, vô sinh, tiền sản
+
+-Ra mồ hôi quá nhiều
+
+-Chỉ tăng cân nặng quanh vòng eo
+
+-Thèm ăn nghiêm trọng
+
+-Mất ngủ giữa đêm
+
+-Đau nhức khớp xương
+
+-Tâm trạng dao động
 v.v...
 
 Thậm chí, nhiễm độc kim loại nặng gây ra các bệnh nguy hiểm như Alzheimers, mất trí, đa xơ, Parkinson's và ung thư (1). Nhưng điều bạn có thể không ngờ được là: Trong một nỗ lực để bảo vệ cơ thể khỏi tổn thương khi nhiễm độc cấp tính, cơ thể chuyển các kim loại nặng này vào tế bào. 
