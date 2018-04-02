@@ -176,7 +176,7 @@ Thường sẽ có 2 bước cần thực hiện đầy đủ:
 
 - Các thực phẩm gây dị ứng: bạn bị dị ứng hay nhạy cảm với cái gì thì càng nên tránh tuyệt đối các loại này trong thời gian này.
 
-- Thực phẩm không hữu cơ: Nếu như bạn không biết chắc các loại rau củ mình ăn hàng ngày có hữu cơ hay không, ít nhất hãy tránh top **12 loại thường được phun xịt nhiều nhất: dâu tây, chân vịt, đào (nectarine lẫn peach), táo tây, lê, cherry, nho, cần tây, cà chua, ớt chuông, khoai tây.**(5)
+- Thực phẩm không hữu cơ: Nếu như bạn không biết chắc các loại rau củ mình ăn hàng ngày có hữu cơ hay không, ít nhất hãy tránh top **12 loại thường được phun xịt nhiều nhất: dâu tây, chân vịt, đào (nectarine lẫn peach), táo tây, lê, cherry, nho, cần tây, cà chua, ớt chuông, khoai tây.**(10)
 
 - Các chất phụ gia: Phụ gia có thể làm trầm trọng thêm các triệu chứng độc hại và làm giảm khả năng giải độc của cơ thể.Tốt nhất không nên ăn thực phẩm công nghiệp chế biến sẵn.
 
@@ -189,7 +189,7 @@ Thường sẽ có 2 bước cần thực hiện đầy đủ:
 
 (1) Jaishankar, M., Tseten, T., Anbalagan, N., Mathew, B. B., & Beeregowda, K. N. (2014). Toxicity, mechanism and health effects of some heavy metals. Interdisciplinary Toxicology, 7(2), 60–72.
 
-(2) https://myersdetox.com/unlocking-human-performance-with-hair-mineral-analysis/
+(2) [Giải mã hiệu suất con người bằng phân tích khoáng chất trong tóc](https://myersdetox.com/unlocking-human-performance-with-hair-mineral-analysis/) - Myers Detox
 
 (3) [Sách “Thoát khỏi ung thư"](https://tiki.vn/thoat-khoi-ung-thu-p403080.html)
 
@@ -198,3 +198,12 @@ Thường sẽ có 2 bước cần thực hiện đầy đủ:
 (5) [Hướng dẫn sử dụng than hoạt tinh của Dr.Axe](https://draxe.com/activated-charcoal-uses/)
 
 (6) [Cục quản lý Thực phẩm & Dược Hoa Kỳ](https://www.fda.gov/food/foodborneillnesscontaminants/metals/ucm115644.htm)
+
+(7)[Thư viện Y dược Quốc gia Hoa Kỳ](https://www.ncbi.nlm.nih.gov/pubmedhealth/PMHT0008816/)
+
+(8) [Đánh giá về Tác động miễn dịch của Triphala và các thành phần cá nhân](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4293677/) -Thư viện quốc gia Hoa Kỳ
+
+(9) [Cách tiếp cận hiện tại về quản lý ngộ độc thủy ngân: cần thời gian](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055906/) -Thư viện quốc gia Hoa Kỳ
+
+(10)[Danh sách nông sản bị phun xịt nhiều nhất](https://www.ewg.org/foodnews/dirty_dozen_list.php) - Environmental Working Group
+
