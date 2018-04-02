@@ -145,7 +145,7 @@ Cồn: có cần phải nói thêm không? Đã độc càng thêm độc!
 
 (2) https://myersdetox.com/unlocking-human-performance-with-hair-mineral-analysis/
 
-(3) [[Sách “Thoát khỏi ung thư"](https://tiki.vn/thoat-khoi-ung-thu-p403080.html)
+(3) [Sách “Thoát khỏi ung thư"](https://tiki.vn/thoat-khoi-ung-thu-p403080.html)
 
 (4) [Hướng dẫn thải độc kim loại nặng của Dr.Axe](https://draxe.com/heavy-metal-detox/)
 
