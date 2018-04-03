@@ -10,6 +10,8 @@ header:
 published: true
 ---
 
+> __"Hiện tại Nam Phương tạm ngưng dịch vụ này. Hẹn các bạn ở một đợt đăng ký khác. Mời bạn tham khảo chương trình [Coaching 1:1](/1-on-1-coaching/) để có lộ trình dài hơi cho sức khoẻ và cân bằng cuộc sống."__
+
 [Khai vấn 1:1](/1-on-1-coaching) là hình thức hỗ trợ phát triển cá nhân hiệu quả nhất. Đặc biệt trong lĩnh vực sức khoẻ, tính sinh học cá nhân đang dần được công nhận rộng rãi, đòi hỏi lối tiếp cận cá nhân hoá, toàn diện cho mỗi người.
 
 Vì ở Việt Nam còn khá mới mẻ, tôi sẵn sàng cho bạn trải nghiệm thử 1 buổi khai vấn miễn phí, trước khi quyết định đăng kí [khai vấn 1:1](/1-on-1-coaching) trong 3-6 tháng.
