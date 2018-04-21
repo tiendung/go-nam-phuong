@@ -31,21 +31,23 @@ Có rất nhiều phương pháp thanh lọc, nhưng phương pháp này phù h�
 
 Bữa sáng: hoa quả, sữa chua, khoai lang luộc hoặc bánh mì đen
 
-Bữa sáng: cơm gạo lứt với rau củ quả, đậu khuôn hoặc tempeh
+Bữa trưa: cơm gạo lứt với rau củ quả, đậu khuôn hoặc tempeh
 
 Bữa tối: ăn súp nhẹ, hoặc hoa quả, hoặc nước ép hoa quả (thêm chút muối)
 
 **Ngày nhịn:**
 
-- Sáng mới thức dậy uống tầm 250ml nước chanh muối. Sau đó cả ngày uống 2l nước lọc. Tuỳ cơ thể, có thể tăng giảm lượng nước theo nhu cầu, sao cho cảm thấy thoải mái là được. Mỗi lần không uống quá 250ml.
+- Sáng mới thức dậy uống tầm 250ml nước chanh muối (nước cốt 1 quả chanh + 1 nhúm muối uống sao cho vừa miệng là được). Sau đó cả ngày uống 2l nước lọc. Tuỳ cơ thể, có thể tăng giảm lượng nước theo nhu cầu, sao cho cảm thấy thoải mái là được. Mỗi lần không uống quá 250ml. 
 
-- Đối với nhịn nước:
+Rồi chọn 1 trong 2 cách sau:
+
+- Cách 1: Nhịn nước:
     - Bữa sáng: uống 300ml nước ép dưa leo
     - Bữa trưa: uống 300ml nước ép dưa hấu
     - Bữa tối: uống 300ml nước ép dưa hấu
 Nếu thấy đói giữa các bữa thì có thể uống thêm không quá 300ml nước dừa.
 
-- Đối với nhịn khô: Ngoài uống nước chanh muối như hướng dẫn trên thì cả ngày không ăn uống gì nữa, tính từ lúc mặt trời mọc của ngày nhịn đến lúc mặt trời mọc của ngày xả.
+- Cách 2: Nhịn khô: Ngoài uống nước chanh muối như hướng dẫn trên thì cả ngày không ăn uống gì nữa, tính từ lúc mặt trời mọc của ngày nhịn đến lúc mặt trời mọc của ngày xả.
 
 **Ngày xả:**
 
