@@ -167,6 +167,8 @@ Thường sẽ có 2 bước cần thực hiện đầy đủ:
 
 - Uống nước lọc thay vì các nước uống đóng chai
 
+- Trà đậu xanh để nguyên vỏ: nấu và ủ uống như trà, làm giảm tác động của kim loại nặng và nhiều độc chất trong cơ thể.
+
 
 **BẠN CÓ THỂ ĂN THEO THỰC ĐƠN 3 NGÀY THẢI ĐỘC MÙA XUÂN [Ở đây](http://coachnamphuong.com/thai-doc-mua-xuan-register/thank-you)** Đây là menu thải độc rất nhẹ nhàng mà hiệu quả do tôi tổng hợp từ các nguồn uy tín và điều chỉnh cho phù hợp với cơ địa người Việt. 
 
@@ -206,4 +208,3 @@ Thường sẽ có 2 bước cần thực hiện đầy đủ:
 (9) [Cách tiếp cận hiện tại về quản lý ngộ độc thủy ngân: cần thời gian](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4055906/) -Thư viện quốc gia Hoa Kỳ
 
 (10)[Danh sách nông sản bị phun xịt nhiều nhất](https://www.ewg.org/foodnews/dirty_dozen_list.php) - Environmental Working Group
-
