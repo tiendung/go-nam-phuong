@@ -128,8 +128,11 @@ Tuỳ theo tình trạng sức khoẻ và nhu cầu của mình mà mỗi ngư�
 
 **Hướng dẫn chi tiết khác**
 - [Hướng dẫn nhịn khô & nhịn ướt trong 1 ngày](/posts/thanh-loc-mot-ngay/)
-- Hướng dẫn thanh lọc bằng nước ép trong 3 ngày
-(sẽ bổ sung thêm)
+
+- [Hướng dẫn thanh lọc bằng nước ép trong 3 ngày](https://coachnamphuong.com/thai-doc-mua-xuan-register/thank-you)
+
+-[Thải độc kim loại nặng](https://coachnamphuong.com/posts/thai-doc-kim-loai-nang/)
+
 
 **Để có giám sát chuyên môn của Health Coach Nam Phương khi thực hiện bất kì 1 phương pháp thanh lọc nào, hãy đăng kí qua email: namphuong.cf@gmail.com,  hay đt: 01696024402.**
 
