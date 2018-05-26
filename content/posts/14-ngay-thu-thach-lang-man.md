@@ -12,7 +12,7 @@
     "navigation": "fancy",
     "class": "bg-darken-50 bg-darken-25-l bg-center"
   },
-   "date": "2018-18-05",
+   "date": "2018-05-18",
    "published": true,
    "tags": [
       "thử thách lãng mạn", "romantic challenge", "yêu bản thân"
