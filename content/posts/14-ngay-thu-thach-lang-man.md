@@ -41,11 +41,17 @@ Ngày mình nhận được "thách thức" này, mình đang trao đổi thư t
 Nhớ lại thì mình đã thực hiện những hành động sau:
 
 Ngày 1: Mua 1 bó hoa cho bản thân (tại sao phải đợi ai khác mua hoa cho mình? ^^)
+
 Ngày 2: Ngồi trên mái nhà hát vang, 1 mình hoặc với bạn bè
+
 Ngày 3: Ôm bất cứ bạn bè, người quen nào gặp mặt
+
 Ngày 4: Gọi điện nói yêu mẹ
+
 Ngày 5: Bật nhạc, đốt nến khi tắm nước ấm
+
 Ngày 6: Đến nhà, nấu 1 bữa ăn cho người mình đang cảm nắng
+
 Ngày 7: Chẳng cần dịp gì cả, mặc chiếc váy đẹp nhất ra đường hôm đấy
 ...
 
