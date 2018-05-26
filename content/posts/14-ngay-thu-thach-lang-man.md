@@ -32,11 +32,13 @@ Không nhất thiết phải theo khuôn mẫu của xã hội, "lãng mạn" ha
 
 **Bước 3:** Cứ mỗi ngày, hãy mở ra 1 tờ giấy bất kì và cam kết thực hiện hành động đó. 
 
+***
+
+
+Ngày mình nhận được "thách thức" này, mình đang trao đổi thư tay với 1 người bạn ở Paris. Vâng, thư tay chứ không phải email ạ. Người đó và mình đồng ý là không xem facebook của nhau và chỉ đợi thư mà thôi. Người đó có lẽ cũng giống người dì của Mia trong bài "The fools who dream" (La la land, phân đoạn Mia được Sebastian cổ vũ đi thử giọng lần cuối và được yêu cầu kể chuyện từ bối cảnh Paris). Người muốn tận hưởng cuộc sống theo kiểu nhảy ùm xuống sông mà chẳng cần cân nhắc chi cả. Còn mình là một đứa cũng hết sức ngẫu hứng, không  biết ngại ngùng hay sợ hãi. Nhưng còn bạn, bạn có thể thực hiện những hành động chỉ bạn mới biết mà :">
+
 
 {{< figure src="https://i.imgur.com/sh7YR6I.png" alt="the fools who dream" class="w-100" >}}
-
-
-Ngày mình nhận được "thách thức" này, mình đang trao đổi thư tay với 1 người bạn ở Paris. Vâng, thư tay chứ không phải email ạ. Người đó và mình đồng ý là không xem facebook của nhau và chỉ đợi thư mà thôi. Người đó có lẽ cũng giống người dì của Mia trong bài "The fools who dream" (La la land, phân đoạn Mia được Sebastian cổ vũ đi thử giọng lần cuối và được yêu cầu kể chuyện từ bối cảnh Paris). Người muốn tận hưởng cuộc sống theo kiểu nhảy ùm xuống sông mà chẳng cần cân nhắc chi cả. Còn mình là một đứa cũng hết sức ngẫu hứng, không  biết ngại ngùng hay sợ hãi. 
 
 Nhớ lại thì mình đã thực hiện những hành động sau:
 
