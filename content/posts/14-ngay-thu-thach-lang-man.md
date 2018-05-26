@@ -57,7 +57,7 @@ Ngày 6: Đến nhà, nấu 1 bữa ăn cho người mình đang cảm nắng
 Ngày 7: Chẳng cần dịp gì cả, mặc chiếc váy đẹp nhất ra đường hôm đấy
 ...
 
-> Tinh thần lãng mạn ở đây có thể là hâm nóng tình cảm với người thương yêu đang ở bên, hay có thể là đối đãi tốt với bản thân sau 1 thời gian quên mình, hay mang lại sự lãng mạn mà người thân của mình thầm khao khát. Hãy chọn tinh thần lãng mạn của riêng . 
+> Tinh thần lãng mạn ở đây có thể là hâm nóng tình cảm với người thương yêu đang ở bên, hay có thể là đối đãi tốt với bản thân sau 1 thời gian quên mình, hay mang lại sự lãng mạn mà người thân của mình thầm khao khát. Hãy chọn tinh thần lãng mạn của riêng mình. 
 
 Cứ mỗi ngày mình lại post lên facebook về hành động mà mình sẽ thực hiện hôm đó, hay có thể là hình ảnh/video mình thực hiện hành động như thế nào. Mọi người rất "hóng", sau ngày thứ 3 thì có đứa cứ nghĩ là sau khi ôm thì phải đến hôn, còn dặn "Nếu mày làm chuyện đấy vào ngày mai là không được thiếu tao đâu đấy" =)). Tất nhiên bạn không cần báo cáo với ai cả nếu không muốn :")
 
