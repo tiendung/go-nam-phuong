@@ -30,6 +30,7 @@ Do đó, sẽ không thể có  “công thức đặc trị” nào. Thay vào 
 
 Đây chỉ là một hướng dẫn thực tế, một khởi đầu và cần kết hợp với việc thực hành: Nếu ta chịu đầu tư thời gian và công sức, hầu như mọi thói quen đều có thể được định hình lại. 
 
+<span class="tc">
 **MÔ HÌNH:**
 
 **Xác định thói quen**
@@ -39,6 +40,7 @@ Do đó, sẽ không thể có  “công thức đặc trị” nào. Thay vào 
 **Xác định tín hiệu kích hoạt**
 
 **Lên kế hoạch**
+<span>
 
 ## BƯỚC MỘT: XÁC ĐỊNH THÓI QUEN
 
