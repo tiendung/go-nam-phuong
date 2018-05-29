@@ -60,7 +60,6 @@ Làm thế nào để bạn bắt đầu chẩn đoán và sau đó thay đổi 
 
 {{< figure src="https://i.imgur.com/uAqWIRj.jpg" alt="đưa vào vòng lặp thói quen" class="w-100" >}}
 
-
 Tiếp theo, một số câu hỏi mơ hồ hơn: Tín hiệu kích hoạt cho thói quen này là gì? Liệu có phải vì đói không? Cảm thấy buồn chán? Lượng đường trong máu thấp? Rằng bạn cần nghỉ giải lao trước khi tiếp tục công việc?
 
 Và phần thưởng là gì? Cái bánh quy? Thay đổi không gian? Giải lao tạm thời? Xã giao với đồng nghiệp? Hay cảm giác được nạp năng lượng nhanh chóng nhờ đường trong bánh quy?
@@ -79,9 +78,7 @@ Bạn sẽ nhận ra rằng, những gì bạn chọn làm thay vì mua một c�
 
 Khi bạn kiểm tra với bốn hoặc năm phần thưởng khác nhau, bạn có thể sử dụng chung một mẹo để tìm ra các mẫu: Sau mỗi hoạt động, hãy ghi lại ba điều đầu tiên bạn nghĩ đến khi quay lại bàn làm việc. Chúng có thể là cảm xúc, suy nghĩ ngẫu nhiên, suy ngẫm về những gì bạn đang cảm thấy hoặc chỉ đơn giản là ba từ đầu tiên xuất hiện trong đầu bạn.
 
-
 {{< figure src="https://i.imgur.com/yiMXAWi.jpg" alt="ba từ đầu tiên" class="w-100" >}}
-
 
 Sau đó, hãy đặt báo thức với thời gian là 15 phút. Khi chuông tắt, hãy tự hỏi bản thân có còn cảm thấy muốn ăn bánh quy nữa không?
 
