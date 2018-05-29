@@ -56,7 +56,7 @@ Nhưng tệ thay ngày mai đâu lại vào đấy.
 
 Làm thế nào để bạn bắt đầu chẩn đoán và sau đó thay đổi thói quen này? Câu trả lời là bằng cách tìm ra vòng lặp thói quen. Và bước đầu tiên là xác định thói quen. Trong kịch bản bánh quy này như hầu hết các hành động khác, thói quen là khía cạnh rõ ràng nhất: đó là những hành động bạn muốn thay đổi. Thói quen của bạn là bạn đứng dậy từ bàn làm việc của mình vào buổi chiều, đi bộ đến quán cà phê, mua một chiếc bánh quy và ăn nó trong khi trò chuyện với bạn bè. Vì vậy, những gì bạn đưa vào vòng lặp sẽ là:
 
-{{< figure src="https://i.imgur.com/uAqWIRj.jpg"; alt="đưa vào vòng lặp thói quen" class="w-100" >}}
+{{< figure src="https://i.imgur.com/uAqWIRj.jpg" alt="đưa vào vòng lặp thói quen" class="w-100" >}}
 
 
 Tiếp theo, một số câu hỏi mơ hồ hơn: Tín hiệu kích hoạt cho thói quen này là gì? Liệu có phải vì đói không? Cảm thấy buồn chán? Lượng đường trong máu thấp? Rằng bạn cần nghỉ giải lao trước khi tiếp tục công việc?
@@ -78,7 +78,7 @@ Bạn sẽ nhận ra rằng, những gì bạn chọn làm thay vì mua một c�
 Khi bạn kiểm tra với bốn hoặc năm phần thưởng khác nhau, bạn có thể sử dụng chung một mẹo để tìm ra các mẫu: Sau mỗi hoạt động, hãy ghi lại ba điều đầu tiên bạn nghĩ đến khi quay lại bàn làm việc. Chúng có thể là cảm xúc, suy nghĩ ngẫu nhiên, suy ngẫm về những gì bạn đang cảm thấy hoặc chỉ đơn giản là ba từ đầu tiên xuất hiện trong đầu bạn.
 
 
-{{< figure src="https://i.imgur.com/yiMXAWi.jpg"; alt="ba từ đầu tiên" class="w-100" >}}
+{{< figure src="https://i.imgur.com/yiMXAWi.jpg" alt="ba từ đầu tiên" class="w-100" >}}
 
 
 Sau đó, hãy đặt báo thức với thời gian là 15 phút. Khi chuông tắt, hãy tự hỏi bản thân có còn cảm thấy muốn ăn bánh quy nữa không?
@@ -91,7 +91,7 @@ Mặt khác, nếu 15 phút sau khi trò chuyện với một người bạn, b�
 
 Bằng cách thử nghiệm với các phần thưởng khác nhau, bạn có thể xác định được bạn đang _thực sự_ mong muốn điều gì, đó là điều cần thiết trong việc thiết kế lại thói quen.
 
-{{< figure src="https://i.imgur.com/cVQe3Dq.jpg"; alt="thói quen và phần thưởng" class="w-100" >}}
+{{< figure src="https://i.imgur.com/cVQe3Dq.jpg" alt="thói quen và phần thưởng" class="w-100" >}}
 
 Sau khi bạn đã tìm ra thói quen và phần thưởng, việc còn lại là xác định tín hiệu kích hoạt.
 
@@ -156,7 +156,7 @@ _Bạn đang làm gì trước khi muốn thực hiện thói quen này?_ (vừa
 
 Ba ngày trôi qua, tôi nhận ra khá rõ ràng các tín hiệu kích hoạt thói quen bánh quy của tôi. Tôi cảm thấy mình muốn một bữa ăn nhẹ tại một thời điểm nhất định trong ngày. Tôi đã tìm ra cảm giác đói không thúc đẩy hành vi của tôi. Phần thưởng mà tôi đang tìm kiếm là một sự giải lao tạm thời, kiểu cảm giác đến từ việc tán gẫu với một người bạn. Và tôi cũng biết được thói quen sẽ kích hoạt từ 3:00 đến 4:00.
 
-{{< figure src="https://i.imgur.com/HUjSx47.jpg"; alt="thói quen và phần thưởng" class="w-100" >}}
+{{< figure src="https://i.imgur.com/HUjSx47.jpg" alt="thói quen và phần thưởng" class="w-100" >}}
 
 ## BƯỚC BỐN: LÊN KẾ HOẠCH
 
@@ -181,7 +181,7 @@ Việc này không có tác dụng tức thì. Có một số ngày tôi quá b�
 Mọi chuyện xảy ra vào sáu tháng trước. Bây giờ tôi không đeo đồng hồ nữa, tôi đã làm mất nó lúc nào đó không nhớ rõ. Nhưng cứ vào khoảng 3:30 mỗi ngày, tôi tự động đứng dậy, nhìn quanh phòng để tìm ai đó nói chuyện, dành 10 phút để tán gẫu và sau đó quay lại bàn làm việc. Nó xảy ra tự nhiên và không cần tôi phải suy nghĩ. Nó đã trở thành một thói quen.
 
 
-{{< figure src="https://i.imgur.com/yiMySH2.jpg"; alt="thay đổi thói quen và nhận phần thưởng" class="w-100" >}}
+{{< figure src="https://i.imgur.com/yiMySH2.jpg" alt="thay đổi thói quen và nhận phần thưởng" class="w-100" >}}
 
 Rõ ràng, việc thay đổi một số thói quen có thể gặp nhiều khó khăn. Nhưng mô hình này là điểm khởi đầu. Đôi khi việc thay đổi sẽ cần một thời gian dài. Đôi khi bạn phải thực hiện thí nghiệm nhiều lần và có thể không thành công. Nhưng một khi bạn hiểu được cách thức thói quen hoạt động, biết cách xác định tín hiệu kích hoạt, thói quen và phần thưởng, bạn sẽ nhận được nhiều lợi ích từ nó.
 
