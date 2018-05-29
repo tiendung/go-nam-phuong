@@ -121,37 +121,50 @@ Khi bạn tự động rẽ trái khi đang lái xe đi làm, điều gì đã k
 
 Để tìm ra một tín hiệu giữa mớ hỗn độn, chúng ta có thể sử dụng cùng cách thức như nhà tâm lý học đã dùng: Xác định các kiểu hành vi trước khi kiểm tra kĩ lưỡng để tìm ra được các khuôn mẫu. May thay khoa học có thể hỗ trợ ta về điểm này. Các thí nghiệm đã chỉ ra rằng hầu như tất cả các tín hiệu thuộc về hành vi đều thuộc một trong năm loại bao gồm:
 
-_Vị trí
+_Vị trí_
 
-Thời gian
+_Thời gian_
 
-Trạng thái cảm xúc
+_Trạng thái cảm xúc_
 
-Những người khác
+_Những người khác_
 
-Hành động liền trước
-_
+_Hành động liền trước_
 
 Vì vậy, nếu bạn đang cố gắng tìm ra tín hiệu kích hoạt cho thói quen 'đi đến quán cà phê và mua bánh quy’ thì hãy viết ra 5 thứ khi bạn cảm thấy muốn làm điều đó (dưới đây là những ghi chú thực tế của tôi khi đang cố gắng chẩn đoán thói quen của chính mình):
 
 _Bạn đang ở đâu?_ (ngồi ở bàn làm việc của tôi)
+
 _Lúc đó là mấy giờ?_ (3:36 chiều)
+
 _Cảm cảm thấy như thế nào lúc đó?_ (chán)
+
 _Có ai xung quanh bạn không?_ (không một ai)
+
 _Bạn đang làm gì trước khi muốn thực hiện thói quen này?_ (trả lời email)
 
 Ngày hôm sau:
+
 _Bạn đang ở đâu?_ (quay trở lại từ máy photocopy)
+
 _Lúc đó là mấy giờ?_ (3:18 chiều)
+
 _Cảm thấy như thế nào lúc đó?_ (vui vẻ)
+
 _Có ai xung quanh bạn không?_ (Jim nhóm Thể thao)
+
 _Bạn đang làm gì trước khi muốn thực hiện thói quen này?_ (photo vài thứ)
 
 Ngày thứ ba:
+
 _Bạn đang ở đâu?_ (phòng họp)
+
 _Lúc đó là mấy giờ?_ (3:41 chiều)
+
 _Cảm cảm thấy như thế nào lúc đó?_ (mệt mỏi, hào hứng về dự án mình đang làm)
+
 _Có ai xung quanh bạn không?_ (Các biên tập viên họp cùng)
+
 _Bạn đang làm gì trước khi muốn thực hiện thói quen này?_ (vừa ngồi xuống vì buổi họp sắp bắt đầu)
 
 Ba ngày trôi qua, tôi nhận ra khá rõ ràng các tín hiệu kích hoạt thói quen bánh quy của tôi. Tôi cảm thấy mình muốn một bữa ăn nhẹ tại một thời điểm nhất định trong ngày. Tôi đã tìm ra cảm giác đói không thúc đẩy hành vi của tôi. Phần thưởng mà tôi đang tìm kiếm là một sự giải lao tạm thời, kiểu cảm giác đến từ việc tán gẫu với một người bạn. Và tôi cũng biết được thói quen sẽ kích hoạt từ 3:00 đến 4:00.
@@ -185,9 +198,7 @@ Mọi chuyện xảy ra vào sáu tháng trước. Bây giờ tôi không đeo �
 
 Rõ ràng, việc thay đổi một số thói quen có thể gặp nhiều khó khăn. Nhưng mô hình này là điểm khởi đầu. Đôi khi việc thay đổi sẽ cần một thời gian dài. Đôi khi bạn phải thực hiện thí nghiệm nhiều lần và có thể không thành công. Nhưng một khi bạn hiểu được cách thức thói quen hoạt động, biết cách xác định tín hiệu kích hoạt, thói quen và phần thưởng, bạn sẽ nhận được nhiều lợi ích từ nó.
 
-{{< figure src="https://i.imgur.com/sh7YR6I.png" alt="the fools who dream" class="w-100" >}}
-
-Người dịch: Tâm Min
+_Người dịch: Tâm Min_
 _Dịch từ phụ lục cuốn sách: [Sức mạnh của thói quen](https://tiki.vn/suc-manh-cua-thoi-quen-power-of-habits-tai-ban-p364054.html)_
 
 Hãy chia sẻ bài viết nếu bạn thấy hữu ích nhé ^^
