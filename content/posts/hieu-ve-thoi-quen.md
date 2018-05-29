@@ -44,7 +44,7 @@ Do đó, sẽ không thể có  “công thức đặc trị” nào. Thay vào 
 
 Các nhà nghiên cứu MIT trong Chương Một đã khám phá ra vòng lặp thần kinh đơn giản là cốt lõi của mọi thói quen gồm 3 phần: tín hiệu kích hoạt, thói quen và phần thưởng.
 
-{{< figure src="https://i.imgur.com/ZkYTBPw.jpg"; alt="vòng lặp thói quen" class="w-100" >}}
+{{< figure src="https://i.imgur.com/ZkYTBPw.jpg" alt="vòng lặp thói quen" class="w-100" >}}
 
 Để hiểu được thói quen của chính mình, bạn cần phải xác định các thành phần của vòng lặp của bạn. Một khi bạn đã chẩn đoán được vòng lặp thói quen của một hành vi cụ thể, bạn có thể tìm ra cách để thay đổi chúng.
 
