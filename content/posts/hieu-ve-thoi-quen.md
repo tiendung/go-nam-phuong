@@ -40,7 +40,7 @@ Do đó, sẽ không thể có  “công thức đặc trị” nào. Thay vào 
 **Xác định tín hiệu kích hoạt**
 
 **Lên kế hoạch**
-<div>
+</div>
 
 ## BƯỚC MỘT: XÁC ĐỊNH THÓI QUEN
 
