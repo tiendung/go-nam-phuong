@@ -92,7 +92,7 @@ Với mức đạm như vậy,
 Sau đây là danh sách các nguồn đạm thông thường, kèm theo ước tính đạm.
 {{< figure src="https://i.imgur.com/e7SWsTj.png" alt="đạm trong bữa sáng" class="w-100" >}}
 
-> Click vào [đây](https://drive.google.com/open?id=1Y0Lth3wej5GsEQV-50joTq_Byh9_egqj) để download.
+> CLICK VÀO [ĐÂY](https://drive.google.com/open?id=1Y0Lth3wej5GsEQV-50joTq_Byh9_egqj) ĐỂ DOWNLOAD.
 
 ## Thử tính lượng đạm cho bữa ăn chủ yếu từ thực vật
 
@@ -106,13 +106,11 @@ Nếu như bạn nặng 60kg, bạn sẽ cần 60g đạm/ngày.
 
 **Bữa phụ:** 1/2c đậu phụng (20g) + 1 cốc sữa yến mạch (4g)
 
-**Bữa sáng:**  Bánh khoai tây với 1c khoai tây (3g) + ½c thịt dừa nạo (2g), matcha latte với 1.5c sữa đậu nành (8g) + 1/2c sữa dừa (1g)
-
 Tổng: 98g đạm - đã quá đủ rồi! 
 
 {{< figure src="https://i.imgur.com/IVaqSiI.jpg" alt="đạm trong bữa sáng" caption="Bữa sáng với bánh khoai tây & matcha latte đậu nành sữa dừa" class="w-100" >}}
 
-{{< figure src="https://i.imgur.com/aiFCXNY.jpg" alt="bữa tối giàu đạm thực vật" caption="Bữa tối với miến trộn và tempeh sốt cà" class="w-100" >}}
+{{< figure src="https://i.imgur.com/aiFCXNY.jpg" alt="bữa tối giàu đạm thực vật" caption="Bữa tối với miến trộn và tempeh sốt cà. Ảnh: chị Ngọc Quyên- Ẩm Thực Lành" class="w-100" >}}
 
 **Ghi chú:** c = cup = 64gr
 
