@@ -212,7 +212,7 @@ Khi hiểu những nguyên lý tự nhiên rồi, chúng ta dần sẽ bỏ đi 
 
 3.0.8-1g/1kg trọng lượng cơ thể là lượng đạm một người trưởng thành cần, theo khuyến cáo dinh dưỡng cho chế độ ăn hàng ngày. Click vào [đây](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t4/?report=objectonly)  để xem yêu cầu cho người trưởng thành, trẻ em, người già, phụ nữ mang thai...phân theo độ tuổi, giới tính.
 
-4.Không cần phải tính toán tỉ mỉ cho từng bữa ăn, một chế độ ăn toàn phần, với phong phú đa dạng các loại thực vật sẽ dễ dàng cung cấp đủ (hoặc dư) đạm cho một người có sức khoẻ bình thường. Click vào [ĐÂY](https://drive.google.com/open?id=1Y0Lth3wej5GsEQV-50joTq_Byh9_egqj) để download danh sách đạm động vật và thực vật.
+4.Không cần phải tính toán tỉ mỉ cho từng bữa ăn, một chế độ ăn toàn phần, với phong phú đa dạng các loại thực vật sẽ dễ dàng cung cấp đủ (hoặc dư) đạm cho một người có sức khoẻ bình thường. Click vào [đây](https://drive.google.com/open?id=1Y0Lth3wej5GsEQV-50joTq_Byh9_egqj) để download danh sách đạm động vật và thực vật.
 
 5.Tập trung vào việc tăng thêm đạm thực vật từ thực phẩm toàn phần, với các công thức hấp dẫn thay vì tập trung vào việc phải “kiêng” bớt đạm động vật. Bạn sẽ dần nhận thấy mọi thứ thật dễ dàng và vui thích ^^
 
