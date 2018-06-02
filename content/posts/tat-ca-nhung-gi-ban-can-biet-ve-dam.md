@@ -210,17 +210,11 @@ Khi hiểu những nguyên lý tự nhiên rồi, chúng ta dần sẽ bỏ đi 
 
 2.Nguồn đạm từ động vật mặc dù có cấu trúc “hoàn chỉnh" nhưng khi ăn quá mức cần thiết, sẽ là môi trường “hoàn hảo" cho bệnh tật nảy sinh và phát triển. Nguồn đạm thực vật tuy có tốc độ chuyển hoá chậm hơn nhưng bền bỉ, an toàn, giúp phòng ngừa và ngăn chặn nhiều loại bệnh, tiêu biểu là ung thư.
 
-3.**0.8-1g/1kg trọng lượng cơ thể** là lượng đạm một người trưởng thành cần, theo khuyến cáo dinh dưỡng cho chế độ ăn hàng ngày. Click vào [đây](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t4/?report=objectonly)  để xem yêu cầu cho người trưởng thành, trẻ em, người già, phụ nữ mang thai...phân theo độ tuổi, giới tính.
+3.0.8-1g/1kg trọng lượng cơ thể là lượng đạm một người trưởng thành cần, theo khuyến cáo dinh dưỡng cho chế độ ăn hàng ngày. Click vào [đây](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t4/?report=objectonly)  để xem yêu cầu cho người trưởng thành, trẻ em, người già, phụ nữ mang thai...phân theo độ tuổi, giới tính.
 
-4.Đối với vận động viên hoặc người có cường độ hoạt động tương đương, lượng đạm cần là **1.3-1.8g/kg trọng lượng.**
+4.Không cần phải tính toán tỉ mỉ cho từng bữa ăn, một chế độ ăn toàn phần, với phong phú đa dạng các loại thực vật sẽ dễ dàng cung cấp đủ (hoặc dư) đạm cho một người có sức khoẻ bình thường. Click vào [ĐÂY](https://drive.google.com/open?id=1Y0Lth3wej5GsEQV-50joTq_Byh9_egqj) để download danh sách đạm động vật và thực vật.
 
-5.Không cần phải tính toán tỉ mỉ cho từng bữa ăn, một chế độ ăn toàn phần, với phong phú đa dạng các loại thực vật sẽ dễ dàng cung cấp đủ (hoặc dư) đạm cho một người có sức khoẻ bình thường. Click vào đây để download danh sách đạm thực vật tốt nhất.
-
-6.Tập trung vào việc hấp thu đạm từ thực phẩm toàn phần thay vì thực phẩm tinh chế (dấu hiệu: có nhiều thành phần hoá chất khó hiểu, không phải là thành phần tự nhiên).
-
-7.Việc chuyển sang chế độ Thực phẩm toàn phần, từ thực vật (WFPB) có thể thực hiện dần dần theo tốc độ bạn cảm thấy thoải mái.
-
-8.Tập trung vào việc tăng thêm đạm thực vật lành mạnh với các công thức hấp dẫn thay vì tập trung vào việc phải “kiêng” bớt đạm động vật. Bạn sẽ dần nhận thấy mọi thứ thật dễ dàng và vui thích ^^
+5.Tập trung vào việc tăng thêm đạm thực vật từ thực phẩm toàn phần, với các công thức hấp dẫn thay vì tập trung vào việc phải “kiêng” bớt đạm động vật. Bạn sẽ dần nhận thấy mọi thứ thật dễ dàng và vui thích ^^
 
 **THAM KHẢO THÊM**
 
