@@ -5,7 +5,7 @@
    ],
    "cover_image": "https://i.imgur.com/g6qwdhP.jpg",
   "header": {
-    "image": "https://i.imgur.com/undefined.jpeg",
+    "image": "https://i.imgur.com/yP2nvHM.jpg",
     "layout": "hero",
     "navigation": "fancy",
     "class": "bg-darken-50 bg-darken-25-l bg-center"
