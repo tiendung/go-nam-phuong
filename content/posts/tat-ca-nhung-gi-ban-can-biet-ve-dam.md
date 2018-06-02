@@ -28,7 +28,7 @@ Bài viết này sẽ cung cấp kiến thức căn bản nhất về đạm, gi
 ## Vai trò của Đạm là gì?
 Đạm (protein) là một trong những chất dinh dưỡng chính cung cấp năng lượng cho chúng ta hoạt động hàng ngày, bên cạnh carbohydrate, chất béo và các chất dinh dưỡng đa lượng khác. Chức năng chính của đạm trong cơ thể bao gồm:
 
-- Nguyên liệu: tạo nên cấu trúc chính của xương, cơ và các mô
+- Nguyên liệu: tạo nên cấu trúc chính của xương, cơ, các mô và cả 1 phần não bộ
 
 - Hormones: dẫn truyền tín hiệu giữa các tế bào 
 
@@ -66,14 +66,13 @@ Những định kiến này thực sự tai hại! Nếu có bất kì 1 ý ngh�
 
 1.Hệ thống chuyển hoá đạm của cơ thể con người đủ tinh vi để tổng hợp TẤT CẢ các axit amin thiết yếu từ các loại thức ăn thông thường, mà **không đòi hỏi chúng ta ăn quá nhiều đạm thực vật hay lập kế hoạch tỉ mỉ cho đạm.**
 
-2.Tuy thường thiếu đi 1 hoặc hơn loại axit amin thiết yếu, **đạm thực vật luôn đều đặn tổng hợp được các chuỗi đạm mới và là các loại đạm tốt nhất.
-**
+2.Tuy thường thiếu đi 1 hoặc hơn loại axit amin thiết yếu, **đạm thực vật luôn đều đặn tổng hợp được các chuỗi đạm mới và là các loại đạm tốt nhất.**
 
 3.**Con người chỉ cần 5-6% nguồn năng lượng từ đạm.** Nhưng vì nhu cầu đạm của mỗi người khác nhau, nên con số khuyến cáo thường được đẩy lên là 10% (tương đương 50-60gr đạm/ngày), nhưng không hơn.
 
 4.Giống như bật/tắt công tắc điện, việc kiểm soát sự thúc đẩy của ung thư có thể được thực hiện bằng cách thay đổi lượng đạm tiêu thụ, bất kể ban đầu có tiếp xúc với chất gây ung thư hay không. Ở giai đoạn khởi đầu của ung thư, ăn ít đạm làm giảm đáng kể khởi đầu của các khối u. Ở giai đoạn thúc đẩy của ung thư, **đạm động vật (đặc biệt là casein trong sữa bò) làm tăng sự phát triển của khối u trong khi đạm thực vật làm giảm sự phát triển của khối u.**
 
-Từ nền tảng của nghiên cứu này, đã có nhiều nghiên cứu khác tiếp nối cho kết quả tương tự. Công chúng khắp nơi đã dần công nhận **chất lượng “chậm mà chắc" của đạm thực vật.** Và xu hướng ăn thuần chay đang tăng trưởng vượt bậc, ngay cả ở những quốc gia vốn tôn sùng đạm động vật như Mỹ và châu Âu.  Chưa kể đến lượng đạm, thường cách chế biến và các gia vị đi kèm với thịt động vật (chiên, nướng, các loại thức ăn nhanh, công nghiệp…) cũng thường kém lành mạnh hơn cách chế biến rau củ trái cây (luộc, hấp, xào, trộn…).
+Từ nền tảng của nghiên cứu này, đã có nhiều nghiên cứu khác tiếp nối cho kết quả tương tự. **Công chúng khắp nơi đã dần công nhận chất lượng “chậm mà chắc" của đạm thực vật.** Và xu hướng ăn thuần chay đang tăng trưởng vượt bậc, ngay cả ở những quốc gia vốn tôn sùng đạm động vật như Mỹ và châu Âu.  Chưa kể đến lượng đạm, thường cách chế biến và các gia vị đi kèm với thịt động vật (chiên, nướng, các loại thức ăn nhanh, công nghiệp…) cũng thường kém lành mạnh hơn cách chế biến rau củ trái cây (luộc, hấp, xào, trộn…).
 
 ## Bao nhiêu đạm là đủ cho tôi?
 
@@ -83,7 +82,8 @@ Nếu tính theo cân nặng, **ta chỉ cần 0.8-1g đạm trên mỗi kg tr�
 
 Trong khi đó, lượng đạm trong thực vật cao hơn so với suy nghĩ thông thường: ngũ cốc nguyên cám (Tỉ lệ đạm trong Gạo: 8%, ngô: 11%, bột yến mạch: 15%), đậu hạt (27%), củ (khoai tây: 8%, khoai lang:7%), rau xanh (trên 10% ở các loại thường thấy). 
 
-Với mức đạm như vậy, thực tế **ai cũng có đủ lượng đạm chỉ qua các nguồn dinh dưỡng đến từ thực vật:**
+Với mức đạm như vậy, 
+**ai cũng có đủ lượng đạm chỉ qua các nguồn dinh dưỡng đến từ thực vật:**
 
 Đối với người ăn mặn vừa có cả đạm thực vật lẫn đạm động vật, thì **chỉ cần ăn lượng thịt/cá cỡ bằng lòng bàn tay là đủ.**
 
@@ -92,16 +92,22 @@ Với mức đạm như vậy, thực tế **ai cũng có đủ lượng đạm 
 Sau đây là danh sách các nguồn đạm thông thường, kèm theo ước tính đạm.
 {{< figure src="https://i.imgur.com/e7SWsTj.png" alt="đạm trong bữa sáng" class="w-100" >}}
 
-Click vào [đây](https://drive.google.com/open?id=1Y0Lth3wej5GsEQV-50joTq_Byh9_egqj)để download.
+> Click vào [đây](https://drive.google.com/open?id=1Y0Lth3wej5GsEQV-50joTq_Byh9_egqj) để download.
 
 ## Thử tính lượng đạm cho bữa ăn chủ yếu từ thực vật
 
 Nếu như bạn nặng 60kg, bạn sẽ cần 60g đạm/ngày.
 
 **Bữa sáng:**  Bánh khoai tây với 1c khoai tây (3g) + ½c thịt dừa nạo (2g), matcha latte với 1.5c sữa đậu nành (8g) + 1/2c sữa dừa (1g)
+
 **Bữa trưa:** Cơm với 1/2c gạo lứt nấu đậu (11g), rau xanh (3g), ½c đậu nành lên men natto (15g), 1 quả bơ nhỏ (4g)
+
 **Bữa tối:** miến trộn với miến gạo (1g), cà rốt (3g), bầu, hành và rau ngò (3g), tempeh (20g)
+
 **Bữa phụ:** 1/2c đậu phụng (20g) + 1 cốc sữa yến mạch (4g)
+
+**Bữa sáng:**  Bánh khoai tây với 1c khoai tây (3g) + ½c thịt dừa nạo (2g), matcha latte với 1.5c sữa đậu nành (8g) + 1/2c sữa dừa (1g)
+
 Tổng: 98g đạm - đã quá đủ rồi! 
 
 {{< figure src="https://i.imgur.com/IVaqSiI.jpg" alt="đạm trong bữa sáng" caption="Bữa sáng với bánh khoai tây & matcha latte đậu nành sữa dừa" class="w-100" >}}
@@ -116,7 +122,7 @@ Như đã nói, các loại đạm thực vật thường thiếu 1 hay nhiều 
 
 1/Có những loại thực vật được gọi là **“đạm hoàn chỉnh" (“complete protein”)** vì chứa đầy đủ các loại axit amin. Trong đó bao gồm kiều mạch (buckwheat), diêm mạch (quinoa), đậu nành, các loại đậu nành lên men nguyên hạt như tempeh & natto…
 
-2/Chỉ cần ăn **đa dạng, phong phú, toàn phần** thì cơ thể tự kết hợp axit amin đến từ các nguồn thực vật với nhau mà **KHÔNG cần bạn phải tính toán “bù đắp” trong cùng 1 bữa ăn.** Ăn trong cùng 1 ngày cũng có hiệu quả kết hợp rồi.
+2/**Chỉ cần ăn đa dạng, phong phú, toàn phần** thì cơ thể tự kết hợp axit amin đến từ các nguồn thực vật với nhau mà **KHÔNG cần bạn phải tính toán “bù đắp” trong cùng 1 bữa ăn.** Ăn trong cùng 1 ngày cũng có hiệu quả kết hợp rồi.
 
 3/Nhiều loại mà chúng ta vẫn hay kết hợp hàng ngày cũng đã có tính bù trừ. Ví dụ như mình hầu như bữa nào cũng nấu cơm gạo lứt với đậu - là 2 loại bù trừ axit amin cho nhau:
 
@@ -136,6 +142,10 @@ Những sự kết hợp tương tự còn có:
 
 - Hummus (sốt đậu gà của ẩm thực Trung Á) với Pita (bánh mì kiểu Hy Lạp)
 
+**4/Thứ tự ưu tiên của các nguồn đạm nên như sau: Đạm thực vật --> Cá tôm nhỏ (ăn cả xương thì tốt nhất)-->Cá biển, hải sản khác --> Gia cầm --> Heo, bò, trâu**
+
+Tuy nhiên, chế độ ăn đa dạng, phong phú với lượng đạm vừa phải là tốt nhất ^^
+
 ## Tôi vận động rất nhiều nên cần ăn nhiều thịt hơn mới đủ sức chứ?
 
 Đây là một mặc định thâm căn cố đế đến mức mà nhiều người nghĩ rằng mình sẽ không thể đủ sức nếu thiếu thịt trong một bữa ăn. Đúng là đối với các vận động viên đang trong quá trình huấn luyện, lượng đạm thường phải tăng lên tầm 1.3g-1.8g/kg trọng lượng cơ thể để xây dựng thêm cơ bắp. Tuy nhiên, có cả 1 [danh sách dài các vận động viên đẳng cấp là người theo chế độ chủ yếu là thực vật](https://ohmyveggies.com/famous-vegetarian-athletes-and-how-they-get-enough-protein/), bao gồm [Mike Tyson.](https://www.youtube.com/watch?v=Vc-DeGEXAmM) 
@@ -146,7 +156,7 @@ Cho nên, hãy tỉnh táo phân biệt xem việc mình cần ăn thịt là do
 
 ## Tôi đã biết hệ quả của việc ăn nhiều thịt/cá/trứng/sữa nhưng không muốn kiêng cữ cả đời thì sao?
 
-Đừng hiểu lầm rằng mình đang cố gắng thuyết phục bạn chuyển sang ăn chay. Mình tôn trọng [tính sinh học cá nhân](https://coachnamphuong.com/posts/ca-nhan-hoa-che-do-an-cua-moi-nguoi/)của mỗi người: Mỗi người sẽ có 1 nhu cầu đạm khác nhau, mà có thể sai khác so với các con số quy ước. 
+Đừng hiểu lầm rằng mình đang cố gắng thuyết phục bạn chuyển sang ăn chay. Mình tôn trọng [tính sinh học cá nhân](https://coachnamphuong.com/posts/ca-nhan-hoa-che-do-an-cua-moi-nguoi/) của mỗi người: Mỗi người sẽ có 1 nhu cầu đạm khác nhau, mà có thể sai khác so với các con số quy ước. 
 
 Bên cạnh đó, vài tip sau có thể giúp bạn nhẹ nhõm hơn khi chuyển đổi:
 
@@ -158,9 +168,9 @@ Bên cạnh đó, vài tip sau có thể giúp bạn nhẹ nhõm hơn khi chuy�
 
 **4. Đừng quá hoang mang về phản ứng giai đoạn đầu:** Như bất cứ dạng chuyển đổi nào, cơ thể & tâm lý của bạn sẽ khó chịu trong thời gian đầu (ví dụ như dạ dày khó chịu, hay căng thẳng vì sự trêu trọc của mọi người). Nhưng hãy biết rằng cơ thể bạn sẽ cảm ơn bạn về điều này ngay sau đó!
 
-5.Nếu bạn **đảm bảo vận động thường xuyên** (lao động chân tay, tập thể dục nhiều…) thì hệ quả của việc ăn dư đạm động vật cũng được giảm bớt. 
+5.**Đảm bảo vận động thường xuyên thì hệ quả của việc ăn dư đạm động vật cũng được giảm bớt.**
 
-Tham khảo 10 quy tắc ăn uống bất biến & danh sách thực phẩm khuyên dùng tại[đây.](http://coachnamphuong.com/posts/10-nguyen-tac-an-uong-bat-bien/)
+> Tham khảo 10 quy tắc ăn uống bất biến & danh sách thực phẩm khuyên dùng tại [đây.](http://coachnamphuong.com/posts/10-nguyen-tac-an-uong-bat-bien/)
 
 ## Tóm lại là ăn chay/thuần chay sẽ là tốt nhất?
 
@@ -168,9 +178,12 @@ Mình cũng cố ý hạn chế dùng các từ “chay" (vegetarian), “thuầ
 
 ***Chế độ Thực phẩm toàn phần, từ thực vật** (Whole food plant based, viết tắt: WFPB). Trong khi một số người ăn chay vẫn dùng nhiều sữa, trứng, người ăn thuần chay vẫn dùng nhiều sản phẩm tinh chế công nghiệp thì WFPB nhắm đến sự linh hoạt của thực phẩm toàn phần, và thỉnh thoảng vẫn có thể ăn một ít đạm động vật.
 
-> Thực phẩm toàn phần: là thực phẩm được giữ nguyên dạng tự nhiên, hoặc hạn chế tối đa tinh chế công nghiệp. 
+{{< figure src="https://i.imgur.com/xn3w79O.jpg" alt="whole food plant based diet" class="w-100" >}}
+
+> Thực phẩm toàn phần: là thực phẩm được giữ nguyên dạng tự nhiên, hạn chế tối đa tinh chế công nghiệp. 
 
 Khi ăn "toàn phần", có nghĩa là ta ăn:
+
 - Ngũ cốc nguyên cám thay vì ngũ cốc tinh chế: gạo lứt thay vì gạo trắng, yến mạch nguyên hạt thay vì yến mạch cán mỏng...)
 
 - Rau củ trái cây thay vì viên bổ sung, bột bổ sung các loại vitamin, dinh dưỡng thực vật mà chúng cung cấp
@@ -185,7 +198,9 @@ Sách hay để tìm hiểu:  [“The china study: bí mật dinh dưỡng cho s
 
 ***Chế độ Macrobiotics (Thực dưỡng)** 
 
-Thành phần dinh dưỡng cũng là WFPB, nhưng áp dụng các nguyên lý cân bằng  m-Dương để đạt được mục đích phòng & trị bệnh rất hiệu quả. 
+Thành phần dinh dưỡng cũng là WFPB, nhưng áp dụng các nguyên lý cân bằng  Âm-Dương để đạt được mục đích phòng & trị bệnh rất hiệu quả. Trái với ấn tượng của nhiều người, thực dưỡng không bó hẹp trong việc chữa bệnh với gạo lứt-muối mè mà thực ra là 1 phong cách sống cân bằng. 1 lượng nhỏ đạm động vật cũng được chấp nhận, ưu tiên cá tôm nhỏ ăn được cả xương.
+
+{{< figure src="https://i.imgur.com/w7ZQshp.jpg" alt="bữa ăn thực dưỡng" caption="Nguồn ảnh:bepthucduong.com" class="w-100" >}}
 
 Sách hay để tìm hiểu: [“Thực dưỡng for dummies”](https://tiki.vn/thuc-duong-for-dummies-p834549.html)
 
@@ -197,7 +212,7 @@ Khi hiểu những nguyên lý tự nhiên rồi, chúng ta dần sẽ bỏ đi 
 
 2.Nguồn đạm từ động vật mặc dù có cấu trúc “hoàn chỉnh" nhưng khi ăn quá mức cần thiết, sẽ là môi trường “hoàn hảo" cho bệnh tật nảy sinh và phát triển. Nguồn đạm thực vật tuy có tốc độ chuyển hoá chậm hơn nhưng bền bỉ, an toàn, giúp phòng ngừa và ngăn chặn nhiều loại bệnh, tiêu biểu là ung thư.
 
-3.**0.8-1g/1kg trọng lượng cơ thể** là lượng đạm một người trưởng thành cần, theo khuyến cáo dinh dưỡng cho chế độ ăn hàng ngày. Click vào đây để xem yêu cầu cho người trưởng thành, trẻ em, người già, phụ nữ mang thai...phân theo độ tuổi, giới tính.
+3.**0.8-1g/1kg trọng lượng cơ thể** là lượng đạm một người trưởng thành cần, theo khuyến cáo dinh dưỡng cho chế độ ăn hàng ngày. Click vào [đây](https://www.ncbi.nlm.nih.gov/books/NBK56068/table/summarytables.t4/?report=objectonly)  để xem yêu cầu cho người trưởng thành, trẻ em, người già, phụ nữ mang thai...phân theo độ tuổi, giới tính.
 
 4.Đối với vận động viên hoặc người có cường độ hoạt động tương đương, lượng đạm cần là **1.3-1.8g/kg trọng lượng.**
 
@@ -209,8 +224,12 @@ Khi hiểu những nguyên lý tự nhiên rồi, chúng ta dần sẽ bỏ đi 
 
 8.Tập trung vào việc tăng thêm đạm thực vật lành mạnh với các công thức hấp dẫn thay vì tập trung vào việc phải “kiêng” bớt đạm động vật. Bạn sẽ dần nhận thấy mọi thứ thật dễ dàng và vui thích ^^
 
-THAM KHẢO THÊM
-(1) Brenda Davis and Vesanto Melina. "Becoming Vegan: the Complete Reference on Plant-Based Nutrition." Becoming Vegan: the Complete Reference on Plant-Based Nutrition, Book Publishing Company, 2014.
-(2) Dietary Reference Intakes (DRIs): Recommended Dietary Allowances and Adequate Intakes, Total Water and Macronutrients.Food and Nutrition Board, Institute of Medicine, National Academies.
-(3) T.Colin Campbell and Thomas M.Campbell. “The China Study:The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health”, BenBella Books, 2006.
-(4) Verne Varona. “Detox for dummies”. For dummies, 2009.
+**THAM KHẢO THÊM**
+
+_(1) Brenda Davis and Vesanto Melina. "Becoming Vegan: the Complete Reference on Plant-Based Nutrition." Becoming Vegan: the Complete Reference on Plant-Based Nutrition, Book Publishing Company, 2014._
+
+_(2) Dietary Reference Intakes (DRIs): Recommended Dietary Allowances and Adequate Intakes, Total Water and Macronutrients.Food and Nutrition Board, Institute of Medicine, National Academies._
+
+_(3) T.Colin Campbell and Thomas M.Campbell. “The China Study:The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet, Weight Loss, And Long-term Health”, BenBella Books, 2006._
+
+_(4) Verne Varona. “Detox for dummies”. For dummies, 2009._
