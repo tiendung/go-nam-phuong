@@ -16,7 +16,7 @@
             "đạm", "protein", "thức ăn thân", "dinh dưỡng cơ bản", "chầm chậm mà sống", "ăn chay", "ăn mặn", "thực dưỡng", "toàn phần", "thực vật", "động vật"
    ],
 "title": "Tất cả những điều bạn cần biết về ĐẠM (PROTEIN)",
-  "published": t,
+  "published": true
 }
 
 ## Đạm: nguồn dinh dưỡng tranh cãi lớn nhất
@@ -90,7 +90,7 @@ Với mức đạm như vậy, thực tế **ai cũng có đủ lượng đạm 
 ## Tổng hợp các nguồn đạm động vật và thực vật
 
 Sau đây là danh sách các nguồn đạm thông thường, kèm theo ước tính đạm.
-{{< figure src="https://i.imgur.com/e7SWsTj.png" alt="đạm trong bữa sáng" caption="Bữa sáng với bánh khoai tây & matcha latte đậu nành sữa dừa" class="w-100" >}}
+{{< figure src="https://i.imgur.com/e7SWsTj.png" alt="đạm trong bữa sáng" class="w-100" >}}
 
 Click vào [đây](https://drive.google.com/open?id=1Y0Lth3wej5GsEQV-50joTq_Byh9_egqj)để download.
 
