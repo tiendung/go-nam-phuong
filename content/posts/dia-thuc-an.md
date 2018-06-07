@@ -17,7 +17,7 @@
 
 > Làm thế nào để đảm bảo khẩu phần chúng ta ăn hàng ngày mang lại đầy đủ dinh dưỡng thiết yếu?
 
-Nhiều quốc gia và tổ chức khác nhau đã tạo ra phiên bản hướng dẫn dinh dưỡng của riêng họ nhằm giúp người dân có định hướng hơn trong việc lựa chọn thực phẩm. Mỗi bản hướng dẫn lại có sự khác biệt, tuỳ theo: điều kiện khí hậu & thổ nhưỡng quốc gia, truyền thống ẩm thực, quan điểm của các chuyên gia trong thời gian đó, và cả *e hèm* ảnh hưởng của các nhóm lợi ích đối với chính phủ. Công cụ minh hoạ thường ở nhiều dạng: dĩa ([Anh](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/528193/Eatwell_guide_colour.pdf), [Mỹ](https://www.choosemyplate.gov/#slideshow-1)), kim tự tháp ([Ireland](http://www.safefood.eu/Healthy-Eating/What-is-a-balanced-diet/The-Food-Pyramid.aspx)), bậc thang ([Pháp](http://www.mangerbouger.fr/pro/IMG/pdf/Livret_accompagnement_0a18ans.pdf)), con quay ([Nhật](http://www.fao.org/nutrition/education/food-based-dietary-guidelines/regions/countries/japan/en/)), thậm chí ngôi chùa ([Trung Quốc](http://www.fao.org/nutrition/education/food-based-dietary-guidelines/regions/countries/china/en/))...và dĩa thức ăn là dạng phổ biến nhất do sự gần gũi của nó trong bữa cơm hàng ngày. 
+Nhiều quốc gia và tổ chức khác nhau đã tạo ra phiên bản hướng dẫn dinh dưỡng của riêng họ nhằm giúp người dân có định hướng hơn trong việc lựa chọn thực phẩm. Mỗi bản hướng dẫn lại có sự khác biệt, tuỳ theo: điều kiện khí hậu & thổ nhưỡng quốc gia, truyền thống ẩm thực, quan điểm của các chuyên gia trong thời gian đó, và cả *e hèm* ảnh hưởng của các nhóm lợi ích đối với chính phủ. Công cụ minh hoạ thường ở nhiều dạng: dĩa của [Anh](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/528193/Eatwell_guide_colour.pdf), [Mỹ](https://www.choosemyplate.gov/#slideshow-1), kim tự tháp của [Ireland](http://www.safefood.eu/Healthy-Eating/What-is-a-balanced-diet/The-Food-Pyramid.aspx), bậc thang của [Pháp (http://www.mangerbouger.fr/pro/IMG/pdf/Livret_accompagnement_0a18ans.pdf), con quay của [Nhật](http://www.fao.org/nutrition/education/food-based-dietary-guidelines/regions/countries/japan/en/), thậm chí ngôi chùa của [Trung Quốc](http://www.fao.org/nutrition/education/food-based-dietary-guidelines/regions/countries/china/en/)...và dĩa thức ăn là dạng phổ biến nhất do sự gần gũi của nó trong bữa cơm hàng ngày. 
 
 ## Vậy chúng ta nên theo hướng dẫn nào?
 
@@ -33,7 +33,7 @@ Trong bài này, mình sẽ giới thiệu đến các bạn công cụ toàn di
 
 ## Phương pháp dĩa thức ăn
 
-{{< figure src="https://i.imgur.com/vI5IhNz.jpg" alt="dĩa thức ăn tích hợp" class="w-100 tc" >}}
+{{< figure src="https://i.imgur.com/vI5IhNz.jpg" alt="dĩa thức ăn tích hợp" class="w-100" >}}
 
 > CLICK VÀO [ĐÂY](https://drive.google.com/file/d/1BEXsvGSn4Vnpdrx_fk-_a3FNTBIb1XQn/view?usp=sharing) ĐỂ DOWNLOAD BẢN ĐẦY ĐỦ
 
@@ -87,7 +87,7 @@ Trong bài này, mình sẽ giới thiệu đến các bạn công cụ toàn di
 
 **- Nguồn:** Nên ưu tiên ăn các loại hạt, đậu, bơ hạt, quả bơ, cá, dầu cá...nói chung trong các thực phẩm toàn phần. Dầu ăn sử dụng lượng vừa phải, ưu tiên dầu mè, dầu olive extra virgin, dầu phộng. Nghiên cứu cho thấy điểm chung của các cộng đồng tuổi thọ cao hàng đầu thế giới là họ sử dụng dầu thực vật lành mạnh và các loại đậu.
 
-{{< figure src="https://i.imgur.com/OA9UI6g.jpg" alt="dĩa thức ăn tích hợp" caption="Các nguồn chất béo tốt nhất" class="w-100 tc" >}}
+{{< figure src="https://i.imgur.com/OA9UI6g.jpg" alt="dĩa thức ăn tích hợp" caption="Các nguồn chất béo tốt nhất" class="w-100" >}}
 
 **- Tip:** Những cách giảm cơn thèm chất béo bao gồm ăn thực phẩm lên men, nạp đủ [đạm](https://coachnamphuong.com/posts/tat-ca-nhung-gi-ban-can-biet-ve-dam/) (dù không cần quá nhiều) và muối.
 
