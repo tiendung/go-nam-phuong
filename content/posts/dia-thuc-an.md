@@ -5,7 +5,7 @@
       "thức ăn thân", “thức ăn tâm" 
    ],
    "cover_image": "https://i.imgur.com/fOgXdsj.jpg",
-   "date": "2018-26-05",
+   "date": "2018-06-07",
    "published": true,
    "tags": [
       "dĩa thức ăn", "dinh dưỡng", "dinh dưỡng cơ bản",  "chầm chậm mà sống", "thức ăn tâm", "thức ăn thân"
@@ -32,10 +32,12 @@ Có 3 điều có thể cân nhắc:
 Trong bài này, mình sẽ giới thiệu đến các bạn công cụ toàn diện và cân bằng nhất: **Dĩa Dinh dưỡng Tích hợp (Integrative Nutrition ® Plate)** của trường dinh dưỡng lớn nhất thế giới Institute for Integrative Nutrition.
 
 ## Phương pháp dĩa thức ăn
-[Hình dĩa thức ăn]
-[link download pdf]
 
-Điểm khác biệt lớn nhất của dĩa thức ăn này chính là sự xuất hiện của [“Thức ăn Tâm"](https://coachnamphuong.com/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an/) - những dinh dưỡng của tâm hồn. Tuy mỗi người có thể có loại Thức ăn Tâm của riêng mình, 4 loại thường tác động lớn nhất lên sức khoẻ & hạnh phúc của con người nói chung là: Quan hệ, Vận động, Sự nghiệp và Tâm linh. Nếu thiếu đi những yếu tố này, thì dù dung nạp [Thức ăn Thân](https://coachnamphuong.com/posts/10-nguyen-tac-an-uong-bat-bien/) chuẩn chỉnh như thế nào chăng nữa thì con người cũng vẫn bị mất cân bằng.
+{{< figure src="https://i.imgur.com/vI5IhNz.jpg" alt="dĩa thức ăn tích hợp" class="w-100 tc" >}}
+
+> CLICK VÀO [ĐÂY](https://drive.google.com/file/d/1BEXsvGSn4Vnpdrx_fk-_a3FNTBIb1XQn/view?usp=sharing) ĐỂ DOWNLOAD BẢN ĐẦY ĐỦ
+
+Điểm khác biệt lớn nhất của dĩa thức ăn này chính là sự xuất hiện của **[“Thức ăn Tâm"]**(https://coachnamphuong.com/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an/) - những dinh dưỡng của tâm hồn. Tuy mỗi người có thể có loại Thức ăn Tâm của riêng mình, 4 loại thường tác động lớn nhất lên sức khoẻ & hạnh phúc của con người nói chung là: Quan hệ, Vận động, Sự nghiệp và Tâm linh. Nếu thiếu đi những yếu tố này, thì dù dung nạp **[Thức ăn Thân]**(https://coachnamphuong.com/posts/10-nguyen-tac-an-uong-bat-bien/)chuẩn chỉnh như thế nào chăng nữa thì con người cũng vẫn bị mất cân bằng.
 
 ## Cùng tìm hiểu thành phần cụ thể nhé! ^^
 
@@ -46,7 +48,6 @@ Trong bài này, mình sẽ giới thiệu đến các bạn công cụ toàn di
 **- Nguồn:** gạo lứt, bánh mì nguyên cám, phở/bún/mì nguyên cám, diêm mạch, bo bo, kê, yến mạch...bất cứ loại cốc nào giữ nguyên hạt!
  
 **- Tip:** Nếu chuyển từ gạo trắng sang gạo lứt chưa quen thì có thể ăn gạo chà xơ. Nhớ ngâm ngũ cốc trước khi nấu: 6h-8h cho gạo, 2h cho diêm mạch, 6h cho yến mạch…vì sẽ giúp phân giải chất phytic acid có trong lớp vỏ cám vốn ngăn trở hấp thu khoáng chất.
-
 
 
 ### RAU & RONG BIỂN: 35% DĨA
@@ -84,7 +85,9 @@ Trong bài này, mình sẽ giới thiệu đến các bạn công cụ toàn di
 + Chất béo từ sản phẩm động vật (thịt, trứng, sữa) thường thuộc nhóm chất béo bão hoà (saturated fats) và chất béo biến tính (trans fat).Ăn quá nhiều những loại này sẽ tăng nguy cơ huyết áp cao, bệnh tim mạch, ung thư ruột kết và ung thư vú. Ngoại trừ cá, dầu cá thuộc nhóm chất béo không bão hoà, tương đối lành mạnh.
 + Chất béo lấy từ các sản phẩm thực vật thường thuộc nhóm chất béo không bão hoà đơn (monounsaturated fats) hoặc chất béo không bão hoà đa (polyunsaturated fats), lành mạnh hơn rất nhiều. 
 
-**- Nguồn:** Nên ưu tiên ăn các loại hạt, đậu, bơ hạt, quả bơ, cá, dầu cá, rong biển...nói chung trong các thực phẩm toàn phần. Dầu ăn sử dụng lượng vừa phải, ưu tiên dầu mè, dầu olive extra virgin, dầu phộng. Nghiên cứu cho thấy điểm chung của các cộng đồng tuổi thọ cao hàng đầu thế giới là họ sử dụng dầu thực vật lành mạnh và các loại đậu.
+**- Nguồn:** Nên ưu tiên ăn các loại hạt, đậu, bơ hạt, quả bơ, cá, dầu cá...nói chung trong các thực phẩm toàn phần. Dầu ăn sử dụng lượng vừa phải, ưu tiên dầu mè, dầu olive extra virgin, dầu phộng. Nghiên cứu cho thấy điểm chung của các cộng đồng tuổi thọ cao hàng đầu thế giới là họ sử dụng dầu thực vật lành mạnh và các loại đậu.
+
+{{< figure src="https://i.imgur.com/OA9UI6g.jpg" alt="dĩa thức ăn tích hợp" caption="Các nguồn chất béo tốt nhất" class="w-100 tc" >}}
 
 **- Tip:** Những cách giảm cơn thèm chất béo bao gồm ăn thực phẩm lên men, nạp đủ [đạm](https://coachnamphuong.com/posts/tat-ca-nhung-gi-ban-can-biet-ve-dam/) (dù không cần quá nhiều) và muối.
 
