@@ -2,12 +2,12 @@
    "title": "Phương pháp dĩa thức ăn: Đảm bảo cân bằng dinh dưỡng hàng ngày",
    "description": "Công cụ hình dung này sẽ giúp bạn lên kế hoạch cho những bữa ăn cân bằng nhất",
    "author": "boo",
-   "categories": [
-      "thức ăn thân", “thức ăn tâm" 
-   ],
    "cover_image": "https://i.imgur.com/fOgXdsj.jpg",
    "date": "2018-06-07",
    "published": true,
+   "categories": [
+      "thức ăn thân", "thức ăn tâm" 
+   ],
    "tags": [
       "dĩa thức ăn", "dinh dưỡng", "dinh dưỡng cơ bản",  "chầm chậm mà sống", "thức ăn tâm", "thức ăn thân"
    ],
