@@ -144,7 +144,7 @@ Tuy nhiên, có 1 số loại TPCN mà những người có sức khoẻ quá su
 ✓Trái cây: không có trong hình ^^
 
 
-{{< figure src="https://i.imgur.com/XKjyVVg.jpg" alt="dĩa thức ăn" class="w-100" >}}
+{{< figure src="https://i.imgur.com/XKjyVVg.jpg" alt="dĩa thức ăn" caption="Ảnh:Đăng Cường" class="w-100" >}}
 
 _Điều chỉnh tỉ lệ tí nào!_
 
