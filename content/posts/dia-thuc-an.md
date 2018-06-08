@@ -25,7 +25,7 @@ Có 3 điều có thể cân nhắc:
 
 - Chọn hướng dẫn của các đơn vị ít bị chi phối bởi lợi ích kinh tế nhất. Thật đáng buồn, chắc chắn đó không phải là chính phủ rồi.
 
-- Bỏ qua sự khác biệt, những hướng dẫn đều có điểm chung là sẽ nhấn mạnh đến việc bổ sung đa dạng rau củ, trái cây, ngũ cốc (nên là toàn phần) cũng như các nguồn cung cấp chất đạm, béo, canxi.
+- Bỏ qua sự khác biệt, những hướng dẫn đều có điểm chung là sẽ nhấn mạnh đến việc bổ sung đa dạng rau củ, trái cây, ngũ cốc (nên là toàn phần) cũng như các nguồn cung cấp [chất đạm] (https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/), béo, canxi.
 
 - Tự điều chỉnh cho phù hợp với độ tuổi, giới tính, hoàn cảnh sức khoẻ, tín hiệu cơ thể đưa ra. Thuốc bổ với người này có thể là chất độc với người khác.
 
