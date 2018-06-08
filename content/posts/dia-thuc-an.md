@@ -133,7 +133,7 @@ Tuy nhiên, có 1 số loại TPCN mà những người có sức khoẻ quá su
 
 ## Cùng xem vài ví dụ mẫu nhé!
 
-{{< figure src="https://i.imgur.com/mmrJF2U.jpg" alt="bữa cơm mẫu" class="w-100" >}}
+{{< figure src="https://i.imgur.com/mmrJF2U.jpg" alt="bữa cơm mẫu" caption="Ảnh: Ngọc Quyên (Ẩm thực lành) class="w-100" >}}
 
 ✓35% Ngũ cốc toàn phần: cơm gạo lứt đỏ, miến hấp trộn
 
