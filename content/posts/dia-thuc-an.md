@@ -141,18 +141,22 @@ Tuy nhiên, có 1 số loại TPCN mà những người có sức khoẻ quá su
 
 ✓15% Đạm: bánh đậu nành lên men tempeh xào hành tây & cà chua, muối đậu phộng
 
-Trái cây: không có, do ăn quá no rồi ^^
+✓Trái cây: không có trong hình ^^
 
 
-{{< figure src="https://i.imgur.com/XQKllxJ.jpg" alt="bữa cơm mẫu 2" class="w-100" >}}
+{{< figure src="https://i.imgur.com/XKjyVVg.jpg" alt="dĩa thức ăn " class="w-100" >}}
 
-✓35% Ngũ cốc toàn phần: phở gạo lứt
+Điều chỉnh tỉ lệ tí nào!
 
-✓35% Rau: cải xào tép
+✓30% Ngũ cốc toàn phần: phở gạo lứt
 
-✓15% Đạm: Tép, đậu phộng
+✓55% Rau trái: dền luộc, cà rốt và thơm xào
 
-✓Trái cây: không có trong hình
+✓15% Đạm: Tép ang mắm ớt
+
+✓Dầu: dầu gấc trộn với phở gạo lứt 
+
+✓Nước: nước dền luộc ^^
 
 ## Tổng kết lại nào!
 
