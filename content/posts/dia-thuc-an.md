@@ -37,7 +37,7 @@ Trong bài này, mình sẽ giới thiệu đến các bạn công cụ toàn di
 
 > CLICK VÀO [ĐÂY](https://drive.google.com/file/d/1BEXsvGSn4Vnpdrx_fk-_a3FNTBIb1XQn/view?usp=sharing) ĐỂ DOWNLOAD BẢN ĐẦY ĐỦ
 
-Điểm khác biệt lớn nhất của dĩa thức ăn này chính là sự xuất hiện của **[“Thức ăn Tâm"]**(https://coachnamphuong.com/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an/) - những dinh dưỡng của tâm hồn. Tuy mỗi người có thể có loại Thức ăn Tâm của riêng mình, 4 loại thường tác động lớn nhất lên sức khoẻ & hạnh phúc của con người nói chung là: Quan hệ, Vận động, Sự nghiệp và Tâm linh. Nếu thiếu đi những yếu tố này, thì dù dung nạp **[Thức ăn Thân]**(https://coachnamphuong.com/posts/10-nguyen-tac-an-uong-bat-bien/)chuẩn chỉnh như thế nào chăng nữa thì con người cũng vẫn bị mất cân bằng.
+Điểm khác biệt lớn nhất của dĩa thức ăn này chính là sự xuất hiện của **[“Thức ăn Tâm"](https://coachnamphuong.com/posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an/)** - những dinh dưỡng của tâm hồn. Tuy mỗi người có thể có loại Thức ăn Tâm của riêng mình, 4 loại thường tác động lớn nhất lên sức khoẻ & hạnh phúc của con người nói chung là: Quan hệ, Vận động, Sự nghiệp và Tâm linh. Nếu thiếu đi những yếu tố này, thì dù dung nạp **[Thức ăn Thân](https://coachnamphuong.com/posts/10-nguyen-tac-an-uong-bat-bien/)** chuẩn chỉnh như thế nào chăng nữa thì con người cũng vẫn bị mất cân bằng.
 
 ## Cùng tìm hiểu thành phần cụ thể nhé! ^^
 
