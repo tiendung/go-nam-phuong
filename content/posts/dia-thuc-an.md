@@ -82,10 +82,12 @@ Trong bài này, mình sẽ giới thiệu đến các bạn công cụ toàn di
 
 ### CHẤT BÉO:
 **- Lợi ích:** thành phần thiết yếu cho nhiều hoạt động của cơ thể như cung cấp năng lượng dự trữ, tạo lớp đệm bảo vệ xương và cơ quan bên trong, duy trì sức khoẻ màng tế bào.
+
 + Chất béo từ sản phẩm động vật (thịt, trứng, sữa) thường thuộc nhóm chất béo bão hoà (saturated fats) và chất béo biến tính (trans fat).Ăn quá nhiều những loại này sẽ tăng nguy cơ huyết áp cao, bệnh tim mạch, ung thư ruột kết và ung thư vú. Ngoại trừ cá, dầu cá thuộc nhóm chất béo không bão hoà, tương đối lành mạnh.
+
 + Chất béo lấy từ các sản phẩm thực vật thường thuộc nhóm chất béo không bão hoà đơn (monounsaturated fats) hoặc chất béo không bão hoà đa (polyunsaturated fats), lành mạnh hơn rất nhiều. 
 
-**- Nguồn:** Nên ưu tiên ăn các loại hạt, đậu, bơ hạt, quả bơ, cá, dầu cá...nói chung trong các thực phẩm toàn phần. Dầu ăn sử dụng lượng vừa phải, ưu tiên dầu mè, dầu olive extra virgin, dầu phộng. Nghiên cứu cho thấy điểm chung của các cộng đồng tuổi thọ cao hàng đầu thế giới là họ sử dụng dầu thực vật lành mạnh và các loại đậu.
+**- Nguồn:** Nên ưu tiên ăn các loại hạt, đậu, bơ hạt, quả bơ, cá, dầu cá...nói chung trong các thực phẩm toàn phần. Dầu ăn sử dụng lượng vừa phải, ưu tiên dầu mè, dầu olive extra virgin, dầu phộng. Nghiên cứu cho thấy điểm chung của các [cộng đồng tuổi thọ cao hàng đầu thế giới] (https://coachnamphuong.com/posts/hon-dao-noi-nguoi-ta-quen-khong-chet/) là họ sử dụng dầu thực vật lành mạnh và các loại đậu.
 
 {{< figure src="https://i.imgur.com/OA9UI6g.jpg" alt="dĩa thức ăn tích hợp" caption="Các nguồn chất béo tốt nhất" class="w-100" >}}
 
@@ -134,16 +136,22 @@ Tuy nhiên, có 1 số loại TPCN mà những người có sức khoẻ quá su
 {{< figure src="https://i.imgur.com/mmrJF2U.jpg" alt="bữa cơm mẫu" class="w-100" >}}
 
 ✓35% Ngũ cốc toàn phần: cơm gạo lứt đỏ, miến hấp trộn
+
 ✓35% Rau củ: bí đỏ nướng, canh ổ qua cà rốt, dưa món
+
 ✓15% Đạm: bánh đậu nành lên men tempeh xào hành tây & cà chua, muối đậu phộng
+
 Trái cây: không có, do ăn quá no rồi ^^
 
 
 {{< figure src="https://i.imgur.com/XQKllxJ.jpg" alt="bữa cơm mẫu 2" class="w-100" >}}
 
 ✓35% Ngũ cốc toàn phần: phở gạo lứt
+
 ✓35% Rau: cải xào tép
+
 ✓15% Đạm: Tép, đậu phộng
+
 ✓Trái cây: không có trong hình
 
 ## Tổng kết lại nào!
@@ -152,5 +160,5 @@ Trái cây: không có, do ăn quá no rồi ^^
 
 Cho nên bạn không phải lấy dĩa ra rồi sắp xếp tỉ mẩn theo đúng tỉ lệ và thứ tự. Thay vì thế, chỉ cần **lên kế hoạch tổng thể dựa trên bản mẫu, linh hoạt thực hiện với các loại thức ăn bạn có thể tiếp cận hay yêu thích!**
 
-_Hãy chia sẻ dĩa thức ăn của bạn! Bằng cách bình luận, hay chia sẻ hình ảnh trên facebook, instagram kèm theo hashtag #dĩathứcăn nhé. Mình rất mong chờ được nhìn thấy hình ảnh của các đĩa thức ăn của bạn đó! ^O^_
+_Hãy chia sẻ dĩa thức ăn của bạn! Bằng cách bình luận, hay chia sẻ hình ảnh trên facebook, instagram kèm theo hashtag #dĩa_thức_ăn nhé. Mình rất mong chờ được nhìn thấy hình ảnh của các đĩa thức ăn của bạn đó! ^O^_
 
