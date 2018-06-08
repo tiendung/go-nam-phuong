@@ -133,7 +133,7 @@ Tuy nhiên, có 1 số loại TPCN mà những người có sức khoẻ quá su
 
 ## Cùng xem vài ví dụ mẫu nhé!
 
-{{< figure src="https://i.imgur.com/mmrJF2U.jpg" alt="bữa cơm mẫu" caption="Ảnh: Ngọc Quyên (Ẩm thực lành) class="w-100" >}}
+{{< figure src="https://i.imgur.com/mmrJF2U.jpg" alt="bữa cơm mẫu" caption="Ảnh: Ngọc Quyên (Ẩm thực lành)" class="w-100" >}}
 
 ✓35% Ngũ cốc toàn phần: cơm gạo lứt đỏ, miến hấp trộn
 
@@ -144,7 +144,7 @@ Tuy nhiên, có 1 số loại TPCN mà những người có sức khoẻ quá su
 ✓Trái cây: không có trong hình ^^
 
 
-{{< figure src="https://i.imgur.com/XKjyVVg.jpg" alt="dĩa thức ăn " class="w-100" >}}
+{{< figure src="https://i.imgur.com/XKjyVVg.jpg" alt="dĩa thức ăn" class="w-100" >}}
 
 _Điều chỉnh tỉ lệ tí nào!_
 
