@@ -10,7 +10,7 @@
    ],
    "tags": [
       "dĩa thức ăn", "dinh dưỡng", "dinh dưỡng cơ bản",  "chầm chậm mà sống", "thức ăn tâm", "thức ăn thân"
-   ],
+   ]
 }
 
 ## Nguồn gốc của phương pháp “Dĩa thức ăn"
