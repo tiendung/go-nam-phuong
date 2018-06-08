@@ -146,7 +146,7 @@ Tuy nhiên, có 1 số loại TPCN mà những người có sức khoẻ quá su
 
 {{< figure src="https://i.imgur.com/XKjyVVg.jpg" alt="dĩa thức ăn " class="w-100" >}}
 
-Điều chỉnh tỉ lệ tí nào!
+_Điều chỉnh tỉ lệ tí nào!_
 
 ✓30% Ngũ cốc toàn phần: phở gạo lứt
 
@@ -157,6 +157,10 @@ Tuy nhiên, có 1 số loại TPCN mà những người có sức khoẻ quá su
 ✓Dầu: dầu gấc trộn với phở gạo lứt 
 
 ✓Nước: nước dền luộc ^^
+
+_Nếu đi ăn ngoài?_
+
+Hãy chọn những nơi có bán ngũ cốc toàn phần (cơm/phở lứt, bánh mì nguyên cám...) như các hàng ăn thực dưỡng, hàng ăn lành mạnh. Gọi thêm các món rau và 1 phần đạm nhỏ nhé ^^ Trái cây, các loại hạt khô tốt nhất mua nguồn sạch và mang đi như 1 loại "snack" siêu lành mạnh.
 
 ## Tổng kết lại nào!
 
