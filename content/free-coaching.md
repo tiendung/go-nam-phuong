@@ -49,6 +49,7 @@ Trò chuyện thân mật riêng tư trong vòng 1 giờ, gặp mặt trực ti�
 
 <h3 class="i fw3">3. Coach giúp bạn đưa ra các chiến lược hành động để cải thiện chất lượng cuộc sống, theo đúng giới hạn khả năng, túi tiền, thời gian bạn đang có.</h3>
 
+<!--
 ## Đăng ký khai vấn miễn phí
 Tôi sẽ thực hiện Khai vấn miễn phí cho __chỉ 8 người / tháng__, theo thứ tự đăng kí. Nếu bạn đang có bất kì băn khoăn lo lắng nào về sức khoẻ, hãy đăng kí theo các bước sau:
 
@@ -64,7 +65,7 @@ Tôi sẽ thực hiện Khai vấn miễn phí cho __chỉ 8 người / tháng__
   </div>
 </article>
 
-
 Bạn sẽ nhận được email xác nhận từ Coach và sẽ được chủ động liên lạc khi đến lượt.
 
 Bên trong bạn có rất nhiều nguồn sức mạnh tiềm ẩn. Hãy cùng tôi khai phá chúng!
+-->
