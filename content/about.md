@@ -66,9 +66,9 @@ Nếu bạn đã đọc đến đoạn này, cảm ơn vì đã kiên nhẫn! Hy
 {{< partial "newsletter_form.html" >}}
 </section>
 
-Bạn cũng có thể đăng kí 1 buổi khai vấn [Lịch sử sức khoẻ miễn phí](/free-coaching). Mỗi tuần, tôi sẽ liên lạc với chỉ 2 người, và giúp họ đánh giá lại tổng quan tình hình sức khoẻ và cuộc sống. Từ đó họ có chiến lược ban đầu để tiến đến mục tiêu và nâng cao chất lượng sống.
+<!-- Bạn cũng có thể đăng kí 1 buổi khai vấn [Lịch sử sức khoẻ miễn phí](/free-coaching). Mỗi tuần, tôi sẽ liên lạc với chỉ 2 người, và giúp họ đánh giá lại tổng quan tình hình sức khoẻ và cuộc sống. Từ đó họ có chiến lược ban đầu để tiến đến mục tiêu và nâng cao chất lượng sống.
 
-Con đường ngàn dặm nào cũng bắt đầu bằng một bước chân đầu tiên. Và đó nên là bước chân tiến đến bên nhau.
+Con đường ngàn dặm nào cũng bắt đầu bằng một bước chân đầu tiên. Và đó nên là bước chân tiến đến bên nhau. -->
 
 Cảm ơn đã ghé thăm. Tôi thực sự mong chờ được kết nối với bạn!
 
