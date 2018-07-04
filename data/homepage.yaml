@@ -1,11 +1,11 @@
 helps:
-  - title: Khai vấn thử miễn phí
-    subtitle: Đánh giá lại Lịch sử sức khoẻ của bạn
-    cta:
-      url: /free-coaching/
-      text: Đăng kí
-    image: /images/site/photo-1460518451285-97b6aa326961.jpg
-
+  # - title: Khai vấn thử miễn phí
+  #   subtitle: Đánh giá lại Lịch sử sức khoẻ của bạn
+  #   cta:
+  #     url: /free-coaching/
+  #     text: Đăng kí
+  #   image: /images/site/photo-1460518451285-97b6aa326961.jpg
+  #
   - title: Khai vấn toàn diện
     subtitle: Lộ trình phát triển sức khoẻ & hạnh phúc được thiết kế riêng cho bạn
     cta:
