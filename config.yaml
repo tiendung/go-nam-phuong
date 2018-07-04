@@ -5,17 +5,20 @@ title: Coach Nam Phương
 
 menu:
   main:
-    - Name: About
+    - Name: Giới thiệu
       Weight: 1
       URL: "/about/"
-    - Name: Offers
+    - Name: Dịch vụ
       Weight: 2
       URL: "/offers/"
-    - Name: Blog
+    - Name: Bài viết
       Weight: 3
       URL: "/posts/"
-    - Name: Contact
+    - Name: Chầm chậm
       Weight: 4
+      URL: "/cham-cham/"
+    - Name: Liên hệ
+      Weight: 5
       URL: "mailto:namphuong.cf@gmail.com"
 
 params:
