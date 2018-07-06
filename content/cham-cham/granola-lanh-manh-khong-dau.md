@@ -16,7 +16,7 @@
    "tags": [
             "granola", "ngũ cốc", "bữa sáng", "lành mạnh", "hạt", "yến mạch"
    ],
-"title": "Công thức Granola lành mạnh không dầu (mà lại ngon!)",
+"title": "Công thức Granola lành mạnh nhất: không dầu & siêu ngon!)",
 "published": true
 }
 
@@ -36,7 +36,33 @@ Mình thực sự hào hứng giới thiệu công thức này vì nó:
 
 ## Đầu tiên, GRANOLA là gì?
 
-Granola là một món hay dùng để ăn sáng hay ăn nhẹ giữa bữa, bao gồm: yến mạch, các loại hạt, mật ong hoặc chất ngọt khác như đường nâu, trái cây khô... thường được nướng cho đến khi nó là giòn tan và có màu vàng nâu. Wow, nghe đã thấy hấp dẫn đúng không?
+Granola là một món hay dùng để ăn sáng hay ăn nhẹ giữa bữa, bao gồm: yến mạch, các loại hạt, mật ong hoặc chất ngọt khác như đường nâu, trái cây khô... thường được nướng cho đến khi nó là giòn tan và có màu vàng nâu. Wow, nghe đã thấy hấp dẫn đúng không? 
 
-{{< figure src="https://i.imgur.com/srx7tHI.jpg" alt="the fools who dream" caption="Bữa ăn đầu tiên :v" class="w-100" >}}
+{{< figure src="https://i.imgur.com/g1N46ft.jpg" alt="granola nhà làm" caption="Hãy tạo ra phiên bản của riêng bạn!" class="w-100" >}}
+
+## Công thức
+
+Nguyên liệu:
+
+-Yến mạch loại rolled oats hoặc whole oats: hãy lựa loại này thay cho loại có chữ "instant" hay "quick" sẽ bổ dưỡng hơn
+
+-Các loại hạt bạn có: hạnh nhân, óc chó, bí, hướng dương, mè...có gì dùng nấy.Chỉ cần 2-3 loại là ngon rồi
+
+-Tạo ngọt từ 1 trong các loại như dừa nạo, trái cây sấy, nho khô, chuối, mật ong...
+
+-Chất kết dính: hummus, bơ đậu, bơ mè...mình dùng những cái này thay cho dầu.
+
+-Một chút xíu muối biển: bổ dưỡng hơn muối i ốt tinh luyện.
+
+(Theo truyền thống, công thức thường có dầu. Nếu bạn thích dùng dầu thì hãy dùng dầu dừa hoặc dầu mè nhé. Dầu olive cũng được nhưng rõ ràng việc tiêu thụ hàng vận chuyển từ nửa vòng trái đất cũng không mang tính bền vững)
+
+## Thời gian làm:
+
+Thời gian chuẩn bị nguyên liệu: 10 phút
+Thời gian nướng: 1h15'
+
+## Cách làm
+
+
+
 
