@@ -19,7 +19,7 @@
 "title": "Công thức làm kẹo từ Kombucha SCOBY"
 }
 
-Nếu bạn chưa biết Kombucha và SCOBY là gì, hãy tham khảo công thức tại ĐÂY. Bạn sẽ sớm có một mẻ trà lên men tự nhiên với hương vị hấp dẫn.
+Nếu bạn chưa biết Kombucha và SCOBY là gì, hãy tham khảo công thức tại [ĐÂY](http://coachnamphuong.com/cham-cham/huong-dan-pha-kombucha/). Bạn sẽ sớm có một mẻ trà lên men tự nhiên với hương vị hấp dẫn.
 
 Còn nếu bạn đã có thể tự làm Kombucha thì sau 1 thời gian, bạn sẽ có nhiều SCOBY sinh sôi nảy nở. Bạn có thể đem tặng người thân bạn bè, hoặc đem các SCOBY đã già (dấu hiệu: màu nâu sậm dần) đã được sử dụng sau nhiều mẻ trà để làm kẹo.
 
@@ -27,7 +27,7 @@ Kẹo này rất mềm và dai với vị kombucha và caramen. Có thể nó s�
 
 > Bạn có thể ăn bất cứ cái gì miễn là bạn tự làm.
 
-Thật đấy! Nếu như 90% chúng ta đã làm những món ăn lành mạnh cân bằng thì 10% còn lại bạn có thể ăn thứ gì đó đơn thuần vì nó ngon hay nó mang lại niềm vui. Sau đây là một món như thế!
+Thật đấy! Nếu như 90% chúng ta có những [bữa ăn cân bằng](http://coachnamphuong.com/posts/dia-thuc-an/) thì 10% còn lại bạn có thể ăn thứ gì đó đơn thuần vì nó ngon hay nó mang lại niềm vui. Sau đây là một món như thế!
 
 ## Nguyên liệu:
 - Scoby kombucha: bao nhiêu tùy thích
@@ -41,7 +41,7 @@ Bước 1: Rửa scoby để loại bỏ những mảnh thừa.Cắt scoby bằn
 {{< figure src="https://i.imgur.com/ivqM6l9.jpg" alt="rửa và cắt SCOBY" class="w-100" >}}
 
 Bước 2: Nhẹ nhàng trộn các mảnh vuông scoby đã cắt cùng đường và một muỗng canh nước cốt chanh
-sau đó đun sôi trên lửa vừa bằng một cái chảo lớn trong 7-10 phút ở nhiệt độ 120"C, khuấy thường xuyên.
+sau đó đun sôi trên lửa vừa bằng một cái chảo lớn trong 7-10 phút ở nhiệt độ 120 độ C, khuấy thường xuyên.
 
 {{< figure src="https://i.imgur.com/xI7aHIK.jpg" alt="đun sôi scoby" class="w-100" >}}
 
