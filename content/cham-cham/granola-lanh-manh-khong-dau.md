@@ -56,18 +56,20 @@ Nguyên liệu:
 
 Gia giảm tuỳ khẩu vị.
 
-{{< figure src="https://i.imgur.com/b5iNP5i.jpg" alt="granola nhà làm" caption="Hãy tạo ra phiên bản của riêng bạn!" class="w-100" >}}
+{{< figure src="https://i.imgur.com/b5iNP5i.jpg" alt="granola nhà làm" caption="Có gì dùng nấy nhé" class="w-100" >}}
 
-Theo truyền thống, công thức thường có dầu. Nếu bạn thích dùng dầu thì hãy dùng dầu dừa hoặc dầu mè nhé. Dầu olive cũng được nhưng rõ ràng việc tiêu thụ hàng vận chuyển từ nửa vòng trái đất cũng không mang tính bền vững đúng không ^^
+Theo truyền thống, công thức thường có dầu. Nếu bạn thích dùng dầu thì hãy dùng dầu dừa hoặc dầu mè nhé. Dầu olive cũng được nhưng rõ ràng việc tiêu thụ hàng vận chuyển từ nửa vòng trái đất không mang tính bền vững cho môi sinh đúng không ^^
 
 > Đừng ngại thay đổi 1 vài nguyên liệu cho phù hợp với hoàn cảnh, sở thích của bản thân. Miễn sao có đủ các nhóm thành phần chính như trên và tận hưởng quá trình sáng tạo của mình nhé!
 
 ## Thời gian làm:
 
 Thời gian chuẩn bị nguyên liệu: 10 phút
-Thời gian nướng: 1h15'
+
+Thời gian nướng: 30 phút
 
 ## Cách làm
+
 Bước 1. Làm nóng lò trước ở nhiệt độ 150 độ C
 
 Bước 2: Cắt nhỏ các loại hạt ra rồi trộn chung với các nguyên liệu khô khác
@@ -99,7 +101,7 @@ Bước 6:Lấy ra khỏi lò và thưởng thức ^^ Còn lại bạn có thể
 
 {{< figure src="https://i.imgur.com/srx7tHI.jpg" alt="trộn nguyên liệu" caption="Một phiên bản khác thử nghiệm ở nhiệt độ 120 độ C với dừa nạo. Không giòn bằng nhưng khá thơm!" class="w-100" >}}
 
-Nghĩ đến là mình trào nước miếng. Mình sẽ làm cho "ai kia" mang đi ăn đường khi phải đi xa, hay mang đi nạp năng lượng siêu tốt trong những chuyến leo núi.
+Nghĩ đến là mình trào nước miếng. Mình sẽ làm cho "ai kia" ăn đường khi đi xa, hay mang theo nạp năng lượng siêu tốt trong những chuyến leo núi.
 
 {{< figure src="https://i.imgur.com/vgtrJKi.jpg" alt="trộn nguyên liệu" caption="Hãy vui vẻ với mẻ đầu tiên của bạn cho đến khi có kẻ chén hết sạch" class="w-100" >}}
 
