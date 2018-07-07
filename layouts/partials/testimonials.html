@@ -1,10 +1,13 @@
-<h1>khách hàng nhận xét</h1>
 
 {{ $site := .Site }}
 
+<div class="full center mw9 pa3 pa2-m pa5-l pt0 pt0-ns pt0-m pt0-l justify-center">
+<h1>khách hàng nhận xét</h1>
+<session class="grid w-100 db cf">
+<div class="grid-sizer grid-item w-100 w-50-ns w-50-m w-third-l"></div>
 {{ range $site.Data.homepage.selected_testimonials }}
   {{ with index $site.Data.testimonials . }}
-  <article class="w-100 w-third-l center bg-white fl pa1 pa3-l">
+  <article class="grid-item w-100 w-50-ns w-50-m w-third-l center bg-white fl pa1 pa3-l">
     <div class="br3 pa3 mv3 shadow-4">
       <div class="tc">
         <img src="{{ .avatar }}" class="br-100 h3 w3 dib">
@@ -19,6 +22,8 @@
   </article>
   {{ end }}
 {{ end }}
+</session>
+</div>
 
 {{ if $debug := ne (getenv "HUGO_ENV") "production" }}
 <script>
@@ -29,3 +34,15 @@
   {{ end }}
 </script>
 {{ end }}
+<script src="/js/masonry.js"></script>
+<script>
+var grid = document.querySelector('.grid');
+
+var msnry = new Masonry( grid, {
+  itemSelector: '.grid-item',
+  columnWidth: '.grid-sizer',
+  percentPosition: true
+});
+
+msnry.layout();
+</script>
