@@ -24,10 +24,9 @@
 
 Đến tận khi đã thiết lập xong kênh youtube “Chầm Chậm Mà Sống", mình vẫn không hết ngạc nhiên trước thay đổi của mình. Trong suốt 25 năm đầu đời, mình là một người nhanh mà theo phân loại của tâm lý học phương Tây là “Type A person". Mình đã tự hào khi bạn bè nhận xét: “Cậu phát triển nhanh quá!”, “Cậu nhanh như tên lửa ấy!"... Thế rồi, nhiều nhân duyên khiến mình sống chậm lại. 
 
-[Câu chuyện đầy đủ về mình học cách từ từ hạ cánh]
+Câu chuyện đầy đủ về mình học cách từ từ hạ cánh xem tại >> [ĐÂY.](http://coachnamphuong.com/posts/vi-sao-toi-tro-thanh-1-health-coach/)
 
 Ở giai đoạn này, mình có thể để cho bản thân và đội ngũ cứ chầm chậm mà làm mọi thứ. Có những bạn lên Đà Lạt quay phim chỉ 3-5 ngày, mà trong suốt 2 ngày trong số đó là mình và bạn thong thả thăm thú nhà cửa, cộng đồng hay đơn thuần là đối thoại với nhau mà thôi. Chỉ riêng có 1 lần, chúng mình thử đẩy cho mọi thứ nhanh lên, thì nghiệm thu lại hiệu quả tốc độ không nhanh hơn lối làm chậm. Có video vội vã quay xong về đến nhà lại phát hiện lỗi kỹ thuật và sẽ phải làm lại. Có video xem xong sẽ thấy tiếng ồn xung quanh quá to mà lại không để ý. Tất nhiên là không phải lỗi của riêng một ai, chính mình khi vội vã sẽ bỏ qua rất nhiều chi tiết nhỏ mà quan trọng. Và mình phải làm lại. Khi làm lại, mình tiếp tục cảm nhận áp lực phải vội vã hơn nữa để “bù lại" cho “thời gian đã mất". 
-
 
 
 {{< figure src="https://i.imgur.com/k9AZn7b.jpg" alt=" nhóm quay phim chầm chậm mà sống" class="w-100" >}}
@@ -39,7 +38,7 @@ Chậm có nhiều ưu điểm so với Nhanh mà mình quan sát được như 
 
 **NHANH:** Dễ nhầm lẫn giữa mục đích và phương tiện. Ví dụ: bạn giảm cân ban đầu như phương tiện để mình tự tin hơn, nhưng rút cục việc giảm cân lại trở thành mục đích bạn có mà đạt được rồi cũng không cảm thấy tự tin hơn.
 
-**CHẬM: **Kịp thời quan sát để  nhầm lẫn này không xảy ra.
+**CHẬM:** Kịp thời quan sát để  nhầm lẫn này không xảy ra.
 
 **NHANH:** Thể hiện qua ngôn ngữ phổ biến của người hiện đại:  “chạy” deadline, “chạy” dự án, “chạy" chỉ tiêu, “chạy chọt", “chạy tiền", “chạy đua", “chạy việc"...
 
