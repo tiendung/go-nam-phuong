@@ -117,7 +117,7 @@ Mình thực hiện kênh youtube [Chầm Chậm Mà Sống] và blog đi kèm n
 
 Từ kinh nghiệm của mình, nhiều người sống chậm lại thành công với xuất phát từ việc có thêm hiểu biết về dinh dưỡng và bắt đầu trân trọng thực phẩm tự nhiên. Đó là cách mà mình sẽ hướng dẫn sao cho rõ ràng và bạn có thể linh hoạt điều cho mình. Sau đó chúng ta sẽ tiếp tục cuộc đối thoại về việc xây dựng thói quen và điều chỉnh lối sống sao cho thư thả, linh hoạt. Cho nên để có được các hướng dẫn giảm tốc từ từ, bạn có thể:
 
-### Subscribe [Chầm Chậm Mà Sống]
+### Subscribe [Chầm Chậm Mà Sống](https://www.youtube.com/channel/UCQ_cpzhq95hRIEMSRlXZ6yA/featured?view_as=public)
 
 ### Đăng kí nhận bản tin sức khoẻ (xem dưới cùng trang này).
 
@@ -129,7 +129,7 @@ Sức khoẻ không đến từ một hai buổi tập luyện hùng hục, hay 
 
 Hạnh phúc gia đình không đến từ dăm ngày cùng nhau nghỉ phép “đi trốn" mà là tập hợp những khoảnh khắc có hiện diện bên nhau hàng ngày.
 
-**Nếu bạn đồng ý với những nhận định này, hãy gia nhập [cộng đồng Chầm Chậm]nhé!
+**Nếu bạn đồng ý với những nhận định này, hãy gia nhập [cộng đồng Chầm Chậm](https://www.youtube.com/channel/UCQ_cpzhq95hRIEMSRlXZ6yA/featured?view_as=public) nhé!
 Chầm chậm tạm biệt và Chầm chậm hẹn gặp lại!**
 
 
