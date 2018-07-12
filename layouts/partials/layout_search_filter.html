@@ -22,8 +22,11 @@ var posts = [
 {{ end }}
 ];
 </script>
-<script src="/js/masonry.js"></script>
-<script src="/js/imagesloaded.js"></script>
-<script src="/js/fuse.js"></script>
-<script src="/js/mark.js"></script>
-<script src="/js/layout_search_filter.js"></script>
+
+{{- $js1 := resources.Get "js/masonry.js" }}
+{{- $js2 := resources.Get "js/imagesloaded.js" }}
+{{- $js3 := resources.Get "js/fuse.js" }}
+{{- $js4 := resources.Get "js/mark.js" }}
+{{- $js5 := resources.Get "js/layout_search_filter.js" }}
+{{ $script := slice $js1 $js2 $js3 $js4 $js5 | resources.Concat "search_filter.js" | minify | fingerprint }}
+<script src="{{ $script.Permalink }}"></script>

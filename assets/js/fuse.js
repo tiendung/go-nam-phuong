@@ -1,9 +1,9 @@
-/*!
+/*
  * Fuse.js v3.0.4 - Lightweight fuzzy-search (http://fusejs.io)
- * 
+ *
  * Copyright (c) 2012-2017 Kirollos Risk (http://kiro.me)
  * All Rights Reserved. Apache Software License 2.0
- * 
+ *
  * http://www.apache.org/licenses/LICENSE-2.0
  */
 (function webpackUniversalModuleDefinition(root, factory) {
@@ -511,7 +511,7 @@ module.exports = function (text, pattern, patternAlphabet, _ref) {
       }
     }
 
-    // No hope for a (better) match at greater error levels.  
+    // No hope for a (better) match at greater error levels.
     var _score2 = bitapScore(pattern, {
       errors: _i + 1,
       currentLocation: expectedLocation,
