@@ -36,7 +36,7 @@
 {{ $base := resources.Get "css/tachyons.css" }}
 {{ $theme := resources.Get "css/theme.css" }}
 {{ $styles := slice $base $theme | resources.Concat "bundle.css" | minify | fingerprint }}
-<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
+<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 {{- end }}
 
 {{- if $.IsNode }}
