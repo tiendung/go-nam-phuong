@@ -21,7 +21,9 @@ Có thức ăn nuôi dưỡng Cơ thể - được gọi là thức ăn Thân, v
 
 Hãy nhìn vào đĩa thức ăn toàn diện:
 
-{{< figure src="/images/2017-11-01/iinplate.jpg" alt="Đĩa thức ăn toàn diện" class="tc" >}}
+{{< figure src="https://i.imgur.com/hMitQDK.png" alt="Đĩa thức ăn toàn diện" class="tc" >}}
+
+**Click vào [ĐÂY](https://drive.google.com/open?id=1BEXsvGSn4Vnpdrx_fk-_a3FNTBIb1XQn) để download bản pdf đầy đủ.**
 
 Ở vành ngoài của đĩa thức ăn, bạn sẽ thấy 4 lĩnh vực ảnh hưởng lớn nhất lên tâm thức của một người. Muốn thực sự khoẻ mạnh và hạnh phúc, người đó cần xây dựng được: Một sự nghiệp thoả mãn, Những mối quan hệ có tính nuôi dưỡng, Một bộ môn vận động bạn yêu, và Phương pháp thực hành tâm linh phù hợp. Ngược lại, nếu một trong những Thức ăn Tâm bị thiếu hụt, một người rất khó cảm thấy thực sự khoẻ mạnh và hạnh phúc cho dù có bổ sung các Thức ăn Thân tốt nhất đi chăng nữa.
 
