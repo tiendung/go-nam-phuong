@@ -1,4 +1,6 @@
 categories, sub-sections
+- [ ] Add taxonomy list page https://gohugo.io/templates/lists/#default-templates
+- [ ]
 
 https://stackoverflow.com/questions/48679091/how-to-display-only-1-post-from-certain-category-with-certain-params-true
 
