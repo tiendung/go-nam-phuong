@@ -35,6 +35,9 @@
 </script>
 {{ end }}
 <script src="/js/masonry.js"></script>
+{{- $js1 := resources.Get "js/masonry.js" }}
+{{ $script := slice $js1 | resources.Concat "testimonials.js" | minify | fingerprint }}
+<script src="{{ $script.Permalink }}"></script>
 <script>
 var grid = document.querySelector('.grid');
 
