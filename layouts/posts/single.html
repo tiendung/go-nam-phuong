@@ -6,15 +6,16 @@
 {{ define "main" }}
 <main class="flex flex-column items-center">
   <article class="mw7 w-100 ph3 ph4-ns">
+    {{ partial "post/category_tag_list.html" . }}
     <header>
     {{ if .Params.author }}{{ partial "post_meta.html" . }}{{ end }}
     {{ partial "share_icons.html" . }}
 
     {{ if ne .Params.header.layout "hero" }}
     <h1 class="f2 fw6 lh-title mb1">{{ .Params.title }}</h1>
-    {{ if .Params.subtitle }}
-    <h2 class="f3 fw4 lh-title silver mv2">{{ .Params.subtitle }}</h2>
-    {{ end }}
+        {{ if .Params.subtitle }}
+        <h2 class="f3 fw4 lh-title silver mv2">{{ .Params.subtitle }}</h2>
+        {{ end }}
     {{ end }}
     </header>
 
@@ -28,12 +29,8 @@
 
     <div class="mw7 w-100 lh-copy">
       {{ partial "share_icons.html" . }}
-      <div class="bb b--light-gray pb1 mv3">
-    {{/* {{ partial "category_tag_list.html" . }} */}}
-      </div>
-
+      {{ partial "post/category_tag_list.html" . }}
       {{ partial "related.html" . }}
-
       <div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="5"></div>
     </div>
   </article>
