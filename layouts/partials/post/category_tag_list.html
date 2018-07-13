@@ -1,0 +1,15 @@
+<div class="bb bt b--light-gray">
+
+<nav class="bb b--light-gray pb1  ttu pv3">
+{{ range $name, .Params.categories }}
+  <a class="link dim f6 f5-ns dib mr3" href="/categories/{{ lower $name | urlize }}">&#128193; {{ $name }}</a>
+{{ end }}
+</nav>
+
+<nav class="i pv3">
+{{ range $name, .Params.tags }}
+  <a class="link dim f6 f5-ns dib mr3" href="/tags/{{ lower $name | urlize }}">&#9750; {{ $name }}</a>
+{{ end }}
+</nav>
+
+</div>
