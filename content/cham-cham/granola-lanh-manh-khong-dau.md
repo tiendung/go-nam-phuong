@@ -21,7 +21,7 @@
 }
 
 Nếu bạn thích ăn yến mạch, hạt, trái cây khô, sữa chua...thì công thức này dành cho bạn.
-Nếu bạn tìm kiếm một bữa sáng nhẹ nhàng ay 1 món ăn vặt lành mạnh mà ngập đầy năng lượng...thì công thức này dành cho bạn.
+Nếu bạn tìm kiếm một bữa sáng nhẹ nhàng hay 1 món ăn vặt lành mạnh mà ngập đầy năng lượng...thì công thức này dành cho bạn.
 Nếu bạn ghét việc mình không thể làm được 1 công thức ngon lành nào đó, thì công thức này cũng dành cho bạn!
 
 Mình thực sự hào hứng giới thiệu công thức này vì nó:
@@ -36,7 +36,7 @@ Mình thực sự hào hứng giới thiệu công thức này vì nó:
 
 ## Đầu tiên, GRANOLA là gì?
 
-Granola là một món hay dùng để ăn sáng hay ăn nhẹ giữa bữa, bao gồm: yến mạch, các loại hạt, mật ong hoặc chất ngọt khác như đường nâu, trái cây khô... thường được nướng cho đến khi nó là giòn tan và có màu vàng nâu. Wow, nghe đã thấy hấp dẫn đúng không? 
+Granola là một món hay dùng để ăn sáng hay ăn nhẹ giữa bữa, bao gồm: yến mạch, các loại hạt, mật ong hoặc chất ngọt khác như đường nâu, trái cây khô... thường được nướng cho đến khi nó là giòn tan và có màu vàng nâu. Wow, nghe đã thấy hấp dẫn đúng không?
 
 {{< figure src="https://i.imgur.com/g1N46ft.jpg" alt="granola nhà làm" caption="Hãy tạo ra phiên bản của riêng bạn!" class="w-100" >}}
 

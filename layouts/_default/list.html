@@ -3,15 +3,19 @@
   <div class="mw7 w-100 ph3 ph4-ns">
     <article>
         <header>
-            <h1>{{.Title}}</h1>
+            <h1>
+                {{if eq .Data.Singular "category"}}&#128193;{{end}}
+                {{if eq .Data.Singular "tag"}}&#9750;{{end}}
+                {{.Title}}
+            </h1>
         </header>
-        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
-        {{.Content}}
     </article>
-    <ul>
-    <!-- Ranges through content/post/*.md -->
+    <ul class="list pl0">
     {{ range .Data.Pages }}
-        <li>
+        <li class="mt3 mb2">
+            {{if eq .Data.Singular "category"}}&#128193;{{end}}
+            {{if eq .Data.Singular "tag"}}&#9750;{{end}}
+            {{if eq .Data.Singular nil}}&#9998;{{end}}
             <a href="{{.Permalink}}">{{.Title}}</a>
         </li>
     {{ end }}
