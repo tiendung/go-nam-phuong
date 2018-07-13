@@ -9,7 +9,7 @@
 <link rel="icon" type="image/png" href="/favicon.png">
 
 <!-- SEO -->
-<title>{{ .Params.title }}</title>
+<title>{{ .Params.title }}{{ if .Params.subtitle }}: {{ .Params.subtitle }}{{ end }}</title>
 <meta name="author" content="{{ .Site.Params.author }}" />
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.default_description }}{{ end }}" />
 <meta name="keywords" content="{{ if .Keywords }}{{ delimit .Keywords ", " }}{{ else if and .IsPage .Params.tags }}{{ delimit .Params.tags ", " }}{{ else }}{{ range $term, $val := .Site.Taxonomies.categories }}{{ lower (humanize $term) }}, {{ end }}{{ end }}">
