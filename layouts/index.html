@@ -23,31 +23,34 @@
       {{ end }}
   </div>
 
-  <div class="flex flex-column w-100 vh-75-l mh3 mh4-ns mv3
-    cover bg-darken-50 bg-center" style="background-image: url(/images/site/photo-1462717585237-7fafe19c5448.jpg)">
+  <div class="flex flex-column w-100 vh-75-l mh3 mh4-ns mv3 cover"
+        style="background-image: url(https://lh4.googleusercontent.com/Q6Ma4xF7HDmjgSfM-bHl9WXNZpKZUXrVy78Y_jx6Uq6sy_tDEzBdoZMoKBiVcI5MWRNm3uP9EWfbsJnoqjgK=w2560-h1392-rw)">
     <div class="flex flex-auto flex-column justify-center">
       <div class="flex flex-column items-center tc w-100 pv5 pv2-l pa3 ph4-ns">
-        <h1 class="f3 f2-ns f1-l fw6 lh-title white mv0 tc"><div class="fw3 ttu tracked mb3">[Trắc nghiệm]</div><span class="f-headline-l fw4">Bạn thực sự thiếu gì<br>trong cuộc sống?</span></h1>
-        <a class="f4 f3-ns fw4 lh-copy ba border-box bw1 grow no-underline white hover-white pa2 mt4 tracked ttu" href="/posts/ban-thuc-su-thieu-gi-trong-cuoc-song/">Đánh giá ngay!</a>
+        <h1 class="f3 f2-ns f1-l fw6 lh-title white mv0 tc pa1 bg-black-40">
+            <span class="f-headline-l fw4">Chầm Chậm Mà Sống</span></h1>
+        <a class="f4 f3-ns fw4 lh-copy ba border-box bw1 grow no-underline white hover-white
+            pa2 mt4 tracked ttu bg-black-30"
+            target="_blank" href="https://www.youtube.com/channel/UCQ_cpzhq95hRIEMSRlXZ6yA">
+            Xem kênh youtube
+        </a>
       </div>
     </div>
   </div>
 
   <div class="mw8 w-100 pl3 pl4-ns mb4">
     <h1>Bài viết của Phương</h1>
-    <!-- Ranges through .Site.Data.homepage.selected_posts -->
-    {{ $site := .Site }}
-    {{ range .Site.Data.homepage.selected_posts }}
-    {{ partial "post/selected.html" ( $site.GetPage "page" . ) }}
+    {{ range first 4 .Data.Pages }}
+    {{ partial "post/selected.html" . }}
     {{ end }}
 
-    <a href="/posts" class="f5 no-underline inline-flex items-center pa3 ba border-box grow">
+    <!-- <a href="/posts" class="f5 no-underline inline-flex items-center pa3 ba border-box grow">
       <span class="pr1">Đọc thêm</span>
       <svg class="w1" data-icon="chevronRight" viewBox="0 0 32 32" style="fill:currentcolor">
         <title>chevronRight icon</title>
         <path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
       </svg>
-    </a>
+    </a> -->
   </div>
 </main>
 

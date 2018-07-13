@@ -6,7 +6,7 @@
          "text": "Câu chuyện của tôi",
          "url": "/about"
       },
-      "image": "/images/site/namphuong-intro.jpg",
+      "image": "https://lh6.googleusercontent.com/j1SM3VzfEv-Y33jrRWkNGkoGSY4jwYTg6eAM9N8hlACbvRUQuReyGfARkQtppVw00ZMN1EmsLhox5hroObjh=w2560-h1392-rw",
       "layout": "hero",
       "navigation": "fancy"
    },
