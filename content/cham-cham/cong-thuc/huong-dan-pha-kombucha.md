@@ -1,5 +1,6 @@
 
 {
+    "aliases": ["/cham-cham/huong-dan-pha-kombucha/"],
    "author": "boo",
    "categories": [
       "Công thức"
@@ -21,10 +22,10 @@
 
 Kombocha là một trà lên men tự nhiên, sủi bọt có hương vị thơm lừng đang ngày càng trở nên phổ biến. So với nhiều lựa chọn bổ sung probiotic khác như mua sữa chua đóng hộp,kombucha cho gấp ít nhất x3 lần số lượng lợi khuẩn, rất dễ làm, dùng được cho cả tuần và sẽ tiết kiệm cho bạn 1 chi phí đáng kể. Lại còn không thải rác nhựa dùng 1 lần ra ngoài môi trường nữa chứ ^^
 
-## BƯỚC 1: CẦN CÓ SCOBY 
+## BƯỚC 1: CẦN CÓ SCOBY
 SCOBY là viết tắt của Symbiotic Colony of Bacteria and Yeast - Cộng sinh của vi khuẩn và nấm men. Mình hay gọi là “con SCOBY" nhưng thực ra đó là tập hợp của rất nhiều vi sinh vật siêu nhỏ.
 
-Có 2 cách bạn có SCOBY: 
+Có 2 cách bạn có SCOBY:
 - Xin lại hay mua lại của ai đó SCOBY đang hoạt động.
 - Mua SCOBY khô về tự kích hoạt.
 
@@ -32,7 +33,7 @@ Các hướng dẫn sau đây là để làm kombucha thường xuyên bằng c�
 
 ## BƯỚC 2: CHUẨN BỊ DỤNG CỤ & NHIÊN LIỆU
 
-**1. Dụng cụ:** 
+**1. Dụng cụ:**
 
 - Bình thủy tinh cỡ lớn để lên men (1l trở lên)
 
@@ -49,7 +50,7 @@ Các hướng dẫn sau đây là để làm kombucha thường xuyên bằng c�
 {{< figure src="https://i.imgur.com/NyggOzm.png" alt="bình đựng trà" caption="Bạn có thể dùng bình thuỷ tinh tầm 1l trở lên hoặc bình có vòi như thế này" class="w-100" >}}
 
 
-**2. Nguyên liệu:** 
+**2. Nguyên liệu:**
 
 Cho một mẻ trà tầm 1 lít thì cần:
 
@@ -71,7 +72,7 @@ Nếu thay đổi về lượng trà muốn làm thì bạn chỉ việc nhân/c
 
 1.Pha trà: Đối với các dạng trà đậu, trà gạo lứt như của mình thì thời gian đun có thể lâu hơn so với trà lá (tầm 20p, sau khi sôi để liu riu lửa nhỏ). Nếu dùng trà túi lọc thì có thể nấu nước sôi trước ngâm trà sau. Sau đó lấy túi trà ra hoặc lọc bã trà. Bỏ đường vào khuấy cho tan hết.
 
-{{< figure src="https://i.imgur.com/8j3WMGH.jpg" alt="pha trà" class="w-100" >}} 
+{{< figure src="https://i.imgur.com/8j3WMGH.jpg" alt="pha trà" class="w-100" >}}
 
 2. Để nguội hỗn hợp đến nhiệt độ 20-30 độ C rồi thêm trà mồi vào dung dịch. Nếu không có trà mồi từ mẻ trước có thể đổ dấm vào để thay thế. Không có thì sẽ lên men chậm hơn.
 
@@ -85,7 +86,7 @@ Nếu thay đổi về lượng trà muốn làm thì bạn chỉ việc nhân/c
 
 {{< figure src="https://i.imgur.com/dSU0Z2b.jpg" alt="đậy hũ trà"  class="w-100" >}}
 
-5.Để trà nghỉ ở nhiệt độ phòng, nơi khô ráo, tránh ánh nắng trực tiếp. Sau tầm 5 ngày, bạn nên thử vị và quyết định có kéo dài thời gian lên men không. Trà để lên men càng lâu thì vị sẽ càng ít ngọt và càng chua. Khi có độ chua-ngọt và lên men ưng ý, đổ phần nước trà ra để dùng dần. Dùng dụng cụ lọc để tránh các sợi SCOBY nhỏ và SCOBY lớn đi theo, các sợi này nếu để lâu trong nước trà cũng dần phát triển được thành SCOBY lớn. Giữ lại SCOBY và một ít nước trà ở đáy bình để mồi cho mẻ tiếp theo. 
+5.Để trà nghỉ ở nhiệt độ phòng, nơi khô ráo, tránh ánh nắng trực tiếp. Sau tầm 5 ngày, bạn nên thử vị và quyết định có kéo dài thời gian lên men không. Trà để lên men càng lâu thì vị sẽ càng ít ngọt và càng chua. Khi có độ chua-ngọt và lên men ưng ý, đổ phần nước trà ra để dùng dần. Dùng dụng cụ lọc để tránh các sợi SCOBY nhỏ và SCOBY lớn đi theo, các sợi này nếu để lâu trong nước trà cũng dần phát triển được thành SCOBY lớn. Giữ lại SCOBY và một ít nước trà ở đáy bình để mồi cho mẻ tiếp theo.
 
 {{< figure src="https://i.imgur.com/FWMDgKo.jpg" alt="để trà ở nhiệt độ phòng"  class="w-100" >}}
 
@@ -102,9 +103,9 @@ Nếu thay đổi về lượng trà muốn làm thì bạn chỉ việc nhân/c
 
 * Nhiệt độ và thời gian lên men: 20-30 độc C là nhiệt độ lý tưởng cho việc lên men. Nhiệt độ ấm sẽ làm tăng tốc độ lên mên, ngược lại nhiệt độ mát làm giảm tốc độ lên men. Bạn càng ngâm kombucha càng lâu thì vị trà càng chua và ít ngọt đi.
 
-* Dấu hiệu lên men: trà trở nên ít ngọt và có vị chua, SCOBY dày lên, bề mặt nổi các hạt nấm màu nâu, mờ hoặc có SCOBY nhỏ trên bề mặt dung dịch, trà có màu sáng. 
+* Dấu hiệu lên men: trà trở nên ít ngọt và có vị chua, SCOBY dày lên, bề mặt nổi các hạt nấm màu nâu, mờ hoặc có SCOBY nhỏ trên bề mặt dung dịch, trà có màu sáng.
 
-* Đóng chai và thêm hương vị: thêm hương vị bằng nước ép trái cây, rượu trái cây (độ còn mạnh lên nữa!), hạt chia, trái cây tươi... 
+* Đóng chai và thêm hương vị: thêm hương vị bằng nước ép trái cây, rượu trái cây (độ còn mạnh lên nữa!), hạt chia, trái cây tươi...
 
 
 ## Giải đáp thắc mắc:
@@ -144,11 +145,11 @@ Còn nếu bạn đi dưới 3 tuần, chỉ cần làm 1 mẻ trà mới và đ
 
 **Hỏi:** SCOBY của mình càng ngày càng mập lên?
 
-**Đáp:** 
+**Đáp:**
 
 - Lâu lâu SCOBY sẽ nhân lên. Bạn có thể tách các lớp riêng biệt ra và tặng cho bạn bè, kèm theo 1 mẻ trà để em nó sống cho đến khi họ dùng đến, hoặc dùng làm mồi cho mẻ trà của họ.
 
-- Nhớ tách lớp bên dưới cùng (SCOBY già nhất) sau mỗi 2-4 tuần. 
+- Nhớ tách lớp bên dưới cùng (SCOBY già nhất) sau mỗi 2-4 tuần.
 
 - Đôi khi chỉ cần 1 lớp màng mỏng màu nâu được tách ra là đã đủ để nuôi lớn dần thành 1 SCOBY sau 2 tuần được nuôi trong trà rồi ^^
 
@@ -175,4 +176,3 @@ Còn nếu bạn đi dưới 3 tuần, chỉ cần làm 1 mẻ trà mới và đ
 CÔNG THỨC LÀM KẸO TỪ SCOBY >> [TẠI ĐÂY](http://coachnamphuong.com/cham-cham/cong-thuc-keo-scoby/).
 
 Hình ảnh: Coach Nam Phương & tổng hợp các nguồn [liveeatlearn](https://www.liveeatlearn.com/the-simple-guide-to-kickass-kombucha/), [Pickuplimes.](https://www.pickuplimes.com/single-post/2016/10/18/Beginner%E2%80%99s-Guide-to-Kombucha-Continuous-Brew)
-

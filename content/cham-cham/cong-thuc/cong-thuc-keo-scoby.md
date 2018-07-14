@@ -1,5 +1,6 @@
 
 {
+    "aliases": ["/cham-cham/cong-thuc-keo-scoby/"],
    "author": "boo",
    "categories": [
       "Công thức"

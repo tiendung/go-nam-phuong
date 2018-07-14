@@ -1,23 +1,24 @@
 
 {
-   "author": "boo",
-   "categories": [
+    "aliases": ["/cham-cham/granola-lanh-manh-khong-dau/"],
+    "author": "boo",
+    "categories": [
       "Công thức"
-   ],
-   "cover_image": "https://i.imgur.com/C5VCIgg.jpg",
-  "header": {
+    ],
+    "cover_image": "https://i.imgur.com/C5VCIgg.jpg",
+    "header": {
     "image": "https://i.imgur.com/q3r7uoE.jpg",
     "layout": "hero",
     "navigation": "fancy",
     "class": "bg-darken-50 bg-darken-25-l bg-center"
-  },
-   "date": "2018-07-05",
-   "description": "Đối với 1 số người 'lành mạnh' đồng nghĩa với 'kém ngon'. Chà, cứ đợi đến khi họ thử món này xem ^^",
-   "tags": [
+    },
+    "date": "2018-07-05",
+    "description": "Đối với 1 số người 'lành mạnh' đồng nghĩa với 'kém ngon'. Chà, cứ đợi đến khi họ thử món này xem ^^",
+    "tags": [
             "granola", "ngũ cốc", "bữa sáng", "lành mạnh", "hạt", "yến mạch"
-   ],
-"title": "Công thức Granola lành mạnh nhất: không dầu & siêu ngon!)",
-"published": true
+    ],
+    "title": "Công thức Granola lành mạnh nhất: không dầu & siêu ngon!)",
+    "published": true
 }
 
 Nếu bạn thích ăn yến mạch, hạt, trái cây khô, sữa chua...thì công thức này dành cho bạn.
