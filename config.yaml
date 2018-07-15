@@ -30,9 +30,10 @@ params:
 
 related:
   threshold: 65
-  includeNewer: false
+  toLower: true
+  includeNewer: true
   indices:
-    - name: keywords
+    - name: categories
       weight: 50
     - name: tags
       weight: 100
