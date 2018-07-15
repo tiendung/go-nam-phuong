@@ -3,6 +3,14 @@ TODOs
 - [ ] categories, sub-sections https://github.com/guayom/hugo-sub-sections
 - [x] Add taxonomy list page https://gohugo.io/templates/lists/#default-templates
 
+
+Free SVG Icons
+- http://svgicons.sparkk.fr/
+- https://icons8.com/
+- https://www.flaticon.com/
+
+===
+
 https://goo.gl/M2oFA9 | Facebook Instant Articles
 https://goo.gl/KmnaqT | Google Analytics
 https://frontendchecklist.io

@@ -10,7 +10,7 @@
     <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
     {{ range .Pages }}
     {{ if ne .Type "meta" }}
-    {{ partial "post/listed.html" . }}
+    {{ partial "post/selected.html" . }}
     {{ end }}
     {{ end }}
   </session><!-- grid -->

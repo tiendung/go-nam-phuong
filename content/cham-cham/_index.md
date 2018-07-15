@@ -4,5 +4,5 @@
        "layout": "hero"
     },
     "title": "Chầm Chậm Mà Sống",
-    "subtitle": "Ăn lành, sống chậm !"
+    "subtitle": "Ăn lành, sống chậm"
 }
