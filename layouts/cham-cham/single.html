@@ -25,11 +25,9 @@
 
     <div class="mw7 w-100 lh-copy">
       {{ partial "share_icons.html" . }}
-      <div class="bb bt b--light-gray pb1 mv3">
-          {{ partial "post/category_tag_list.html" . }}
-      </div>
-
       <div class="fb-comments" data-href="{{ .Permalink }}" data-numposts="5"></div>
+      {{ partial "post/category_tag_list.html" . }}
+      {{ partial "related.html" . }}
     </div>
   </article>
 </main>
