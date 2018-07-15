@@ -3,16 +3,13 @@
 
 {{ define "main" }}
 <main class="full center pl3 pl4-ns bt b--light-gray">
-  <h1 class="fw4 lh-title pb2">Chầm chậm mà đọc</h1>
-
-  <!-- Ranges through content/posts/*.md -->
-  <session class="grid w-100 db cf">
-    <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
+  <h1 class="fw4 lh-title pb2">Chầm chậm mà đọc bạn nhé</h1>
+  <session class="w-100">
     {{ range .Pages }}
     {{ if ne .Type "meta" }}
     {{ partial "post/selected.html" . }}
     {{ end }}
     {{ end }}
-  </session><!-- grid -->
+  </session>
 </main>
 {{ end }}
