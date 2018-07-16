@@ -12,7 +12,7 @@
     "navigation": "fancy",
     "class": "bg-darken-50 bg-darken-25-l bg-center"
   },
-   "date": "2018-07-2316",
+   "date": "2018-07-16",
    "description": "Tổng hợp danh sách các gia vị độc hại và gia vị lành tính thay thế",
    "tags": [
             "gia vị", "tự nhiên", "công nghiệp", "hoá chất", "thực dưỡng"
