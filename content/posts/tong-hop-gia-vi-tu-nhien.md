@@ -50,7 +50,7 @@ Tương tự như vậy, nếu bạn xem thành phần của các gia vị công
 
 ## Danh sách ngắn gọn các hoá chất độc hại nhất ẩn giấu trong gia vị công nghiệp:
 
-Ngoài các gia vị nấu nướng hàng ngày, khi ăn thực phẩm công nghiệp ta sẽ thường gặp các hoá chất gây hậu quả nghiêm trọng cho sức khoẻ (mà vẫn đang được thả nổi!). Sau đây là những chất có thể **gây ung thư, rối loạn hooc-môn hay tàn phá hệ tiêu hoá:
+Ngoài các gia vị nấu nướng hàng ngày, khi ăn thực phẩm công nghiệp ta sẽ thường gặp các hoá chất gây hậu quả nghiêm trọng cho sức khoẻ (mà vẫn đang được thả nổi!). Sau đây là những chất có thể **gây ung thư, rối loạn hooc-môn hay tàn phá hệ tiêu hoá:**
 
 {{< figure src="https://i.imgur.com/zoxHo0I.jpg" alt="nhãn chai mắm công nghiệp" class="w-100" >}}
 
@@ -78,7 +78,7 @@ Ngoài các gia vị nấu nướng hàng ngày, khi ăn thực phẩm công ngh
 
 **11.Diacetyl:** tạo mùi vị cho bắp rang bơ, yogurt, phô mai, các chai tạo  hương trái cây.
 
-**12. Aluminum additives : **chất ổn định trong thực phẩm tinh chế
+**12. Aluminum additives :** chất ổn định trong thực phẩm tinh chế
 
 Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-dirty-dozen-guide-food-additives#.W0x09NgzYWr)
 
@@ -90,7 +90,7 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
   <table class="w-100 center collapse ba b--black-10" cellspacing="0">
     <thead>
       <tr class="triped--near-white">
-        <th class="bn fw6 tl pa2 pa3-ns bg-white ttu w-30 w-20-ns">GIA VỊ CÔNG NGHIỆP</th>
+        <th class="bn fw6 tl pa2 pa3-ns bg-white ttu">GIA VỊ CÔNG NGHIỆP</th>
         <th class="bn fw6 tl pa2 pa3-ns bg-white ttu">GIA VỊ TỰ NHIÊN</th>
 
       </tr>
@@ -114,7 +114,7 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Dầu thực vật tinh luyện (vegetable oil), dầu có nhiên liệu GMOs (dầu đậu nành, dầu canola, dầu hạt bông...)</td>
-        <td class="bn pa2 pa3-ns">, <a href="https://xanhshop.com/shop/cham-soc-ca-nhan/dau-dua-trang-nguyen-chat-0-5l/">Dầu dừa</a>, dầu phộng (dùng để chiên rán); Dầu mè (dùng ở nhiệt độ thấp hơn), dầu olive (chỉ nên dùng trộn ở nhiệt độ thấp), dầu bơ, dầu gấc,Mỡ lợn </td>
+        <td class="bn pa2 pa3-ns"><a href="https://xanhshop.com/shop/cham-soc-ca-nhan/dau-dua-trang-nguyen-chat-0-5l/">Dầu dừa</a>, dầu phộng (dùng để chiên rán); Dầu mè (dùng ở nhiệt độ thấp hơn), dầu olive (chỉ nên dùng trộn ở nhiệt độ thấp), dầu bơ, dầu gấc,Mỡ lợn </td>
      
       </tr>
       <tr class="striped--near-white">
@@ -184,7 +184,9 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
 - Bột quế, thì là, tỏi, bột nghệ, bột gừng...cũng rất tiện lợi nếu như bạn muốn tiết kiệm thời gian sơ chế.
 
  
-GHI CHÚ:
+TÀI LIỆU THAM KHẢO:
+(1)[Ingrdients to avoid in processed foods| Food Babe](https://foodbabe.com/ingredients-to-avoid/)
+(2)[UK Food Guide](http://www.ukfoodguide.net/e155.htm)
 (3) Sargent, EV.; Adolph, J.; Clemmons, MK.; Kirk, GD.; Pena, BM.; Fedoruk, MJ. (Jul 1990). "Evaluation of flu-like symptoms in workers handling xanthan gum powder". J Occup Med. 32 (7): 625–30. doi:10.1097/00043764-199007000-00014. PMID 2391577.
 (4)  {{cite web |url=http://www.simplythick.com/Safety |title=SimplyThick Warning
 (5) Proposition 65, OEHHA, retrieved 2012-01-16
