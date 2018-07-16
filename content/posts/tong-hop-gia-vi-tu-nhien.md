@@ -103,7 +103,7 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Xì dầu công nghiệp</td>
-        <td class="bn pa2 pa3-ns">Nước tương [Tamari](http://thucduonglanh.com/products/nuoc-tuong-tamari-nhat-500ml); Các loại xì dầu với chỉ các thành phần tự nhiên: đậu nành, lúa mì (không bắt buộc), muối, nước...
+        <td class="bn pa2 pa3-ns">Nước tương <a href="http://thucduonglanh.com/products/nuoc-tuong-tamari-nhat-500ml">Tamari</a>; Các loại xì dầu với chỉ các thành phần tự nhiên: đậu nành, lúa mì (không bắt buộc), muối, nước...
 </td>
        
       </tr>
