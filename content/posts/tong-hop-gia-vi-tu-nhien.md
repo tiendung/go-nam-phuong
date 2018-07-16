@@ -109,12 +109,12 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Bột ngọt, bột nêm</td>
-        <td class="bn pa2 pa3-ns">Bột nêm ruốc, Bột nêm ngưu báng,Bột nêm kombu shiitake, Muối biển/muối hầm, Hầm rau củ có vị ngọt (củ cải, cà rốt, susu, dền, hành tây, củ sắn...), Hầm xương, Tôm khô, mực khô xào sơ rồi đổ nước vào đun cho ngọt; Đậu xanh, đậu phụng đun cho ngọt thanh...</td>
+        <td class="bn pa2 pa3-ns"><a href="https://ongthang.com/#san-pham-bot-nem-tu-ruoc">Bột nêm ruốc</a>, Bột nêm ngưu báng,Bột nêm kombu shiitake, Muối biển/muối hầm, Hầm rau củ có vị ngọt (củ cải, cà rốt, susu, dền, hành tây, củ sắn...), Hầm xương, Tôm khô, mực khô xào sơ rồi đổ nước vào đun cho ngọt; Đậu xanh, đậu phụng đun cho ngọt thanh...</td>
      
       </tr>
       <tr class="striped--near-white">
         <td class="bn pa2 pa3-ns">Dầu thực vật tinh luyện (vegetable oil), các loại dầu có nguy cơ GMOs cao như dầu đậu nành (soybean oil), dầu canola (canola oil), dầu hạt bông (cottonseed oil), dầu bắp (corn oil)...hoặc bất cứ loại dầu nào có chữ “tinh luyện"</td>
-        <td class="bn pa2 pa3-ns">Dầu dừa, dầu phộng (dùng để chiên rán); Dầu mè (dùng ở nhiệt độ thấp hơn), dầu olive (chỉ nên dùng trộn ở nhiệt độ thấp), dầu bơ, dầu gấc,Mỡ lợn </td>
+        <td class="bn pa2 pa3-ns">, <a href="https://xanhshop.com/shop/cham-soc-ca-nhan/dau-dua-trang-nguyen-chat-0-5l/">Dầu dừa</a>, dầu phộng (dùng để chiên rán); Dầu mè (dùng ở nhiệt độ thấp hơn), dầu olive (chỉ nên dùng trộn ở nhiệt độ thấp), dầu bơ, dầu gấc,Mỡ lợn </td>
      
       </tr>
       <tr class="striped--near-white">
@@ -139,30 +139,50 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
 **Tip:** gia vị mua ở các cửa hàng thực dưỡng thường lành tính và có công dụng phòng bệnh mạnh mẽ.
 
 ## Đừng quên những gia vị từ thiên nhiên
+
 > Trước khi dùng những gia vị công nghiệp như hiện nay, ông bà, bố mẹ ta dùng gì? Bạn hãy hỏi chính người nhà mình và nếu có thể thì quay trở lại với các gia vị lành tính truyền thống, và trân quý những sản phẩm nhà làm.
 
-Ngoài ra, chúng ta thoả sức sáng tạo với các loại gia vị tự nhiên:
+### Gia vị có nguồn gốc thực vật
 
-Gia vị có nguồn gốc thực vật
+- Một số loại rau gia vị
 
-Một số loại rau gia vị
-Các loại lá: nguyệt quế, hành hoa, rau răm, hẹ, húng thơm, húng chó, cúc tần, mùi tàu, ngò, tía tô, thì là, lá chanh, lá ổi, lá đinh lăng, cần tây, tỏi tây, lá xương sông, lá lốt, lá quế, lá gấc, lá gừng, lá cúc tần, lá mơ tam thể, lá ớt, lá mác mật, lá bưởi, kinh giới, mò om, rau mùi, hương thảo, lá me, lá dứa...
-Các loại quả: mác mật, chanh, bưởi, ớt, thảo quả, dứa xanh, chuối xanh, khế chua, quả me, quả dọc, quả sấu...
-Các loại hạt: hạt tiêu, hạt ngò, hạt dổi...
-Các loại củ: sả, riềng, gừng, tỏi, hành tây, củ niễng, hành củ, nghệ, củ kiệu, bột đao...
-Các loại thực vật khác: quế chi, đại hồi, dương tiểu hồi, sa nhân, đinh hương, bột dành dành, nấm hương, nấm đông cô, nước gỗ vang, nước dừa, nước cốt dừa...
-Các loại gia vị đã được chế biến, phối trộn hỗn hợp: tương, tương đen, tương ớt, thính, mù tạt, dầu thực vật, bơ thực vật,, chao, một số loại nước sốt như sốt mayonnaise, kem, ngũ vị hương, húng lừu, bột càri...
-Một số loại rau muối chua, một số loại thuốc bắc (táo tàu, kỷ tử, sa nhân, sâm, cam thảo v.v.), các loại rau ngọt như rau sắng v.v.
-Gia vị có nguồn gốc động vật
-Mắm các loại (làm từ cá, tôm, cua, cáy, rươi, tép v.v.) như mắm tôm, mắm tép, mắm tôm chua, mắm rươi, mắm cáy, mắm cua đồng, mắm bò hóc, mắm ba khía, mắm nêm...
-Các loại nước mắm làm từ cá (như cá cơm, cá thu, cá chẻm, cá đối, cá ngát v.v.)
-Tinh dầu cà cuống, long diên hương, phèo, túi mật của một số động vật, mỡ lợn, sữa, bơ động vật, dầu hào
-Một số loại thịt động vật lấy chất ngọt như sá sùng, tôm nõn
-Gia vị lên men vi sinh
-Mẻ, dấm thanh, bỗng rượu, rượu trắng, rượu vang...
+{{< figure src="https://i.imgur.com/J2YJt3V.jpg" alt="the fools who dream" caption="Làm sao gia vị của người Việt mình có thể thiếu những loại rau này?" class="w-100" >}}
 
-Gia vị dạng bột
-Bột quế, thì là, tỏi, bột nghệ, bột gừng...cũng rất tiện lợi nếu như bạn muốn tiết kiệm thời gian sơ chế.
+- Các loại lá: nguyệt quế, hành hoa, rau răm, hẹ, húng thơm, húng chó, cúc tần, mùi tàu, ngò, tía tô, thì là, lá chanh, lá ổi, lá đinh lăng, cần tây, tỏi tây, lá xương sông, lá lốt, lá quế, lá gấc, lá gừng, lá cúc tần, lá mơ tam thể, lá ớt, lá mác mật, lá bưởi, kinh giới, mò om, rau mùi, hương thảo, lá me, lá dứa...
+
+- Các loại quả: mác mật, chanh, bưởi, ớt, thảo quả, dứa xanh, chuối xanh, khế chua, quả me, quả dọc, quả sấu...
+
+- Các loại hạt: hạt tiêu, hạt ngò, hạt dổi...
+
+- Các loại củ: sả, riềng, gừng, tỏi, hành tây, củ niễng, hành củ, nghệ, củ kiệu, bột đao...
+
+- Các loại thực vật khác: quế chi, đại hồi, dương tiểu hồi, sa nhân, đinh hương, bột dành dành, nấm hương, nấm đông cô, nước gỗ vang, nước dừa, nước cốt dừa...
+
+- Các loại gia vị đã được chế biến, phối trộn hỗn hợp: tương, tương đen, tương ớt, thính, mù tạt, dầu thực vật, bơ thực vật,, chao, một số loại nước sốt như sốt mayonnaise, kem, ngũ vị hương, húng lừu, bột càri...
+
+- Một số loại rau muối chua, một số loại thuốc bắc (táo tàu, kỷ tử, sa nhân, sâm, cam thảo v.v.), các loại rau ngọt như rau sắng v.v.
+
+
+### Gia vị có nguồn gốc động vật
+
+- Mắm các loại (làm từ cá, tôm, cua, cáy, rươi, tép v.v.) như mắm tôm, mắm tép, mắm tôm chua, mắm rươi, mắm cáy, mắm cua đồng, mắm bò hóc, mắm ba khía, mắm nêm...
+
+- Các loại nước mắm làm từ cá (như cá cơm, cá thu, cá chẻm, cá đối, cá ngát v.v.)
+
+- Tinh dầu cà cuống, long diên hương, phèo, túi mật của một số động vật
+
+- Dầu hào
+
+- Một số loại thịt động vật lấy chất ngọt như sá sùng, tôm nõn
+
+### Gia vị lên men vi sinh
+
+- Mẻ, dấm thanh, bỗng rượu, rượu trắng, rượu vang...
+
+### Gia vị dạng bột
+
+- Bột quế, thì là, tỏi, bột nghệ, bột gừng...cũng rất tiện lợi nếu như bạn muốn tiết kiệm thời gian sơ chế.
+
  
 GHI CHÚ:
 (3) Sargent, EV.; Adolph, J.; Clemmons, MK.; Kirk, GD.; Pena, BM.; Fedoruk, MJ. (Jul 1990). "Evaluation of flu-like symptoms in workers handling xanthan gum powder". J Occup Med. 32 (7): 625–30. doi:10.1097/00043764-199007000-00014. PMID 2391577.
