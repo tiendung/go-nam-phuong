@@ -183,12 +183,18 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
 
 - Bột quế, thì là, tỏi, bột nghệ, bột gừng...cũng rất tiện lợi nếu như bạn muốn tiết kiệm thời gian sơ chế.
 
+Hy vọng bạn thấy hướng dẫn này hữu ích. Hãy chia sẻ cho những người vẫn đang bối rối về cách dùng gia vị nhé ~^o^~
  
 TÀI LIỆU THAM KHẢO:
+
 (1)[Ingrdients to avoid in processed foods| Food Babe](https://foodbabe.com/ingredients-to-avoid/)
+
 (2)[UK Food Guide](http://www.ukfoodguide.net/e155.htm)
+
 (3) Sargent, EV.; Adolph, J.; Clemmons, MK.; Kirk, GD.; Pena, BM.; Fedoruk, MJ. (Jul 1990). "Evaluation of flu-like symptoms in workers handling xanthan gum powder". J Occup Med. 32 (7): 625–30. doi:10.1097/00043764-199007000-00014. PMID 2391577.
+
 (4)  {{cite web |url=http://www.simplythick.com/Safety |title=SimplyThick Warning
+
 (5) Proposition 65, OEHHA, retrieved 2012-01-16
 
 
