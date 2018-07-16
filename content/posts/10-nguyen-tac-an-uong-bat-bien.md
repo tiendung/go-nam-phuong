@@ -1,7 +1,7 @@
 {
    "author": "boo",
    "categories": [
-      "healthy101",
+      "dinh dưỡng cơ bản",
       "ăn"
    ],
    "cover_image": "https://i.imgur.com/4BRwn2k.jpg",
