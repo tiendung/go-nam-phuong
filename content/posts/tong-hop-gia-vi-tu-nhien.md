@@ -113,7 +113,7 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
      
       </tr>
       <tr class="striped--near-white">
-        <td class="bn pa2 pa3-ns">Dầu thực vật tinh luyện (vegetable oil), các loại dầu có nguy cơ GMOs cao như dầu đậu nành (soybean oil), dầu canola (canola oil), dầu hạt bông (cottonseed oil), dầu bắp (corn oil)...hoặc bất cứ loại dầu nào có chữ “tinh luyện"</td>
+        <td class="bn pa2 pa3-ns">Dầu thực vật tinh luyện (vegetable oil), dầu có nhiên liệu GMOs (dầu đậu nành, dầu canola, dầu hạt bông...)</td>
         <td class="bn pa2 pa3-ns">, <a href="https://xanhshop.com/shop/cham-soc-ca-nhan/dau-dua-trang-nguyen-chat-0-5l/">Dầu dừa</a>, dầu phộng (dùng để chiên rán); Dầu mè (dùng ở nhiệt độ thấp hơn), dầu olive (chỉ nên dùng trộn ở nhiệt độ thấp), dầu bơ, dầu gấc,Mỡ lợn </td>
      
       </tr>
