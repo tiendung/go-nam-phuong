@@ -70,7 +70,7 @@ Ngoài các gia vị nấu nướng hàng ngày, khi ăn thực phẩm công ngh
 
 **8.Theobromine:** thường chứa trong bánh mì, ngũ cốc ăn sáng, thức uống thể thao
 
-**9.Hương vị tự nhiên (natural flavor), hương vị nhân tạo (artificial flavor):** cực kì cực kì phổ biến trên các bao bì. Ngoài các hóa chất bổ sung hương vị, hỗn hợp hương vị thường chứa chất nhũ hóa tự nhiên hoặc nhân tạo, dung môi và chất bảo quản được gọi là "phụ gia ngẫu nhiên", có nghĩa là nhà sản xuất không phải tiết lộ sự hiện diện của chúng trên nhãn thực phẩm! Các hỗn hợp có hương vị được thêm vào thức ăn rất phức tạp và có thể chứa hơn 100 chất riêng biệt!
+**9.Hương vị tự nhiên (natural flavor, natural flavorings)hoặc hương vị nhân tạo (artificial flavor):** cực kì cực kì phổ biến trên các bao bì. Ngoài các hóa chất bổ sung hương vị, hỗn hợp hương vị thường chứa chất nhũ hóa tự nhiên hoặc nhân tạo, dung môi và chất bảo quản được gọi là "phụ gia ngẫu nhiên", có nghĩa là nhà sản xuất không phải tiết lộ sự hiện diện của chúng trên nhãn thực phẩm! Các hỗn hợp có hương vị được thêm vào thức ăn rất phức tạp và có thể chứa hơn 100 chất riêng biệt!
 
 {{< figure src="https://i.imgur.com/iQBq9lU.jpg" alt="nhãn chai mắm công nghiệp" caption="Bạn có bao giờ đọc thành phần của các thực phẩm vốn được coi là tốt cho sức khoẻ để đảm bảo nó đúng là tốt thật?" class="w-100" >}}
 
