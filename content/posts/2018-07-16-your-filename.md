@@ -86,42 +86,57 @@ Theo hướng dẫn [Dirty Dozen của EWG.](https://www.ewg.org/research/ewg-s-
 
 ## Những gia vị tự nhiên thay thế
 
-Sau đây là danh sách những gia vị tự nhiên mình vẫn dùng:
+<div class="overflow-auto">
+  <table class="w-100 center collapse ba b--black-10" cellspacing="0">
+    <thead>
+      <tr class="triped--near-white">
+        <th class="bn fw6 tl pa2 pa3-ns bg-white ttu w-30 w-20-ns">GIA VỊ CÔNG NGHIỆP</th>
+        <th class="bn fw6 tl pa2 pa3-ns bg-white ttu">GIA VỊ TỰ NHIÊN</th>
 
-Gia vị công nghiệp
-Gia vị tự nhiên
-Nước mắm công nghiệp
-Mắm truyền thống với chỉ các thành phần cá, muối, nước
+      </tr>
+    </thead>
+    <tbody class="lh-copy">
+      <tr class="striped--near-white">
+        <td class="bn pa2 pa3-ns">Nước mắm công nghiệp</td>
+        <td class="bn pa2 pa3-ns">Mắm truyền thống với chỉ các thành phần cá, muối, nước</td>
+     
+      </tr>
+      <tr class="striped--near-white">
+        <td class="bn pa2 pa3-ns">Xì dầu công nghiệp</td>
+        <td class="bn pa2 pa3-ns">Nước tương [Tamari](http://thucduonglanh.com/products/nuoc-tuong-tamari-nhat-500ml); Các loại xì dầu với chỉ các thành phần tự nhiên: đậu nành, lúa mì (không bắt buộc), muối, nước...
+</td>
+       
+      </tr>
+      <tr class="striped--near-white">
+        <td class="bn pa2 pa3-ns">Bột ngọt, bột nêm</td>
+        <td class="bn pa2 pa3-ns">Bột nêm ruốc, Bột nêm ngưu báng,Bột nêm kombu shiitake, Muối biển/muối hầm, Hầm rau củ có vị ngọt (củ cải, cà rốt, susu, dền, hành tây, củ sắn...), Hầm xương, Tôm khô, mực khô xào sơ rồi đổ nước vào đun cho ngọt; Đậu xanh, đậu phụng đun cho ngọt thanh...</td>
+     
+      </tr>
+      <tr class="striped--near-white">
+        <td class="bn pa2 pa3-ns">Dầu thực vật tinh luyện (vegetable oil), các loại dầu có nguy cơ GMOs cao như dầu đậu nành (soybean oil), dầu canola (canola oil), dầu hạt bông (cottonseed oil), dầu bắp (corn oil)...hoặc bất cứ loại dầu nào có chữ “tinh luyện"</td>
+        <td class="bn pa2 pa3-ns">Dầu dừa, dầu phộng (dùng để chiên rán); Dầu mè (dùng ở nhiệt độ thấp hơn), dầu olive (chỉ nên dùng trộn ở nhiệt độ thấp), dầu bơ, dầu gấc,Mỡ lợn </td>
+     
+      </tr>
+      <tr class="striped--near-white">
+        <td class="bn pa2 pa3-ns">Muối i ốt tinh luyện</td>
+        <td class="bn pa2 pa3-ns">Muối biển tự nhiên, muối hầm, Miso</td>
+      
+      </tr>
+      <tr class="striped--near-white">
+        <td class="bn pa2 pa3-ns">Đường trắng tinh luyện, đường hoá học</td>
+        <td class="bn pa2 pa3-ns">Đường thốt nốt, đường nâu, mật mía, mật ong nguyên chất, đường phèn, tinh chất cỏ ngọt stevia, mạch nha, quả chà là, chuối & các loại trái cây tạo ngọt</td>
 
+      </tr>
+      <tr class="striped--near-white">
+        <td class="bn pa2 pa3-ns">Tương ớt công nghiệp</td>
+        <td class="bn pa2 pa3-ns">Tương ớt tự nhiên</td>
+ 
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-Xì dầu công nghiệp
--Nước tương Tamari
--Các loại xì dầu với chỉ các thành phần: đậu nành, lúa mì (không bắt buộc), muối, nước...
-
-
-Bột ngọt, bột nêm...
--Bột nêm ruốc: 
--Bột nêm ngưu báng
--Bột nêm kombu shiitake
--Muối biển/muối hầm
--Hầm rau củ có vị ngọt: củ cải, cà rốt, susu, dền, hành tây, củ sắn…
--Hầm xương
--Tôm khô, mực khô xào sơ rồi đổ nước vào đun cho ngọt
--Đậu xanh, đậu phụng đun cho ngọt thanh, bùi
--Nước dashi với cá bào và rong biển
-Dầu thực vật tinh luyện (vegetable oil), các loại dầu có nguy cơ GMOs cao như dầu đậu nành (soybean oil), dầu canola (canola oil), dầu hạt bông (cottonseed oil), dầu bắp (corn oil)...hoặc bất cứ loại dầu nào có chữ “tinh luyện"
--Dầu dừa, dầu phộng (dùng để chiên rán); Dầu mè (dùng ở nhiệt độ thấp hơn), dầu olive (chỉ nên dùng trộn ở nhiệt độ thấp), dầu bơ, dầu gấc...
--Mỡ lợn
-Muối i ốt tinh luyện
-Muối biển tự nhiên, muối hầm
-Miso 
-Mơ muối nạc
-Đường trắng tinh luyện, đường hoá học
-Đường thốt nốt, đường nâu, mật mía, mật ong nguyên chất, đường phèn, tinh chất cỏ ngọt stevia, mạch nha, quả chà là, chuối & các loại trái cây tạo ngọt
-Tương ớt công nghiệp
-Tương ớt tự nhiên, ớt tươi
-
-Nhìn chung, gia vị mua ở các cửa hàng thực dưỡng thường lành tính và có công dụng phòng bệnh mạnh mẽ.
+**Tip:** gia vị mua ở các cửa hàng thực dưỡng thường lành tính và có công dụng phòng bệnh mạnh mẽ.
 
 ## Đừng quên những gia vị từ thiên nhiên
 > Trước khi dùng những gia vị công nghiệp như hiện nay, ông bà, bố mẹ ta dùng gì? Bạn hãy hỏi chính người nhà mình và nếu có thể thì quay trở lại với các gia vị lành tính truyền thống, và trân quý những sản phẩm nhà làm.
