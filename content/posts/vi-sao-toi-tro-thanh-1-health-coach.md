@@ -1,15 +1,14 @@
 {
    "author": "boo",
    "categories": [
-      "live",
-      "coach"
+      "sống"
    ],
    "cover_image": "https://i.imgur.com/Fdvs1VB.jpg",
    "date": "2017-11-02",
    "description": "“Walk the talk, Phuong, you must walk the talk.” Tôi đã luôn niệm thầm như vậy.",
    "published": true,
    "tags": [
-      "health coach"
+      "health coach", "coach"
    ],
    "title": "Vì sao tôi trở thành 1 Health Coach?"
 }
