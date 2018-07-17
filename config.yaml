@@ -11,15 +11,15 @@ menu:
     - Name: Dịch vụ
       Weight: 2
       URL: "/offers/"
-    - Name: Bài viết
+    - Name: Phân loại
       Weight: 3
+      URL: "/phan-loai/"
+    - Name: Bài viết
+      Weight: 4
       URL: "/posts/"
     - Name: Chầm chậm
-      Weight: 4
-      URL: "/cham-cham/"
-    - Name: Phân loại
       Weight: 5
-      URL: "/phan-loai/"
+      URL: "/cham-cham/"
     - Name: Liên hệ
       Weight: 6
       URL: "mailto:namphuong.cf@gmail.com"
