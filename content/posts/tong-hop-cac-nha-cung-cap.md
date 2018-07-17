@@ -75,7 +75,7 @@ Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà N�
 
 - Mỹ phẩm có nguyên liệu hữu cơ: [Skinna](https://www.facebook.com/theskinna/)
 
-- Tinh dầu có nguyên liệu sạch: [Tùng Hạ](https://www.facebook.com/TungHaFarm/)
+- Tinh dầu có nguyên liệu hữu cơ: [Tùng Hạ](https://www.facebook.com/TungHaFarm/)
 
 ### May mặc & hàng thủ công
 
