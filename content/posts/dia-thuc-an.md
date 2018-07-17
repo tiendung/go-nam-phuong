@@ -6,7 +6,7 @@
    "date": "2018-06-07",
    "published": true,
    "categories": [
-      "thức ăn thân", "thức ăn tâm" 
+      "dinh dưỡng cơ bản"
    ],
    "tags": [
       "dĩa thức ăn", "dinh dưỡng", "dinh dưỡng cơ bản",  "chầm chậm mà sống", "thức ăn tâm", "thức ăn thân"
@@ -169,4 +169,3 @@ Hãy chọn những nơi có bán ngũ cốc toàn phần (cơm/phở lứt, bá
 Cho nên bạn không phải lấy dĩa ra rồi sắp xếp tỉ mẩn theo đúng tỉ lệ và thứ tự. Thay vì thế, chỉ cần **lên kế hoạch tổng thể dựa trên bản mẫu, linh hoạt thực hiện với các loại thức ăn bạn có thể tiếp cận hay yêu thích!**
 
 _Hãy chia sẻ dĩa thức ăn của bạn! Bằng cách bình luận, hay chia sẻ hình ảnh trên facebook, instagram kèm theo hashtag #dĩa_thức_ăn nhé. Mình rất mong chờ được nhìn thấy hình ảnh của các đĩa thức ăn của bạn đó! ^O^_
-
