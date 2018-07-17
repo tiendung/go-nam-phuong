@@ -57,7 +57,7 @@ Click vào [ĐÂY](https://coachnamphuong.com/posts/17-tips-mua-sam-cua-nguoi-ti
 
 - Tôm tép, đậu hạt, đậu nành non-GMO, muối sạch, bột ngũ cốc, hành tỏi:[Ông Thắng](https://ongthang.com/)
 
--Gạo lứt, bột gạo: 
+- Gạo lứt, bột gạo: 
 
 Gạo đen hữu cơ Mimosa Farm:
 Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà Nội
@@ -74,6 +74,8 @@ Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà N�
 - Mỹ phẩm, chăm sóc da từ sen: [Sue'n.](https://www.facebook.com/www.suen.vn/)
 
 - Mỹ phẩm có nguyên liệu hữu cơ: [Skinna](https://www.facebook.com/theskinna/)
+
+- Tinh dầu có nguyên liệu sạch: [Tùng Hạ](https://www.facebook.com/TungHaFarm/)
 
 ### May mặc & hàng thủ công
 
