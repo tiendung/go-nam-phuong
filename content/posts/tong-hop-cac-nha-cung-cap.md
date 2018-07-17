@@ -89,6 +89,8 @@ Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà N�
 
 - Đồ gốm, khăn và túi nhuộm chàm tự nhiên: [Indigo workshop](https://www.facebook.com/INDIgoworkshop.goworkshop/)
 
+### Các cá nhân bán lẻ
+- Hai thầy thuốc Đông Y bán bột nêm ngưu báng và các sản phẩm thuốc từ thiên nhiên:[Phan Diệu Linh](https://www.facebook.com/linh.phan.vs)
 
 
 
