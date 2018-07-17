@@ -1,7 +1,7 @@
 {
    "author": "boo",
    "categories": [
-      "nhà", "detox"
+      "thải độc"
    ],
    "cover_image": "https://i.imgur.com/ihqLhju.jpg",
   "header": {
