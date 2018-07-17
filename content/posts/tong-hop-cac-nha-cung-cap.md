@@ -94,10 +94,10 @@ Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà N�
 - Thuốc từ 100% thảo dược [Phục Hồi Sinh Lực (Age revive)](http://phuchoisinhluc.vn/)
 
 ### Các cá nhân bán lẻ
-- Thực phẩm tự nhiên nhà làm (bánh phục linh, chuối sấy, muối sả...): [Nguyên Hân](https://www.facebook.com/han.nguyen.772013)
-- Bánh kem, bánh quy, bánh ngọt: [Thanh Châu](https://www.facebook.com/pham.thanhchau.3)
-- Khoai tím: [Huyền Trâm](https://www.facebook.com/blackandwhite12a3dth?fref=gm&dti=744341992400585&hc_location=group)
-- Thầy thuốc Đông Y bán bột nêm ngưu báng và các sản phẩm thuốc từ thiên nhiên:[Phan Diệu Linh](https://www.facebook.com/linh.phan.vs)
+- Thực phẩm tự nhiên nhà làm (bánh phục linh, chuối sấy, muối sả...): [Nguyên Hân](https://www.facebook.com/han.nguyen.772013) (Đà Lạt, có ship đi các tỉnh)
+- Bánh kem, bánh quy, bánh ngọt: [Thanh Châu](https://www.facebook.com/pham.thanhchau.3)(Đà Lạt, có ship đi các tỉnh)
+- Khoai tím: [Huyền Trâm](https://www.facebook.com/blackandwhite12a3dth?fref=gm&dti=744341992400585&hc_location=group) (Đức Trọng, có ship đi trong tỉnh)
+- Thầy thuốc Đông Y bán bột nêm ngưu báng và các sản phẩm thuốc từ thiên nhiên:[Phan Diệu Linh](https://www.facebook.com/linh.phan.vs) 
 
 
 
