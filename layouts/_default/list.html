@@ -3,7 +3,7 @@
   <div class="mw7 w-100 ph3 ph4-ns">
     <article>
         <header>
-            <h1>
+            <h1 class="tracked">
                 {{if eq .Data.Singular "category"}}&#128193;{{end}}
                 {{if eq .Data.Singular "tag"}}&#9750;{{end}}
                 {{.Title}}
@@ -11,8 +11,8 @@
         </header>
     </article>
     <ul class="list pl0">
-    {{ range .Data.Pages }}
-        <li class="mt3 mb2">
+    {{ range .Pages }}
+        <li class="mt3 mb2 tracked">
             {{if eq .Data.Singular "category"}}&#128193;{{end}}
             {{if eq .Data.Singular "tag"}}&#9750;{{end}}
             {{if eq .Data.Singular nil}}&#9998;{{end}}

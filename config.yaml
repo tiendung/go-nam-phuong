@@ -17,8 +17,11 @@ menu:
     - Name: Chầm chậm
       Weight: 4
       URL: "/cham-cham/"
-    - Name: Liên hệ
+    - Name: Phân loại
       Weight: 5
+      URL: "/phan-loai/"
+    - Name: Liên hệ
+      Weight: 6
       URL: "mailto:namphuong.cf@gmail.com"
 
 params:
