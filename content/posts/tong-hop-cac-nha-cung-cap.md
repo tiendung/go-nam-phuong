@@ -15,8 +15,8 @@
    "tags": [
             "tiêu dùng", "bền vững", "thực phẩm", "sạch", "thuận tự nhiên"
    ],
-"title": "Tổng hợp danh mục các nhà cung cấp",
-"published":"false"
+"title": "Tổng hợp danh mục các nhà cung cấp uy tín",
+"published":"true"
 }
 
 ## LƯU Ý 
@@ -29,9 +29,11 @@
 
 Click vào [ĐÂY](https://coachnamphuong.com/posts/17-tips-mua-sam-cua-nguoi-tieu-dung-thong-thai/) để xem 17 tips mua sắm của người tiêu dùng thông thái
  
-## DANH MỤC
+## DANH MỤC (CẬP NHẬT LIÊN TỤC):
 
 ### Các nhà cung cấp tổng hợp:
+
+{{< figure src="https://i.imgur.com/E8rAq4e.jpg" alt="nhà cung cấp tổng hợp" class="w-100" >}}
 
 - Các sản phẩm theo tiêu chí nuôi trồng thuận tự nhiên, mùa nào thức nấy: [Xanhshop.](http://xanhshop.com/)
 
@@ -40,43 +42,55 @@ Click vào [ĐÂY](https://coachnamphuong.com/posts/17-tips-mua-sam-cua-nguoi-ti
 
 -Tổng hợp địa chỉ thực dưỡng khác: http://www.bepthucduong.com/mua-gi-o-dau/
 
-### Rau sạch, trái cây sạch
+### Nông sản:
 
-- Rau theo nhiều tiêu chuẩn: hữu cơ, vietgab...[Hana garden](https://www.facebook.com/khuvuonhanadalat/)
+{{< figure src="https://i.imgur.com/xO2kEnc.jpg" alt="rau trái cây sạch" class="w-100" >}}
+
+- Rau, trái cây theo nhiều tiêu chuẩn: hữu cơ, vietgab...[Hana garden](https://www.facebook.com/khuvuonhanadalat/)
 
 - Rau trồng thuận tự nhiên:[Vòng Lâm Viên](https://www.facebook.com/vonglamvien/)
 
--Trái cây trồng thuận tự nhiên: [Ace's farm](https://www.facebook.com/cachmangsach/)
+- Trái cây trồng thuận tự nhiên: [Ace's farm](https://www.facebook.com/cachmangsach/)
 
+### Đồ khô:
 
-Tôm tép, đậu hạt, đậu nành non-GMO, muối sạch, bột ngũ cốc, hành tỏi
-https://ongthang.com/
-Gạo lứt, bột gạo
+{{< figure src="https://i.imgur.com/JosbEMd.jpg" alt="gạo lứt thực dưỡng" class="w-100" >}}
+
+- Tôm tép, đậu hạt, đậu nành non-GMO, muối sạch, bột ngũ cốc, hành tỏi:[Ông Thắng](https://ongthang.com/)
+
+-Gạo lứt, bột gạo: 
+
 Gạo đen hữu cơ Mimosa Farm:
 Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà Nội
 ĐT:(+84) 2437 161798
 
-Hợp tác xã hữu cơ Bình Quý: 
-https://www.facebook.com/H%E1%BB%A3p-t%C3%A1c-x%C3%A3-H%E1%BB%AFu-c%C6%A1-B%C3%ACnh-Qu%C3%BD-2110104775671935/?modal=admin_todo_tour
+[Hợp tác xã hữu cơ Bình Quý](https://www.facebook.com/H%E1%BB%A3p-t%C3%A1c-x%C3%A3-H%E1%BB%AFu-c%C6%A1-B%C3%ACnh-Qu%C3%BD-2110104775671935/)
+
+### Chăm sóc cơ thể:
+
+{{< figure src="https://i.imgur.com/RwcOZhH.jpg" alt="sản phẩm thảo dược" class="w-100" >}}
+
+- Sản phẩm từ thảo dược địa phương: [Vietherb](https://m.facebook.com/vietherb.vn/)
+
+- Mỹ phẩm, chăm sóc da từ sen: [Sue'n.](https://www.facebook.com/www.suen.vn/)
+
+- Mỹ phẩm có nguyên liệu hữu cơ: [Skinna](https://www.facebook.com/theskinna/)
+
+### May mặc & hàng thủ công
+
+{{< figure src="https://i.imgur.com/WYzMsCK.jpg" alt="khăn nhuộm chàm tự nhiên" caption="Ảnh: Indigo workshop" class="w-100" >}}
+
+- Vải, túi, quần áo chất liệu tự nhiên: 
+[+goosewalk](https://www.facebook.com/allGoosewalk/)(quần áo cũ)
+[+đu đủ](https://www.facebook.com/hatdudu/)(nhuộm đồ nói chung)
+[+nhặt lá đá ống bơ](https://www.facebook.com/daongbo/) (nhuộm đồ nói chung)
+[+kilomet 109](https://www.facebook.com/kilomet109/) (hàng thiết kế, chất liệu tự nhiên, cách tân, sử dụng nhân công bản địa)
+[+tretre](https://www.facebook.com/tretrevietnam/)
+
+- Đồ gốm, khăn và túi nhuộm chàm tự nhiên: [Indigo workshop](https://www.facebook.com/INDIgoworkshop.goworkshop/)
 
 
 
-Dầu gội, sữa rửa mặt, tinh dầu, dầu xoa bóp thảo dược
-https://m.facebook.com/vietherb.vn/
-Vải, túi, quần áo chất liệu tự nhiên: 
-Tìm các fanpage:
-
-+goosewalk (quần áo cũ)
-+đu đủ (nhuộm đồ nói chung)
-+nhặt lá đá ống bơ (nhuộm đồ nói chung)
-+kilomet 109 (hàng thiết kế, chất liệu tự nhiên, cách tân, sử dụng nhân công bản địa)
-
-
-Đồ gốm, các mặt hàng thủ công 
-Indigo workshop
-chăm sóc da 
-https://www.facebook.com/theskinna/
-https://suen.vn/
 
 
 
