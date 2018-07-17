@@ -88,7 +88,7 @@ Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà N�
 [+kilomet 109](https://www.facebook.com/kilomet109/) (hàng thiết kế, chất liệu tự nhiên, cách tân, sử dụng nhân công bản địa)
 [+tretre](https://www.facebook.com/tretrevietnam/)
 
-- Đồ gốm, khăn và túi nhuộm chàm tự nhiên: [Indigo workshop](https://www.facebook.com/INDIgoworkshop.goworkshop/)
+- Đồ gốm, khăn và túi nhuộm chàm tự nhiên: [Indigo workshop](https://www.facebook.com/INDIgoworkshop.goworkshop/)(Đà Lạt)
 
 ### Trợ phương, thực phẩm chức năng
 - Thuốc từ 100% thảo dược [Phục Hồi Sinh Lực (Age revive)](http://phuchoisinhluc.vn/)
