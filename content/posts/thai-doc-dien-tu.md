@@ -1,7 +1,7 @@
 {
    "author": "boo",
    "categories": [
-      "nấu"
+      "thải độc"
    ],
    "cover_image": "https://i.imgur.com/FmJb2a7.jpg",
   "header": {
