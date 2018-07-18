@@ -3,7 +3,7 @@
     "aliases": ["/cham-cham/granola-lanh-manh-khong-dau/"],
     "author": "boo",
     "categories": [
-      "Công thức"
+      
     ],
     "cover_image": "https://i.imgur.com/C5VCIgg.jpg",
     "header": {

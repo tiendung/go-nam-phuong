@@ -3,7 +3,7 @@
     "aliases": ["/cham-cham/cong-thuc-keo-scoby/"],
    "author": "boo",
    "categories": [
-      "Công thức"
+      
    ],
    "cover_image": "https://i.imgur.com/TlnoCw6.jpg",
   "header": {

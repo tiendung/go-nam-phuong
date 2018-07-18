@@ -3,7 +3,7 @@
     "aliases": ["/cham-cham/huong-dan-pha-kombucha/"],
    "author": "boo",
    "categories": [
-      "Công thức"
+      
    ],
    "cover_image": "https://i.imgur.com/Luh1rIK.jpg",
   "header": {
