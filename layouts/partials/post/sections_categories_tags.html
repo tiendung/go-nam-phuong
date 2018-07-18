@@ -18,6 +18,6 @@
 {{ define "breadcumb-template" }}
     {{ if not .Parent.IsHome }}
         {{ template "breadcumb-template" .Parent }}
-        <a class="link dim f6 f5-ns dib mr3" href="{{ .Permalink }}">&#128193; {{ .Title }}</a>
+        <a class="link dim f6 f5-ns dib mr3" href="{{ .Permalink }}">&#128210; {{ .Title }}</a>
     {{ end }}
 {{ end }}
