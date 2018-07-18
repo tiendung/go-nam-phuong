@@ -57,3 +57,4 @@ Với nguyên liệu đơn giản dễ tìm, đây còn là món ăn vặt rất
 {{< figure src="https://i.imgur.com/7Alcgzo.jpg" alt="bánh chuối nguyên cám" caption="Mè chứa nhiều vitamin và khoáng chất, có tác dụng giảm cholesterol, giúp cân bằng hooc môn và làm đẹp da nữa ^^" class="w-100" >}}
 
 Tác giả công thức: [Nguyên Hân](https://www.facebook.com/han.nguyen.772013)
+Ghi chú: Health Coach Nam Phương 
