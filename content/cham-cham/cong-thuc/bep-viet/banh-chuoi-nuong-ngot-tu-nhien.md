@@ -50,6 +50,10 @@ Với nguyên liệu đơn giản dễ tìm, đây còn là món ăn vặt rất
 - Nếu nướng bằng chảo gang thì để lửa nhỏ đậy vung cho bột chín khoảng 30–40 phút thì trở mặt kia cho bánh vàng đều là được. Khi trở bánh qua mặt sau thì không cần đậy vung bánh hấp hơi sẽ mất độ giòn.
 Để bánh nguội hẳn cắt bánh thành từng miếng nhỏ theo hình tùy thích. Bánh chuối ăn nguội sẽ ngon hơn. Bánh chuối có mùi thơm của nước cốt dừa vị ngọt tự nhiên từ chuối.
 
-{{< figure src="https://i.imgur.com/ny7MIWu.jpg" alt="bánh chuối nguyên cám" caption="Phiên bản nguyên cám sẽ tốt cho sức khoẻ hơn rất nhiều so với phiên bản thông thường" class="w-100" >}}
+{{< figure src="https://i.imgur.com/ny7MIWu.jpg" alt="bánh chuối nguyên cám" caption="Phiên bản nguyên cám và không đường sẽ giúp ổn định đường huyết tốt hơn nhiều so với phiên bản thông thường" class="w-100" >}}
+
+{{< figure src="https://i.imgur.com/neMzpK3.jpg" alt="bánh chuối nguyên cám" caption="Ngọt ngào lấy từ chuối. Nếu muốn thêm ngọt thì chỉ việc thêm chuối" class="w-100" >}}
+
+{{< figure src="https://i.imgur.com/7Alcgzo.jpg" alt="bánh chuối nguyên cám" caption="Mè chứa nhiều vitamin và khoáng chất, có tác dụng giảm cholesterol, giúp cân bằng hooc môn và làm đẹp da nữa ^^" class="w-100" >}}
 
 Tác giả công thức: [Nguyên Hân](https://www.facebook.com/han.nguyen.772013)
