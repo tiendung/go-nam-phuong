@@ -11,9 +11,6 @@ menu:
     - Name: Dịch vụ
       Weight: 2
       URL: "/offers/"
-    - Name: Phân loại
-      Weight: 3
-      URL: "/phan-loai/"
     - Name: Bài viết
       Weight: 4
       URL: "/posts/"
@@ -23,6 +20,9 @@ menu:
     - Name: Liên hệ
       Weight: 6
       URL: "mailto:namphuong.cf@gmail.com"
+    - Name: Phân loại
+      Weight: 8
+      URL: "/phan-loai/"
 
 params:
   author: Nam Phương
