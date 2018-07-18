@@ -1,0 +1,12 @@
+<h{{ .depth }}>{{ .depth }}. {{ .context.Title }}</h{{ .depth }}>
+
+{{ range .context.Sections }}
+    {{ partial "section.html" (dict "context" . "depth"  (add .depth 1)) }}
+{{ end }}
+
+{{ $section := .context }}
+{{ range .context.Pages }}
+{{ if ne .Type "meta" | and ($section.IsAncestor .) }}
+    {{ partial "post/selected.html" . }}
+{{ end }}
+{{ end }}
