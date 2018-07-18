@@ -39,7 +39,7 @@ Cải kale được mệnh danh là "nữ hoàng rau cải", có màu xanh đậ
 
 Bánh flan vị cải kale ngon hơn khi để ngăn mát tủ lạnh. Đây cũng là món ăn dặm cho trẻ hoặc món tráng miệng đều thích hợp.
 
-## Thông tin dinh dưỡng
+## Thông tin dinh dưỡng:
 
 Đậu gà và cải kale là 2 nguyên liệu siêu bổ dưỡng mà không phải ai cũng biết:
 
