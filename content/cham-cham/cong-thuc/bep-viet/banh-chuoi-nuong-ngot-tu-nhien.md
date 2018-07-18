@@ -4,12 +4,6 @@
       "ăn vặt"
    ],
    "cover_image": "https://i.imgur.com/nYZKUO5.jpg",
-  "header": {
-    "image": "https://i.imgur.com/kMZwD2X.jpg",
-    "layout": "hero",
-    "navigation": "fancy",
-    "class": "bg-darken-50 bg-darken-25-l bg-center"
-  },
    "date": "2018-07-18",
    "description": "Món vặt dễ làm & lành mạnh dành cho những ai yêu vị ngọt tự nhiên",
    "tags": [
