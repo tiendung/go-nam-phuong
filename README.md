@@ -1,6 +1,6 @@
 TODOs
 - [ ] Content Slider/Carousels https://github.com/moklick/frontend-stuff#content-slidercarousels
-- [ ] categories, sub-sections https://github.com/guayom/hugo-sub-sections
+- [x] categories, sub-sections https://github.com/guayom/hugo-sub-sections
 - [x] Add taxonomy list page https://gohugo.io/templates/lists/#default-templates
 
 
