@@ -48,7 +48,9 @@ Dường như ai cũng thích ăn mỳ Ý ^^ Tuy nhiên khi ăn ở nhà hàng, 
 
 Mì Ý sốt gấc  với những nguyên liệu đơn giản, chế biến nhanh gọn nhưng vẫn đầy đủ chất dinh dưỡng. Thích hợp với những người bận rộn. Ngon hơn khi dùng nóng.
 
-{{< figure src="https://i.imgur.com/NKKm24k.jpg" alt="mỳ ý sốt gấc" caption="Mì Ý sốt gấc  với những nguyên liệu đơn giản, chế biến nhanh gọn nhưng vẫn đầy đủ chất dinh dưỡng. Thích hợp với những người bận rộn. Ngon hơn khi dùng nóng." class="w-100" >}}
+{{< figure src="https://i.imgur.com/NKKm24k.jpg" alt="mỳ ý sốt gấc" caption="Mì Ý sốt gấc  với những nguyên liệu đơn giản, chế biến nhanh gọn nhưng vẫn đầy đủ chất dinh dưỡng" class="w-100" >}}
+
+Món này thích hợp với những người bận rộn. Ngon hơn khi dùng nóng.
 
 
 ## Thông tin dinh dưỡng:
