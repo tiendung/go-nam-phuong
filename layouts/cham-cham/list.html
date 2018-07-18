@@ -30,10 +30,23 @@
         {{ end }}
     {{ end }}
 
+    {{ if not (len .section.Pages | eq 0) }}
+    {{ if eq .depth 1 }}
+        {{ range .section.Pages }}
+            {{ partial "post/selected.html" . }}
+        {{ end }}
+    {{ else }}
+        {{ range .section.Pages | first 3 }}
+            {{ partial "post/selected.html" . }}
+        {{ end }}
+    {{ end }}
 
-    {{ range .section.Pages }}
-    {{ if ne .Type "meta" }}
-        {{ partial "post/selected.html" . }}
+    {{ if not (eq .depth 1) }}
+    <div class="mt1 mb4 pb4  b--black-10">
+    <a class="f4 f3-ns fw4 lh-copy ba border-box bw1 no-underline white hover-white
+    pa2 tracked bg-black-30" href="{{ .section.Permalink }}">
+    Xem hết</a>
+    </div>
     {{ end }}
     {{ end }}
 
