@@ -1,5 +1,5 @@
 {
-   "author": "boo",
+   "author": "nguyen-han",
    "categories": [
       "ăn vặt"
    ],
@@ -18,10 +18,10 @@
 "title": "Bánh chuối nướng ngọt tự nhiên"
 }
 
-Bánh chuối nướng không phải là món bánh xa lạ đúng không? 
+Bánh chuối nướng không phải là món bánh xa lạ đúng không?
 Với nguyên liệu đơn giản dễ tìm, đây còn là món ăn vặt rất lành cho trẻ em và người lớn, đặc biệt những người thích vị ngọt tự nhiên không đường.
 
-## Nguyên liệu: 
+## Nguyên liệu:
 
 - chuối sứ: 4-8 quả tuỳ độ lớn
 
@@ -31,7 +31,7 @@ Với nguyên liệu đơn giản dễ tìm, đây còn là món ăn vặt rất
 
 - muối hầm: 1/2 thìa cà phê
 
-- nước cốt dừa: tầm 200ml 
+- nước cốt dừa: tầm 200ml
 
 - dầu dừa
 
@@ -43,17 +43,17 @@ Với nguyên liệu đơn giản dễ tìm, đây còn là món ăn vặt rất
 ## Cách làm:n
 ## Cách làm
 
-- Chuối lột vỏ để nguyên trái cho vào chưng cách thủy cho đến khi chuối chín chuyển qua màu đỏ tím 
+- Chuối lột vỏ để nguyên trái cho vào chưng cách thủy cho đến khi chuối chín chuyển qua màu đỏ tím
 
-- Để nguội, chắt phần nước sang một tô riêng hòa với bột mì và bột gạo lứt 
+- Để nguội, chắt phần nước sang một tô riêng hòa với bột mì và bột gạo lứt
 
 - Thêm một ít nước ấm, nêm một ít muối và nước cốt dừa bột có độ sền sệt là vừa. Đặc quá bánh sẽ khô, bột lỏng thì thời gian nướng sẽ lâu hơn
 
-- Đậy bột để bột nghỉ khoảng 30 phút – 1 giờ. 
+- Đậy bột để bột nghỉ khoảng 30 phút – 1 giờ.
 
 - Cho chuối trộn với bột và xếp vào khay nướng hoặc chảo gang có bôi một lớp dầu dừa chống dính và rắc mè rang lên đều cả hai mặt bánh.
 
-- Nếu nướng bằng lò nướng thì để nhiệt độ 150 – 170 độ tùy độ nóng của mỗi lò nướng thời gian 1 giờ. 
+- Nếu nướng bằng lò nướng thì để nhiệt độ 150 – 170 độ tùy độ nóng của mỗi lò nướng thời gian 1 giờ.
 
 - Nếu nướng bằng chảo gang thì để lửa nhỏ đậy vung cho bột chín khoảng 30–40 phút thì trở mặt kia cho bánh vàng đều là được. Khi trở bánh qua mặt sau thì không cần đậy vung bánh hấp hơi sẽ mất độ giòn.
 Để bánh nguội hẳn cắt bánh thành từng miếng nhỏ theo hình tùy thích. Bánh chuối ăn nguội sẽ ngon hơn. Bánh chuối có mùi thơm của nước cốt dừa vị ngọt tự nhiên từ chuối.
