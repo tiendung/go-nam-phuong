@@ -4,7 +4,41 @@
 {{ define "main" }}
 <main class="full center pl3 pl4-ns bt b--light-gray">
   <session class="w-100">
-      {{ partial "section" (dict "context" . "depth"  1) }}
+      {{ template "section-template" (dict "section" . "depth" 1) }}
   </session>
 </main>
+{{ end }}
+
+{{ define "section-template" }}
+
+{{ if not ((len .section.Sections | eq 0) | and (len .section.Pages | eq 0)) }}
+    {{ $scratch := newScratch }}
+    {{ if eq .depth 1 }}
+        <h{{ .depth }}>
+            {{ if not .section.Parent.IsHome }}
+            <a href="{{ .section.Parent.Permalink }}">{{ .section.Parent.Title }}</a> /
+            {{ end }}
+            {{ .section.Title }}
+        </h{{ .depth }}>
+    {{ else }}
+        {{ printf "<a href=\"%s\">%s</a>" .section.Permalink .section.Title | $scratch.Set "title" }}
+        {{ if .prefix }}
+            {{ printf "%s / %s" .prefix ($scratch.Get "title") | $scratch.Set "title" }}
+        {{ end }}
+        {{ if not (len .section.Pages | eq 0) }}
+            <h{{ .depth }}>{{ $scratch.Get "title" | safeHTML }}</h{{ .depth }}>
+        {{ end }}
+    {{ end }}
+
+
+    {{ range .section.Pages }}
+    {{ if ne .Type "meta" }}
+        {{ partial "post/selected.html" . }}
+    {{ end }}
+    {{ end }}
+
+    {{ range .section.Sections }}
+        {{ template "section-template" (dict "section" . "depth" 2 "prefix" ($scratch.Get "title") ) }}
+    {{ end }}
+{{ end }}
 {{ end }}
