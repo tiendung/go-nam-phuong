@@ -38,8 +38,8 @@ Càng gần với thức ăn tự nhiên càng tốt.
 ###  Hãy tìm kiếm tất cả các dạng đường ghi trên nhãn
 Một loạt phiên bản của đường tinh luyện thường được sử dụng để dẫn dụ bạn nghĩ rằng không có quá nhiều đường trong sản phẩm. Sau đây là các tên phiên bản:
 <ul>
-  <li><span class="underline">Tiếng Việt</span>: đường mía, đường nâu, đường củ cải, đường chà là, đường nho, đường glucose, đường sucrose,maltodextrin, dextran, dextrose, sorbitol, si-rô ngô, đường fructose, Xi-rô ngô fructose cao, đường bắp, nước trái cây, nước trái cây cô đặc, mạch nha, caramel, xi-rô carob và xi-rô lúa miến</li>
-  <li><span class="underline">Tiếng Anh</span>: cane sugar, brown sugar, beet sugar, date sugar, grape sugar, glucose, sucrose, maltose, maltodextrin, dextran, dextrose, sorbitol, corn syrup, fructose, high fructose corn syrup (HFCS), corn sugar, fruit juice, fruit juice concentrate, barley malt, caramel, carob syrup and sorghum syrup.</li>
+  <li><span class="underline">Tiếng Việt</span>: đường tinh luyện, đường trắng, đường mía, đường nâu, đường củ cải, đường chà là, đường nho, đường glucose, đường sucrose,maltodextrin, dextran, dextrose, sorbitol, aspartame,Acesulfame-K, si-rô ngô, đường fructose, Xi-rô ngô fructose cao, đường bắp, nước trái cây, nước trái cây cô đặc, mạch nha, caramel, xi-rô carob và xi-rô lúa miến, Splenda </li>
+  <li><span class="underline">Tiếng Anh</span>: refined sugar, white sugar, cane sugar, brown sugar, beet sugar, date sugar, grape sugar, glucose, sucrose, maltose, maltodextrin, dextran, dextrose, sorbitol, aspartame,Acesulfame-K, corn syrup, fructose, high fructose corn syrup (HFCS), corn sugar, fruit juice, fruit juice concentrate, barley malt, caramel, carob syrup and sorghum syrup, Splenda</li>
 </ul>
 
 ### Tìm số gram đường trên bao bì

@@ -2,7 +2,7 @@
    "author": "boo",
    "categories": [
       "thiền",
-      "tâm thức"
+      "thải độc"
    ],
    "cover_image": "https://i.imgur.com/XyRWPMm.jpg",
   "header": {

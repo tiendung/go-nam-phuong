@@ -1,8 +1,7 @@
 {
    "author": "boo",
    "categories": [
-      "thức ăn tâm",
-      "tâm thức"
+      "thức ăn tâm"
    ],
    "cover_image": "https://i.imgur.com/8yGse39.jpg",
   "header": {
@@ -19,7 +18,8 @@
       "thương tổn",
       "chánh niệm",
       "thiền",
-      "hơi thở"
+      "hơi thở", 
+      "tâm thức"
    ],
    "title": "Chữa lành đứa trẻ bên trong"
 }

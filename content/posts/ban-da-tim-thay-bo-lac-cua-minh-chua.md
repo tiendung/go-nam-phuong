@@ -3,12 +3,10 @@
   "title": "Bạn đã tìm thấy bộ lạc của mình chưa?",
   "date": "2017-11-04",
   "categories": [
-    "live",
-    "community",
-    "tribe"
+    "sống"
   ],
   "tags": [
-    "bộ lạc"
+    "bộ lạc", "cộng đồng"
   ],
   "header": {
     "caption": "[Unsplash](https://unsplash.com)",
