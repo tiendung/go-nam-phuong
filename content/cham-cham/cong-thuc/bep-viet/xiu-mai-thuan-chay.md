@@ -12,7 +12,7 @@
 "title": "Xíu mại thuần chay cay nồng ấm áp"
 }
 
-Tiết trời chuyển sang chút se lạnh, mưa dầm là lúc cơ thể con người cũng cần một chút gia vị cay nồng làm ấm hơn cơ thể. Món bánh mì xíu mại vốn là món điểm tâm trứ danh ở Đà Lạt. Đầu bếp Nguyên Hân lần trước đã đưa ra 2 phiên bản: [xíu mại khoai môn](https://coachnamphuong.com/cham-cham/cong-thuc/bep-viet/xiu-mai-khoai-mon-thuan-chay/) và xíu mại sakê củ sen. Giờ là phiên bản mới nhất đầy hấp dẫn cùng đậu gà!
+Tiết trời chuyển sang chút se lạnh, mưa dầm là lúc cơ thể con người cũng cần một chút gia vị cay nồng làm ấm hơn cơ thể. Món bánh mì xíu mại vốn là món điểm tâm trứ danh ở Đà Lạt. Đầu bếp Nguyên Hân lần trước đã đưa ra 2 phiên bản: [xíu mại khoai môn](https://coachnamphuong.com/cham-cham/cong-thuc/bep-viet/xiu-mai-khoai-mon-thuan-chay/) và [xíu mại sakê củ sen](https://coachnamphuong.com/cham-cham/cong-thuc/bep-viet/xiu-mai-sa-ke-cu-sen/). Giờ là phiên bản mới nhất đầy hấp dẫn cùng đậu gà!
 
 
 ## Nguyên liệu:
