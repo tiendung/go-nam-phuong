@@ -1,5 +1,3 @@
-
-
 {
    "author": "nguyen-han",
    "categories": [
@@ -11,8 +9,7 @@
    "tags": [
             "rau câu", "đậu đỏ", "thực dưỡng", "thuần chay"
    ],
-"title": "Rau câu đậu đỏ giải nhiệt cho mùa hè nắng nóng"
-"published":"true"
+   "title": "Rau câu đậu đỏ giải nhiệt cho mùa hè nắng nóng"
 }
 
 Những ngày đầu hè nắng nóng theo thói quen thông thường của đa số là tìm đến ly nước đá lạnh, nhưng nước đá uống vào chỉ mát nơi miệng thôi. Sẽ không tốt cho sức khỏe nếu thường xuyên sử dụng nước đá nhất là trẻ em. Đổi lại, hãy cùng sử dụng các nguyên liệu có tác dụng thanh nhiệt để làm món rau câu đậu đỏ nhé!
@@ -23,7 +20,7 @@ Những ngày đầu hè nắng nóng theo thói quen thông thường của đa
 ## Nguyên liệu:
 
 - Rau câu chân vịt loại khô
- 
+
 - Đậu đỏ
 
 - Chuối sứ
@@ -39,9 +36,9 @@ Những ngày đầu hè nắng nóng theo thói quen thông thường của đa
 
 - Đậu đỏ ngâm nở, thay nước nhiều lần nấu mềm, xay nhuyễn.
 
-- Chuối sứ lột bỏ vỏ chưng cách thủy cho chuối chín đỏ, xong xay nhuyễn. 
+- Chuối sứ lột bỏ vỏ chưng cách thủy cho chuối chín đỏ, xong xay nhuyễn.
 
-- Trộn đều hỗn hợp, sên trên lửa, đảo đều tay với một ít đường nâu. Vì chuối đã ngọt nên chỉ cần một ít đường là đủ, hoặc có thể không cần thêm đường vẫn được. 
+- Trộn đều hỗn hợp, sên trên lửa, đảo đều tay với một ít đường nâu. Vì chuối đã ngọt nên chỉ cần một ít đường là đủ, hoặc có thể không cần thêm đường vẫn được.
 
 - Cho nước cốt dừa vào cho sôi kỹ xong múc ra chén hoặc khuôn hình tùy thích.
 

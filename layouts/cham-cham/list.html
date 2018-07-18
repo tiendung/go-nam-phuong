@@ -14,19 +14,19 @@
 {{ if not ((len .section.Sections | eq 0) | and (len .section.Pages | eq 0)) }}
     {{ $scratch := newScratch }}
     {{ if eq .depth 1 }}
-        <h{{ .depth }}>
+        <h{{ .depth }} class="dark-green">
             {{ if not .section.Parent.IsHome }}
-            <a href="{{ .section.Parent.Permalink }}">{{ .section.Parent.Title }}</a> /
+            <a href="{{ .section.Parent.Permalink }}" class="dark-green">{{ .section.Parent.Title }}</a> /
             {{ end }}
             {{ .section.Title }}
         </h{{ .depth }}>
     {{ else }}
-        {{ printf "<a href=\"%s\">%s</a>" .section.Permalink .section.Title | $scratch.Set "title" }}
+        {{ printf "<a href=\"%s\" class=\"dark-green\">%s</a>" .section.Permalink .section.Title | $scratch.Set "title" }}
         {{ if .prefix }}
             {{ printf "%s / %s" .prefix ($scratch.Get "title") | $scratch.Set "title" }}
         {{ end }}
         {{ if not (len .section.Pages | eq 0) }}
-            <h{{ .depth }}>{{ $scratch.Get "title" | safeHTML }}</h{{ .depth }}>
+            <h{{ .depth }} class="dark-green">{{ $scratch.Get "title" | safeHTML }}</h{{ .depth }}>
         {{ end }}
     {{ end }}
 
