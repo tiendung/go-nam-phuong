@@ -14,6 +14,8 @@
 
 Dường như ai cũng thích ăn mỳ Ý ^^ Tuy nhiên khi ăn ở nhà hàng, chúng ta thường ăn quá nhiều dầu, muối và gia vị không rõ chủng loại, khiến nạp vào lượng năng lượng dư thừa và chất béo xấu. Đầu bếp Nguyên Hân đưa ra 1 phiên bản thuần Việt mà chúng ta có thể làm tại nhà, vừa đủ dinh dưỡng lại không béo tí nào.
 
+
+
 ## Nguyên liệu: 
 
 - Mì Ý, sợi lớn hay nhỏ tuỳ ý
@@ -45,6 +47,10 @@ Dường như ai cũng thích ăn mỳ Ý ^^ Tuy nhiên khi ăn ở nhà hàng, 
 - Chan nước sốt lên trên mì và rắc ngò rí trang trí. 
 
 Mì Ý sốt gấc  với những nguyên liệu đơn giản, chế biến nhanh gọn nhưng vẫn đầy đủ chất dinh dưỡng. Thích hợp với những người bận rộn. Ngon hơn khi dùng nóng.
+
+{{< figure src="https://i.imgur.com/NKKm24k.jpg" alt="mỳ ý sốt gấc" caption="
+Mì Ý sốt gấc  với những nguyên liệu đơn giản, chế biến nhanh gọn nhưng vẫn đầy đủ chất dinh dưỡng. Thích hợp với những người bận rộn. Ngon hơn khi dùng nóng." class="w-100" >}}
+
 
 ## Thông tin dinh dưỡng:
 
