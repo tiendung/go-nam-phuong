@@ -1,6 +1,7 @@
 <h{{ .depth }}>{{ .depth }}. {{ .context.Title }}</h{{ .depth }}>
 
 {{ range .context.Sections }}
+{{ .Title }}
     {{ partial "section.html" (dict "context" . "depth"  (add .depth 1)) }}
 {{ end }}
 

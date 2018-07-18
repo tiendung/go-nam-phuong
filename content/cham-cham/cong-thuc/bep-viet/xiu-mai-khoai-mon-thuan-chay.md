@@ -1,4 +1,4 @@
-{ "author": "Nguyên Hân", "categories": [ "bữa sáng" ], "cover_image": "https://i.imgur.com/5Wq8pQe.jpg", "date": "2018-07-18", "description": "Phiên bản thuần chay cho xíu mại ấm nóng", "tags": [ "thuần chay", "xíu mại", "khoai môn", "ngọt", "tự nhiên" ], "title": "Xíu mại khoai môn thuần chay" }
+{ "author": "nguyen-han", "categories": [ "bữa sáng" ], "cover_image": "https://i.imgur.com/5Wq8pQe.jpg", "date": "2018-07-18", "description": "Phiên bản thuần chay cho xíu mại ấm nóng", "tags": [ "thuần chay", "xíu mại", "khoai môn", "ngọt", "tự nhiên" ], "title": "Xíu mại khoai môn thuần chay" }
 
 
 Thời tiết lạnh ở Đà Lạt khiến mọi người thường ưa thích ăn món chi đó cay cay, nóng nóng. Tuy nhiên cũng do đông khách quá mà nhiều hàng bán bánh mì xíu mại đã thực sự giảm chất lượng. Hơn nữa, thịt và dầu mỡ rất nhiều khiến cho phiên bản truyền thống cũng gây ngấy và đầy bụng ở cấp độ không nhỏ.
@@ -12,7 +12,7 @@ Phiên bản lành mạnh hơn được Nguyên Hân sáng tạo với nguyên l
 
 - Củ sen lựa củ hơi già sẽ bùi hơn
 
-- Khoai môn 
+- Khoai môn
 
 - chuối sứ 1 trái
 
@@ -30,7 +30,7 @@ Phiên bản lành mạnh hơn được Nguyên Hân sáng tạo với nguyên l
 
 - Cho khoai môn và chuối sứ xay nhuyễn cùng với pa-rô sau đó trộn đều với củ sen đã được xay nhuyễn
 
-- Nêm 1 ít muối, tiêu và trộn đều hỗn hợp trên 
+- Nêm 1 ít muối, tiêu và trộn đều hỗn hợp trên
 
 - Vo thành từng viên tròn
 
@@ -44,6 +44,3 @@ Phiên bản lành mạnh hơn được Nguyên Hân sáng tạo với nguyên l
 {{< figure src="https://i.imgur.com/Z2I8Ukk.jpg" alt="xíu mại thuần chay" caption="Xíu mại có vị dai bùi nhờ sự kết hợp của các loại củ sen, khoai môn và chuối, không sử dụng nhiều gia vị nên món ăn có vị ngon ngọt rất lành." class="w-100" >}}
 
 Xíu mại có thể ăn với bánh mì hoặc ăn cùng hủ tíu hay cơm tùy thích.
-
-
-
