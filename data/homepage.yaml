@@ -10,15 +10,15 @@ helps:
     subtitle: Lộ trình phát triển sức khoẻ & hạnh phúc được thiết kế riêng cho bạn
     cta:
       url: /offers/
-      text: Tìm hiểu
-    image: /images/site/photo-1493689485253-f07fcbfc731b.jpg
+      text: Khai vấn
+    image: https://images.unsplash.com/photo-1494790108377-be9c29b29330?fit=crop&w=650&q=80
 
   - title: Hướng dẫn Trang bị căn bếp
     subtitle: Hướng dẫn chi tiết về thiết bị và vật liệu cần cho căn bếp nhà bạn
     cta:
       url: https://drive.google.com/file/d/1cTm9Ts0wjY04l7StKGnIzUFd4QzT8icX/view?ts=5b4ff44a
       text: Tài liệu
-    image: /images/site/photo-1478473495191-2d8dd1398896.jpg
+    image: https://images.unsplash.com/photo-1493710494541-43364cb47485?fit=crop&w=650&q=80
 
 selected_posts:
   - posts/vi-sao-toi-tro-thanh-1-health-coach.md
