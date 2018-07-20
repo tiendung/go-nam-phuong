@@ -13,12 +13,14 @@ function viNormalize(str) {
   return str;
 }
 var posts = [
-{{ range .Pages }}
+  {{ range .Site.Pages }}
+  {{ if eq .Kind "page" | and (eq .Type "posts" | or (eq .Type "cham-cham")) }}
   {
     id: "{{ .UniqueID }}",
     title: viNormalize("{{ .Title | plainify }}"),
     // desc: viNormalize("{{ with .Params.description }}{{ . | plainify }}{{ else }}{{  .Summary | plainify }}{{ end }}")
   },
+{{ end }}
 {{ end }}
 ];
 </script>
