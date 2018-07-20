@@ -7,9 +7,9 @@
 {{ else }}
 	<h3>Bài viết khác</h3>
 	{{ range (.Site.Pages | first 3) }}
-        {{ if eq .Type $page.Type | and (ne .URL "/posts/") | and (ne .Permalink $page.Permalink) }}
+        {{/* {{ if eq .Type $page.Type | and (ne .URL "/posts/") | and (ne .Permalink $page.Permalink) }} */}}
 	{{ partial "post/related.html" . }}
-	   {{ end }}
+	   {{/* {{ end }} */}}
     {{ end }}
 {{ end }}
 </session>
