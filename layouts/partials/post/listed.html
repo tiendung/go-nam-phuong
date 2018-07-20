@@ -2,12 +2,13 @@
   pr3 pr4-ns mb4 box-masonry bg-white" id="{{ .UniqueID }}">
 {{- if .Params.cover_image -}}
 <!-- need an <a> tag wraping image in-order to hover-overlay and hover-icon work! -->
-<a class="link box-masonry-image with-hover-overlay with-hover-icon" href="{{ .Permalink | relURL }}">
+<a class="db link box-masonry-image with-hover-overlay with-hover-icon br b--black-10"
+    href="{{ .Permalink | relURL }}">
 <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg' viewBox%3D'0 0 235 197'%2F%3E"
   data-src="{{ .Params.cover_image }}"
   alt="{{ .Title }}" class="w-100">
   <h3 class="f4 fw5 lh-title">{{ .Title | safeHTML }}</h3>
-  <div class="f6 fw3 gray mt0 pb1 bb b--black-10">
+  <div class="f6 fw3 gray mt0 pb1 bb bw2 b--black-10">
     <time>{{ .Date.Format "Jan 2, 2006" }}</time>
     <span class="ttl">&middot; {{ .ReadingTime }} {{ .Site.Data.settings.ui_text.minute_read }}</span>
   </div>
