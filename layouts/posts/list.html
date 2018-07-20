@@ -9,11 +9,11 @@
     class= "db f6 f5-l fw1 input-reset ba b--black-20 br0 black-80 bg-white pa2 w-100-ns mw5-ns"/>
   </session>
 
-  <h1 class="fw4 lh-title pb2">Bài viết</h1>
+  <h1 class="fw4 lh-title pb2">{{ .Title }}</h1>
 
   <!-- Ranges through content/posts/*.md -->
   <session class="grid w-100 db cf">
-    <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
+    <div class="grid-sizer w-100 w-50-ns w-50-m w-25-l"></div>
     {{ range .Site.Pages }}
     {{ if eq .Kind "page" | and (eq .Type "posts" | or (eq .Type "cham-cham")) }}
     {{ partial "post/listed.html" . }}

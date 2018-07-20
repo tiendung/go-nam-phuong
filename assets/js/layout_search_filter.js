@@ -52,7 +52,7 @@ var markOptions = {
 var options = {
   threshold: 0.25,
   distance: 999,
-  keys: ['title', 'desc'],
+  keys: ['title'],
   id: 'id'
 }
 var fuse = new Fuse(posts, options), results;

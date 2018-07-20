@@ -17,7 +17,7 @@ var posts = [
   {
     id: "{{ .UniqueID }}",
     title: viNormalize("{{ .Title | plainify }}"),
-    desc: viNormalize("{{ with .Params.description }}{{ . | plainify }}{{ else }}{{  .Summary | plainify }}{{ end }}")
+    // desc: viNormalize("{{ with .Params.description }}{{ . | plainify }}{{ else }}{{  .Summary | plainify }}{{ end }}")
   },
 {{ end }}
 ];
