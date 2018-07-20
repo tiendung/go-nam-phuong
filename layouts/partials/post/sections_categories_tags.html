@@ -3,7 +3,7 @@
 <nav class="bb b--light-gray pb1  ttu pv3">
 {{ template "breadcumb-template" .Parent }}
 {{ range $name, .Params.categories }}
-  <a class="link dim f6 f5-ns dib mr3" href="/categories/{{ lower $name | urlize }}">&#128193; {{ $name }}</a>
+  <a class="link dim f6 f5-ns dib mr3" href="/categories/{{ lower $name | urlize }}">&#128210; {{ $name }}</a>
 {{ end }}
 </nav>
 
@@ -18,6 +18,6 @@
 {{ define "breadcumb-template" }}
     {{ if not .Parent.IsHome }}
         {{ template "breadcumb-template" .Parent }}
-        <a class="link dim f6 f5-ns dib mr3" href="{{ .Permalink }}">&#128210; {{ .Title }}</a>
+        <a class="link dim f6 f5-ns dib mr3" href="{{ .Permalink }}">&#128193; {{ .Title }}</a>
     {{ end }}
 {{ end }}

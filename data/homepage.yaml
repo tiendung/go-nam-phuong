@@ -20,12 +20,6 @@ helps:
       text: Tài liệu
     image: https://images.unsplash.com/photo-1493710494541-43364cb47485?fit=crop&w=650&q=80
 
-selected_posts:
-  - posts/vi-sao-toi-tro-thanh-1-health-coach.md
-  - posts/vong-tron-cuoc-song-cong-cu-danh-gia-suc-khoe-cua-health-coach.md
-  - posts/4-yeu-to-quan-trong-voi-suc-khoe-cua-ban-hon-ca-thuc-an.md
-  - posts/tai-sao-95-phan-tram-nguoi-an-kieng-that-bai.md
-
 selected_testimonials:
   - mai-anh
   - dao-thu-hong

@@ -3,7 +3,7 @@
       "class": "bg-darken-15 bg-top",
       "cta": {
          "class": "ba border-box bw1 grow no-underline white hover-white pa2 tracked ttu",
-         "text": "Câu chuyện của tôi",
+         "text": "Chuyện của tôi",
          "url": "/about"
       },
       "image": "/images/ccms.jpg",

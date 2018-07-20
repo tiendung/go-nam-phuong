@@ -25,7 +25,7 @@
         <ul class="list pl0">
           {{ range $key, $value := $taxonomy.ByCount }}
           <li class="mt3 mb2 tracked">
-              {{if eq $taxonomyname "categories"}}&#128193;{{end}}
+              {{if eq $taxonomyname "categories"}}&#128210;{{end}}
               {{if eq $taxonomyname "tags"}}&#9750;{{end}}
               <a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}/{{ $value.Term }}">
                   {{ $value.Term }}
@@ -61,7 +61,7 @@
 
 {{ define "section-listing" }}
     {{ if not (.scratch.Get .section.URL | eq 0)}}
-        &#128210; <a href="{{ .section.Permalink }}">{{ .section.Title }} ({{ .scratch.Get .section.URL }})</a>
+        &#128193; <a href="{{ .section.Permalink }}">{{ .section.Title }} ({{ .scratch.Get .section.URL }})</a>
     {{ end }}
     {{ if not (len .section.Sections | eq 0) }}
         <ul class="list">
