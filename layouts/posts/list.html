@@ -15,7 +15,7 @@
   <session class="grid w-100 db cf">
     <div class="grid-sizer w-100 w-50-ns w-50-m w-third-l"></div>
     {{ range .Site.Pages }}
-    {{ if eq .Kind "page" | and (eq .Type "posts") }}
+    {{ if eq .Kind "page" | and (eq .Type "posts" | or (eq .Type "cham-cham")) }}
     {{ partial "post/listed.html" . }}
     {{ end }}
     {{ end }}

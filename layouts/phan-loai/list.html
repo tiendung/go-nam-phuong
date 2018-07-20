@@ -2,13 +2,21 @@
 <main class="flex flex-column items-center">
   <div class="mw7 w-100 ph3 ph4-ns">
     <h1>{{.Title}}</h1>
+
+    {{ $scratch := newScratch }}
+    {{ template "section-pages-count" (dict "section" (.Site.GetPage "section" "posts") "scratch" $scratch) }}
+    {{ template "section-pages-count" (dict "section" (.Site.GetPage "section" "cham-cham") "scratch" $scratch) }}
+    {{ $scratch.Add "/posts/" ($scratch.Get "/cham-cham/") }}
+
     <h3 class="ttu tracked">Sections</h3>
     <ul class="list pl0">
         <li class="mt3 mb2 tracked">
-            {{ template "section-listing" (.Site.GetPage "section" "posts") }}
-        </li>
-        <li class="mt3 mb2 tracked">
-            {{ template "section-listing" (.Site.GetPage "section" "cham-cham") }}
+            {{ template "section-listing" (dict "section" (.Site.GetPage "section" "posts") "scratch" $scratch) }}
+            <ul class="list">
+                <li class="mt3 mb2 tracked">
+                    {{ template "section-listing" (dict "section" (.Site.GetPage "section" "cham-cham") "scratch" $scratch) }}
+                </li>
+            </ul>
         </li>
     </ul>
 
@@ -31,15 +39,38 @@
 </main>
 {{ end }}
 
-{{ define "section-listing" }}
-    &#128210; <a href="{{ .Permalink }}">{{ .Title }} ({{ len .Pages }})</a>
-    {{ if not (len .Sections | eq 0) }}
-    <ul class="list">
-    {{ range .Sections }}
-        <li class="mt3 mb2 tracked">
-        {{ template "section-listing" . }}
-        </li>
+
+{{ define "section-pages-count" }}
+    {{ .scratch.Set .section.URL (len .section.Pages) }}
+
+    {{ $currentSection := .section }}
+    {{ $currentScratch := .scratch }}
+    {{ range (.scratch.GetSortedMapValues "sections") }}
+        {{ if .IsAncestor $currentSection }}
+            {{/* <p>{{ .Title }} > {{ $currentSection.Title }}</p> */}}
+            {{ $currentScratch.Add .URL ($currentScratch.Get $currentSection.URL) }}
+        {{ end }}
     {{ end }}
-    </ul>
+
+    {{ .scratch.SetInMap "sections" .section.URL .section }}
+    {{ range .section.Sections }}
+        {{ template "section-pages-count" (dict "section" . "scratch" $currentScratch) }}
+    {{ end }}
+{{ end }}
+
+
+{{ define "section-listing" }}
+    {{ if not (.scratch.Get .section.URL | eq 0)}}
+        &#128210; <a href="{{ .section.Permalink }}">{{ .section.Title }} ({{ .scratch.Get .section.URL }})</a>
+    {{ end }}
+    {{ if not (len .section.Sections | eq 0) }}
+        <ul class="list">
+        {{ $currentScratch := .scratch }}
+        {{ range .section.Sections }}
+            <li class="mt3 mb2 tracked">
+            {{ template "section-listing" (dict "section" . "scratch" $currentScratch) }}
+            </li>
+        {{ end }}
+        </ul>
     {{ end }}
 {{ end }}
