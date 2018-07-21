@@ -4,7 +4,7 @@
    "categories": [
        "ăn vặt"
    ],
-   "cover_image": "https://i.imgur.com/XI3NDpa.jpg",
+   "cover_image": "https://i.imgur.com/8VqbFiv.jpg",
    "date": "2018-07-21",
    "description": "Không còn lo đói hay tăng cân khi ăn vặt với vô số gợi ý ^^",
    "tags": [
