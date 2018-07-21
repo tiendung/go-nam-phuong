@@ -9,7 +9,8 @@
    "description": "Không còn lo đói hay tăng cân khi ăn vặt với vô số gợi ý ^^",
    "tags": [
             "ăn vặt", "lành mạnh", "danh sách"
-   ]
+   ],
+   title: "Tổng hợp các gợi ý ăn vặt NGON và lành mạnh nhất"
 }
 
 "Lành mạnh" đối với một số người lại đồng nghĩa với "không ngon miệng" hay hy sinh những món ăn vặt. Thực tế là, có vô số cách ăn vặt lành mạnh khiến bạn không bị tăng cân quá đà mà vẫn thoả mãn vị giác. Sau đây là danh sách bạn có thể DOWNLOAD về, dán lên tường hoặc tải về máy điện thoại.
