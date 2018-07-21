@@ -1,17 +1,29 @@
-<div class="bb bt b--light-gray">
+<div class="bt b--light-gray">
 
-<nav class="bb b--light-gray pb1  ttu pv3">
+{{ $scratch := newScratch }}
+{{ with .Params.categories }}{{ if not (len . | eq 0) }}
+    {{ $scratch.Set "showTop" true }}
+{{ end }}{{ end }}
+{{ with .Parent }}{{ if not .Parent.IsHome }}
+    {{ $scratch.Set "showTop" true }}
+{{ end }}{{ end }}
+
+{{ if $scratch.Get "showTop" }}
+<nav class="bb b--light-gray pb1 ttu pv3">
 {{ template "breadcumb-template" .Parent }}
 {{ range $name, .Params.categories }}
   <a class="link dim f6 f5-ns dib mr3" href="/categories/{{ lower $name | urlize }}">&#128210; {{ $name }}</a>
 {{ end }}
 </nav>
+{{ end }}
 
-<nav class="i pv3">
-{{ range $name, .Params.tags }}
+{{ with .Params.tags }}{{ if not (len . | eq 0) }}
+<nav class="bb b--light-gray i pv3">
+{{ range $name, . }}
   <a class="link dim f6 f5-ns dib mr3" href="/tags/{{ lower $name | urlize }}">&#9750; {{ $name }}</a>
 {{ end }}
 </nav>
+{{ end }}{{ end }}
 
 </div>
 
