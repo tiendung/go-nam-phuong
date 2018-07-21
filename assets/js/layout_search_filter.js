@@ -59,6 +59,22 @@ var fuse = new Fuse(posts, options), results;
 var items = document.getElementsByClassName("grid-item");
 var searchField = document.getElementById("search-field");
 
+function randomShow(x) {
+    x = x || 8;
+    var item, i, r = items.length;
+    for (i = 0; r > 0; i++) {
+        item = items[i];
+        if (Math.random() * r < x) {
+            item.style.display = 'block';
+            x--;
+        } else {
+            item.style.display = 'none';
+        }
+        r--;
+    }
+    msnry.layout();
+}
+
 function searching() {
   var str = viNormalize(searchField.value.trim());
   if (str.length == 0) { str = " "; }
@@ -73,6 +89,7 @@ function searching() {
     } else {
       item.style.display = 'none';
     }
+    msnry.layout();
   }
 
   var instance = new Mark(hiliteItems);
