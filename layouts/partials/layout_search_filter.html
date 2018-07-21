@@ -14,7 +14,7 @@ function viNormalize(str) {
 }
 var posts = [
   {{ range .Site.Pages }}
-  {{ if eq .Kind "page" | and (eq .Type "posts" | or (eq .Type "cham-cham")) }}
+  {{ if eq .Kind "page" | and (eq .Type "posts") }}
   {
     id: "{{ .UniqueID }}",
     title: viNormalize("{{ .Title | plainify }}"),

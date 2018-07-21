@@ -6,13 +6,13 @@
     {{ $scratch := newScratch }}
     {{ template "section-pages-count" (dict "section" (.Site.GetPage "section" "posts") "scratch" $scratch) }}
     {{ template "section-pages-count" (dict "section" (.Site.GetPage "section" "cham-cham") "scratch" $scratch) }}
-    {{ $scratch.Add "/posts/" ($scratch.Get "/cham-cham/") }}
+    {{/* {{ $scratch.Add "/posts/" ($scratch.Get "/cham-cham/") }} */}}
 
     <h3 class="ttu tracked">Sections</h3>
     <ul class="list pl0">
         <li class="mt3 mb2 tracked">
             {{ template "section-listing" (dict "section" (.Site.GetPage "section" "posts") "scratch" $scratch) }}
-            <ul class="list">
+            <ul class="list pl0">
                 <li class="mt3 mb2 tracked">
                     {{ template "section-listing" (dict "section" (.Site.GetPage "section" "cham-cham") "scratch" $scratch) }}
                 </li>
