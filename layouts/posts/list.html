@@ -48,8 +48,11 @@
     {{ if not (len .section.Pages | eq 0) }}
         {{ if len .section.Sections | lt 0 }}
         <h2>Bài viết khác</h2>
+        <div class="">
+        {{ else }}
+        <div class="bb b--black-10 mid-gray bw1 mb3">
         {{ end }}
-        <session class="grid w-100 db cf">
+        <section class="grid w-100 db cf">
             <div class="grid-sizer w-100 w-50-ns w-50-m w-25-l"></div>
             {{ if eq .depth 1 }}
                 {{ range .section.Pages }}
@@ -60,7 +63,7 @@
                     {{ partial "post/listed.html" . }}
                 {{ end }}
             {{ end }}
-        </session><!-- grid -->
+        </section><!-- grid -->
         {{ if not (eq .depth 1) | and (len .section.Pages | lt 4)  }}
         <a href="{{ .section.Permalink }}" class="f5 no-underline inline-flex items-center pa3 mb4 ba border-box grow">
           <span class="pr1">Xem thêm</span>
@@ -70,6 +73,7 @@
           </svg>
         </a>
         {{ end }}
+        </div>
     {{ end }}
 
 {{ end }}
