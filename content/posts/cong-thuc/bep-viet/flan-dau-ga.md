@@ -1,4 +1,5 @@
 {
+    "aliases": ["/cham-cham/cong-thuc/bep-viet/flan-dau-ga/"],
    "author": "nguyen-han",
    "categories": [
       "ăn vặt"
@@ -19,7 +20,7 @@ Cải kale được mệnh danh là "nữ hoàng rau cải", có màu xanh đậ
 
 {{< figure src="https://i.imgur.com/Y0IH6Yk.jpg" alt="flan kale đậu gà" caption="Một cách tập cho các bé ăn rau ^^" class="w-100" >}}
 
-## Nguyên liệu: 
+## Nguyên liệu:
 
 - Đậu gà
 
@@ -27,9 +28,9 @@ Cải kale được mệnh danh là "nữ hoàng rau cải", có màu xanh đậ
 
 - Đường mía hoặc mạch nha.
 
-## Cách làm: 
+## Cách làm:
 
-- Đậu gà ngâm nở qua đêm, xay nhuyễn vắt bã để riêng. 
+- Đậu gà ngâm nở qua đêm, xay nhuyễn vắt bã để riêng.
 
 - Bã đậu gà có thể dùng nấu cháo hoặc làm bánh. Tỷ lệ 1 chén đậu 4 chén nước kể cả nước xay rau cải.
 
@@ -50,4 +51,3 @@ Bánh flan vị cải kale ngon hơn khi để ngăn mát tủ lạnh. Đây cũ
 **Ghi chú:**
 
 (1) [6 things you don't know about kale.](https://www.huffingtonpost.com/2013/07/30/kale-facts-nutrition-info_n_3671210.html)
-

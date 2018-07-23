@@ -1,17 +1,26 @@
 // window.addEventListener('load', function() { setTimeout(function() {
 // init Masonry
-var grid = document.querySelector('.grid');
+var grids = document.querySelectorAll('.grid');
+var msnries = [];
+for (var i = 0; i < grids.length; i++) {
+    msnries[i] = new Masonry(grids[i], {
+      itemSelector: '.grid-item',
+      columnWidth: '.grid-sizer',
+      percentPosition: true
+    });
+}
 
-var msnry = new Masonry( grid, {
-  itemSelector: '.grid-item',
-  columnWidth: '.grid-sizer',
-  percentPosition: true
-});
+function msnriesLayout() {
+    for (var i = 0; i < msnries.length; i++) {
+        // can call msnry.layout() again if need to re-layout grid (i.e when grid-item deleted ... )
+        msnries[i].layout();
+    }
 
-imagesLoaded( grid ).on( 'progress', function() {
+}
+
+imagesLoaded( grids ).on( 'progress', function() {
   // layout Masonry after each image loads
-  // can call msnry.layout() again if need to re-layout grid (i.e when grid-item deleted ... )
-  msnry.layout();
+  msnriesLayout();
 });
 
 // Returns a function, that, as long as it continues to be invoked, will not
@@ -72,7 +81,8 @@ function randomShow(x) {
         }
         r--;
     }
-    msnry.layout();
+    msnriesLayout();
+
 }
 
 function searching() {
@@ -89,7 +99,7 @@ function searching() {
     } else {
       item.style.display = 'none';
     }
-    msnry.layout();
+    msnriesLayout();
   }
 
   var instance = new Mark(hiliteItems);
@@ -99,7 +109,7 @@ function searching() {
     }
   });
 
-  msnry.layout();
+  msnriesLayout();
 };
 
 window.search =  debounce(searching, 300);

@@ -1,4 +1,5 @@
 {
+    "aliases": ["/cham-cham/cong-thuc/bep-viet/com-tam-thuan-chay/"],
    "author": "nguyen-han",
    "categories": [
       "bữa chính", "bữa sáng"
@@ -40,17 +41,16 @@ Lâu lâu "chán cơm thèm phở" thì nhà mình có thể đi mua gạo tấm
 
 ## Cách làm:
 
-- Gạo tấm nấu cơm như gạo bình thường, canh nước vừa phải để cơm không bị nhão. 
+- Gạo tấm nấu cơm như gạo bình thường, canh nước vừa phải để cơm không bị nhão.
 
-- Đạm làm từ bột lúa mạch đã sấy khô, ngâm nở mềm xong khứa đều hai mặt. 
+- Đạm làm từ bột lúa mạch đã sấy khô, ngâm nở mềm xong khứa đều hai mặt.
 
-- Chiên áp chảo với ít dầu phụng trên lửa nhỏ. 
+- Chiên áp chảo với ít dầu phụng trên lửa nhỏ.
 
-- Hoà nước tương với ít đường nâu kho keo lại, trộn đều với đạm lúa mì vừa chiên giòn, rắc thêm mè nguyên hạt rang vàng. 
+- Hoà nước tương với ít đường nâu kho keo lại, trộn đều với đạm lúa mì vừa chiên giòn, rắc thêm mè nguyên hạt rang vàng.
 
 - Chuẩn bị đồ ăn kèm: Hành lá xào lên với dầu. (Có thể thay thế bằng lá ngò xào với dầu. Củ quả chua ngọt cắt miếng vừa ăn, ướp với ít đường vàng và nước mơ muối. Không có nước mơ muối có thể trộn với chanh nêm ít muối.
 
-- Nước tương chua ngọt: xay nhuyễn đường, ớt, muối xong vắt ít chanh, thêm ít nước, nếm có vị chua ngọt vừa ăn theo khẩu vị. 
+- Nước tương chua ngọt: xay nhuyễn đường, ớt, muối xong vắt ít chanh, thêm ít nước, nếm có vị chua ngọt vừa ăn theo khẩu vị.
 
 {{< figure src="https://i.imgur.com/7vf0fJd.jpg" alt="cơm tấm thuần chay" caption="Cơm tấm có thể dùng ăn bữa sáng hoặc ăn bữa chính đều thích hợp. Ngon hơn khi dùng nóng." class="w-100" >}}
- 

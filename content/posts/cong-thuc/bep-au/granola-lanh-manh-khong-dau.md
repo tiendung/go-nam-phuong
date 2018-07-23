@@ -1,9 +1,9 @@
 
 {
-    "aliases": ["/cham-cham/granola-lanh-manh-khong-dau/"],
+    "aliases": ["/cham-cham/granola-lanh-manh-khong-dau/", "/cham-cham/cong-thuc/bep-au/granola-lanh-manh-khong-dau/"],
     "author": "boo",
     "categories": [
-      
+
     ],
     "cover_image": "https://i.imgur.com/C5VCIgg.jpg",
     "header": {

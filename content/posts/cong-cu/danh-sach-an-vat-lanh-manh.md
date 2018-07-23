@@ -1,5 +1,6 @@
 
 {
+    "aliases": ["/cham-cham/cong-cu/danh-sach-an-vat-lanh-manh/"],
    "author": "boo",
    "categories": [
        "ăn vặt"

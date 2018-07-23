@@ -1,6 +1,6 @@
 
-
 {
+   "aliases": ["/cham-cham/doi-thoai-giua-nhanh-va-cham/"],
    "author": "boo",
    "categories": [
       "sống chậm"
@@ -22,11 +22,11 @@
 
 ## Mình sống nhanh và mình sống chậm
 
-Đến tận khi đã thiết lập xong kênh youtube “Chầm Chậm Mà Sống", mình vẫn không hết ngạc nhiên trước thay đổi của mình. Trong suốt 25 năm đầu đời, mình là một người nhanh mà theo phân loại của tâm lý học phương Tây là “Type A person". Mình đã tự hào khi bạn bè nhận xét: “Cậu phát triển nhanh quá!”, “Cậu nhanh như tên lửa ấy!"... Thế rồi, nhiều nhân duyên khiến mình sống chậm lại. 
+Đến tận khi đã thiết lập xong kênh youtube “Chầm Chậm Mà Sống", mình vẫn không hết ngạc nhiên trước thay đổi của mình. Trong suốt 25 năm đầu đời, mình là một người nhanh mà theo phân loại của tâm lý học phương Tây là “Type A person". Mình đã tự hào khi bạn bè nhận xét: “Cậu phát triển nhanh quá!”, “Cậu nhanh như tên lửa ấy!"... Thế rồi, nhiều nhân duyên khiến mình sống chậm lại.
 
 Câu chuyện đầy đủ về mình học cách từ từ hạ cánh xem tại >> [ĐÂY.](http://coachnamphuong.com/posts/vi-sao-toi-tro-thanh-1-health-coach/)
 
-Ở giai đoạn này, mình có thể để cho bản thân và đội ngũ cứ chầm chậm mà làm mọi thứ. Có những bạn lên Đà Lạt quay phim chỉ 3-5 ngày, mà trong suốt 2 ngày trong số đó là mình và bạn thong thả thăm thú nhà cửa, cộng đồng hay đơn thuần là đối thoại với nhau mà thôi. Chỉ riêng có 1 lần, chúng mình thử đẩy cho mọi thứ nhanh lên, thì nghiệm thu lại hiệu quả tốc độ không nhanh hơn lối làm chậm. Có video vội vã quay xong về đến nhà lại phát hiện lỗi kỹ thuật và sẽ phải làm lại. Có video xem xong sẽ thấy tiếng ồn xung quanh quá to mà lại không để ý. Tất nhiên là không phải lỗi của riêng một ai, chính mình khi vội vã sẽ bỏ qua rất nhiều chi tiết nhỏ mà quan trọng. Và mình phải làm lại. Khi làm lại, mình tiếp tục cảm nhận áp lực phải vội vã hơn nữa để “bù lại" cho “thời gian đã mất". 
+Ở giai đoạn này, mình có thể để cho bản thân và đội ngũ cứ chầm chậm mà làm mọi thứ. Có những bạn lên Đà Lạt quay phim chỉ 3-5 ngày, mà trong suốt 2 ngày trong số đó là mình và bạn thong thả thăm thú nhà cửa, cộng đồng hay đơn thuần là đối thoại với nhau mà thôi. Chỉ riêng có 1 lần, chúng mình thử đẩy cho mọi thứ nhanh lên, thì nghiệm thu lại hiệu quả tốc độ không nhanh hơn lối làm chậm. Có video vội vã quay xong về đến nhà lại phát hiện lỗi kỹ thuật và sẽ phải làm lại. Có video xem xong sẽ thấy tiếng ồn xung quanh quá to mà lại không để ý. Tất nhiên là không phải lỗi của riêng một ai, chính mình khi vội vã sẽ bỏ qua rất nhiều chi tiết nhỏ mà quan trọng. Và mình phải làm lại. Khi làm lại, mình tiếp tục cảm nhận áp lực phải vội vã hơn nữa để “bù lại" cho “thời gian đã mất".
 
 
 {{< figure src="https://i.imgur.com/k9AZn7b.jpg" alt=" nhóm quay phim chầm chậm mà sống" class="w-100" >}}
@@ -86,7 +86,7 @@ Chúng nó không nhất thiết phải phân người thắng-kẻ thua. Đáng
 
 Túm lại tất cả là do lựa chọn: tốc độ nào, đường đua nào, nghỉ giữa chặng hay cắm đầu chạy, đối thủ hay người bạn... Bạn chọn điều gì?
 
-## Đối thoại 3: Tôi thường thấy chậm hay gắn với trì trệ, không hiệu quả, chỉ-dành-cho-người-rảnh-rỗi-hay-người-nghỉ-hưu? 
+## Đối thoại 3: Tôi thường thấy chậm hay gắn với trì trệ, không hiệu quả, chỉ-dành-cho-người-rảnh-rỗi-hay-người-nghỉ-hưu?
 
 Không nhất thiết phải thế. Chậm sẽ đi kèm với hiệu quả và cả hạnh phúc khi đi kèm các yếu tố sau:
 
@@ -95,7 +95,7 @@ Không nhất thiết phải thế. Chậm sẽ đi kèm với hiệu quả và 
 - Nếu chọn chạy: đó là vì mình thực sự yêu thích việc chạy.
 
 - Bình tĩnh sáng suốt để không rẽ nhầm hướng. Chậm mà chắc!
- 
+
 - Biết sức mình mà điều chỉnh tốc độ linh hoạt để không mệt lử khi về đích.
 
 - Có sự rèn luyện thể chất thường xuyên mà không cần đợi con Thỏ nào thách đố. Không chạy thì đi bộ cũng được mà!
@@ -113,7 +113,7 @@ Mặc dù rất hiếm thấy, có người có thể sống Nhanh và Hạnh ph
 
 ## Đối thoại 5: Tôi chọn sống CHẬM. Nhưng tôi không biết bắt đầu từ đâu, và làm thế nào?
 
-Mình thực hiện kênh youtube [Chầm Chậm Mà Sống] và blog đi kèm này để giúp bạn ăn lành, sống chậm. 
+Mình thực hiện kênh youtube [Chầm Chậm Mà Sống] và blog đi kèm này để giúp bạn ăn lành, sống chậm.
 
 Từ kinh nghiệm của mình, nhiều người sống chậm lại thành công với xuất phát từ việc có thêm hiểu biết về dinh dưỡng và bắt đầu trân trọng thực phẩm tự nhiên. Đó là cách mà mình sẽ hướng dẫn sao cho rõ ràng và bạn có thể linh hoạt điều cho mình. Sau đó chúng ta sẽ tiếp tục cuộc đối thoại về việc xây dựng thói quen và điều chỉnh lối sống sao cho thư thả, linh hoạt. Cho nên để có được các hướng dẫn giảm tốc từ từ, bạn có thể:
 
@@ -131,23 +131,3 @@ Hạnh phúc gia đình không đến từ dăm ngày cùng nhau nghỉ phép �
 
 **Nếu bạn đồng ý với những nhận định này, hãy gia nhập [cộng đồng Chầm Chậm](https://www.youtube.com/channel/UCQ_cpzhq95hRIEMSRlXZ6yA/featured?view_as=public) nhé!
 Chầm chậm tạm biệt và Chầm chậm hẹn gặp lại!**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

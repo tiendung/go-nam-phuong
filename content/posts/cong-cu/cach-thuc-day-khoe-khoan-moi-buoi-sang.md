@@ -1,5 +1,6 @@
 
 {
+   "aliases": ["/cham-cham/cong-cu/cach-thuc-day-khoe-khoan-moi-buoi-sang/"],
    "author": "boo",
    "categories": [
       "Thói quen"
@@ -22,4 +23,3 @@
 Đừng quên SUBSCRIBE kênh [Chầm Chậm Mà Sống](https://www.youtube.com/channel/UCQ_cpzhq95hRIEMSRlXZ6yA/featured?view_as=public) để không bỏ lỡ những công cụ như này nhé ^^
 
 Chúc bạn sớm xây dựng được những thói quen hữu ích và thay đổi cuộc đời mình theo hướng tích cực nhất :"D
-

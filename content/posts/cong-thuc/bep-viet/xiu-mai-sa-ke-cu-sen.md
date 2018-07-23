@@ -1,5 +1,6 @@
 
 {
+    "aliases": ["/cham-cham/cong-thuc/bep-viet/xiu-mai-sa-ke-cu-sen/"],
    "author": "nguyen-han",
    "categories": [
       "bữa sáng"

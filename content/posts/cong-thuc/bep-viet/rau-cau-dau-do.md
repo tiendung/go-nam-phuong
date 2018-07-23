@@ -1,4 +1,5 @@
 {
+    "aliases": ["/cham-cham/cong-thuc/bep-viet/rau-cau-dau-do/"],
    "author": "nguyen-han",
    "categories": [
       "ăn vặt"

@@ -1,4 +1,5 @@
-{ "author": "nguyen-han", "categories": [ "bữa sáng" ], "cover_image": "https://i.imgur.com/5Wq8pQe.jpg", "date": "2018-07-18", "description": "Phiên bản thuần chay cho xíu mại ấm nóng", "tags": [ "thuần chay", "xíu mại", "khoai môn", "ngọt", "tự nhiên" ], "title": "Xíu mại khoai môn thuần chay" }
+{     "aliases": ["/cham-cham/cong-thuc/bep-viet/xiu-mai-khoai-mon-thuan-chay/"],
+"author": "nguyen-han", "categories": [ "bữa sáng" ], "cover_image": "https://i.imgur.com/5Wq8pQe.jpg", "date": "2018-07-18", "description": "Phiên bản thuần chay cho xíu mại ấm nóng", "tags": [ "thuần chay", "xíu mại", "khoai môn", "ngọt", "tự nhiên" ], "title": "Xíu mại khoai môn thuần chay" }
 
 
 Thời tiết lạnh ở Đà Lạt khiến mọi người thường ưa thích ăn món chi đó cay cay, nóng nóng. Tuy nhiên cũng do đông khách quá mà nhiều hàng bán bánh mì xíu mại đã thực sự giảm chất lượng. Hơn nữa, thịt và dầu mỡ rất nhiều khiến cho phiên bản truyền thống cũng gây ngấy và đầy bụng ở cấp độ không nhỏ.

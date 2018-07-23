@@ -1,9 +1,9 @@
 
 {
-    "aliases": ["/cham-cham/huong-dan-pha-kombucha/"],
+    "aliases": ["/cham-cham/huong-dan-pha-kombucha/", "/cham-cham/cong-thuc/bep-au/huong-dan-pha-kombucha/"],
    "author": "boo",
    "categories": [
-      
+
    ],
    "cover_image": "https://i.imgur.com/Luh1rIK.jpg",
   "header": {

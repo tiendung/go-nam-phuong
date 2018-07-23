@@ -8,21 +8,22 @@ menu:
     - Name: Giới thiệu
       Weight: 1
       URL: "/about/"
+
     - Name: Dịch vụ
       Weight: 2
       URL: "/offers/"
+
     - Name: Bài viết
-      Weight: 4
+      Weight: 3
       URL: "/posts/"
-    - Name: Chầm chậm
-      Weight: 5
-      URL: "/cham-cham/"
-    - Name: Liên hệ
-      Weight: 6
-      URL: "mailto:namphuong.cf@gmail.com"
+
     - Name: Phân loại
-      Weight: 8
+      Weight: 4
       URL: "/phan-loai/"
+
+    - Name: Liên hệ
+      Weight: 5
+      URL: "mailto:namphuong.cf@gmail.com"
 
 params:
   author: Nam Phương

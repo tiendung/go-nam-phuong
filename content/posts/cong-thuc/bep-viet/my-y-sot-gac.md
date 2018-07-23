@@ -1,4 +1,5 @@
 {
+    "aliases": ["/cham-cham/cong-thuc/bep-viet/my-y-sot-gac/"],
    "author": "nguyen-han",
    "categories": [
       "bữa chính"
@@ -16,7 +17,7 @@ Dường như ai cũng thích ăn mỳ Ý ^^ Tuy nhiên khi ăn ở nhà hàng, 
 
 
 
-## Nguyên liệu: 
+## Nguyên liệu:
 
 - Mì Ý, sợi lớn hay nhỏ tuỳ ý
 
@@ -28,23 +29,23 @@ Dường như ai cũng thích ăn mỳ Ý ^^ Tuy nhiên khi ăn ở nhà hàng, 
 
 - Hành tây tím, ngò
 
-- Muối 
+- Muối
 
-- Dầu mè. 
+- Dầu mè.
 
 ## Cách làm:
 
-- Mì luộc mềm vớt để ráo nước. 
+- Mì luộc mềm vớt để ráo nước.
 
 - Đậu Hà lan nấu truớc gần chín thì cho đậu cô ve xắt hạt lựu vào, nấu chín nêm ít muối
 
-- Cho gấc đã xay nhuyễn cùng hành tây xắt hạt lựu vào.  
+- Cho gấc đã xay nhuyễn cùng hành tây xắt hạt lựu vào.
 
 - Hoà tan một muỗng bột sắn dây với nước lạnh cho vào hỗn hợp trên khuấy đều tay, thấy nước sốt trong có độ sáng vừa phải là được.
 
 - Tắt lửa cho thêm một muỗng dầu mè trộn đều
 
-- Chan nước sốt lên trên mì và rắc ngò rí trang trí. 
+- Chan nước sốt lên trên mì và rắc ngò rí trang trí.
 
 Mì Ý sốt gấc  với những nguyên liệu đơn giản, chế biến nhanh gọn nhưng vẫn đầy đủ chất dinh dưỡng. Thích hợp với những người bận rộn. Ngon hơn khi dùng nóng.
 

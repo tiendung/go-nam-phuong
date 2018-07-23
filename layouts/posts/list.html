@@ -9,21 +9,68 @@
     class= "db f6 f5-l fw1 input-reset ba b--black-20 br0 black-80 bg-white pa2 w-100-ns mw5-ns"/>
   </session>
 
-  <h1 class="fw4 lh-title pb2">{{ .Title }}</h1>
+  {{ template "section-template" (dict "section" . "depth" 1) }}
 
-  <!-- Ranges through content/posts/*.md -->
-  <session class="grid w-100 db cf">
-    <div class="grid-sizer w-100 w-50-ns w-50-m w-25-l"></div>
-    {{ range .Site.Pages }}
-    {{/* {{ if eq .Kind "page" | and (eq .Type "posts" | or (eq .Type "cham-cham")) }} */}}
-    {{ if eq .Kind "page" | and (eq .Type "posts") }}
-    {{ partial "post/listed.html" . }}
-    {{ end }}
-    {{ end }}
-  </session><!-- grid -->
 </main>
 {{ end }}
 
 {{ define "body_bottom" }}
-{{ partial "layout_search_filter.html" .  }}
+{{ partial "posts_search_filter.html" .  }}
+{{ end }}
+
+{{ define "section-template" }}
+{{ if not ((len .section.Sections | eq 0) | and (len .section.Pages | eq 0)) }}
+
+    {{ $scratch := newScratch }}
+    {{ if eq .depth 1 }}
+        <h{{ .depth }} class="dark-green">
+            {{ if not .section.Parent.IsHome }}
+            <a href="{{ .section.Parent.Permalink }}" class="dark-green">{{ .section.Parent.Title }}</a> /
+            {{ end }}
+            {{ .section.Title }}
+        </h{{ .depth }}>
+    {{ else }}
+        {{ printf "<a href=\"%s\" class=\"dark-green\">%s</a>" .section.Permalink .section.Title | $scratch.Set "title" }}
+        {{ if .prefix }}
+            {{ printf "%s / %s" .prefix ($scratch.Get "title") | $scratch.Set "title" }}
+        {{ end }}
+        {{ if not (len .section.Pages | eq 0) }}
+            <h{{ .depth }} class="dark-green">{{ $scratch.Get "title" | safeHTML }}</h{{ .depth }}>
+        {{ end }}
+    {{ end }}
+
+
+    {{ range .section.Sections }}
+        {{ template "section-template" (dict "section" . "depth" 2 "prefix" ($scratch.Get "title") ) }}
+    {{ end }}
+
+
+    {{ if not (len .section.Pages | eq 0) }}
+        {{ if len .section.Sections | lt 0 }}
+        <h2>Bài viết khác</h2>
+        {{ end }}
+        <session class="grid w-100 db cf">
+            <div class="grid-sizer w-100 w-50-ns w-50-m w-25-l"></div>
+            {{ if eq .depth 1 }}
+                {{ range .section.Pages }}
+                    {{ partial "post/listed.html" . }}
+                {{ end }}
+            {{ else }}
+                {{ range .section.Pages | first 4 }}
+                    {{ partial "post/listed.html" . }}
+                {{ end }}
+            {{ end }}
+        </session><!-- grid -->
+        {{ if not (eq .depth 1) | and (len .section.Pages | lt 4)  }}
+        <a href="{{ .section.Permalink }}" class="f5 no-underline inline-flex items-center pa3 mb4 ba border-box grow">
+          <span class="pr1">Xem thêm</span>
+          <svg class="w1" data-icon="chevronRight" viewBox="0 0 32 32" style="fill:currentcolor">
+            <title>chevronRight icon</title>
+            <path d="M12 1 L26 16 L12 31 L8 27 L18 16 L8 5 z"></path>
+          </svg>
+        </a>
+        {{ end }}
+    {{ end }}
+
+{{ end }}
 {{ end }}

@@ -1,9 +1,9 @@
 
 {
-    "aliases": ["/cham-cham/cong-thuc-keo-scoby/"],
+    "aliases": ["/cham-cham/cong-thuc-keo-scoby/","/cham-cham/cong-thuc/bep-au/cong-thuc-keo-scoby/"],
    "author": "boo",
    "categories": [
-      
+
    ],
    "cover_image": "https://i.imgur.com/TlnoCw6.jpg",
   "header": {

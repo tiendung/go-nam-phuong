@@ -1,4 +1,5 @@
 {
+    "aliases": ["/cham-cham/cong-thuc/bep-viet/xiu-mai-thuan-chay/"],
    "author": "nguyen-han",
    "categories": [
       "bữa chính", "bữa sáng"
@@ -36,17 +37,17 @@ Tiết trời chuyển sang chút se lạnh, mưa dầm là lúc cơ thể con n
 ## Cách làm:
 
 - Đậu gà  ngâm nở qua đêm rồi xay sống
- 
-- Nấm đem rửa sạch với muối và vắt khô. 
 
-- Xào nấm với ít dầu và pa-rô, nêm muối vừa ăn. 
+- Nấm đem rửa sạch với muối và vắt khô.
 
-- Xay nhuyễn nấm trộn thêm ít bột gạo hoặc bột sắn dây, cùng với đậu gà vừa xay thêm tiêu, muối. Vì đậu sống nên có thêm 1 ít nước và trộn đều hỗn hợp vo viên hấp chín. 
+- Xào nấm với ít dầu và pa-rô, nêm muối vừa ăn.
+
+- Xay nhuyễn nấm trộn thêm ít bột gạo hoặc bột sắn dây, cùng với đậu gà vừa xay thêm tiêu, muối. Vì đậu sống nên có thêm 1 ít nước và trộn đều hỗn hợp vo viên hấp chín.
 
 {{< figure src="https://i.imgur.com/iqSVVh8.jpg" alt="bánh mì xíu mại" class="w-100" >}}
 
-- Phi thơm pa-rô với một ít dầu phụng sau đó cho ớt bột vào. Đây là hương vị đặt trưng tạo mùi và màu cho món bánh mì xíu mại. Phần sa tế này để riêng khi ăn tuỳ theo khẩu vị mỗi người có thể gia giảm. 
+- Phi thơm pa-rô với một ít dầu phụng sau đó cho ớt bột vào. Đây là hương vị đặt trưng tạo mùi và màu cho món bánh mì xíu mại. Phần sa tế này để riêng khi ăn tuỳ theo khẩu vị mỗi người có thể gia giảm.
 
-- Nước dùng nấu lấy nước ngọt từ củ quả nêm ít muối cho sa tế, xíu mại đã hấp chín vào. 
+- Nước dùng nấu lấy nước ngọt từ củ quả nêm ít muối cho sa tế, xíu mại đã hấp chín vào.
 
 {{< figure src="https://i.imgur.com/0m2tbY2.jpg" alt="bánh mì xíu mại" caption="Như món xíu mại thông thường, có thể ăn kèm với bánh mì cho bữa sáng đầy dinh dưỡng" class="w-100" >}}

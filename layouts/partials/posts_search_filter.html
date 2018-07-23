@@ -29,6 +29,6 @@ var posts = [
 {{- $js2 := resources.Get "js/imagesloaded.js" }}
 {{- $js3 := resources.Get "js/fuse.js" }}
 {{- $js4 := resources.Get "js/mark.js" }}
-{{- $js5 := resources.Get "js/layout_search_filter.js" }}
+{{- $js5 := resources.Get "js/posts_search_filter.js" }}
 {{ $script := slice $js1 $js2 $js3 $js4 $js5 | resources.Concat "search_filter.js" | minify | fingerprint }}
 <script src="{{ $script.Permalink }}"></script>

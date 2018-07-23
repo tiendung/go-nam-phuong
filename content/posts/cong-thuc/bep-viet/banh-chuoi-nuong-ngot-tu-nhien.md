@@ -1,4 +1,5 @@
 {
+    "aliases": ["/cham-cham/cong-thuc/bep-viet/banh-chuoi-nuong-ngot-tu-nhien/"],
    "author": "nguyen-han",
    "categories": [
       "ăn vặt"
