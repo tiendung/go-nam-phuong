@@ -16,7 +16,7 @@
 
 Đi kèm với video #3.Cách thức dậy khoẻ khoắn mỗi buổi sáng là bản checklist đi kèm dưới đây:
 
-{{< figure src="https://i.imgur.com/WH8fCME.png" alt="checklist thói quen" caption="Bạn có thể in ra và check vào mỗi khi hoàn thành một mục nhé" class="w-100" >}}
+{{< figure src="https://i.imgur.com/6mSa6AO.png" alt="checklist thói quen" caption="Bạn có thể in ra và check vào mỗi khi hoàn thành một mục nhé" class="w-100" >}}
 
 ĐỂ DOWNLOAD BẢN PDF CLICK VÀO >>> [ĐÂY.](https://drive.google.com/file/d/0B-s4Jd1yRM86b3JuTHZFRnZSb3plQTdDZy14QXJtQ2c4Qko0/view?usp=sharing)
 
