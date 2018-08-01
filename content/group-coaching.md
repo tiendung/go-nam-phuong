@@ -1,14 +1,13 @@
 ---
-{
-  title: "Khai vấn theo nhóm",
-  type: "static",
-  subtitle: "Tiết kiệm chi phí. Gia tăng niềm vui",
-  header: {
-    layout: "hero",
-    image: "https://images.unsplash.com/photo-1496275068113-fff8c90750d1?auto=format&fit=crop&w=1000",
-    class: "bg-darken-50 bg-darken-25-l bg-center",
-  }
-}
+title: Khai vấn theo nhóm
+type: static
+subtitle: Tiết kiệm chi phí. Gia tăng niềm vui
+header:
+  layout: hero
+  image: >-
+    https://images.unsplash.com/photo-1496275068113-fff8c90750d1?auto=format&fit=crop&w=1000
+  class: bg-darken-50 bg-darken-25-l bg-center
+published: true
 ---
   
 Bạn muốn được coach để đạt được mục tiêu sức khoẻ nhưng lại lo ngại cô đơn khi một mình phấn đấu?
@@ -56,6 +55,8 @@ Vậy hãy cân nhắc lựa chọn Khai vấn theo nhóm! – Đây là hình t
 </div>
 
 Khai vấn 1:1 có lợi thế lớn khi bạn muốn nhiều sự riêng tư và ưu tiên lớn nhất cho bản thân. Tuy nhiên, Khai vấn theo nhóm cũng có nhiều ưu điểm khi ta tận dụng sức mạnh tập thể.
+
+**Lưu ý:** Liên hệ email namphuong.cf@gmail.com để nhận cập nhật mới nhất về giá và yêu cầu điều chỉnh riêng cho mỗi nhóm.
 
 <article class="full bt bb b--black-10 mb4">
   <h2 class="lh-title f3 b pl3-m pl4-l tc">6 lợi ích của Khai vấn theo nhóm</h2>
