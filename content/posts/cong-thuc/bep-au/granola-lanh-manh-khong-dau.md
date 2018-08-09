@@ -41,9 +41,7 @@ Granola là một món hay dùng để ăn sáng hay ăn nhẹ giữa bữa, bao
 
 {{< figure src="https://i.imgur.com/g1N46ft.jpg" alt="granola nhà làm" caption="Hãy tạo ra phiên bản của riêng bạn!" class="w-100" >}}
 
-## Công thức
-
-Nguyên liệu:
+## Nguyên liệu:
 
 -3 cup (270g) Yến mạch loại rolled oats hoặc whole oats: hãy lựa loại này thay cho loại có chữ "instant" hay "quick" sẽ bổ dưỡng hơn
 
