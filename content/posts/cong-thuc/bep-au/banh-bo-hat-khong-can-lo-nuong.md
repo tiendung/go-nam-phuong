@@ -77,15 +77,15 @@ Làm nhanh, lại không cần lò và thuần chay.Rất phù hợp với bạn
 
 **Bước 7:** Trang trí bên trên bằng lá rau của bạn. Bỏ tủ lạnh trong 1-2h trước khi mang ra thưởng thức nhé !^^
 
-{{< figure src="https://i.imgur.com/twUqTTh.jpg" alt="nguyên liệu bánh bơ" class="w-100" >}}
+{{< figure src="https://i.imgur.com/twUqTTh.jpg" alt="nguyên liệu bánh bơ" caption="Bánh này thuần chay không đường, không dầu, không lò quá là lành mạnh" class="w-100" >}}
 
 
-{{< figure src="https://i.imgur.com/80pUnud.jpg" alt="nguyên liệu bánh bơ" class="w-100" >}}
+{{< figure src="https://i.imgur.com/80pUnud.jpg" alt="nguyên liệu bánh bơ" caption="Lớp bơ xay sẽ cho bạn sự béo ngậy" class="w-100" >}}
 
 
-{{< figure src="https://i.imgur.com/M21dZjv.jpg" alt="nguyên liệu bánh bơ" class="w-100" >}}
+{{< figure src="https://i.imgur.com/M21dZjv.jpg" alt="nguyên liệu bánh bơ" caption="Còn lớp vỏ bánh thì rất bùi, giòn giòn" class="w-100" >}}
 
 
-{{< figure src="https://i.imgur.com/ORsYj23.jpg" alt="nguyên liệu bánh bơ" class="w-100" >}}
+{{< figure src="https://i.imgur.com/ORsYj23.jpg" alt="nguyên liệu bánh bơ" caption="Cùng chuẩn bị món này cho người thân yêu được dịp mắt tròn mắt dẹt nhé ^^" class="w-100" >}}
 
 
