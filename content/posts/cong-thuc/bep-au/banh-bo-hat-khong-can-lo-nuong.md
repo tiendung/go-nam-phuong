@@ -7,7 +7,7 @@
     ],
     "cover_image": "https://i.imgur.com/KNWdy0Y.jpg",
     "header": {
-    "image": "https://i.imgur.com/TrOQdvp.jpg",
+    "image": "https://i.imgur.com/2Se3wA1.jpg",
     "layout": "hero",
     "navigation": "fancy",
     "class": "bg-darken-50 bg-darken-25-l bg-center"
