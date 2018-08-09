@@ -17,7 +17,7 @@
     "tags": [
             "granola", "ngũ cốc", "bữa sáng", "lành mạnh", "hạt", "yến mạch"
     ],
-    "title": "Công thức Granola lành mạnh nhất: không dầu & siêu ngon!)",
+    "title": "Công thức Granola lành mạnh nhất: không dầu & siêu ngon!",
     "published": true
 }
 
