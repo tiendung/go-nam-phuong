@@ -69,7 +69,7 @@ Thời gian nướng: 30 phút
 
 ## Cách làm
 
-Bước 1. Làm nóng lò trước ở nhiệt độ 150 độ C
+Bước 1: Làm nóng lò trước ở nhiệt độ 150 độ C
 
 Bước 2: Cắt nhỏ các loại hạt ra rồi trộn chung với các nguyên liệu khô khác
 
