@@ -59,7 +59,7 @@ Làm nhanh, lại không cần lò và thuần chay.Rất phù hợp với bạn
 
 {{< figure src="https://i.imgur.com/ULd04oD.jpg" alt="nguyên liệu bánh bơ" class="w-100" >}}
 
-**Bước 3:** Để lại 1 cup bơ, thái lát mỏng. Lượng bơ còn lại rồi xay nhuyễn cùng với 1 quả chuối, nước canh ở tốc độ cao. Có thể thêm chuối nếu muốn ăn ngọt hơn.
+**Bước 3:** Để lại 1 cup bơ, thái lát mỏng. Lượng bơ còn lại rồi xay nhuyễn cùng với 1 quả chuối ở tốc độ cao. Có thể thêm chuối nếu muốn ăn ngọt hơn.
 
 {{< figure src="https://i.imgur.com/mqBI0t1.jpg" alt="nguyên liệu bánh bơ" class="w-100" >}}
 
