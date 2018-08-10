@@ -2,7 +2,7 @@
 {
    "author": "boo",
    "categories": [
-  
+
    ],
    "cover_image": "https://i.imgur.com/uTPDlxL.jpg",
    "date": "2018-08-10",
@@ -41,32 +41,32 @@ Kimchi dưa chuột được làm bằng cách biến dưa chuột thành một 
 
 - 1 muỗng canh hạt mè
 
-## Cách làm:
+## Cách làm
 
 - Rửa dưa chuột. Làm dưa chuột trở thành túi để nhồi bằng cách cắt chúng hai lần theo chiều dọc, chừa lại khoảng 1cm ở một đầu để các miếng dưa chuột vẫn còn dính với nhau.
 
-{{< figure src="https://i.imgur.com/t6bo8iw.jpg" alt="cắt dưa chuột" class="w-100" >}
+{{< figure src="https://i.imgur.com/t6bo8iw.jpg" alt="cắt dưa chuột" class="w-100" >}}
 
-{{< figure src="https://i.imgur.com/up00cKq.jpg" alt="cắt dưa chuột" class="w-100" >}
+{{< figure src="https://i.imgur.com/up00cKq.jpg" alt="cắt dưa chuột" class="w-100" >}}
 
 - Cho dưa vào một cái tô lớn, rắc và chà xát dưa với muối bên trong và ngoài. Để dưa nghỉ trong 10 phút, sau đó lật lại để dưa thấm đều. Đảo dưa leo và tiếp tục để dưa nghỉ thêm 10 phút nữa.
 
-{{< figure src="https://i.imgur.com/axCRS5l.jpg" alt="cắt dưa chuột" class="w-100" >}
+{{< figure src="https://i.imgur.com/axCRS5l.jpg" alt="cắt dưa chuột" class="w-100" >}}
 
 - Rửa sạch dưa chuột bằng nước lạnh vài lần để loại bỏ lượng muối thừa. Xả lại và đặt dưa sang một bên.
 
 - Trộn hỗn hợp gồm hẹ, cà rốt, ớt bột, nước mắm, đường và hạt vừng trong một cái tô lớn bằng thìa gỗ.
 
-{{< figure src="https://i.imgur.com/1zpmhoX.jpg" alt="trộn hỗn hợp dưa chuột" class="w-100" >}
+{{< figure src="https://i.imgur.com/1zpmhoX.jpg" alt="trộn hỗn hợp dưa chuột" class="w-100" >}}
 
 - Nhồi sốt này vào túi dưa chuột. Nếu da bạn nhạy cảm bạn có thể đeo găng tay cao su khi làm.
 
-{{< figure src="https://i.imgur.com/tfPaQYh.jpg" alt="cắt dưa chuột" class="w-100" >}
+{{< figure src="https://i.imgur.com/tfPaQYh.jpg" alt="cắt dưa chuột" class="w-100" >}}
 
 
-{{< figure src="https://i.imgur.com/XdjHeuU.jpg" alt="cắt dưa chuột" caption="Món kimchi này có thể ăn liền như một món ăn cùng với cơm, phần kimchi thừa có thể bảo quản trong tủ lạnh" class="w-100" >}
+{{< figure src="https://i.imgur.com/XdjHeuU.jpg" alt="cắt dưa chuột" caption="Món kimchi này có thể ăn liền như một món ăn cùng với cơm, phần kimchi thừa có thể bảo quản trong tủ lạnh" class="w-100" >}}
 
-{{< figure src="https://i.imgur.com/1ZBcOxf.jpg" alt="cắt dưa chuột" caption="Nếu bạn muốn nó lên men nhiều hơn, hãy để kimchi ở nhiệt độ phòng trong một vài ngày cho đến khi nó có mùi và vị chua, sau đó cho vào tủ lạnh và dùng lạnh." class="w-100" >}
+{{< figure src="https://i.imgur.com/1ZBcOxf.jpg" alt="cắt dưa chuột" caption="Nếu bạn muốn nó lên men nhiều hơn, hãy để kimchi ở nhiệt độ phòng trong một vài ngày cho đến khi nó có mùi và vị chua, sau đó cho vào tủ lạnh và dùng lạnh." class="w-100" >}}
 
 
 ## Xem thêm video về các thực phẩm lên men khác:
