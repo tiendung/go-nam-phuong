@@ -14,7 +14,9 @@
 "title": "Checklist: Cách thức dậy khoẻ khoắn mỗi buổi sáng"
 }
 
-Đi kèm với video #3.Cách thức dậy khoẻ khoắn mỗi buổi sáng là bản checklist đi kèm dưới đây:
+{{< youtube Pa491B7q6ho >}}
+
+Đi kèm video Cách thức dậy khoẻ khoắn mỗi buổi sáng là bản checklist đi kèm dưới đây:
 
 {{< figure src="https://i.imgur.com/6mSa6AO.png" alt="checklist thói quen" caption="Bạn có thể in ra và check vào mỗi khi hoàn thành một mục nhé" class="w-100" >}}
 
