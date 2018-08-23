@@ -4,7 +4,7 @@
    "categories": [
       "sống"
    ],
-   "cover_image": "https://i.imgur.com/8RNDf66.jpg",
+   "cover_image": "https://i.imgur.com/UlbRucX.jpg",
   "header": {
     "image": "https://i.imgur.com/MAxQOWt.jpg",
     "layout": "hero",
