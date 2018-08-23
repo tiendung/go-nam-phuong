@@ -111,6 +111,6 @@ Những gì mình đang có là mơ ước của bao người khác, nhưng mìn
 
 Nhưng nếu con sống bình an thanh thản, sống vững vàng trí tuệ và biết cách giúp cha mẹ mình đúng cách, thì con đâu cần phải khổ sở biến mình thành một mẫu người "thành đạt, vững vàng" xa lạ với chính con người mình để trả hiếu cho bậc sinh thành. Hãy có trách nhiệm với chính mình, hãy học hỏi từ tâm mình, sống hiểu mình, hiểu cuộc đời, sống tự tin và trí tuệ, con sẽ đem lại hạnh phúc cho chính mình và đủ sáng suốt để giúp người thân của mình mà không phải chịu cái "gánh nặng" trách nhiệm ấy. **Làm gì với tấm lòng yêu thương và thanh thản, trí tuệ vẫn tốt hơn là làm với cái tâm nặng nề, lo lắng, hay vì "trách nhiệm, bổn phận" chứ, đúng không?** Con cần phải học cách thực hành trong cuộc sống để hiểu được mình hơn."
 
-Đọc đầy đủ bức thư ở >> ĐÂY (http://sutamphap.com/thu-thay-tro/ban-khoan-cuoc-song)
+Đọc đầy đủ bức thư ở >> [ĐÂY](http://sutamphap.com/thu-thay-tro/ban-khoan-cuoc-song)
 
 > Vu Lan không nên là một dịp để ta chạy theo những áp lực xã hội và hành động mang tính bề mặt, hay ngập trong bi luỵ. Vu Lan hay bất cứ một dịp nào khác đều là thời điểm hoàn hảo để ta tự soi xét và điều chỉnh lại mình. Khi mình là người thực sự hạnh phúc và bình an, chính sự hiện diện của mình sẽ là một món quà quý giá nhất cho bậc sinh thành. 
