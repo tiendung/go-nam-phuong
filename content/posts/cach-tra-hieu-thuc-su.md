@@ -58,10 +58,15 @@ Hiện tại, mình chỉ thấy làm tốt ở điểm dùng lời nói ca ng�
 ## 3. "Cho tròn chữ hiếu mới là đạo con"
 
 Trong văn hoá Á Đông, việc làm con trở thành "Đạo" nên chữ "Hiếu" cũng đi kèm với những động từ mang nghĩa nặng nề là từ "trả", từ "đền": người ta nói "Trả hiếu", "Đền ơn" các bậc sinh thành. Điều này thực sự tích cực nếu như người con biết sống cuộc đời mình bình an thanh thản, vững vàng trí tuệ và biết giúp đỡ cha mẹ mình đúng cách. Nhưng có mấy người con biết "đúng cách" là làm thế nào? Có ai thực sự trả đền cho "đủ công ơn cha mẹ"? Có mấy người có thể tự hào mà nói "Tôi đã hoàn thành mọi nghĩa vụ cho cha mẹ mình rồi"? Ngược lại, chúng mình thường mang cảm giác của "con nợ" với những câu nói:
+
 -  "Tôi nợ bố mẹ mình nhiều lắm mà không biết bao giờ mới đáp trả được!"
+
 -  "Tôi chưa làm được điều gì cho bố mẹ mình cả."
+
 -  "Tôi phải...[làm điều gì đó to lớn] để trả hiếu cho bố mẹ."
+
 -  "Tôi không biết phải làm sao để giúp bố mẹ mình bớt lo lắng cả."
+
 -  ...
 
 Bạn có câu nói tương tự không? Mình cũng từng nói đủ các câu trên, và tự đặt lên vai mình rất nhiều áp lực nặng nề để rồi thấy món "nợ" ấy không vơi đi chút nào. "Nước biển mênh mông không đong đầy tình mẹ, mây trời lồng lộng không phủ kín công cha?" - chúng ta làm sao có thể đong nước biển, phủ mây trời? Liệu cha mẹ có muốn chúng ta mang gánh nặng như vậy không?
