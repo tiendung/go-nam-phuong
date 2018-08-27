@@ -20,7 +20,9 @@
 "title": "Hướng dẫn pha trà kombucha cho người mới bắt đầu"
 }
 
-Kombocha là một trà lên men tự nhiên, sủi bọt có hương vị thơm lừng đang ngày càng trở nên phổ biến. So với nhiều lựa chọn bổ sung probiotic khác như mua sữa chua đóng hộp,kombucha cho gấp ít nhất x3 lần số lượng lợi khuẩn, rất dễ làm, dùng được cho cả tuần và sẽ tiết kiệm cho bạn 1 chi phí đáng kể. Lại còn không thải rác nhựa dùng 1 lần ra ngoài môi trường nữa chứ ^^
+Kombucha là một trà lên men tự nhiên, sủi bọt có hương vị thơm lừng đang ngày càng trở nên phổ biến. So với nhiều lựa chọn bổ sung probiotic khác như mua sữa chua đóng hộp,kombucha cho gấp ít nhất x3 lần số lượng lợi khuẩn, rất dễ làm, dùng được cho cả tuần và sẽ tiết kiệm cho bạn 1 chi phí đáng kể. Lại còn không thải rác nhựa dùng 1 lần ra ngoài môi trường nữa chứ ^^
+
+ {{< youtube BKf_rSKkXXI >}}
 
 ## BƯỚC 1: CẦN CÓ SCOBY
 SCOBY là viết tắt của Symbiotic Colony of Bacteria and Yeast - Cộng sinh của vi khuẩn và nấm men. Mình hay gọi là “con SCOBY" nhưng thực ra đó là tập hợp của rất nhiều vi sinh vật siêu nhỏ.
