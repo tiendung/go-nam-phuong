@@ -20,7 +20,9 @@
 "title": "Công thức làm kẹo từ Kombucha SCOBY"
 }
 
-Nếu bạn chưa biết Kombucha và SCOBY là gì, hãy tham khảo công thức tại [ĐÂY](http://coachnamphuong.com/cham-cham/huong-dan-pha-kombucha/). Bạn sẽ sớm có một mẻ trà lên men tự nhiên với hương vị hấp dẫn.
+Nếu bạn chưa biết Kombucha và SCOBY là gì, hãy tham khảo video dưới đây. Bạn sẽ sớm có một mẻ trà lên men tự nhiên với hương vị hấp dẫn.
+
+{{< youtube BKf_rSKkXXI >}}
 
 Còn nếu bạn đã có thể tự làm Kombucha thì sau 1 thời gian, bạn sẽ có nhiều SCOBY sinh sôi nảy nở. Bạn có thể đem tặng người thân bạn bè, hoặc đem các SCOBY đã già (dấu hiệu: màu nâu sậm dần) đã được sử dụng sau nhiều mẻ trà để làm kẹo.
 
