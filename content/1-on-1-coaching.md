@@ -56,14 +56,14 @@ Bạn là người được chủ động đưa ra lựa chọn của mình. Coa
       <thead>
         <tr class="triped--near-white ">
           <th class="bn fw6 tl pa1 pa2-ns bg-white ttu">Nội dung</th>
-          <th class="bn fw6 tl pa1 pa2-ns bg-white ttu">Gói 3 tháng</th>
+          <th class="bn fw6 tl pa1 pa2-ns bg-white ttu">Gói 4 tháng</th>
           <th class="bn fw6 tl pa1 pa2-ns bg-white ttu">Gói 6 tháng</th>
         </tr>
       </thead>
       <tbody class="lh-copy">
         <tr class="striped--near-white ">
           <td class="bn pa1 pa2-ns">Coaching 2 buổi / tháng, mỗi buổi 1h</td>
-          <td class="bn pa1 pa2-ns">Tổng 6 buổi</td>
+          <td class="bn pa1 pa2-ns">Tổng 8 buổi</td>
           <td class="bn pa1 pa2-ns">Tổng 12 buổi</td>
         </tr>
         <tr class="striped--near-white ">
@@ -88,12 +88,12 @@ Bạn là người được chủ động đưa ra lựa chọn của mình. Coa
         </tr>
         <tr class="striped--near-white ">
           <td class="bn pa1 pa2-ns">Nâng cấp nếu muốn</td>
-          <td class="bn pa1 pa2-ns">Thêm 3 tháng giảm 10%</td>
-          <td class="bn pa1 pa2-ns">Thêm 3-6 tháng giảm 15%</td>
+          <td class="bn pa1 pa2-ns">Không</td>
+          <td class="bn pa1 pa2-ns">Thêm 6 tháng giảm 15%</td>
         </tr>
         <tr class="striped--near-white">
           <td class="bn pa1 pa2-ns ttu b">Chi phí</td>
-          <td class="bn pa1 pa2-ns b">3,000,000 VND</td>
+          <td class="bn pa1 pa2-ns b">4,000,000 VND</td>
           <td class="bn pa1 pa2-ns b">6,000,000 VND</td>
         </tr>
       </tbody>
