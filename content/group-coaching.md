@@ -16,47 +16,11 @@ Bạn cần thêm động lực từ những người bạn có chung mục tiê
 
 Bạn chưa có đủ điều kiện tài chính cho [chương trình khai vấn / huấn luyện riêng?](/1-on-1-coaching)
 
-Vậy hãy cân nhắc lựa chọn Khai vấn theo nhóm! – Đây là hình thức khai vấn / huấn luyện chung với đầy đủ các nội dung của [khai vấn 1:1](/1-on-1-coaching) và chi phí tiết kiệm hơn cho mỗi người:
-
-<div class="">
-  <div class="overflow-auto">
-    <table class="w-100 center collapse ba b--black-10" cellspacing="0">
-      <thead>
-        <tr class="triped--near-white ">
-          <th class="bn fw6 tl pa2 pa3-ns bg-white ttu">Nhóm</th>
-          <th class="bn fw6 tl pa2 pa3-ns bg-white ttu">Gói 3 tháng</th>
-          <th class="bn fw6 tl pa2 pa3-ns bg-white ttu">Gói 6 tháng</th>
-        </tr>
-      </thead>
-      <tbody class="lh-copy">
-        <tr class="striped--near-white ">
-          <td class="bn pa2 pa3-ns">3 người</td>
-          <td class="bn pa2 pa3-ns">2,000,000 VND/người</td>
-          <td class="bn pa2 pa3-ns">4,000,000 VND/người</td>
-        </tr>
-        <tr class="striped--near-white ">
-          <td class="bn pa2 pa3-ns">4 người</td>
-          <td class="bn pa2 pa3-ns">1,500,000 VND/người</td>
-          <td class="bn pa2 pa3-ns">3,000,000 VND/người</td>
-        </tr>
-        <tr class="striped--near-white ">
-          <td class="bn pa2 pa3-ns">5 người</td>
-          <td class="bn pa2 pa3-ns">1,200,000 VND/người</td>
-          <td class="bn pa2 pa3-ns">2,400,000 VND/người</td>
-        </tr>
-        <tr class="striped--near-white ">
-          <td class="bn pa2 pa3-ns">6 người</td>
-          <td class="bn pa2 pa3-ns">1,000,000 VND/người</td>
-          <td class="bn pa2 pa3-ns">2,000,000 VND/người</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
+Vậy hãy cân nhắc lựa chọn Khai vấn theo nhóm! – Đây là hình thức khai vấn / huấn luyện chung với đầy đủ các nội dung của [khai vấn 1:1](/1-on-1-coaching) và chi phí tiết kiệm hơn cho mỗi người. Ví dụ, cùng là 6 tháng đồng hành nhưng chi phí của Coach cá nhân tổng cộng là 6 triệu VND, còn chi phí của mỗi cá nhân trong 1 nhóm là 4 triệu VND.
 
 Khai vấn 1:1 có lợi thế lớn khi bạn muốn nhiều sự riêng tư và ưu tiên lớn nhất cho bản thân. Tuy nhiên, Khai vấn theo nhóm cũng có nhiều ưu điểm khi ta tận dụng sức mạnh tập thể.
 
-**Lưu ý:** Liên hệ email namphuong.cf@gmail.com để nhận cập nhật mới nhất về giá và yêu cầu điều chỉnh riêng cho mỗi nhóm.
+** Liên hệ email namphuong.cf@gmail.com để nhận cập nhật mới nhất về giá và yêu cầu điều chỉnh riêng cho mỗi nhóm.**
 
 <article class="full bt bb b--black-10 mb4">
   <h2 class="lh-title f3 b pl3-m pl4-l tc">6 lợi ích của Khai vấn theo nhóm</h2>
