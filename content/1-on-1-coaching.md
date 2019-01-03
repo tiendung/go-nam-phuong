@@ -11,7 +11,7 @@
 }
 ---
 
-Tôi nghe rất nhiều người nói rằng: “Tôi biết là mình nên ăn lành mạnh hơn, tôi biết mình nên vận động thường xuyên hơn, tôi biết mình cần suy nghĩ tích cực hơn…”. Hầu hết chúng ta biết mình cần phải làm gì nhưng lại không thể ép bản thân làm được điều đó. Vì sao?
+Mình nghe rất nhiều người nói rằng: “Tôi biết là mình nên ăn lành mạnh hơn, tôi biết mình nên vận động thường xuyên hơn, tôi biết mình cần suy nghĩ tích cực hơn…”. Hầu hết chúng ta biết mình cần phải làm gì nhưng lại không thể ép bản thân làm được điều đó. Vì sao?
 
 {{< figure src="/images/pages/mind-barrier.jpg" >}}
 
@@ -20,15 +20,15 @@ Thông tin về các sản phẩm & dịch vụ sức khoẻ đang tràn ngập 
 Ngược lại, cũng có nhiều người cố gắng tự xây dựng thói quen tốt nhưng thất bại. Họ thường cảm thấy gượng ép, chán chường khi nghĩ đến các lựa chọn “lành mạnh”. Để rồi cảm thấy tủi hổ khi quay trở về con đường cũ.
 Hầu hết chúng ta chưa biết cách đặt mục tiêu cho hợp lý hay thậm chí không có mục tiêu!
 Nhiều rào cản tâm lý ngăn cản chúng ta hành động. Nhất là khi những gì được khuyến nghị đi ngược với trực giác hoặc niềm tin sẵn có.
-Tôi tin rằng 1 trong những nguyên nhân chính khiến ta thất bại trong việc xây dựng sức khoẻ là vì chúng ta đánh giá quá cao Thông Tin (Information), trong khi cái chúng ta cần là Chuyển hoá (Transformation).
+Mình tin rằng 1 trong những nguyên nhân chính khiến ta thất bại trong việc xây dựng sức khoẻ là vì chúng ta đánh giá quá cao Thông Tin (Information), trong khi cái chúng ta cần là Chuyển hoá (Transformation). Thông tin càng nhiều, chúng ta càng bối rối. Nhưng nếu như chúng ta quay vào bên trong, lắng nghe các tín hiệu cơ thể, lắng nghe trực giác, chúng ta sẽ dần tự nhận ra mình thực sự cần gì.
 
-### Tôi áp dụng những niềm tin cốt lõi sau:
+### Mình áp dụng những niềm tin cốt lõi sau:
 
 {{< figure src="/images/pages/core-believes.jpg"  >}}
 
-Tôi biết những điều này, vì chính tôi đã dùng thực phẩm & những liệu pháp tự nhiên để đạt được cân bằng và chữa lành thương tổn của chính mình. Điều đó không khó như bạn tưởng. Ngoài ra, với kinh nghiệm trước đây của một người chuyên huấn luyện tạo Trắc nghiệm tâm lý cho nhiều công ty, tôi có khả năng giúp bạn hiểu rõ đặc điểm tính cách của bản thân và áp dụng để xây dựng chiến lược Sức khoẻ phù hợp nhất.
+Mình tin tưởng vững chắc vào những điều này, vì mình đã-đang và sẽ luôn dùng thực phẩm & những liệu pháp tự nhiên để đạt được cân bằng và chữa lành thương tổn cho mình và người thân. Điều đó không khó như bạn tưởng.
 
-Không bao giờ quá muộn để trở thành phiên bản khoẻ mạnh, hạnh phúc nhất của chính mình. Hãy để tôi là người dẫn đường của riêng bạn.
+Không bao giờ quá muộn để trở thành phiên bản khoẻ mạnh, hạnh phúc nhất của chính mình. Hãy để mình là người đồng hành cùng bạn.
 
 ## Khai vấn 1:1
 
@@ -38,17 +38,15 @@ Dưới hình thức các buổi trò chuyện thân mật, chúng ta sẽ cùng
 * Cách mua sắm thực phẩm tự nhiên, lành mạnh, tránh bẫy của các nhà tiếp thị “mũ đen”.
 * Vượt qua các rào cản tâm lý ngăn cản bạn sống lành mạnh
 * Các biện pháp thiên nhiên khi nấu nướng, làm đẹp, trị liệu
-* Liệu trình thải độc
-* Đối phó với cơn thèm ăn, cơn nghiện (đường, sữa, thực phẩm rác…)
+* Liệu trình thải độc được cá nhân hoá
+* Chấm dứt các cơn thèm ăn, cơn nghiện (đường, sữa, thực phẩm rác…)
 * Xây dựng và duy trì thói quen tốt
-* Quản lý cảm xúc, kết nối với bản thân
-* Hiểu đặc điểm tâm lý cá nhân và Gia tăng lòng tự tin
-* Chiến lược tạo cân bằng trong cuộc sống
-* Chiến lược phát triển bản thân với sự cân bằng Thân-Tâm-Trí
+* Gia tăng lòng tự tin
+* Khám phá những thiên hướng tự nhiên và giới hạn của mình
 
 Các buổi khai vấn cách nhau 2 tuần để bạn có thời gian thử các phương pháp, gieo trồng các thói quen mới. Sau mỗi khoảng thời gian đó, chúng ta cùng xem lại để quyết định bước hành động tiếp theo hoặc những điều chỉnh cần thiết.
 
-Bạn là người được chủ động đưa ra lựa chọn của mình. Coach là người hướng dẫn, cổ vũ, đôi khi thách thức và giúp bạn bám sát mục tiêu.
+Bạn là người được chủ động đưa ra lựa chọn của mình. Coach là người đồng hành, hướng dẫn, cổ vũ, đôi khi thách thức và nhắc nhở bạn bám sát mục tiêu.
 
 <div class="mb4">
   <div class="overflow-auto">
