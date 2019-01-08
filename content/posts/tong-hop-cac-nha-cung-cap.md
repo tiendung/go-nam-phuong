@@ -90,17 +90,20 @@ Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà N�
 
 - Đồ gốm, khăn và túi nhuộm chàm tự nhiên: [Indigo workshop](https://www.facebook.com/INDIgoworkshop.goworkshop/)(Đà Lạt)
 
+- Ống hút tre/cỏ bàng, sản phẩm thủ công từ vật liệu tái chế: [Cửa hàng 3t](https://www.facebook.com/cuahang3t/)(Long An)
+
+- Rượu nấu thủ công, các mặt hàng Zerowaste: [Sạp hàng chàng Sen](https://www.facebook.com/saphangChangSen/)
+
+
 ### Trợ phương, thực phẩm chức năng
 
 - Thuốc từ 100% thảo dược [Phục Hồi Sinh Lực (Age revive)](http://phuchoisinhluc.vn/)
 
 ### Các cá nhân bán lẻ
 
-- Thực phẩm tự nhiên nhà làm (bánh phục linh, chuối sấy, muối sả...): [Nguyên Hân](https://www.facebook.com/han.nguyen.772013) (Đà Lạt, có ship đi các tỉnh)
+- Thực phẩm tự nhiên nhà làm (mứt tết, bánh phục linh, chuối sấy, muối sả...): [Nguyên Hân](https://www.facebook.com/han.nguyen.772013) (Đà Lạt, có ship đi các tỉnh)
 
 - Bánh kem, bánh quy, bánh ngọt: [Thanh Châu](https://www.facebook.com/pham.thanhchau.3)(Đà Lạt, có ship đi các tỉnh)
-
-- Thầy thuốc Đông Y bán bột nêm ngưu báng và các sản phẩm thuốc từ thiên nhiên:[Phan Diệu Linh](https://www.facebook.com/linh.phan.vs) 
 
 
 
