@@ -134,7 +134,7 @@ Tuỳ theo tình trạng sức khoẻ và nhu cầu của mình mà mỗi ngư�
 -[Thải độc kim loại nặng](https://coachnamphuong.com/posts/thai-doc-kim-loai-nang/)
 
 
-**Để có giám sát chuyên môn của Health Coach Nam Phương khi thực hiện bất kì 1 phương pháp thanh lọc nào, hãy đăng kí qua email: namphuong.cf@gmail.com,  hay đt: 01696024402.**
+**Để có giám sát chuyên môn của Health Coach Nam Phương khi thực hiện bất kì 1 phương pháp thanh lọc nào, hãy đăng kí qua email: namphuong.cf@gmail.com,  hay đt: 038.903.3318.**
 
 Nguồn tham khảo:
 1. Foodbabe.com
