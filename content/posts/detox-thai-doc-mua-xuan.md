@@ -129,7 +129,7 @@ Tuỳ theo tình trạng sức khoẻ và nhu cầu của mình mà mỗi ngư�
 **Hướng dẫn chi tiết khác**
 - [Hướng dẫn nhịn khô & nhịn ướt trong 1 ngày](/posts/thanh-loc-mot-ngay/)
 
-- [Hướng dẫn thanh lọc bằng nước ép trong 3 ngày](https://coachnamphuong.com/thai-doc-mua-xuan-register/thank-you)
+- [Menu thanh lọc trong 3 ngày](https://drive.google.com/open?id=1-PwZ1eKWQRhkJFEOqIfKetOLOHQYBq1B)
 
 -[Thải độc kim loại nặng](https://coachnamphuong.com/posts/thai-doc-kim-loai-nang/)
 
