@@ -19,6 +19,6 @@
 
 {{< figure src="https://i.imgur.com/5vfHY3d.png" alt="danh sách ăn vặt lành mạnh" class="w-100" >}}
 
-ĐỂ DOWNLOAD BẢN PDF CLICK VÀO >>> [ĐÂY](https://drive.google.com/open?id=1taVrJcLLXNScldbwXHlmomQGwEfewunF)
+ĐỂ DOWNLOAD BẢN PDF CLICK VÀO >>> [ĐÂY](https://drive.google.com/open?id=19u9iPkL7Hjq6XNEF_MAQWkfKUgXjE837)
 
 Mình sẽ cập nhật thêm nhiều nhiều món ăn vặt hấp dẫn ở blog [Chầm Chậm.](https://coachnamphuong.com/cham-cham/). Hãy cân nhắc đăng ký Newsletter nếu bạn không muốn bị bỏ lỡ nhé ^^ (Kéo xuống dưới cùng trang này và điền email là xong ^O^)
