@@ -90,11 +90,18 @@ Sau đây là một số cách thiền tập đơn giản, thích hợp cho con 
 
 <figure class="full"><img class="w-100" src="https://images.unsplash.com/photo-1461766705442-58d58276121a?fit=crop&w=1200&h=400" alt="ngồi thiền"></figure>
 
-[Hướng dẫn thiền hơi thở bởi Osho](https://www.youtube.com/watch?v=0peVQTdI3Yg)
-
 [Hướng dẫn thiền tập bởi Thích Nhất Hạnh](https://langmai.org/thien-duong/sen-bup-tung-canh-he/thien-tap-co-huong-dan/)
 
 [Bước đầu tập thiền bởi Sư Tâm Pháp](http://sutamphap.com/buoc-dau-tap-thien/)
 
+## Các chiến lược cân bằng
+Trong video dưới đây, mình bật mí các chiến lược:
+1. Sử dụng câu nhắc nhở "Ăn lành, Sống chậm"
+2. Xem xét & điều chỉnh lại động lực trong việc mình làm
+3.Nhờ cậy - Uỷ nhiệm - Tự động
+4. Huy động nguồn lực từ  tinh thần trao tặng
+5.Tìm đến những con người hạnh phúc, nơi chốn an lành
+
+{{< youtube HnbsHJHZdiM&t=1s >}}
 
 Nếu bạn thấy hữu ích, hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> để tất cả người thân của ta đều được hưởng lợi bạn nhé!
