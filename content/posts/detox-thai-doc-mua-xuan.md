@@ -21,11 +21,15 @@ Trong tiếng Anh, "Spring Clean" ("quét dọn mùa xuân") chỉ việc [quét
 
 Bạn có thể hăng hái mua sắm và thực hiện đủ các phương pháp thải độc (detox) trên mạng internet, bạn giảm được vài cân, da sáng hơn và thấy lạc quan hơn. Nhưng rồi sức khoẻ của bạn sẽ lại xuống cấp rất nhanh chóng nếu như bạn phạm phải 5 sai lầm sau:
 
-Thường xuyên sử dụng các chất có cồn, thuốc lá, chất kích thích như cà phê
-Ăn quá nhiều thực phẩm chứa đường, chất béo bão hoà (saturated fat), phụ gia công nghiệp - hai cái này thường có trong thực phẩm chế biến sẵn, fast food, dầu ăn đã hydro hoá toàn phần (hydrogenated oil) hoặc bán phần (partially hydrogenated oil)
-Ăn thực phẩm mà có sử dụng hoá chất trong quá trình nuôi trồng
-Thức khuya, gây ảnh hưởng đến chu trình làm việc của các cơ quan thải độc như gan (thường làm việc từ 11h trở đi)
-Thường xuyên tiếp xúc với các chất độc hại có thể có trong các mặt hàng thường ngày như dầu gội, chất tẩy rửa, đồ dùng nhựa, quần áo, nội thất, và ngay cả NƯỚC UỐNG lẫn KHÔNG KHÍ. Các [nhà khoa học ước tính] (https://www.beyondpesticides.org/resources/pesticide-induced-diseases-database/body-burden) một người trung bình có thể tích đến 500 loại chất độc trong cơ thể, chủ yếu ở các mô mỡ.
+- Thường xuyên sử dụng các chất có cồn, thuốc lá, chất kích thích như cà phê
+
+- Ăn quá nhiều thực phẩm chứa đường, chất béo bão hoà (saturated fat), phụ gia công nghiệp - hai cái này thường có trong thực phẩm chế biến sẵn, fast food, dầu ăn đã hydro hoá toàn phần (hydrogenated oil) hoặc bán phần (partially hydrogenated oil)
+
+- Ăn thực phẩm mà có sử dụng hoá chất trong quá trình nuôi trồng
+
+- Thức khuya, gây ảnh hưởng đến chu trình làm việc của các cơ quan thải độc như gan (thường làm việc từ 11h trở đi)
+
+- Thường xuyên tiếp xúc với các chất độc hại có thể có trong các mặt hàng thường ngày như dầu gội, chất tẩy rửa, đồ dùng nhựa, quần áo, nội thất, và ngay cả NƯỚC UỐNG lẫn KHÔNG KHÍ. Các [nhà khoa học ước tính] (https://www.beyondpesticides.org/resources/pesticide-induced-diseases-database/body-burden) một người trung bình có thể tích đến 500 loại chất độc trong cơ thể, chủ yếu ở các mô mỡ.
 
 **Thật buồn cười nếu như chúng ta cứ tìm cách thải độc mà lại không thực sự nỗ lực NGỪA ĐỘC ngay từ đầu! Điều đó giống như bạn cố công đi quét dọn 1 ngôi nhà mà ngay ngày mai chính bạn vứt rác tung toé lên nó vậy!**
 
