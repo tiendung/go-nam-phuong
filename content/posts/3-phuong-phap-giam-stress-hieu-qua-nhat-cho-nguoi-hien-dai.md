@@ -102,6 +102,6 @@ Trong video dưới đây, mình bật mí các chiến lược:
 4. Huy động nguồn lực từ  tinh thần trao tặng
 5.Tìm đến những con người hạnh phúc, nơi chốn an lành
 
-{{< youtube HnbsHJHZdiM&t=1s >}}
+{{< youtube HnbsHJHZdiM >}}
 
 Nếu bạn thấy hữu ích, hãy <a onclick="FB.ui({ method: 'feed', link: window.location.href })" class="pointer blue underline">chia sẻ</a> để tất cả người thân của ta đều được hưởng lợi bạn nhé!
