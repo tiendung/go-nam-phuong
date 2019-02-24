@@ -3,9 +3,9 @@
    "categories": [
       "dinh dưỡng cơ bản"
    ],
-   "cover_image": "https://i.imgur.com/kiMHQLp.jpg",
+   "cover_image": "https://i.imgur.com/KMt3xJk.jpg",
   "header": {
-    "image": "https://i.imgur.com/ip1A4JT.jpg",
+    "image": "https://i.imgur.com/rF9SQDX.jpg",
     "layout": "hero",
     "navigation": "fancy",
     "class": "bg-darken-50 bg-darken-25-l bg-center"
