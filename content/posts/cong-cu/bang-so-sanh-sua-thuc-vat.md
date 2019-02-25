@@ -33,3 +33,6 @@ Cuộc tranh luận về việc có nên dùng Sữa bò hay không, tiêu chu�
 [LINK DOWNLOAD](https://drive.google.com/open?id=1fy_u0LqFrZAnLMgRHFQJ5Iq2wjgsnV7A)
 
 Đừng quên chia sẻ cho 1 người bạn hay người thân cũng quan tâm chủ đề này bạn nhé ^^
+
+ {{< youtube xgDFKHT_Gxk >}}
+
