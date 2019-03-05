@@ -20,7 +20,7 @@ Bây giờ biết cách rồi sẽ thấy cần nhất là thật nhiều kiên 
 
 {{< figure src="https://i.imgur.com/Oa9u7G9.png" alt="bản hướng dẫn chăm sóc" caption="Bạn có thể in ra cho người thân cùng xem nữa nhé!" class="w-100" >}}
 
-ĐỂ DOWNLOAD BẢN PDF CLICK VÀO >>> [ĐÂY.](https://drive.google.com/open?id=1RoYw6635Hz1uFQadDkA4ilFvgqFbzii9)
+ĐỂ DOWNLOAD BẢN PDF CLICK VÀO >>> [ĐÂY.](https://drive.google.com/open?id=19dUiwU9tu7w0R2D9Rw83UjTPJhKxK4OF)
 
 Nếu không muốn bỏ lỡ các công cụ như thế này, hãy kéo xuống cuối trang điền mail vào để nhận bản tin sức khoẻ bạn nha! Và chia sẻ cho những ai đang cần.
 
