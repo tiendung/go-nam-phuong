@@ -87,12 +87,12 @@ Bạn là người được chủ động đưa ra lựa chọn của mình. Coa
         <tr class="striped--near-white ">
           <td class="bn pa1 pa2-ns">Nâng cấp nếu muốn</td>
           <td class="bn pa1 pa2-ns">Không</td>
-          <td class="bn pa1 pa2-ns">Thêm 6 tháng giảm 15%</td>
+          <td class="bn pa1 pa2-ns">Thêm 6 tháng giảm 10%</td>
         </tr>
         <tr class="striped--near-white">
           <td class="bn pa1 pa2-ns ttu b">Chi phí</td>
-          <td class="bn pa1 pa2-ns b">4,000,000 VND</td>
-          <td class="bn pa1 pa2-ns b">6,000,000 VND</td>
+          <td class="bn pa1 pa2-ns b">5,000,000 VND</td>
+          <td class="bn pa1 pa2-ns b">7,500,000 VND</td>
         </tr>
       </tbody>
     </table>
