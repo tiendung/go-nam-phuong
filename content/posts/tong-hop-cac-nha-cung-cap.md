@@ -38,7 +38,7 @@ Click vào [ĐÂY](https://coachnamphuong.com/posts/17-tips-mua-sam-cua-nguoi-ti
 - Các sản phẩm theo tiêu chí nuôi trồng thuận tự nhiên, mùa nào thức nấy: [Xanhshop.](http://xanhshop.com/)
 
 - Sản phẩm thực dưỡng (như tamari, miso, muối hầm, ngưu báng, canh dưỡng sinh...):
-[Thực dưỡng lành]( http://thucduonglanh.com/)(Hà Nội), [Bảo An](https://www.facebook.com/ThucduongBaoAn/)(Đà Nẵng), [Homefood](http://homefood.com.vn/) (Hà Nội & TPHCM), [Phương Lan](http://www.thucduongphuonglan.com/) (TPHCM)
+[Bảo An](https://www.facebook.com/ThucduongBaoAn/)(Đà Nẵng), [Homefood](http://homefood.com.vn/) (Hà Nội & TPHCM), [Phương Lan](http://www.thucduongphuonglan.com/) (TPHCM)
 
 
 ### Nông sản:
@@ -49,7 +49,6 @@ Click vào [ĐÂY](https://coachnamphuong.com/posts/17-tips-mua-sam-cua-nguoi-ti
 
 - Rau trồng thuận tự nhiên:[Vòng Lâm Viên](https://www.facebook.com/vonglamvien/)
 
-- Trái cây trồng thuận tự nhiên: [Ace's farm](https://www.facebook.com/cachmangsach/)
 
 ### Đồ khô:
 
@@ -87,8 +86,6 @@ Văn phòng giao dịch: 101 A1 Lạc Chính - Trúc Bạch - Ba Đình - Hà N�
 [+nhặt lá đá ống bơ](https://www.facebook.com/daongbo/) (nhuộm đồ nói chung)
 [+kilomet 109](https://www.facebook.com/kilomet109/) (hàng thiết kế, chất liệu tự nhiên, cách tân, sử dụng nhân công bản địa)
 [+tretre](https://www.facebook.com/tretrevietnam/)
-
-- Đồ gốm, khăn và túi nhuộm chàm tự nhiên: [Indigo workshop](https://www.facebook.com/INDIgoworkshop.goworkshop/)(Đà Lạt)
 
 - Ống hút tre/cỏ bàng, sản phẩm thủ công từ vật liệu tái chế: [Cửa hàng 3t](https://www.facebook.com/cuahang3t/)(Long An)
 
