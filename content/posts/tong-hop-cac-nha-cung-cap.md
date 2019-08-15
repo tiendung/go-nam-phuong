@@ -49,6 +49,10 @@ Click vào [ĐÂY](https://coachnamphuong.com/posts/17-tips-mua-sam-cua-nguoi-ti
 
 - Rau trồng thuận tự nhiên:[Vòng Lâm Viên](https://www.facebook.com/vonglamvien/)
 
+- Rau hữu cơ: [Happy Farm](https://www.facebook.com/happygarden.organigrow/)
+
+- Cà phê không hoá chất: Cà phê Robusta của [Bùi Farm](https://www.facebook.com/vi.suc.khoe.tot/), cà phê Arabica của [The Story coffee] (https://www.facebook.com/thestorycoffeedl/)
+
 
 ### Đồ khô:
 
