@@ -5,7 +5,7 @@
       "dinh-dưỡng-cơ-bản","ăn","nấu", "healthy101"
    ],
    "cover_image": "https://i.imgur.com/iJnkK2N.jpg",
-   "date": "2020-18-20",
+   "date": "2020-18-02",
    "published": true,
    "tags": [
       "đậu", "đậu nành", "đậu gà"
@@ -71,10 +71,11 @@ Mình thì đang dùng:
 -Đơn thuần luộc lên để ăn, hoặc trộn cùng salad
 -Khi muốn thải độc: bạn ăn cháo đậu xanh nấu cả vỏ trong 1-3 bữa  
 -1 số công thức bạn có thể tham khảo :
-+Nâú đậu xanh làm bánh, chè, xôi: https://www.youtube.com/watch?v=e65xge-_3o4
-+Đậu gà kho tiêu : http://www.bepthucduong.com/mon-an-chay-thuc-duong/rau-cu-mon-an-chay-thuc-duong/dau-ga-kho-tieu/
-+Bánh đậu xanh nướng: https://www.youtube.com/watch?v=O8TibHTJ4S8 (Trong công thức này, các bạn ăn thuần chay có thể thay bơ bằng dầu olive, và whipping cream bằng sữa dừa đặc được xay nhuyễn cùng đường và ít bột sắn nhé) +Làm sốt đậu gà hummus kiểu trung đông: https://www.youtube.com/watch?v=GbxnB53IExY
-+Cà ri đậu đơn giản: https://thehappypear.ie/recipes/easy-bean-curry/
++Nâú đậu xanh làm bánh, chè, xôi:
++Đậu gà kho tiêu : 
++Bánh đậu xanh nướng: (Trong công thức này, các bạn ăn thuần chay có thể thay bơ bằng dầu olive, và whipping cream bằng sữa dừa đặc được xay nhuyễn cùng đường và ít bột sắn nhé)
++Làm sốt đậu gà hummus kiểu trung đông
++Cà ri đậu đơn giản
 
 
 V/Một số lưu ý sức khoẻ
